@@ -1,0 +1,50 @@
+name: Daily job alerts
+
+on:
+  schedule:
+    - cron: "0 2 * * *"      # 07:00 Pakistan time, every day
+  workflow_dispatch:           # "Run workflow" button for manual runs
+    inputs:
+      lookback_days:
+        description: "One-time backfill: days to look back (e.g. 14). Leave blank for a normal run."
+        required: false
+        default: ""
+
+permissions:
+  contents: write             # lets the job save data/jobs.csv back to the repo
+
+concurrency:
+  group: alerts
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Find matching jobs and update the Sheet
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+          APPS_SCRIPT_SECRET: ${{ secrets.APPS_SCRIPT_SECRET }}
+          PROXIES: ${{ secrets.PROXIES }}
+          LOOKBACK_DAYS: ${{ inputs.lookback_days }}
+        run: python -m pipeline.run
+
+      - name: Save job history
+        if: always()
+        run: |
+          git config user.name "job-alerts-bot"
+          git config user.email "job-alerts-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Job alerts $(date -u +%F)"
+          git pull --rebase origin main || true
+          git push
