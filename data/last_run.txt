@@ -1,0 +1,91 @@
+Run at 2026-10-09 02:50 PKT (backfill 14 days)
+raw=1952  matching=179  new=179  total=179
+New by city: {'Dubai': 95, 'Lahore': 25, 'Riyadh': 20, 'Islamabad': 18, 'Karachi': 13, 'Remote': 8}
+New by role group: {'Data & BI': 59, 'Data Science': 33, 'Strategy & Ops': 25, 'RevOps': 22, 'AI Product / Applied AI': 20, 'Teaching & Faculty': 20}
+
+linkedin | Pakistan | data analyst | 25
+linkedin | Pakistan | business intelligence | 25
+linkedin | Pakistan | revenue operations | 25
+linkedin | Pakistan | sales operations | 25
+linkedin | Pakistan | AI product | 25
+linkedin | Pakistan | strategy and planning | 25
+linkedin | Pakistan | data scientist | 25
+linkedin | Pakistan | lecturer | 0
+linkedin | Pakistan | assistant professor | 12
+linkedin | Dubai, United Arab Emirates | data analyst | 25
+linkedin | Dubai, United Arab Emirates | business intelligence | 25
+linkedin | Dubai, United Arab Emirates | revenue operations | 25
+linkedin | Dubai, United Arab Emirates | sales operations | 25
+linkedin | Dubai, United Arab Emirates | AI product | 25
+linkedin | Dubai, United Arab Emirates | strategy and planning | 25
+linkedin | Dubai, United Arab Emirates | data scientist | 25
+linkedin | Dubai, United Arab Emirates | lecturer | 25
+linkedin | Dubai, United Arab Emirates | assistant professor | 25
+linkedin | Riyadh, Saudi Arabia | data analyst | 25
+linkedin | Riyadh, Saudi Arabia | business intelligence | 25
+linkedin | Riyadh, Saudi Arabia | revenue operations | 25
+linkedin | Riyadh, Saudi Arabia | sales operations | 25
+linkedin | Riyadh, Saudi Arabia | AI product | 25
+linkedin | Riyadh, Saudi Arabia | strategy and planning | 25
+linkedin | Riyadh, Saudi Arabia | data scientist | 25
+linkedin | Riyadh, Saudi Arabia | lecturer | 18
+linkedin | Riyadh, Saudi Arabia | assistant professor | 6
+indeed | Pakistan | "data analyst" OR "business intelligence" OR "BI analyst" OR | 64
+indeed | Pakistan | "revenue operations" OR revops OR "sales operations" OR "sal | 69
+indeed | Pakistan | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 75
+indeed | Pakistan | "strategy and planning" OR "business operations" OR "strateg | 58
+indeed | Pakistan | lecturer OR "assistant professor" OR "associate professor" O | 100
+indeed | Dubai | "data analyst" OR "business intelligence" OR "BI analyst" OR | 82
+indeed | Dubai | "revenue operations" OR revops OR "sales operations" OR "sal | 77
+indeed | Dubai | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 26
+indeed | Dubai | "strategy and planning" OR "business operations" OR "strateg | 90
+indeed | Dubai | lecturer OR "assistant professor" OR "associate professor" O | 55
+indeed | Riyadh | "data analyst" OR "business intelligence" OR "BI analyst" OR | 35
+indeed | Riyadh | "revenue operations" OR revops OR "sales operations" OR "sal | 5
+indeed | Riyadh | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 14
+indeed | Riyadh | "strategy and planning" OR "business operations" OR "strateg | 23
+indeed | Riyadh | lecturer OR "assistant professor" OR "associate professor" O | 10
+bayt | Dubai, UAE | data analyst | 0
+bayt | Dubai, UAE | business intelligence | 0
+bayt | Dubai, UAE | revenue operations | 0
+bayt | Dubai, UAE | sales operations | 0
+bayt | Dubai, UAE | ai product | 0
+bayt | Dubai, UAE | strategy | 0
+bayt | Dubai, UAE | data scientist | 9
+bayt | Dubai, UAE | lecturer | 0
+bayt | Riyadh, Saudi Arabia | data analyst | 0
+bayt | Riyadh, Saudi Arabia | business intelligence | 0
+bayt | Riyadh, Saudi Arabia | revenue operations | 0
+bayt | Riyadh, Saudi Arabia | sales operations | 0
+bayt | Riyadh, Saudi Arabia | ai product | 0
+bayt | Riyadh, Saudi Arabia | strategy | 0
+bayt | Riyadh, Saudi Arabia | data scientist | 1
+bayt | Riyadh, Saudi Arabia | lecturer | 0
+greenhouse | Motive | 146
+greenhouse | Careem | 16
+greenhouse | Podium | FAILED: sequence item 0: expected str instance, NoneType found
+greenhouse | Joblogic | 30
+greenhouse | Nysonian | 35
+greenhouse | Vectara | 3
+greenhouse | Deliveroo | 198
+greenhouse | OKX | 343
+greenhouse | Cloudflare | 425
+greenhouse | HALA | 8
+greenhouse | Cobblestone Energy | 2
+lever | Smart Working | 27
+lever | Flow | 39
+lever | Lalamove | 181
+lever | Kpler | 89
+lever | Contentsquare | 24
+lever | Yassir | 156
+workable | Devsinc | 36
+workable | Jazz | 37
+workable | 9D Technologies | 13
+workable | Bayut | dubizzle | 42
+workable | Whiteshield | 9
+workable | Eram Talent | 1246
+workable | Jeeny | 11
+workable | Qiddiya Investment Company | 271
+workable | Zeal Group | 88
+remoteok | open to Pakistan/Gulf/worldwide | 2
+weworkremotely | open to Pakistan/Gulf/worldwide | 87
