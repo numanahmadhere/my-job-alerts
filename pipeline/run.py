@@ -176,8 +176,8 @@ def career_pages():
         try:
             data = _get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs") or {}
             got = [dict(source="greenhouse", title=j.get("title"), company=j.get("company_name") or name,
-                        location=" | ".join([(j.get("location") or {}).get("name", "")] +
-                                            [o.get("name", "") for o in j.get("offices") or []]),
+                        location=" | ".join(str(x) for x in [(j.get("location") or {}).get("name")] +
+                                            [o.get("name") for o in j.get("offices") or []] if x),
                         job_url=j.get("absolute_url"), date_posted=_date(j.get("first_published") or j.get("updated_at")))
                    for j in data.get("jobs", [])]
             rows += got
@@ -191,7 +191,7 @@ def career_pages():
             for j in data:
                 c = j.get("categories") or {}
                 got.append(dict(source="lever", title=j.get("text"), company=name,
-                                location=" | ".join([c.get("location") or ""] + list(c.get("allLocations") or [])),
+                                location=" | ".join(str(x) for x in [c.get("location")] + list(c.get("allLocations") or []) if x),
                                 job_url=j.get("hostedUrl"), date_posted=_date(j.get("createdAt")),
                                 is_remote=j.get("workplaceType") == "remote"))
             rows += got
