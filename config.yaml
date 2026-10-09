@@ -9,8 +9,8 @@ cities:
   Lahore: ['lahore']
   Islamabad: ['islamabad', 'rawalpindi']
   Karachi: ['karachi']
-  Dubai: ['dubai']
-  Riyadh: ['riyadh']
+  Dubai: ['dubai', 'دبي']
+  Riyadh: ['riyadh', 'الرياض']           # Saudi Indeed often shows locations in Arabic
 
 # Remote jobs: kept when the location is open to these places (or says only "Remote").
 # Remote jobs limited to other countries (e.g. "United States - Remote") are dropped.
@@ -41,8 +41,9 @@ exclude_title: '\b(intern|internship|trainee|junior|jr\.?|fresh(er)?|graduate pr
 # Searches
 sites:
   linkedin:
-    results_per_query: 25        # LinkedIn blocks heavy use; keep small
-    locations: ["Pakistan", "Dubai, United Arab Emirates", "Riyadh, Saudi Arabia"]
+    results_per_query: 50        # raised from 25 (most searches hit the cap); lower again if LinkedIn blocks
+    locations: ["Lahore, Pakistan", "Karachi, Pakistan", "Islamabad, Pakistan",
+                "Dubai, United Arab Emirates", "Riyadh, Saudi Arabia"]
     queries:
       - "data analyst"
       - "business intelligence"
@@ -53,6 +54,8 @@ sites:
       - "data scientist"
       - "lecturer"
       - "assistant professor"
+      - "analytics manager"
+      - "power bi"
   indeed:
     results_per_query: 100
     # country_indeed -> location searched in that country
@@ -66,6 +69,8 @@ sites:
       - '"AI product" OR "AI specialist" OR "AI consultant" OR "AI solutions" OR "applied AI" OR "AI implementation"'
       - '"strategy and planning" OR "business operations" OR "strategy analyst" OR "strategy manager" OR "data scientist"'
       - 'lecturer OR "assistant professor" OR "associate professor" OR faculty OR instructor OR "AI trainer" OR "data trainer"'
+      - '"BI developer" OR "business analyst" OR "insights manager" OR "insights analyst" OR "head of data" OR "analytics lead" OR "reporting analyst"'
+      - 'salesforce OR "CRM manager" OR "commercial operations" OR "GTM operations" OR "strategic planning" OR "corporate planning"'
   bayt:
     results_per_query: 50
     locations: ["Dubai, UAE", "Riyadh, Saudi Arabia"]

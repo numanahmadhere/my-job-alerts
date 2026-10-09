@@ -92,6 +92,13 @@ def job_id(company, title, city):
     return hashlib.sha1(f"{norm(company)}|{norm(title)}|{city}".encode()).hexdigest()[:12]
 
 
+def fix_url(url):
+    """Indeed's country sites (e.g. ae.indeed.com) return 404 on /viewjob links; the same job ID
+    works on www.indeed.com. Pakistan links (pk.indeed.com) work and are left as they are."""
+    u = str(url or "")
+    return re.sub(r"^https?://(?!pk\.)[a-z]{2}\.indeed\.com/", "https://www.indeed.com/", u)
+
+
 # ---------------------------------------------------------------- sources
 def lookback_days():
     v = os.environ.get("LOOKBACK_DAYS", "").strip()
@@ -130,7 +137,7 @@ def jobspy_searches(backfill):
                              fetch_description=CONFIG["fetch_description"], verbose=0, **kw)
             for r in df.to_dict("records"):
                 rows.append(dict(source=site, title=r.get("title"), company=r.get("company"),
-                                 location=r.get("location"), job_url=r.get("job_url"),
+                                 location=r.get("location"), job_url=fix_url(r.get("job_url")),
                                  date_posted=r.get("date_posted"), is_remote=bool(r.get("is_remote") is True)))
             log.append(f"{site} | {kw['location']} | {q[:60]} | {len(df)}")
         except Exception as e:
@@ -289,6 +296,9 @@ def main():
         if "is_remote" not in raw:
             raw["is_remote"] = False
         raw["city"] = [place(l, r is True) for l, r in zip(raw["location"], raw["is_remote"])]
+        dropped = raw[raw["role_group"].notna() & raw["city"].isna()]
+        log.append("Matching titles dropped for location (top 15): "
+                   + json.dumps(dropped["location"].astype(str).value_counts().head(15).to_dict(), ensure_ascii=False))
         m = raw[raw["role_group"].notna() & raw["city"].notna() & (raw["job_url"].astype(str) != "")
                 & (raw["company"] != "")].copy()
         m["level"] = m["title"].map(level)
@@ -298,6 +308,8 @@ def main():
         fresh = m.drop_duplicates("job_url").drop_duplicates("job_id")
 
     hist = pd.read_csv(DATA, dtype=str, keep_default_na=False) if DATA.exists() else pd.DataFrame(columns=COLUMNS)
+    if len(hist):
+        hist["job_url"] = hist["job_url"].map(fix_url)
     t = today.isoformat()
     win = (today - timedelta(days=CONFIG["repost_window_days"])).isoformat()
     recent = hist[hist["last_seen"] >= win]
