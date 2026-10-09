@@ -10,6 +10,7 @@ import json
 import os
 import re
 import time
+import unicodedata
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -52,8 +53,14 @@ def role_group(title):
     return None
 
 
+def _plain(text):
+    """Lowercase and drop accents, so LinkedIn's "Karāchi" / "Islāmābād" match "karachi" / "islamabad"."""
+    t = unicodedata.normalize("NFKD", str(text or ""))
+    return "".join(ch for ch in t if not unicodedata.combining(ch)).lower()
+
+
 def city_of(location):
-    loc = str(location or "").lower()
+    loc = _plain(location)
     for name, keys in CITIES.items():
         if any(k in loc for k in keys):
             return name
