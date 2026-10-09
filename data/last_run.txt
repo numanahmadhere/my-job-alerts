@@ -1,7 +1,7 @@
-Run at 2026-10-09 14:11 PKT (daily)
-raw=2080  matching=77  new=14  total=206
-New by city: {'Lahore': 3, 'Islamabad': 3, 'Dubai': 3, 'Karachi': 3, 'Riyadh': 2}
-New by role group: {'Data & BI': 8, 'Teaching & Faculty': 2, 'Strategy & Ops': 2, 'AI Product / Applied AI': 1, 'RevOps': 1}
+Run at 2026-10-09 14:34 PKT (daily)
+raw=2081  matching=84  new=7  total=213
+New by city: {'Dubai': 4, 'Karachi': 2, 'Islamabad': 1}
+New by role group: {'Data & BI': 3, 'RevOps': 2, 'Strategy & Ops': 1, 'Data Science': 1}
 
 linkedin | Lahore, Pakistan | data analyst | 38
 linkedin | Lahore, Pakistan | business intelligence | 22
@@ -37,13 +37,13 @@ linkedin | Islamabad, Pakistan | assistant professor | 4
 linkedin | Islamabad, Pakistan | analytics manager | 10
 linkedin | Islamabad, Pakistan | power bi | 50
 linkedin | Dubai, United Arab Emirates | data analyst | 50
-linkedin | Dubai, United Arab Emirates | business intelligence | 39
+linkedin | Dubai, United Arab Emirates | business intelligence | 50
 linkedin | Dubai, United Arab Emirates | revenue operations | 50
 linkedin | Dubai, United Arab Emirates | sales operations | 50
 linkedin | Dubai, United Arab Emirates | AI product | 50
 linkedin | Dubai, United Arab Emirates | strategy and planning | 50
-linkedin | Dubai, United Arab Emirates | data scientist | 49
-linkedin | Dubai, United Arab Emirates | lecturer | 42
+linkedin | Dubai, United Arab Emirates | data scientist | 50
+linkedin | Dubai, United Arab Emirates | lecturer | 41
 linkedin | Dubai, United Arab Emirates | assistant professor | 15
 linkedin | Dubai, United Arab Emirates | analytics manager | 50
 linkedin | Dubai, United Arab Emirates | power bi | 50
@@ -62,17 +62,17 @@ indeed | Pakistan | "data analyst" OR "business intelligence" OR "BI analyst" OR
 indeed | Pakistan | "revenue operations" OR revops OR "sales operations" OR "sal | 15
 indeed | Pakistan | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 16
 indeed | Pakistan | "strategy and planning" OR "business operations" OR "strateg | 15
-indeed | Pakistan | lecturer OR "assistant professor" OR "associate professor" O | 17
+indeed | Pakistan | lecturer OR "assistant professor" OR "associate professor" O | 15
 indeed | Pakistan | "BI developer" OR "business analyst" OR "insights manager" O | 12
-indeed | Pakistan | salesforce OR "CRM manager" OR "commercial operations" OR "G | 25
+indeed | Pakistan | salesforce OR "CRM manager" OR "commercial operations" OR "G | 24
 indeed | Dubai | "data analyst" OR "business intelligence" OR "BI analyst" OR | 18
-indeed | Dubai | "revenue operations" OR revops OR "sales operations" OR "sal | 15
+indeed | Dubai | "revenue operations" OR revops OR "sales operations" OR "sal | 16
 indeed | Dubai | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 6
-indeed | Dubai | "strategy and planning" OR "business operations" OR "strateg | 23
-indeed | Dubai | lecturer OR "assistant professor" OR "associate professor" O | 13
+indeed | Dubai | "strategy and planning" OR "business operations" OR "strateg | 24
+indeed | Dubai | lecturer OR "assistant professor" OR "associate professor" O | 12
 indeed | Dubai | "BI developer" OR "business analyst" OR "insights manager" O | 1
 indeed | Dubai | salesforce OR "CRM manager" OR "commercial operations" OR "G | 14
-indeed | Riyadh | "data analyst" OR "business intelligence" OR "BI analyst" OR | 8
+indeed | Riyadh | "data analyst" OR "business intelligence" OR "BI analyst" OR | 7
 indeed | Riyadh | "revenue operations" OR revops OR "sales operations" OR "sal | 2
 indeed | Riyadh | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 2
 indeed | Riyadh | "strategy and planning" OR "business operations" OR "strateg | 6
@@ -81,7 +81,7 @@ indeed | Riyadh | "BI developer" OR "business analyst" OR "insights manager" O |
 indeed | Riyadh | salesforce OR "CRM manager" OR "commercial operations" OR "G | 5
 bayt | Dubai, UAE | data analyst | 0
 bayt | Dubai, UAE | business intelligence | 0
-bayt | Dubai, UAE | revenue operations | 8
+bayt | Dubai, UAE | revenue operations | 0
 bayt | Dubai, UAE | sales operations | 0
 bayt | Dubai, UAE | ai product | 0
 bayt | Dubai, UAE | strategy | 0
@@ -90,12 +90,12 @@ bayt | Dubai, UAE | lecturer | 0
 bayt | Riyadh, Saudi Arabia | data analyst | 0
 bayt | Riyadh, Saudi Arabia | business intelligence | 0
 bayt | Riyadh, Saudi Arabia | revenue operations | 0
-bayt | Riyadh, Saudi Arabia | sales operations | 0
+bayt | Riyadh, Saudi Arabia | sales operations | 1
 bayt | Riyadh, Saudi Arabia | ai product | 0
 bayt | Riyadh, Saudi Arabia | strategy | 0
 bayt | Riyadh, Saudi Arabia | data scientist | 0
 bayt | Riyadh, Saudi Arabia | lecturer | 0
-greenhouse | Motive | 145
+greenhouse | Motive | 146
 greenhouse | Careem | 17
 greenhouse | Podium | 58
 greenhouse | Joblogic | 30
@@ -103,14 +103,14 @@ greenhouse | Nysonian | 35
 greenhouse | Vectara | 3
 greenhouse | Deliveroo | 196
 greenhouse | OKX | 346
-greenhouse | Cloudflare | 421
+greenhouse | Cloudflare | 420
 greenhouse | HALA | 8
 greenhouse | Cobblestone Energy | 2
 lever | Smart Working | 25
 lever | Flow | 39
 lever | Lalamove | 181
 lever | Kpler | 89
-lever | Contentsquare | 23
+lever | Contentsquare | 22
 lever | Yassir | 156
 workable | Devsinc | 36
 workable | Jazz | 37
@@ -123,4 +123,4 @@ workable | Qiddiya Investment Company | 271
 workable | Zeal Group | 88
 remoteok | open to Pakistan/Gulf/worldwide | 2
 weworkremotely | open to Pakistan/Gulf/worldwide | 87
-Matching titles dropped for location (top 15): {"Karāchi, Sindh, Pakistan": 8, "Sharjah, Sharjah Emirate, United Arab Emirates": 6, "Islāmābād, Pakistan": 5, "Pakistan": 5, "Gujranwala, PPB, Pakistan": 1, "United States - Remote": 1, "Milan, Italy": 1, "Thuwal, Makkah Province, Saudi Arabia | Thuwal, Makkah Province, Saudi Arabia": 1}
+Matching titles dropped for location (top 15): {"Sharjah, Sharjah Emirate, United Arab Emirates": 6, "Pakistan": 5, "Gujranwala, PPB, Pakistan": 1, "United States - Remote": 1, "Milan, Italy": 1, "Thuwal, Makkah Province, Saudi Arabia | Thuwal, Makkah Province, Saudi Arabia": 1}
