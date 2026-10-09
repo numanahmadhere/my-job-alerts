@@ -1,40 +1,40 @@
-Run at 2026-10-09 14:34 PKT (daily)
-raw=2081  matching=84  new=7  total=213
-New by city: {'Dubai': 4, 'Karachi': 2, 'Islamabad': 1}
-New by role group: {'Data & BI': 3, 'RevOps': 2, 'Strategy & Ops': 1, 'Data Science': 1}
+Run at 2026-10-09 20:05 PKT (daily)
+raw=5733  matching=86  new=23  total=236
+New by city: {'Dubai': 12, 'Islamabad': 3, 'Remote': 3, 'Lahore': 2, 'Riyadh': 2, 'Karachi': 1}
+New by role group: {'Data & BI': 11, 'AI Product / Applied AI': 3, 'Strategy & Ops': 3, 'Data Science': 3, 'Teaching & Faculty': 2, 'RevOps': 1}
 
-linkedin | Lahore, Pakistan | data analyst | 38
-linkedin | Lahore, Pakistan | business intelligence | 22
-linkedin | Lahore, Pakistan | revenue operations | 10
-linkedin | Lahore, Pakistan | sales operations | 49
+linkedin | Lahore, Pakistan | data analyst | 48
+linkedin | Lahore, Pakistan | business intelligence | 26
+linkedin | Lahore, Pakistan | revenue operations | 15
+linkedin | Lahore, Pakistan | sales operations | 50
 linkedin | Lahore, Pakistan | AI product | 13
-linkedin | Lahore, Pakistan | strategy and planning | 48
-linkedin | Lahore, Pakistan | data scientist | 18
+linkedin | Lahore, Pakistan | strategy and planning | 50
+linkedin | Lahore, Pakistan | data scientist | 21
 linkedin | Lahore, Pakistan | lecturer | 6
 linkedin | Lahore, Pakistan | assistant professor | 2
 linkedin | Lahore, Pakistan | analytics manager | 15
 linkedin | Lahore, Pakistan | power bi | 50
-linkedin | Karachi, Pakistan | data analyst | 33
-linkedin | Karachi, Pakistan | business intelligence | 20
-linkedin | Karachi, Pakistan | revenue operations | 14
-linkedin | Karachi, Pakistan | sales operations | 50
-linkedin | Karachi, Pakistan | AI product | 5
+linkedin | Karachi, Pakistan | data analyst | 31
+linkedin | Karachi, Pakistan | business intelligence | 17
+linkedin | Karachi, Pakistan | revenue operations | 15
+linkedin | Karachi, Pakistan | sales operations | 47
+linkedin | Karachi, Pakistan | AI product | 9
 linkedin | Karachi, Pakistan | strategy and planning | 50
-linkedin | Karachi, Pakistan | data scientist | 8
+linkedin | Karachi, Pakistan | data scientist | 9
 linkedin | Karachi, Pakistan | lecturer | 3
 linkedin | Karachi, Pakistan | assistant professor | 0
-linkedin | Karachi, Pakistan | analytics manager | 23
+linkedin | Karachi, Pakistan | analytics manager | 20
 linkedin | Karachi, Pakistan | power bi | 50
-linkedin | Islamabad, Pakistan | data analyst | 25
-linkedin | Islamabad, Pakistan | business intelligence | 10
-linkedin | Islamabad, Pakistan | revenue operations | 9
-linkedin | Islamabad, Pakistan | sales operations | 33
-linkedin | Islamabad, Pakistan | AI product | 11
-linkedin | Islamabad, Pakistan | strategy and planning | 42
-linkedin | Islamabad, Pakistan | data scientist | 15
-linkedin | Islamabad, Pakistan | lecturer | 6
-linkedin | Islamabad, Pakistan | assistant professor | 4
-linkedin | Islamabad, Pakistan | analytics manager | 10
+linkedin | Islamabad, Pakistan | data analyst | 28
+linkedin | Islamabad, Pakistan | business intelligence | 14
+linkedin | Islamabad, Pakistan | revenue operations | 11
+linkedin | Islamabad, Pakistan | sales operations | 25
+linkedin | Islamabad, Pakistan | AI product | 12
+linkedin | Islamabad, Pakistan | strategy and planning | 47
+linkedin | Islamabad, Pakistan | data scientist | 16
+linkedin | Islamabad, Pakistan | lecturer | 7
+linkedin | Islamabad, Pakistan | assistant professor | 5
+linkedin | Islamabad, Pakistan | analytics manager | 11
 linkedin | Islamabad, Pakistan | power bi | 50
 linkedin | Dubai, United Arab Emirates | data analyst | 50
 linkedin | Dubai, United Arab Emirates | business intelligence | 50
@@ -44,41 +44,41 @@ linkedin | Dubai, United Arab Emirates | AI product | 50
 linkedin | Dubai, United Arab Emirates | strategy and planning | 50
 linkedin | Dubai, United Arab Emirates | data scientist | 50
 linkedin | Dubai, United Arab Emirates | lecturer | 41
-linkedin | Dubai, United Arab Emirates | assistant professor | 15
+linkedin | Dubai, United Arab Emirates | assistant professor | 17
 linkedin | Dubai, United Arab Emirates | analytics manager | 50
 linkedin | Dubai, United Arab Emirates | power bi | 50
 linkedin | Riyadh, Saudi Arabia | data analyst | 50
-linkedin | Riyadh, Saudi Arabia | business intelligence | 50
-linkedin | Riyadh, Saudi Arabia | revenue operations | 50
+linkedin | Riyadh, Saudi Arabia | business intelligence | 32
+linkedin | Riyadh, Saudi Arabia | revenue operations | 27
 linkedin | Riyadh, Saudi Arabia | sales operations | 50
-linkedin | Riyadh, Saudi Arabia | AI product | 18
+linkedin | Riyadh, Saudi Arabia | AI product | 16
 linkedin | Riyadh, Saudi Arabia | strategy and planning | 50
-linkedin | Riyadh, Saudi Arabia | data scientist | 22
+linkedin | Riyadh, Saudi Arabia | data scientist | 17
 linkedin | Riyadh, Saudi Arabia | lecturer | 2
 linkedin | Riyadh, Saudi Arabia | assistant professor | 1
-linkedin | Riyadh, Saudi Arabia | analytics manager | 50
+linkedin | Riyadh, Saudi Arabia | analytics manager | 30
 linkedin | Riyadh, Saudi Arabia | power bi | 50
-indeed | Pakistan | "data analyst" OR "business intelligence" OR "BI analyst" OR | 11
+indeed | Pakistan | "data analyst" OR "business intelligence" OR "BI analyst" OR | 12
 indeed | Pakistan | "revenue operations" OR revops OR "sales operations" OR "sal | 15
-indeed | Pakistan | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 16
-indeed | Pakistan | "strategy and planning" OR "business operations" OR "strateg | 15
-indeed | Pakistan | lecturer OR "assistant professor" OR "associate professor" O | 15
-indeed | Pakistan | "BI developer" OR "business analyst" OR "insights manager" O | 12
-indeed | Pakistan | salesforce OR "CRM manager" OR "commercial operations" OR "G | 24
-indeed | Dubai | "data analyst" OR "business intelligence" OR "BI analyst" OR | 18
-indeed | Dubai | "revenue operations" OR revops OR "sales operations" OR "sal | 16
+indeed | Pakistan | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 14
+indeed | Pakistan | "strategy and planning" OR "business operations" OR "strateg | 13
+indeed | Pakistan | lecturer OR "assistant professor" OR "associate professor" O | 18
+indeed | Pakistan | "BI developer" OR "business analyst" OR "insights manager" O | 10
+indeed | Pakistan | salesforce OR "CRM manager" OR "commercial operations" OR "G | 21
+indeed | Dubai | "data analyst" OR "business intelligence" OR "BI analyst" OR | 12
+indeed | Dubai | "revenue operations" OR revops OR "sales operations" OR "sal | 12
 indeed | Dubai | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 6
-indeed | Dubai | "strategy and planning" OR "business operations" OR "strateg | 24
-indeed | Dubai | lecturer OR "assistant professor" OR "associate professor" O | 12
-indeed | Dubai | "BI developer" OR "business analyst" OR "insights manager" O | 1
-indeed | Dubai | salesforce OR "CRM manager" OR "commercial operations" OR "G | 14
-indeed | Riyadh | "data analyst" OR "business intelligence" OR "BI analyst" OR | 7
+indeed | Dubai | "strategy and planning" OR "business operations" OR "strateg | 21
+indeed | Dubai | lecturer OR "assistant professor" OR "associate professor" O | 13
+indeed | Dubai | "BI developer" OR "business analyst" OR "insights manager" O | 2
+indeed | Dubai | salesforce OR "CRM manager" OR "commercial operations" OR "G | 12
+indeed | Riyadh | "data analyst" OR "business intelligence" OR "BI analyst" OR | 9
 indeed | Riyadh | "revenue operations" OR revops OR "sales operations" OR "sal | 2
 indeed | Riyadh | "AI product" OR "AI specialist" OR "AI consultant" OR "AI so | 2
-indeed | Riyadh | "strategy and planning" OR "business operations" OR "strateg | 6
+indeed | Riyadh | "strategy and planning" OR "business operations" OR "strateg | 5
 indeed | Riyadh | lecturer OR "assistant professor" OR "associate professor" O | 2
 indeed | Riyadh | "BI developer" OR "business analyst" OR "insights manager" O | 1
-indeed | Riyadh | salesforce OR "CRM manager" OR "commercial operations" OR "G | 5
+indeed | Riyadh | salesforce OR "CRM manager" OR "commercial operations" OR "G | 6
 bayt | Dubai, UAE | data analyst | 0
 bayt | Dubai, UAE | business intelligence | 0
 bayt | Dubai, UAE | revenue operations | 0
@@ -87,40 +87,30 @@ bayt | Dubai, UAE | ai product | 0
 bayt | Dubai, UAE | strategy | 0
 bayt | Dubai, UAE | data scientist | 0
 bayt | Dubai, UAE | lecturer | 0
-bayt | Riyadh, Saudi Arabia | data analyst | 0
+bayt | Riyadh, Saudi Arabia | data analyst | 1
 bayt | Riyadh, Saudi Arabia | business intelligence | 0
 bayt | Riyadh, Saudi Arabia | revenue operations | 0
-bayt | Riyadh, Saudi Arabia | sales operations | 1
-bayt | Riyadh, Saudi Arabia | ai product | 0
+bayt | Riyadh, Saudi Arabia | sales operations | 0
+bayt | Riyadh, Saudi Arabia | ai product | 1
 bayt | Riyadh, Saudi Arabia | strategy | 0
 bayt | Riyadh, Saudi Arabia | data scientist | 0
 bayt | Riyadh, Saudi Arabia | lecturer | 0
-greenhouse | Motive | 146
-greenhouse | Careem | 17
-greenhouse | Podium | 58
-greenhouse | Joblogic | 30
-greenhouse | Nysonian | 35
-greenhouse | Vectara | 3
-greenhouse | Deliveroo | 196
-greenhouse | OKX | 346
-greenhouse | Cloudflare | 420
-greenhouse | HALA | 8
-greenhouse | Cobblestone Energy | 2
-lever | Smart Working | 25
-lever | Flow | 39
-lever | Lalamove | 181
-lever | Kpler | 89
-lever | Contentsquare | 22
-lever | Yassir | 156
-workable | Devsinc | 36
-workable | Jazz | 37
-workable | 9D Technologies | 12
-workable | Bayut | dubizzle | 42
-workable | Whiteshield | 9
-workable | Eram Talent | 1246
-workable | Jeeny | 11
-workable | Qiddiya Investment Company | 271
-workable | Zeal Group | 88
+open-jobs-data | employers added | 371
+ashby | 71 employers | 5096
+bamboohr | 2 employers | 15
+greenhouse | 270 employers | 25349
+lever | 17 employers | 2207
+personio | 6 employers | 21
+recruitee | 5 employers | 68
+smartrecruiters | 9 employers | 4088
+workable | 13 employers | 1810
+workday | 17 employers | 2630
 remoteok | open to Pakistan/Gulf/worldwide | 2
 weworkremotely | open to Pakistan/Gulf/worldwide | 87
-Matching titles dropped for location (top 15): {"Sharjah, Sharjah Emirate, United Arab Emirates": 6, "Pakistan": 5, "Gujranwala, PPB, Pakistan": 1, "United States - Remote": 1, "Milan, Italy": 1, "Thuwal, Makkah Province, Saudi Arabia | Thuwal, Makkah Province, Saudi Arabia": 1}
+careerjet | skipped (no CAREERJET_AFFID secret)
+jooble | skipped (no JOOBLE_KEY secret)
+google_jobs | skipped (no SERPAPI_KEY secret)
+rozee | detail FAILED rozee.pk/pta-data-scientist-jobs-1898439: HTTP Error 429: 
+rozee | sitemap jobs in window 2788 | title matches 22 | opened 20
+gulftalent | FAILED: HTTP Error 403: 
+Matching titles dropped for location (top 15): {"": 21, "2 Locations": 7, "Pakistan": 5, "Sharjah, Sharjah Emirate, United Arab Emirates": 4, "Singapore": 4, "United States - Remote": 3, "Pune, India": 3, "Pune, Gera Commerzone SEZ": 3, "San Francisco, CA | New York City, NY": 3, "Boston, MA": 3, "Washington, DC": 2, "San Francisco, CA": 2, "United States (Remote)": 2, "Remote - USA": 2, "Berlin, Berlin, Germany": 2}
