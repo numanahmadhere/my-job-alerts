@@ -37,6 +37,9 @@ jobs:
           APPS_SCRIPT_SECRET: ${{ secrets.APPS_SCRIPT_SECRET }}
           PROXIES: ${{ secrets.PROXIES }}
           LOOKBACK_DAYS: ${{ inputs.lookback_days }}
+          CAREERJET_AFFID: ${{ secrets.CAREERJET_AFFID }}
+          JOOBLE_KEY: ${{ secrets.JOOBLE_KEY }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: python -m pipeline.run
 
       - name: Save job history

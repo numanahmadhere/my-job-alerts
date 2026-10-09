@@ -18,7 +18,7 @@ import pandas as pd
 import requests
 import yaml
 
-from . import sheets
+from . import extra, sheets
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = yaml.safe_load((ROOT / "config.yaml").read_text())
@@ -34,7 +34,10 @@ EXCLUDE = re.compile(CONFIG["exclude_title"], re.I)
 CITIES = CONFIG["cities"]
 SOURCE_NAMES = {"linkedin": "LinkedIn", "indeed": "Indeed", "bayt": "Bayt", "greenhouse": "Company careers",
                 "lever": "Company careers", "workable": "Company careers", "remoteok": "RemoteOK",
-                "weworkremotely": "We Work Remotely"}
+                "weworkremotely": "We Work Remotely", "ashby": "Company careers",
+                "smartrecruiters": "Company careers", "recruitee": "Company careers", "bamboohr": "Company careers",
+                "personio": "Company careers", "workday": "Company careers", "rozee": "Rozee.pk",
+                "gulftalent": "GulfTalent", "careerjet": "Careerjet", "jooble": "Jooble", "google_jobs": "Google Jobs"}
 
 COLUMNS = ["job_id", "first_seen", "last_seen", "date_posted", "title", "company", "city", "role_group",
            "level", "source", "job_url", "location_raw"]
@@ -183,56 +186,6 @@ def _date(v):
         return None
 
 
-def career_pages():
-    rows, log = [], []
-    cp = CONFIG.get("career_pages") or {}
-    for slug, name in (cp.get("greenhouse") or {}).items():
-        try:
-            data = _get(f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs") or {}
-            got = [dict(source="greenhouse", title=j.get("title"), company=j.get("company_name") or name,
-                        location=" | ".join(str(x) for x in [(j.get("location") or {}).get("name")] +
-                                            [o.get("name") for o in j.get("offices") or []] if x),
-                        job_url=j.get("absolute_url"), date_posted=_date(j.get("first_published") or j.get("updated_at")))
-                   for j in data.get("jobs", [])]
-            rows += got
-            log.append(f"greenhouse | {name} | {len(got)}")
-        except Exception as e:
-            log.append(f"greenhouse | {name} | FAILED: {str(e)[:100]}")
-    for slug, name in (cp.get("lever") or {}).items():
-        try:
-            data = _get(f"https://api.lever.co/v0/postings/{slug}?mode=json") or []
-            got = []
-            for j in data:
-                c = j.get("categories") or {}
-                got.append(dict(source="lever", title=j.get("text"), company=name,
-                                location=" | ".join(str(x) for x in [c.get("location")] + list(c.get("allLocations") or []) if x),
-                                job_url=j.get("hostedUrl"), date_posted=_date(j.get("createdAt")),
-                                is_remote=j.get("workplaceType") == "remote"))
-            rows += got
-            log.append(f"lever | {name} | {len(got)}")
-        except Exception as e:
-            log.append(f"lever | {name} | FAILED: {str(e)[:100]}")
-    for slug, name in (cp.get("workable") or {}).items():
-        try:
-            data = _get(f"https://apply.workable.com/api/v1/widget/accounts/{slug}") or {}
-            got = []
-            for j in data.get("jobs", []):
-                locs = [", ".join(x for x in (j.get("city"), j.get("state"), j.get("country")) if x)]
-                locs += [", ".join(x for x in (l.get("city"), l.get("region"), l.get("country")) if x)
-                         for l in j.get("locations") or []]
-                got.append(dict(source="workable", title=j.get("title"), company=data.get("name") or name,
-                                location=" | ".join(l for l in locs if l), job_url=j.get("url"),
-                                date_posted=_date(j.get("published_on") or j.get("created_at")),
-                                is_remote=bool(j.get("telecommuting"))))
-            rows += got
-            log.append(f"workable | {name} | {len(got)}")
-        except Exception as e:
-            log.append(f"workable | {name} | FAILED: {str(e)[:100]}")
-    for l in log:
-        print(l, flush=True)
-    return rows, log
-
-
 def remote_boards():
     """RemoteOK + We Work Remotely: only jobs open worldwide / Asia / Pakistan / Gulf."""
     import xml.etree.ElementTree as ET
@@ -280,6 +233,32 @@ def remote_boards():
     return rows, log
 
 
+def fuzzy_duplicates(fresh, history, already, within=False):
+    """Marks jobs that are the same as one already seen, even when the wording differs a little
+    (e.g. "Sr. Data Analyst" at "Systems Ltd" vs "Senior Data Analyst" at "Systems Limited").
+    Same city + company names >= 90% similar + titles >= 92% similar = duplicate."""
+    from rapidfuzz import fuzz
+
+    def t_norm(x):
+        return norm(re.sub(r"\bsr\.?\s", "senior ", str(x or ""), flags=re.I))
+
+    out = pd.Series(False, index=fresh.index)
+    pool = {}
+    for _, h in history.iterrows():
+        pool.setdefault(h.get("city", ""), []).append((norm(h.get("company")), t_norm(h.get("title"))))
+    for i, r in fresh.iterrows():
+        if already.get(i, False):
+            continue
+        c, t = norm(r["company"]), t_norm(r["title"])
+        for hc, ht in pool.get(r["city"], []):
+            if fuzz.token_set_ratio(c, hc) >= 90 and fuzz.token_set_ratio(t, ht) >= 92:
+                out[i] = True
+                break
+        if within and not out[i]:
+            pool.setdefault(r["city"], []).append((c, t))
+    return out
+
+
 # ---------------------------------------------------------------- main
 def main():
     today = datetime.now(PKT).date()
@@ -287,13 +266,29 @@ def main():
     print(f"Mode: {'BACKFILL ' + str(backfill) + ' days' if backfill else 'daily'}", flush=True)
 
     js_rows, log = jobspy_searches(backfill)
-    cp_rows, cp_log = career_pages()
-    rb_rows, rb_log = remote_boards()
-    log += cp_log + rb_log
     window_lo = (today - timedelta(days=backfill or CONFIG["feed_window_days"])).isoformat()
-    cp_rows = [r for r in cp_rows + rb_rows if not r["date_posted"] or r["date_posted"] >= window_lo]
+    sm_days = max(backfill or 0, int((CONFIG.get("sitemaps") or {}).get("window_days", 30)))
+    sitemap_lo = (today - timedelta(days=sm_days)).isoformat()
 
-    raw = pd.DataFrame(js_rows + cp_rows)
+    feed_rows = []
+    for name, fn in (("hiring systems", lambda: extra.hiring_systems(CONFIG)),
+                     ("remote boards", remote_boards),
+                     ("aggregators", lambda: extra.aggregators(CONFIG))):
+        try:
+            got, got_log = fn()
+            feed_rows += got
+            log += got_log
+        except Exception as e:  # one broken source group never stops the run
+            log.append(f"{name} | FAILED: {str(e)[:120]}")
+    feed_rows = [r for r in feed_rows if not r.get("date_posted") or r["date_posted"] >= window_lo]
+    try:
+        sm_rows, sm_log = extra.sitemaps(CONFIG, role_group, sitemap_lo)
+        feed_rows += sm_rows
+        log += sm_log
+    except Exception as e:
+        log.append(f"sitemaps | FAILED: {str(e)[:120]}")
+
+    raw = pd.DataFrame(js_rows + feed_rows)
     fresh = pd.DataFrame(columns=COLUMNS)
     if len(raw):
         raw = raw.fillna("")
@@ -313,6 +308,7 @@ def main():
         m["date_posted"] = pd.to_datetime(m["date_posted"], errors="coerce").dt.date.astype(str).replace({"NaT": "", "None": "", "nan": ""})
         m["location_raw"] = m["location"].astype(str)
         fresh = m.drop_duplicates("job_url").drop_duplicates("job_id")
+        fresh = fresh[~fuzzy_duplicates(fresh, fresh.iloc[0:0], pd.Series(False, index=fresh.index), within=True)]
 
     hist = pd.read_csv(DATA, dtype=str, keep_default_na=False) if DATA.exists() else pd.DataFrame(columns=COLUMNS)
     if len(hist):
@@ -321,6 +317,7 @@ def main():
     win = (today - timedelta(days=CONFIG["repost_window_days"])).isoformat()
     recent = hist[hist["last_seen"] >= win]
     seen = fresh["job_id"].isin(set(recent["job_id"])) | fresh["job_url"].isin(set(recent["job_url"]))
+    seen = seen | fuzzy_duplicates(fresh, recent, seen)
     new = fresh[~seen].copy()
     new["first_seen"], new["last_seen"] = t, t
     if backfill:  # backfilled jobs are dated by when they were posted

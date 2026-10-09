@@ -90,9 +90,11 @@ fetch_description: false        # titles are enough for matching; keeps runs fas
 feed_window_days: 3             # career pages: only jobs posted in the last 3 days count as new
 repost_window_days: 30          # a job seen again within 30 days is not added again
 
-# Company career pages (official public job feeds). These systems have no search across
-# companies, so each employer is listed here. Add one line per company: board-name: "Display Name"
+# Company hiring systems (official public job feeds, no scraping). These systems have no search
+# across companies, so employers are listed here. Add one line per company: board-name: "Display Name"
 # (the board name is the part of the careers URL after the domain).
+# The open-jobs-data list (378 mostly-tech employers, updated daily on GitHub) is added automatically.
+use_open_jobs_data: true
 career_pages:
   greenhouse:
     gomotive: "Motive"
@@ -123,6 +125,61 @@ career_pages:
     jeeny: "Jeeny"
     qiddiya-investment-company-1: "Qiddiya Investment Company"
     zealgroup: "Zeal Group"
+  smartrecruiters:
+    PublicisGroupe: "Publicis Groupe"
+    DeliveryHero: "Delivery Hero"
+    GulfTalent: "GulfTalent (client roles)"
+    JobsForHumanity: "Jobs for Humanity"
+    Visa: "Visa"
+  ashby: {}
+  recruitee: {}
+  bamboohr: {}
+  personio: {}
+  # Workday (large employers). tenant / shard / site come from the careers URL:
+  #   https://<tenant>.<shard>.myworkdayjobs.com/en-US/<site>/...
+  workday:
+    "Mastercard": {tenant: mastercard, shard: wd1, site: CorporateCareers}
+    "Salesforce": {tenant: salesforce, shard: wd12, site: External_Career_Site}
+    "Barclays": {tenant: barclays, shard: wd3, site: External_Career_Site_Barclays}
+    "Hitachi": {tenant: hitachi, shard: wd1, site: hitachi}
+    "Parsons": {tenant: parsons, shard: wd5, site: Search}
+    "Jotun": {tenant: jotun, shard: wd3, site: Jotun_careers}
+    "Galileo": {tenant: galileo, shard: wd3, site: galileo_career_site}
+    "Contour Software": {tenant: talentmanagementsolution, shard: wd3, site: ContourSoftware-Careers}
+
+# Workday has no "list everything" view, so each employer is searched with these words.
+workday:
+  keywords: ["analyst", "data", "business intelligence", "revenue operations", "strategy", "product manager", "lecturer"]
+  max_pages: 2            # 20 jobs per page
+
+# Job-board sitemaps: the list of live jobs a site publishes for search engines.
+# Only jobs whose title looks like a fit are opened (max per site per run).
+sitemaps:
+  rozee: true
+  gulftalent: true
+  window_days: 30          # sitemap entries updated in the last 30 days
+  max_details_per_site: 40
+
+# Optional free aggregator APIs. Each one is skipped unless its key is added as a GitHub secret:
+#   CAREERJET_AFFID (free partner account), JOOBLE_KEY (free key by request), SERPAPI_KEY (free 250 searches/month)
+aggregators:
+  referer_url: "https://github.com/numanahmadhere/my-job-alerts"
+  targets:
+    - {locale: en_PK, location: Lahore}
+    - {locale: en_PK, location: Karachi}
+    - {locale: en_PK, location: Islamabad}
+    - {locale: en_AE, location: Dubai}
+    - {locale: en_SA, location: Riyadh}
+  keywords: ["data analyst", "business intelligence", "revenue operations", "strategy", "AI product", "lecturer"]
+  google_jobs_queries:     # 8 per day stays inside SerpApi's free 250/month
+    - "data analyst jobs Lahore"
+    - "business intelligence jobs Karachi"
+    - "revenue operations jobs Dubai"
+    - "data analyst jobs Dubai"
+    - "strategy and planning jobs Riyadh"
+    - "AI product specialist jobs Pakistan"
+    - "lecturer data science jobs Islamabad"
+    - "business intelligence jobs Riyadh"
 
 # Optional: if LinkedIn keeps blocking, add a GitHub secret named PROXIES
 # (comma-separated, e.g. user:pass@host:port). Used automatically.
