@@ -330,8 +330,9 @@ def main():
                      banner="My job alerts | Lahore, Islamabad, Karachi, Dubai, Riyadh + Remote | updated daily at 7 AM PKT",
                      first=True)
     elif len(new):
-        # daily: add only new jobs at the bottom (keeps anything you typed in the Status column)
-        sheets.write("master", TAB, SHEET_HEADERS, sheet_rows(new))
+        # daily: add only new jobs below the last used row. format=False means the tab is not
+        # restyled at all, so existing rows (and anything you typed in them) are never touched.
+        sheets.write("master", TAB, SHEET_HEADERS, sheet_rows(new), format=False)
     sheets.write("master", "runs_log", ["run_at_pkt", "mode", "found", "matching", "new", "failed_searches"],
                  [[f"{datetime.now(PKT):%Y-%m-%d %H:%M}", "backfill" if backfill else "daily", len(raw),
                    len(fresh), len(new), sum("FAILED" in l for l in log)]])

@@ -59,11 +59,12 @@ def _post(payload):
             time.sleep(5 * (attempt + 1))
 
 
-def write(target, tab, headers, rows, mode="append", banner=None, first=False):
+def write(target, tab, headers, rows, mode="append", banner=None, first=False, format=True):
     """target: 'master' or 'public'. mode: 'append' or 'replace'.
 
     banner: optional text placed above the header row (replace mode only).
     first: move the tab to the first position.
+    format: False = only write the rows, never restyle the tab (used for daily appends).
     """
     rows = [[_clean(v) for v in r] for r in rows]
     total = 0
@@ -81,7 +82,7 @@ def write(target, tab, headers, rows, mode="append", banner=None, first=False):
             "rows": chunk,
             "banner": banner if i == 0 else None,
             "first": first and i == 0,
-            "format": i + BATCH >= len(rows),  # apply formatting once, on the last batch
+            "format": format and i + BATCH >= len(rows),  # apply formatting once, on the last batch
         })
         total += res.get("written", 0)
     return total
