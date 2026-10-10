@@ -6,3 +6,7 @@ rapidfuzz>=3.9
 dateparser>=1.2
 tenacity>=8.2
 curl_cffi>=0.7
+duckdb>=1.1
+pypdf>=4.0
+feedparser>=6.0
+beautifulsoup4>=4.12

@@ -1,25 +1,67 @@
 # My Job Alerts
 
-Daily feed of roles that fit Numan, in Lahore, Islamabad, Karachi, Dubai and Riyadh.
+Daily feed of roles that fit Numan, in 51 cities across 24 countries plus remote roles open to Pakistan.
+Everything is free. Settings live in `config.yaml`; no code changes are needed to add a city, a role or a search.
 
-**Every day at 7 AM PKT** the workflow collects jobs from:
-- **Job boards:** LinkedIn, Indeed, Bayt (via JobSpy)
-- **Company hiring systems** (official public feeds): Greenhouse, Lever, Workable, Ashby, SmartRecruiters,
-  Recruitee, BambooHR, Personio and Workday. Employers are listed in `config.yaml`, plus the
-  [open-jobs-data](https://github.com/ConorsCode/open-jobs-data) list added automatically.
-- **Job-board sitemaps:** Rozee.pk and GulfTalent (only titles that look like a fit are opened)
-- **Remote boards:** RemoteOK, We Work Remotely
-- **Optional free APIs** (skipped until you add the key as a repo secret): Careerjet (`CAREERJET_AFFID`),
-  Jooble (`JOOBLE_KEY`), Google Jobs via SerpApi (`SERPAPI_KEY`)
+## Where
+- **Pakistan:** Lahore, Islamabad / Rawalpindi, Karachi
+- **Gulf:** Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Al Ain, Riyadh, Jeddah, Dammam, Al Khobar, Dhahran,
+  Mecca, Medina, Doha, Manama, Muscat, Salalah, Kuwait City
+- **Middle East:** Amman, Cairo, Giza, Alexandria, Istanbul
+- **Asia-Pacific:** Kuala Lumpur, Singapore, Tokyo, Sydney, Melbourne, Auckland
+- **Europe:** London, Manchester, Birmingham, Dublin, Berlin, Munich, Frankfurt, Hamburg, Amsterdam, Rotterdam,
+  The Hague, Warsaw, Kraków, Budapest, Prague, Lisbon
+- **Canada:** Toronto, Vancouver, Montreal
+- **Remote:** only roles open worldwide / Asia / EMEA / Middle East / Pakistan (US-only remote roles are dropped)
 
-It keeps roles whose title matches a role group in `config.yaml`
-(RevOps, AI Product / Applied AI, Data & BI, Strategy & Ops, Data Science), removes duplicates,
-and adds new ones to the **My jobs** tab of the Google Sheet. The last column, **Status**, is yours
-(e.g. Applied, Interview, Not a fit). Daily runs only add rows, so your notes are kept.
+A job that names only the country (e.g. "Qatar") is kept as "Qatar (city not stated)". Arabic city names and
+accented spellings are matched.
 
-- Change roles, cities or searches: edit `config.yaml`.
-- One-time backfill: Actions > Daily job alerts > Run workflow > type 14. This rewrites the
-  My jobs tab from the full history, so run it only once at the start.
-- Duplicates are removed by link, by company + title + city, and by fuzzy matching
-  (e.g. "Sr. Data Analyst, Systems Ltd" = "Senior Data Analyst, Systems Limited").
-- What the last run found, per source: `data/last_run.txt`. Every run also adds a row to the `runs_log` tab.
+## Visa rules
+- **Gulf, Jordan, Egypt:** "nationals only" roles (Saudization, Emiratisation, "UAE nationals only", ...) are dropped.
+- **Malaysia, Singapore, Turkey:** kept unless the ad says citizens / locals only or "no sponsorship".
+- **UK, Ireland, Germany, Netherlands, Poland, Hungary, Czechia, Portugal, Canada, Australia, New Zealand, Japan:**
+  kept only if the ad mentions visa sponsorship or relocation, or (UK, Netherlands, Canada) the employer is on
+  the government list of licensed visa sponsors. The reason appears in "Why it matches".
+
+## Sources
+**Daily (7 AM PKT):**
+- LinkedIn, Indeed (22 countries), Bayt, via JobSpy
+- Company hiring systems (official public job feeds): Greenhouse, Lever, Workable, Ashby, SmartRecruiters,
+  Recruitee, BambooHR, Personio, Workday, Breezy, Teamtailor, Pinpoint. Employers come from `config.yaml`,
+  the [open-jobs-data](https://github.com/ConorsCode/open-jobs-data) list, and `data/employers.csv`
+  (found automatically, see Discovery)
+- Job-board sitemaps: Rozee.pk, GulfTalent (all Gulf countries, Jordan, Egypt)
+- Remote boards: RemoteOK, We Work Remotely, Remotive, Himalayas, Jobicy, Working Nomads, Arbeitnow
+- Company websites found by discovery (`data/sites.csv`): sitemaps, job markup, RSS, careers pages.
+  Each site is re-read only when it changed (ETag / content fingerprint).
+- University job pages (Pakistan + Gulf): new adverts and PDFs are read and kept when they mention a teaching
+  role in a subject that fits
+- Public Telegram channels (list in `config.yaml`)
+- Optional, each skipped until its secret is added: Google Alerts (`GOOGLE_ALERTS_FEEDS`), Brave Search past 24 h
+  (`BRAVE_KEY`), Google Jobs via SerpApi (`SERPAPI_KEY`), Careerjet (`CAREERJET_AFFID`), Jooble (`JOOBLE_KEY`)
+
+**Discovery (finds new employers and sites to read):**
+- Weekly (Sundays): UK / Netherlands / Canada visa-sponsor lists, certificate logs for new `careers.*` sites in
+  your countries, checks new websites, checks employers' job boards (kept only if they have jobs in your markets)
+- Monthly (3rd): Common Crawl sweep for hiring-system job boards and careers pages on your countries' web addresses
+- One time (run by hand): Web Data Commons list of websites that publish job markup
+
+## How the daily run works
+The searches are split across several GitHub runners working in parallel (each has its own internet address,
+which keeps LinkedIn from blocking). A final step combines them, removes duplicates (by link, company + title +
+city, and fuzzy matching), checks visa / nationals rules, and **adds** new jobs to the Sheet.
+
+## The Sheet
+- **My jobs:** new jobs are added below the last row. Existing rows, and anything you typed in them, are never
+  changed. Columns: Date found, Posted, Role, Company, City, Why it matches, Level, Found on, Apply link,
+  Status (yours), Region.
+- **Companies newly hiring:** employers seen for the first time, one row per company per day.
+- **Run health:** one row per run: jobs scanned, searches done vs planned, failures, coverage %.
+
+## Notes
+- "Run workflow" has an optional "look further back" box. It only adds jobs; it never rewrites the tab.
+- Private repository: GitHub gives 2,000 free minutes a month, so the run shrinks to fit (2 runners, about
+  20 minutes each; searches not reached rotate day by day) and discovery uses a fifth of its time.
+  Public repository: unlimited free minutes, full run.
+- What the last run found, per source: `data/last_run.txt`. Discovery: `data/discovery_log.txt`.

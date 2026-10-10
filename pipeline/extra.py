@@ -19,7 +19,8 @@ import os
 import re
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timezone
+from datetime import date, datetime, timezone
+from pathlib import Path
 
 import dateparser
 import requests
@@ -219,9 +220,46 @@ def _workday(cfg, name, keywords, max_pages):
     return out
 
 
+def _breezy(slug, name):
+    data = _get_json(f"https://{slug}.breezy.hr/json") or []
+    out = []
+    for j in data:
+        loc = j.get("location") or {}
+        country = loc.get("country") if isinstance(loc.get("country"), str) else (loc.get("country") or {}).get("name")
+        out.append(_row("breezy", j.get("name"), (j.get("company") or {}).get("name") or name,
+                        _join(loc.get("city"), loc.get("state", {}).get("name") if isinstance(loc.get("state"), dict) else loc.get("state"),
+                              country, loc.get("name")),
+                        j.get("url"), to_date(j.get("published_date")), loc.get("is_remote")))
+    return out
+
+
+def _teamtailor(slug, name):
+    r = requests.get(f"https://{slug}.teamtailor.com/jobs.rss", headers={"User-Agent": UA}, timeout=TIMEOUT)
+    if r.status_code == 404:
+        return []
+    r.raise_for_status()
+    out = []
+    for it in ET.fromstring(r.content).iter("item"):
+        locs = [el.text for el in it.iter() if el.tag.split("}")[-1] in ("city", "country", "name") and el.text]
+        remote = any(el.text and "remote" in el.text.lower() for el in it.iter() if el.tag.split("}")[-1] == "remoteStatus")
+        out.append(_row("teamtailor", it.findtext("title"), name, _join(*dict.fromkeys(locs)), it.findtext("link"),
+                        to_date(it.findtext("pubDate")), remote))
+    return out
+
+
+def _pinpoint(slug, name):
+    data = _get_json(f"https://{slug}.pinpointhq.com/postings.json") or {}
+    out = []
+    for j in data.get("data", []):
+        loc = j.get("location") or {}
+        out.append(_row("pinpoint", j.get("title"), name, _join(loc.get("city"), loc.get("province"), loc.get("name")),
+                        j.get("url"), None, j.get("workplace_type") == "remote"))
+    return out
+
+
 FETCHERS = {"greenhouse": _greenhouse, "lever": _lever, "workable": _workable, "ashby": _ashby,
             "smartrecruiters": _smartrecruiters, "recruitee": _recruitee, "bamboohr": _bamboohr,
-            "personio": _personio}
+            "personio": _personio, "breezy": _breezy, "teamtailor": _teamtailor, "pinpoint": _pinpoint}
 
 
 def _employer_list(config, log):
@@ -233,6 +271,27 @@ def _employer_list(config, log):
             boards[(platform, str(slug).lower())] = (name, str(slug))
     for name, cfg in (cp.get("workday") or {}).items():
         boards[("workday", cfg["tenant"].lower() + "/" + cfg["site"].lower())] = (name, cfg)
+    emp_file = Path(__file__).resolve().parent.parent / "data" / "employers.csv"
+    if emp_file.exists():   # found by the discovery workflows; only those with jobs in your markets
+        import csv
+        added = 0
+        with emp_file.open(newline="", encoding="utf-8") as f:
+            for e in csv.DictReader(f):
+                if e.get("status") != "active":
+                    continue
+                p, slug = e.get("platform"), e.get("slug") or ""
+                if p in FETCHERS and slug:
+                    key = (p, slug.lower())
+                    if key not in boards:
+                        boards[key] = (e.get("name") or slug, slug)
+                        added += 1
+                elif p == "workday" and slug.count("/") == 2:
+                    tenant, shard, site = slug.split("/")
+                    key = ("workday", tenant.lower() + "/" + site.lower())
+                    if key not in boards:
+                        boards[key] = (e.get("name") or tenant, {"tenant": tenant, "shard": shard, "site": site})
+                        added += 1
+        log.append(f"discovered employers | added | {added}")
     if config.get("use_open_jobs_data", True):
         try:
             extra = _get_json(OPEN_JOBS_DATA) or []
@@ -256,9 +315,12 @@ def _employer_list(config, log):
     return boards
 
 
-def hiring_systems(config):
+def hiring_systems(config, shard=0, shards=1):
+    """All employers' job boards; with shards > 1 this runner takes every shards-th employer."""
     log, rows = [], []
     boards = _employer_list(config, log)
+    if shards > 1:
+        boards = {k: v for i, (k, v) in enumerate(sorted(boards.items(), key=lambda kv: kv[0])) if i % shards == shard}
     wd = config.get("workday") or {}
     keywords = wd.get("keywords") or ["analyst"]
     max_pages = int(wd.get("max_pages", 2))
@@ -272,7 +334,7 @@ def hiring_systems(config):
             return [], f"{platform} | {name} | FAILED: {str(e)[:100]}"
 
     counts = {}
-    with ThreadPoolExecutor(max_workers=8) as pool:
+    with ThreadPoolExecutor(max_workers=12) as pool:
         for (item, (got, err)) in zip(boards.items(), pool.map(run, boards.items())):
             platform = item[0][0]
             if err:
@@ -340,7 +402,7 @@ def sitemaps(config, role_group, window_lo):
     rows, log = [], []
     sm = config.get("sitemaps") or {}
     max_details = int(sm.get("max_details_per_site", 40))
-    city_words = [w for words in config["cities"].values() for w in words]
+    city_words = [w for m in config["markets"].values() for ws in (m.get("cities") or {}).values() for w in ws]
 
     def collect(site, sitemap_url, child_filter, url_filter):
         content, _ = _get_page(sitemap_url)
@@ -374,8 +436,10 @@ def sitemaps(config, role_group, window_lo):
     if sm.get("rozee", True):
         targets.append(("rozee", "https://www.rozee.pk/sitemap/jobs.xml", r".", lambda u: "-jobs-" in u))
     if sm.get("gulftalent", True):
+        gt = "|".join(re.escape(c) for c in sm.get("gulftalent_countries") or ["uae", "saudi-arabia"])
+        gt_rx = re.compile(rf"gulftalent\.com/({gt})/jobs/[^/]+-\d+$")
         targets.append(("gulftalent", "https://www.gulftalent.com/sitemap.xml", r"sitemap_jx\d+\.xml",
-                        lambda u: re.search(r"gulftalent\.com/(uae|saudi-arabia)/jobs/[^/]+-\d+$", u) is not None))
+                        lambda u: gt_rx.search(u) is not None))
     for site, url, child_filter, url_filter in targets:
         try:
             collect(site, url, child_filter, url_filter)
@@ -439,7 +503,12 @@ def aggregators(config):
     serp = os.environ.get("SERPAPI_KEY", "").strip()
     if serp:
         n = 0
-        for q in agg.get("google_jobs_queries") or []:   # kept small: free plan is 250 searches/month
+        combos = [f"{r} jobs {p}" for p in agg.get("google_jobs_places") or [] for r in agg.get("google_jobs_roles") or []]
+        per_day = int(agg.get("google_jobs_per_day", 8))
+        start = (date.today().toordinal() * per_day) % max(len(combos), 1)
+        todays = [combos[(start + i) % len(combos)] for i in range(min(per_day, len(combos)))] if combos else []
+        todays += agg.get("google_jobs_queries") or []
+        for q in todays:   # kept small: free plan is 250 searches/month
             try:
                 data = _get_json("https://serpapi.com/search.json",
                                  params=dict(engine="google_jobs", q=q, hl="en", api_key=serp)) or {}
@@ -451,7 +520,7 @@ def aggregators(config):
                     n += 1
             except Exception as e:
                 log.append(f"google_jobs | {q} | FAILED: {str(e)[:80]}")
-        log.append(f"google_jobs | {len(agg.get('google_jobs_queries') or [])} searches | {n}")
+        log.append(f"google_jobs | {len(todays)} searches | {n}")
     else:
         log.append("google_jobs | skipped (no SERPAPI_KEY secret)")
     return rows, log

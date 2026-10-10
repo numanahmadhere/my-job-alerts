@@ -6,42 +6,97 @@ on:
   workflow_dispatch:           # "Run workflow" button for manual runs
     inputs:
       lookback_days:
-        description: "One-time backfill: days to look back (e.g. 14). Leave blank for a normal run."
+        description: "Optional: look further back this many days. Only ADDS new jobs; existing rows are never changed. Leave blank for a normal run."
         required: false
         default: ""
 
 permissions:
-  contents: write             # lets the job save data/jobs.csv back to the repo
+  contents: write             # lets the run save data/ back to the repo
 
 concurrency:
   group: alerts
   cancel-in-progress: false
 
 jobs:
-  run:
+  plan:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    outputs:
+      list: ${{ steps.p.outputs.list }}
+      shards: ${{ steps.p.outputs.shards }}
+      private: ${{ steps.p.outputs.private }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: config.yaml
+      - id: p
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          PRIVATE=$(gh api repos/${{ github.repository }} --jq .private || echo true)
+          if [ "$PRIVATE" = "true" ]; then KEY=private_shards; else KEY=shards; fi
+          N=$(python3 -c "import re,sys; t=open('config.yaml').read(); print(re.search(r'^\s+'+sys.argv[1]+r':\s*(\d+)', t, re.M).group(1))" $KEY)
+          echo "private=$PRIVATE" >> $GITHUB_OUTPUT
+          echo "shards=$N" >> $GITHUB_OUTPUT
+          echo "list=$(python3 -c "print(list(range($N)))")" >> $GITHUB_OUTPUT
+          echo "Repository private: $PRIVATE -> $N parallel runners"
 
+  collect:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: ${{ fromJSON(needs.plan.outputs.list) }}
+    steps:
+      - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
           cache: pip
-
       - run: pip install -r requirements.txt
-
-      - name: Find matching jobs and update the Sheet
+      - name: Search (runner ${{ matrix.shard }})
         env:
-          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
-          APPS_SCRIPT_SECRET: ${{ secrets.APPS_SCRIPT_SECRET }}
           PROXIES: ${{ secrets.PROXIES }}
           LOOKBACK_DAYS: ${{ inputs.lookback_days }}
+          PRIVATE_REPO: ${{ needs.plan.outputs.private }}
           CAREERJET_AFFID: ${{ secrets.CAREERJET_AFFID }}
           JOOBLE_KEY: ${{ secrets.JOOBLE_KEY }}
           SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
-        run: python -m pipeline.run
+          BRAVE_KEY: ${{ secrets.BRAVE_KEY }}
+          GOOGLE_ALERTS_FEEDS: ${{ secrets.GOOGLE_ALERTS_FEEDS }}
+        run: python -m pipeline.run collect --shard ${{ matrix.shard }} --shards ${{ needs.plan.outputs.shards }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: shard-${{ matrix.shard }}
+          path: out/shard_*.json
+          retention-days: 3
+          if-no-files-found: ignore
 
+  merge:
+    needs: [plan, collect]
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: shard-*
+          path: out
+          merge-multiple: true
+      - name: Combine, remove duplicates, add new jobs to the Sheet
+        env:
+          APPS_SCRIPT_URL: ${{ secrets.APPS_SCRIPT_URL }}
+          APPS_SCRIPT_SECRET: ${{ secrets.APPS_SCRIPT_SECRET }}
+          LOOKBACK_DAYS: ${{ inputs.lookback_days }}
+        run: python -m pipeline.run merge
       - name: Save job history
         if: always()
         run: |
@@ -49,5 +104,4 @@ jobs:
           git config user.email "job-alerts-bot@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "Job alerts $(date -u +%F)"
-          git pull --rebase origin main || true
-          git push
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 10; done

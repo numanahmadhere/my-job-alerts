@@ -3,21 +3,297 @@
 # Edit this file to change roles, cities or searches. No code changes needed.
 # ------------------------------------------------------------------
 
-# Cities to keep. A job is kept only if its location names one of these.
-# (Keys are what the Sheet shows; values are words matched in the job's location.)
-cities:
-  Lahore: ['lahore']
-  Islamabad: ['islamabad', 'rawalpindi']
-  Karachi: ['karachi']
-  Dubai: ['dubai', 'دبي']
-  Riyadh: ['riyadh', 'الرياض']           # Saudi Indeed often shows locations in Arabic
+# ================================================================== WHERE
+# Each market (country) lists:
+#   region       shown in the Sheet's Region column
+#   visa         gulf     = no visa filter, but "nationals only" jobs are dropped
+#                open     = kept unless the ad says locals / citizens only or "no sponsorship"
+#                required = kept only if the ad mentions visa sponsorship / relocation
+#                           (or, for UK / Netherlands / Canada, the employer is on the
+#                           government list of licensed visa sponsors)
+#   names        words that mean the country itself (a job that only says "Qatar" is kept)
+#   cities       city shown in the Sheet: words matched in the job's location
+#                (accents are ignored; Arabic spellings included)
+#   linkedin     LinkedIn search locations + which query set to use
+#   indeed       run Indeed in this country (whole country) + which query set
+markets:
+  Pakistan:
+    region: Pakistan
+    visa: gulf
+    names: ['pakistan']
+    cities:
+      Lahore: ['lahore', 'لاہور']
+      Islamabad: ['islamabad', 'rawalpindi']
+      Karachi: ['karachi']
+    linkedin: {locations: ["Lahore, Pakistan", "Karachi, Pakistan", "Islamabad, Pakistan"], queries: full}
+    indeed: {country: Pakistan, queries: full}
+
+  UAE:
+    region: Gulf
+    visa: gulf
+    names: ['united arab emirates', 'uae', 'الإمارات', 'الامارات']
+    cities:
+      Dubai: ['dubai', 'jebel ali', 'دبي']
+      Abu Dhabi: ['abu dhabi', 'abudhabi', 'أبوظبي', 'ابوظبي', 'أبو ظبي', 'ابو ظبي']
+      Sharjah: ['sharjah', 'الشارقة']
+      Ajman: ['ajman', 'عجمان']
+      Ras Al Khaimah: ['ras al khaimah', 'ras al-khaimah', 'ras alkhaimah', 'رأس الخيمة', 'راس الخيمة']
+      Al Ain: ['al ain', 'al-ain', 'العين']
+    linkedin: {locations: ["Dubai, United Arab Emirates", "Abu Dhabi, United Arab Emirates", "United Arab Emirates"], queries: full, results: 100}
+    indeed: {country: United Arab Emirates, queries: full}
+
+  Saudi Arabia:
+    region: Gulf
+    visa: gulf
+    names: ['saudi arabia', 'ksa', 'kingdom of saudi arabia', 'السعودية', 'المملكة العربية السعودية']
+    cities:
+      Riyadh: ['riyadh', 'ar riyad', 'الرياض']
+      Jeddah: ['jeddah', 'jiddah', 'jedda', 'جدة', 'جده']
+      Dammam: ['dammam', 'الدمام']
+      Al Khobar: ['khobar', 'al khobar', 'al-khobar', 'الخبر']
+      Dhahran: ['dhahran', 'الظهران']
+      Mecca: ['mecca', 'makkah', 'مكة']
+      Medina: ['medina', 'madinah', 'al madinah', 'المدينة المنورة']
+    linkedin: {locations: ["Riyadh, Saudi Arabia", "Jeddah, Saudi Arabia", "Saudi Arabia"], queries: full, results: 100}
+    indeed: {country: Saudi Arabia, queries: full}
+
+  Qatar:
+    region: Gulf
+    visa: gulf
+    names: ['qatar', 'قطر']
+    cities:
+      Doha: ['doha', 'lusail', 'الدوحة']
+    linkedin: {locations: ["Qatar"], queries: full}
+    indeed: {country: Qatar, queries: full}
+
+  Bahrain:
+    region: Gulf
+    visa: gulf
+    names: ['bahrain', 'البحرين']
+    cities:
+      Manama: ['manama', 'المنامة']
+    linkedin: {locations: ["Bahrain"], queries: full}
+    indeed: {country: Bahrain, queries: full}
+
+  Oman:
+    region: Gulf
+    visa: gulf
+    names: ['oman', 'sultanate of oman', 'سلطنة عمان']
+    cities:
+      Muscat: ['muscat', 'مسقط']
+      Salalah: ['salalah', 'صلالة']
+    linkedin: {locations: ["Oman"], queries: full}
+    indeed: {country: Oman, queries: full}
+
+  Kuwait:
+    region: Gulf
+    visa: gulf
+    names: ['kuwait', 'الكويت']
+    cities:
+      Kuwait City: ['kuwait city', 'الكويت']
+    linkedin: {locations: ["Kuwait"], queries: full}
+    indeed: {country: Kuwait, queries: full}
+
+  Jordan:
+    region: Middle East
+    visa: gulf
+    names: ['jordan', 'الأردن', 'الاردن']
+    cities:
+      Amman: ['amman', 'عمّان']
+    linkedin: {locations: ["Jordan"], queries: full}
+    # Indeed has no Jordan site
+
+  Egypt:
+    region: Middle East
+    visa: gulf
+    names: ['egypt', 'مصر']
+    cities:
+      Giza: ['giza', '6th of october', 'sheikh zayed', 'smart village', 'الجيزة']
+      Cairo: ['cairo', 'new cairo', 'nasr city', 'heliopolis', 'maadi', 'القاهرة']
+      Alexandria: ['alexandria', 'الإسكندرية', 'الاسكندرية']
+    linkedin: {locations: ["Egypt"], queries: full, results: 100}
+    indeed: {country: Egypt, queries: full}
+
+  Turkey:
+    region: Europe
+    visa: open
+    names: ['turkey', 'türkiye', 'turkiye']
+    cities:
+      Istanbul: ['istanbul']
+    linkedin: {locations: ["Istanbul, Türkiye"], queries: core}
+    indeed: {country: Turkey, queries: sponsorship}
+
+  Malaysia:
+    region: Asia-Pacific
+    visa: open
+    names: ['malaysia']
+    cities:
+      Kuala Lumpur: ['kuala lumpur', 'petaling jaya', 'cyberjaya', 'putrajaya', 'bangsar']
+    linkedin: {locations: ["Kuala Lumpur, Malaysia"], queries: core}
+    indeed: {country: Malaysia, queries: core_indeed}
+
+  Singapore:
+    region: Asia-Pacific
+    visa: open
+    names: ['singapore']
+    cities:
+      Singapore: ['singapore']
+    linkedin: {locations: ["Singapore"], queries: core}
+    indeed: {country: Singapore, queries: core_indeed}
+
+  Japan:
+    region: Asia-Pacific
+    visa: required
+    names: ['japan']
+    cities:
+      Tokyo: ['tokyo', '東京']
+    linkedin: {locations: ["Tokyo, Japan"], queries: sponsorship}
+    indeed: {country: Japan, queries: sponsorship}
+
+  UK:
+    region: Europe
+    visa: required
+    sponsor_list: uk
+    names: ['united kingdom', 'uk', 'great britain', 'england']
+    cities:
+      London: ['london']
+      Manchester: ['manchester']
+      Birmingham: ['birmingham']
+    linkedin: {locations: ["London, England, United Kingdom", "United Kingdom"], queries: sponsorship}
+    indeed: {country: UK, queries: sponsorship}
+
+  Ireland:
+    region: Europe
+    visa: required
+    names: ['ireland', 'republic of ireland']
+    cities:
+      Dublin: ['dublin']
+    linkedin: {locations: ["Ireland"], queries: sponsorship}
+    indeed: {country: Ireland, queries: sponsorship}
+
+  Germany:
+    region: Europe
+    visa: required
+    names: ['germany', 'deutschland']
+    cities:
+      Berlin: ['berlin']
+      Munich: ['munich', 'münchen', 'muenchen']
+      Frankfurt: ['frankfurt']
+      Hamburg: ['hamburg']
+    linkedin: {locations: ["Germany"], queries: sponsorship}
+    indeed: {country: Germany, queries: sponsorship}
+
+  Netherlands:
+    region: Europe
+    visa: required
+    sponsor_list: nl
+    names: ['netherlands', 'the netherlands', 'nederland', 'holland']
+    cities:
+      Amsterdam: ['amsterdam']
+      Rotterdam: ['rotterdam']
+      The Hague: ['the hague', 'den haag', "'s-gravenhage", 'hague']
+    linkedin: {locations: ["Netherlands"], queries: sponsorship}
+    indeed: {country: Netherlands, queries: sponsorship}
+
+  Poland:
+    region: Europe
+    visa: required
+    names: ['poland', 'polska']
+    cities:
+      Warsaw: ['warsaw', 'warszawa']
+      Kraków: ['krakow', 'cracow']
+    linkedin: {locations: ["Poland"], queries: sponsorship}
+    indeed: {country: Poland, queries: sponsorship}
+
+  Hungary:
+    region: Europe
+    visa: required
+    names: ['hungary', 'magyarorszag']
+    cities:
+      Budapest: ['budapest']
+    linkedin: {locations: ["Budapest, Hungary"], queries: sponsorship}
+    indeed: {country: Hungary, queries: sponsorship}
+
+  Czechia:
+    region: Europe
+    visa: required
+    names: ['czechia', 'czech republic', 'cesko']
+    cities:
+      Prague: ['prague', 'praha']
+    linkedin: {locations: ["Prague, Czechia"], queries: sponsorship}
+    indeed: {country: Czech Republic, queries: sponsorship}
+
+  Portugal:
+    region: Europe
+    visa: required
+    names: ['portugal']
+    cities:
+      Lisbon: ['lisbon', 'lisboa']
+    linkedin: {locations: ["Lisbon, Portugal"], queries: sponsorship}
+    indeed: {country: Portugal, queries: sponsorship}
+
+  Canada:
+    region: Americas
+    visa: required
+    sponsor_list: ca
+    names: ['canada']
+    cities:
+      Toronto: ['toronto', 'mississauga']
+      Vancouver: ['vancouver']
+      Montreal: ['montreal']
+    linkedin: {locations: ["Canada"], queries: sponsorship}
+    indeed: {country: Canada, queries: sponsorship}
+
+  Australia:
+    region: Asia-Pacific
+    visa: required
+    names: ['australia']
+    cities:
+      Sydney: ['sydney']
+      Melbourne: ['melbourne']
+    linkedin: {locations: ["Australia"], queries: sponsorship}
+    indeed: {country: Australia, queries: sponsorship}
+
+  New Zealand:
+    region: Asia-Pacific
+    visa: required
+    names: ['new zealand', 'aotearoa']
+    cities:
+      Auckland: ['auckland']
+    linkedin: {locations: ["New Zealand"], queries: sponsorship}
+    indeed: {country: New Zealand, queries: sponsorship}
+
+# Same-named places elsewhere. A city match is ignored when the location also contains these.
+city_not_if:
+  London: 'ontario|\bon\b|kentucky|\bky\b|ohio'
+  Manchester: 'new hampshire|\bnh\b|connecticut|\bct\b|vermont|tennessee|missouri|iowa'
+  Birmingham: 'alabama|\bal\b|michigan|\bmi\b'
+  Hamburg: 'new york|\bny\b|pennsylvania|\bpa\b'
+  Amsterdam: 'new york|\bny\b'
+  Rotterdam: 'new york|\bny\b'
+  Dublin: 'ohio|\boh\b|california|\bca\b|georgia|\bga\b|virginia|\bva\b|pennsylvania|\bpa\b'
+  Alexandria: 'virginia|\bva\b|louisiana|\bla\b|minnesota|\bmn\b|kentucky'
+  Cairo: 'illinois|\bil\b|georgia|\bga\b'
+  Melbourne: 'florida|\bfl\b|kentucky'
+  Sydney: 'nova scotia|\bns\b'
+  Vancouver: 'washington|\bwa\b'
+  Lisbon: 'maine|ohio|connecticut|north dakota'
+  Berlin: 'new hampshire|\bnh\b|connecticut|\bct\b|maryland|\bmd\b|wisconsin|new jersey|\bnj\b|vermont|pennsylvania'
+  Warsaw: 'indiana|\bin\b|virginia|new york|missouri'
+  Prague: 'oklahoma|\bok\b'
+  Medina: 'ohio|\boh\b|minnesota|washington|new york|tennessee|texas'
+  Mecca: 'california|\bca\b'
+  Toronto: 'ohio'
+  Frankfurt: 'kentucky'
+  Ireland: 'northern ireland'
 
 # Remote jobs: kept when the location is open to these places (or says only "Remote").
-# Remote jobs limited to other countries (e.g. "United States - Remote") are dropped.
+# Remote jobs limited to one country you don't live in (e.g. "United States - Remote", "UK only") are dropped.
 include_remote: true
-remote_open_to: 'worldwide|anywhere|global|asia|apac|emea|middle east|gcc|pakistan|\bpk\b|united arab emirates|\buae\b|\bae\b|saudi|\bksa\b|\bsa\b|dubai|riyadh|lahore|karachi|islamabad'
-remote_boards: [remoteok, weworkremotely]
+remote_open_to: 'worldwide|anywhere|global|asia|apac|emea|middle east|mena|gcc|pakistan|\bpk\b|united arab emirates|\buae\b|\bae\b|saudi|\bksa\b|\bsa\b|dubai|riyadh|lahore|karachi|islamabad|international|any location|all countries'
+remote_boards: [remoteok, weworkremotely, remotive, himalayas, jobicy, workingnomads, arbeitnow]
 
+# ================================================================== WHAT
 # Role groups. A job is kept if its TITLE matches a group (checked top to bottom).
 # Patterns are regex, case-insensitive.
 role_groups:
@@ -38,58 +314,68 @@ role_groups:
 # Titles containing any of these are dropped even if they match a group above.
 exclude_title: '\b(intern|internship|trainee|junior|jr\.?|fresh(er)?|graduate program|sales (executive|representative|associate|officer|agent|manager)|account executive|business development|telesales|call cent(er|re)|data entry)\b'
 
-# Searches
+# "Nationals only" jobs (Gulf / Middle East) are dropped. Checked on the title, and on the
+# job description when one is available.
+nationals_title: '\b(saudi|uae|emirati|qatari|omani|kuwaiti|bahraini|jordanian|egyptian) nationals?\b|\bnationals? only\b|\bemirati\b|\bemirati[sz]ation\b|\bsaudi[sz]ation\b|\bnational (talent|graduate) program|\((saudi|emirati|omani|qatari|kuwaiti|bahraini)s?\)|\bsaudis? only\b|للسعوديين|مواطن'
+nationals_text: 'nationals? only|only (for )?(saudi|uae|emirati|qatari|omani|kuwaiti|bahraini)s?( nationals| citizens)?\b|(saudi|uae|qatari|omani|kuwaiti|bahraini) nationals? (only|are encouraged|preferred|candidates only)|(must|should) be (an? )?(saudi|uae|emirati|qatari|omani|kuwaiti|bahraini)( national| citizen)?\b|open (only )?to (saudi|uae|emirati|qatari|omani|kuwaiti|bahraini) (nationals|citizens)|emirati[sz]ation (role|position|program|opportunit)|saudi[sz]ation (role|position)|للسعوديين فقط|للمواطنين فقط'
+
+# Visa wording in job descriptions
+visa_yes: 'visa sponsorship (is )?(available|provided|offered|possible)|sponsorship (is )?(available|provided|offered|possible)|(will|can|able to|happy to|we) (offer |provide )?(visa )?sponsor(ship)?\b|sponsor (your |a |the )?(work )?(visa|permit)|relocation (package|support|assistance|bonus|allowance|budget|is provided|provided|offered|available)|(help|support|assist) (you )?(with )?(your )?relocat|skilled worker visa|blue card|work permit (support|sponsorship|assistance|provided)|highly skilled migrant|kennismigrant|visa support|visa (and|&) relocation|relocation (and|&) visa|open to (international|overseas) (candidates|applicants)|we sponsor'
+visa_no: '(no|not|unable to|cannot|can ?not|can.t|won.t|will not|do not|don.t|does not|doesn.t|are not able to|is not|isn.t)( be)?( able to)?( currently)?( offer| provide| support)?\s*(visa )?sponsor|sponsorship (is )?not (available|offered|provided|possible)|without (the need for )?(visa )?sponsorship|must (already )?(have|hold) (the |a )?(full |existing |valid |current )?(right to work|work permit|work authori[sz]ation)|(existing|current|valid) right to work|eligible to work in [a-z ]{2,25} without|(eu|eea) citizens? only|citizens? only|permanent residents? only|(singaporeans?|malaysians?)( citizens)?( (and|or|/) ?prs?)? only|only (singaporeans?|malaysians?|citizens|local candidates)|no relocation|local candidates only'
+
+# ================================================================== SEARCHES
 sites:
   linkedin:
-    results_per_query: 50        # raised from 25 (most searches hit the cap); lower again if LinkedIn blocks
-    locations: ["Lahore, Pakistan", "Karachi, Pakistan", "Islamabad, Pakistan",
-                "Dubai, United Arab Emirates", "Riyadh, Saudi Arabia"]
-    queries:
-      - "data analyst"
-      - "business intelligence"
-      - "revenue operations"
-      - "sales operations"
-      - "AI product"
-      - "strategy and planning"
-      - "data scientist"
-      - "lecturer"
-      - "assistant professor"
-      - "analytics manager"
-      - "power bi"
+    results_per_query: 50        # per search; a market can raise it with results: 100
+    query_sets:
+      full: ["data analyst", "business intelligence", "revenue operations", "sales operations", "AI product",
+             "strategy and planning", "data scientist", "lecturer", "assistant professor", "analytics manager", "power bi"]
+      core: ["data analyst", "business intelligence", "revenue operations", "AI product", "strategy and planning",
+             "data scientist"]
+      sponsorship: ["data analyst visa sponsorship", "business intelligence visa sponsorship",
+                    "data scientist visa sponsorship", "revenue operations visa sponsorship",
+                    "AI product manager visa sponsorship", "strategy visa sponsorship"]
   indeed:
     results_per_query: 100
-    # country_indeed -> location searched in that country
-    markets:
-      Pakistan: "Pakistan"
-      United Arab Emirates: "Dubai"
-      Saudi Arabia: "Riyadh"
-    queries:
-      - '"data analyst" OR "business intelligence" OR "BI analyst" OR "power bi" OR "analytics manager" OR "product analyst"'
-      - '"revenue operations" OR revops OR "sales operations" OR "salesforce analyst" OR "salesforce administrator" OR "CRM analyst"'
-      - '"AI product" OR "AI specialist" OR "AI consultant" OR "AI solutions" OR "applied AI" OR "AI implementation"'
-      - '"strategy and planning" OR "business operations" OR "strategy analyst" OR "strategy manager" OR "data scientist"'
-      - 'lecturer OR "assistant professor" OR "associate professor" OR faculty OR instructor OR "AI trainer" OR "data trainer"'
-      - '"BI developer" OR "business analyst" OR "insights manager" OR "insights analyst" OR "head of data" OR "analytics lead" OR "reporting analyst"'
-      - 'salesforce OR "CRM manager" OR "commercial operations" OR "GTM operations" OR "strategic planning" OR "corporate planning"'
+    query_sets:
+      full:
+        - '"data analyst" OR "business intelligence" OR "BI analyst" OR "power bi" OR "analytics manager" OR "product analyst"'
+        - '"revenue operations" OR revops OR "sales operations" OR "salesforce analyst" OR "salesforce administrator" OR "CRM analyst"'
+        - '"AI product" OR "AI specialist" OR "AI consultant" OR "AI solutions" OR "applied AI" OR "AI implementation"'
+        - '"strategy and planning" OR "business operations" OR "strategy analyst" OR "strategy manager" OR "data scientist"'
+        - 'lecturer OR "assistant professor" OR "associate professor" OR faculty OR instructor OR "AI trainer" OR "data trainer"'
+        - '"BI developer" OR "business analyst" OR "insights manager" OR "insights analyst" OR "head of data" OR "analytics lead" OR "reporting analyst"'
+        - 'salesforce OR "CRM manager" OR "commercial operations" OR "GTM operations" OR "strategic planning" OR "corporate planning"'
+      core_indeed:
+        - '"data analyst" OR "business intelligence" OR "BI analyst" OR "power bi" OR "analytics manager" OR "data scientist" OR "business analyst"'
+        - '"revenue operations" OR revops OR "sales operations" OR "AI product" OR "AI specialist" OR "strategy and planning" OR "strategy manager"'
+      sponsorship:   # Indeed searches the whole ad, so only ads that mention visa / relocation come back
+        - '("data analyst" OR "business intelligence" OR "BI analyst" OR "power bi" OR "analytics manager" OR "data scientist" OR "product analyst" OR "business analyst") ("visa sponsorship" OR "sponsorship available" OR "relocation package" OR "relocation support" OR "relocation assistance" OR "work permit" OR "blue card" OR "skilled worker visa")'
+        - '("revenue operations" OR revops OR "sales operations" OR "AI product" OR "AI specialist" OR "applied AI" OR "strategy and planning" OR "business operations" OR "strategy manager") ("visa sponsorship" OR "sponsorship available" OR "relocation package" OR "relocation support" OR "relocation assistance" OR "work permit" OR "blue card" OR "skilled worker visa")'
+        - '(lecturer OR "assistant professor" OR "associate professor") ("data science" OR analytics OR "computer science" OR business OR "artificial intelligence") ("visa sponsorship" OR "relocation" OR "work permit" OR "skilled worker visa")'
   bayt:
     results_per_query: 50
     locations: ["Dubai, UAE", "Riyadh, Saudi Arabia"]
-    queries:
-      - "data analyst"
-      - "business intelligence"
-      - "revenue operations"
-      - "sales operations"
-      - "ai product"
-      - "strategy"
-      - "data scientist"
-      - "lecturer"
+    queries: ["data analyst", "business intelligence", "revenue operations", "strategy", "data scientist", "lecturer"]
 
 hours_old: 48                   # normal daily run looks back 2 days; duplicates are removed
-pause_seconds: 6                # wait between searches to reduce blocking
-fetch_description: false        # titles are enough for matching; keeps runs fast and LinkedIn-friendly
-feed_window_days: 3             # career pages: only jobs posted in the last 3 days count as new
+pause_seconds: 4                # wait between searches (each runner does only a share of them)
+fetch_description: false        # descriptions are fetched later, only for jobs that need a visa / nationals check
+feed_window_days: 3             # feeds: only jobs posted in the last 3 days count as new
 repost_window_days: 30          # a job seen again within 30 days is not added again
 
+# The daily run is split across this many parallel GitHub runners. Each has its own internet
+# address, so LinkedIn sees fewer searches per address and the run finishes faster.
+daily:
+  shards: 6
+  minutes_per_shard: 70         # a runner stops starting new searches after this
+  checks_per_shard: 90          # job descriptions opened per runner for visa / nationals checks
+  # A PRIVATE repository gets 2,000 free GitHub minutes a month; a public one is unlimited.
+  # While the repository is private the run shrinks to fit (searches not reached rotate daily).
+  private_shards: 2
+  private_minutes_per_shard: 22
+
+# ================================================================== FEEDS AND SITES
 # Company hiring systems (official public job feeds, no scraping). These systems have no search
 # across companies, so employers are listed here. Add one line per company: board-name: "Display Name"
 # (the board name is the part of the careers URL after the domain).
@@ -152,13 +438,17 @@ workday:
   keywords: ["analyst", "data", "business intelligence", "revenue operations", "strategy", "product manager", "lecturer"]
   max_pages: 2            # 20 jobs per page
 
+# Employers found automatically (Common Crawl, website checks) are kept in data/employers.csv
+# and added to the list above every day. Only employers with jobs in your markets are kept.
+
 # Job-board sitemaps: the list of live jobs a site publishes for search engines.
 # Only jobs whose title looks like a fit are opened (max per site per run).
 sitemaps:
   rozee: true
   gulftalent: true
+  gulftalent_countries: [uae, saudi-arabia, qatar, kuwait, oman, bahrain, jordan, egypt]
   window_days: 30          # sitemap entries updated in the last 30 days
-  max_details_per_site: 40
+  max_details_per_site: 60
 
 # Optional free aggregator APIs. Each one is skipped unless its key is added as a GitHub secret:
 #   CAREERJET_AFFID (free partner account), JOOBLE_KEY (free key by request), SERPAPI_KEY (free 250 searches/month)
@@ -169,17 +459,92 @@ aggregators:
     - {locale: en_PK, location: Karachi}
     - {locale: en_PK, location: Islamabad}
     - {locale: en_AE, location: Dubai}
+    - {locale: en_AE, location: Abu Dhabi}
     - {locale: en_SA, location: Riyadh}
+    - {locale: en_SA, location: Jeddah}
+    - {locale: en_QA, location: Doha}
+    - {locale: en_GB, location: London}
   keywords: ["data analyst", "business intelligence", "revenue operations", "strategy", "AI product", "lecturer"]
-  google_jobs_queries:     # 8 per day stays inside SerpApi's free 250/month
-    - "data analyst jobs Lahore"
-    - "business intelligence jobs Karachi"
-    - "revenue operations jobs Dubai"
-    - "data analyst jobs Dubai"
-    - "strategy and planning jobs Riyadh"
-    - "AI product specialist jobs Pakistan"
-    - "lecturer data science jobs Islamabad"
-    - "business intelligence jobs Riyadh"
+  # Google Jobs (SerpApi): 8 searches a day stays inside the free 250/month.
+  # Searches rotate through every role x city below, so all cities get covered every few days.
+  google_jobs_per_day: 8
+  google_jobs_roles: ["data analyst", "business intelligence", "revenue operations", "AI product specialist",
+                      "strategy and planning", "data scientist", "lecturer data science"]
+  google_jobs_places: ["Lahore", "Karachi", "Islamabad", "Dubai", "Abu Dhabi", "Riyadh", "Jeddah", "Doha",
+                       "Manama", "Muscat", "Kuwait City", "Amman", "Cairo"]
+
+# "What's new today" signals
+signals:
+  # Google Alerts: create alerts at google.com/alerts with "Deliver to: RSS feed", then put the feed
+  # links in a GitHub secret named GOOGLE_ALERTS_FEEDS (one per line). Links listed here also work,
+  # but anyone who can see this file can see them.
+  google_alerts: []
+  # Brave Search, results from the past 24 hours. Needs a BRAVE_KEY secret (free monthly credit).
+  brave_queries_per_day: 30
+  brave_roles: ['"data analyst"', '"business intelligence"', '"revenue operations"', '"AI product"',
+                '"strategy and planning"', '"data scientist"', '"lecturer" "data science"']
+  brave_places: ["Lahore", "Karachi", "Islamabad", "Dubai", "Abu Dhabi", "Riyadh", "Jeddah", "Doha",
+                 "Manama", "Muscat", "Kuwait", "Amman", "Cairo", "Kuala Lumpur", "Singapore",
+                 "London visa sponsorship", "Dublin visa sponsorship", "Berlin visa sponsorship",
+                 "Amsterdam visa sponsorship", "Toronto visa sponsorship", "Sydney visa sponsorship"]
+  max_pages_opened: 60     # job pages opened per day from alerts / Brave
+  # Public Telegram channels (read through the t.me/s/ web preview). Only posts whose title
+  # matches your roles AND whose location matches your cities are kept.
+  telegram: [jobsvacancydubai, jobs_sql, datasciencejobs]
+
+# University job pages (Pakistan + Gulf). New adverts are opened (PDFs read as text) and kept
+# when they mention a teaching role in a subject that fits you.
+universities:
+  - {name: "FAST-NUCES", city: Lahore, url: "https://nu.edu.pk/Career"}
+  - {name: "LUMS", city: Lahore, url: "https://lums.edu.pk/careers"}
+  - {name: "NUST", city: Islamabad, url: "https://nust.edu.pk/careers/"}
+  - {name: "COMSATS University", city: Islamabad, url: "https://www.comsats.edu.pk/Jobs.aspx"}
+  - {name: "IBA Karachi", city: Karachi, url: "https://www.iba.edu.pk/careers.php"}
+  - {name: "Information Technology University", city: Lahore, url: "https://itu.edu.pk/careers/"}
+  - {name: "University of Central Punjab", city: Lahore, url: "https://ucp.edu.pk/careers/"}
+  - {name: "University of Management and Technology", city: Lahore, url: "https://www.umt.edu.pk/careers.aspx"}
+  - {name: "University of the Punjab", city: Lahore, url: "https://pu.edu.pk/home/jobs"}
+  - {name: "Lahore School of Economics", city: Lahore, url: "https://www.lahoreschool.edu.pk/careers.html"}
+  - {name: "Forman Christian College", city: Lahore, url: "https://www.fccollege.edu.pk/careers/"}
+  - {name: "Beaconhouse National University", city: Lahore, url: "https://www.bnu.edu.pk/careers"}
+  - {name: "Habib University", city: Karachi, url: "https://habib.edu.pk/careers/"}
+  - {name: "SZABIST", city: Karachi, url: "https://szabist.edu.pk/careers/"}
+  - {name: "Air University", city: Islamabad, url: "https://au.edu.pk/Pages/Jobs/Jobs.aspx"}
+  - {name: "Bahria University", city: Islamabad, url: "https://www.bahria.edu.pk/careers/"}
+  - {name: "Quaid-i-Azam University", city: Islamabad, url: "https://qau.edu.pk/jobs/"}
+  - {name: "PIEAS", city: Islamabad, url: "https://www.pieas.edu.pk/jobs"}
+  - {name: "GIKI", city: Islamabad, url: "https://giki.edu.pk/jobs/"}
+  - {name: "UET Lahore", city: Lahore, url: "https://www.uet.edu.pk/home/jobs"}
+  - {name: "University of Wollongong in Dubai", city: Dubai, url: "https://www.uowdubai.ac.ae/careers"}
+  - {name: "Middlesex University Dubai", city: Dubai, url: "https://www.mdx.ac.ae/about-us/work-with-us"}
+  - {name: "Heriot-Watt University Dubai", city: Dubai, url: "https://www.hw.ac.uk/dubai/about/work-with-us.htm"}
+  - {name: "Canadian University Dubai", city: Dubai, url: "https://www.cud.ac.ae/careers"}
+  - {name: "American University in Dubai", city: Dubai, url: "https://www.aud.edu/careers/"}
+  - {name: "Abu Dhabi University", city: Abu Dhabi, url: "https://www.adu.ac.ae/careers"}
+  - {name: "American University of Sharjah", city: Sharjah, url: "https://www.aus.edu/careers"}
+  - {name: "Prince Sultan University", city: Riyadh, url: "https://www.psu.edu.sa/en/careers"}
+  - {name: "Alfaisal University", city: Riyadh, url: "https://www.alfaisal.edu/en/careers"}
+  - {name: "Effat University", city: Jeddah, url: "https://www.effatuniversity.edu.sa/English/Careers/Pages/default.aspx"}
+  - {name: "Qatar University", city: Doha, url: "https://www.qu.edu.qa/hr/careers"}
+  - {name: "University of Doha for Science and Technology", city: Doha, url: "https://www.udst.edu.qa/about-udst/careers"}
+
+# Company websites found by the discovery workflows (data/sites.csv). Each day the reader checks
+# the ones that publish jobs (sitemaps, job markup, RSS), oldest-checked first.
+site_reader:
+  sites_per_day: 900
+  pages_per_site: 6        # job pages opened per site per day (only titles that look like a fit)
+  window_days: 7           # sitemap entries changed in the last 7 days
+
+# ================================================================== DISCOVERY (weekly / monthly workflows)
+discovery:
+  # country web addresses searched for careers pages (Common Crawl + certificate logs)
+  tlds: [pk, ae, sa, qa, bh, om, kw, jo, eg, my, sg, jp, uk, ie, de, nl, pl, hu, cz, pt, tr, ca, au, nz]
+  max_hosts_per_tld: 4000
+  cc_minutes: 150          # time limit for the Common Crawl sweep
+  probe_minutes: 90        # time limit for checking new websites
+  probe_per_run: 20000
+  validate_minutes: 90     # time limit for checking employers' job boards
+  private_scale: 0.2       # while the repository is private, discovery uses this share of the time limits
 
 # Optional: if LinkedIn keeps blocking, add a GitHub secret named PROXIES
 # (comma-separated, e.g. user:pass@host:port). Used automatically.
