@@ -122,17 +122,15 @@ class _BlockWatch(logging.Handler):
 def jobspy_searches(plan, hours, deadline):
     from jobspy import scrape_jobs
     watch = _BlockWatch()
-    for name in ("JobSpy:LinkedIn", "JobSpy:Indeed", "JobSpy:Bayt"):
+    for name in ("JobSpy:LinkedIn", "JobSpy:Indeed"):
         logging.getLogger(name).addHandler(watch)
     rows, log, stats = [], [], Counter()
-    fails, blocked_streak, paused, skip = Counter(), 0, False, set()
-    for site, q, kw, market, sponsor_q in plan:
-        if time.time() > deadline:
-            stats["skipped_time"] += 1
-            continue
-        if site in skip:
-            stats["skipped_blocked"] += 1
-            continue
+    fails, blocked_streak, paused, skip, retry = Counter(), 0, False, set(), []
+
+    def one(item, attempt):
+        nonlocal blocked_streak
+        site, q, kw, market, sponsor_q = item
+        where = kw.get("location") or kw.get("country_indeed")
         watch.hits = 0
         try:
             df = scrape_jobs(site_name=[site], search_term=q, hours_old=hours, proxies=_proxies(),
@@ -144,21 +142,35 @@ def jobspy_searches(plan, hours, deadline):
                                  date_posted=r.get("date_posted"), is_remote=bool(r.get("is_remote") is True),
                                  description=str(desc)[:8000] if isinstance(desc, str) else "",
                                  market=market, sponsor_query=sponsor_q))
-            stats["ok"] += 1
             if site == "linkedin" and watch.hits and len(df) == 0:
                 blocked_streak += 1
-                stats["blocked"] += 1
-                log.append(f"{site} | {kw.get('location') or kw.get('country_indeed')} | {q[:50]} | BLOCKED")
+                if attempt == 0:
+                    retry.append(item)
+                    log.append(f"{site} | {where} | {q[:50]} | BLOCKED (will retry)")
+                else:
+                    stats["blocked"] += 1
+                    log.append(f"{site} | {where} | {q[:50]} | BLOCKED again")
             else:
+                stats["ok"] += 1
                 blocked_streak = 0 if site == "linkedin" else blocked_streak
-                log.append(f"{site} | {kw.get('location') or kw.get('country_indeed')} | {q[:50]} | {len(df)}")
+                log.append(f"{site} | {where} | {q[:50]} | {len(df)}" + (" (retry)" if attempt else ""))
         except Exception as e:
             fails[site] += 1
             stats["failed"] += 1
-            log.append(f"{site} | {kw.get('location') or kw.get('country_indeed')} | {q[:50]} | FAILED: {str(e)[:100]}")
+            log.append(f"{site} | {where} | {q[:50]} | FAILED: {str(e)[:100]}")
             if fails[site] >= 4:
                 skip.add(site)
                 log.append(f"{site}: skipped the rest on this runner after 4 errors")
+        print(log[-1], flush=True)
+
+    for item in plan:
+        if time.time() > deadline:
+            stats["skipped_time"] += 1
+            continue
+        if item[0] in skip:
+            stats["skipped_blocked"] += 1
+            continue
+        one(item, 0)
         if blocked_streak >= 3:
             if not paused:
                 log.append("linkedin: blocked 3 times in a row, waiting 2 minutes")
@@ -167,8 +179,21 @@ def jobspy_searches(plan, hours, deadline):
             else:
                 skip.add("linkedin")
                 log.append("linkedin: still blocked, skipped the rest on this runner")
-        print(log[-1], flush=True)
         time.sleep(CONFIG["pause_seconds"])
+
+    # blocked searches get one more try at the end, slower
+    if retry and time.time() < deadline:
+        log.append(f"linkedin: retrying {len(retry)} blocked searches after a 90 second wait")
+        time.sleep(90)
+        blocked_streak = 0
+        for item in retry:
+            if time.time() > deadline or blocked_streak >= 3:
+                stats["blocked"] += 1
+                continue
+            one(item, 1)
+            time.sleep(CONFIG["pause_seconds"] * 2)
+    elif retry:
+        stats["blocked"] += len(retry)
     return rows, log, stats
 
 
@@ -188,11 +213,13 @@ def _sites_for_today(today, shards, shard):
     return my_share(todays, shard, shards), state
 
 
-def collect(shard=0, shards=1):
+def collect(shard=0, shards=1, role="all"):
+    """role: 'search' (job boards, feeds), 'sites' (company websites from discovery) or 'all' (both)."""
     t0 = time.time()
     dcfg = CONFIG.get("daily") or {}
     private = os.environ.get("PRIVATE_REPO", "").lower() == "true"
-    shard_minutes = float(dcfg.get("private_minutes_per_shard" if private else "minutes_per_shard", 70))
+    key = ("private_" if private else "") + ("site_minutes_per_shard" if role == "sites" else "minutes_per_shard")
+    shard_minutes = float(dcfg.get(key, dcfg.get("minutes_per_shard", 70)))
     deadline = t0 + shard_minutes * 60
     today = today_pkt()
     backfill = lookback_days()
@@ -201,17 +228,18 @@ def collect(shard=0, shards=1):
     sm_days = max(backfill or 0, int((CONFIG.get("sitemaps") or {}).get("window_days", 30)))
     long_lo = (today - timedelta(days=sm_days)).isoformat()
     seen_links = set(_read_csv(SEEN_LINKS, ["key"])["key"])
-    print(f"Runner {shard + 1}/{shards} | {'BACKFILL ' + str(backfill) + ' days' if backfill else 'daily'}", flush=True)
+    print(f"Runner {role} {shard + 1}/{shards} | {'BACKFILL ' + str(backfill) + ' days' if backfill else 'daily'}", flush=True)
+    do_search, do_sites = role in ("all", "search"), role in ("all", "sites")
 
     # ---- JobSpy searches: each site's searches are dealt round-robin across runners
-    plan = search_plan()
+    plan = search_plan() if do_search else []
     mine = []
-    for k, site in enumerate(("linkedin", "indeed", "bayt")):
+    for k, site in enumerate(("linkedin", "indeed")):
         mine += my_share([p for p in plan if p[0] == site], shard, shards, offset=k)
     if mine:   # start at a different search each day, so any searches cut by the time limit rotate
         k = today.toordinal() % len(mine)
         mine = mine[k:] + mine[:k]
-    js_rows, log, js_stats = jobspy_searches(mine, hours, deadline - (6 if private else 15) * 60)
+    js_rows, log, js_stats = jobspy_searches(mine, hours, deadline - (6 if private else 15) * 60) if mine else ([], [], Counter())
 
     # ---- feeds and sites
     tasks_ok, tasks_failed = Counter(), Counter()
@@ -234,7 +262,8 @@ def collect(shard=0, shards=1):
             log.append(f"{name} | FAILED: {str(e)[:120]}")
         print(f"{name} done ({time.time() - t0:.0f}s)", flush=True)
 
-    run_task("hiring systems", lambda: extra.hiring_systems(CONFIG, shard, shards))
+    if do_search:
+        run_task("hiring systems", lambda: extra.hiring_systems(CONFIG, shard, shards))
     small = [
         ("remote boards", lambda: legacy_remote_boards()),
         ("remote job APIs", lambda: more.remote_apis(CONFIG, more_remote_ok())),
@@ -244,10 +273,10 @@ def collect(shard=0, shards=1):
         ("alerts + web search", lambda: signals(today, window_lo, seen_links)),
         ("universities", lambda: more.universities(CONFIG, seen_links)),
     ]
-    for name, fn in my_share(small, shard, shards):
+    for name, fn in (my_share(small, shard, shards) if do_search else []):
         run_task(name, fn)
 
-    sites, state = _sites_for_today(today, shards, shard)
+    sites, state = _sites_for_today(today, shards, shard) if do_sites else ([], {})
     if sites:
         sr = CONFIG.get("site_reader") or {}
         site_lo = (today - timedelta(days=max(backfill or 0, int(sr.get("window_days", 7))))).isoformat()
@@ -258,7 +287,7 @@ def collect(shard=0, shards=1):
         opened += op
         state_updates.update(upd)
         tasks_ok["company sites"] += 1
-    else:
+    elif do_sites:
         log.append("company sites | none active yet (run the weekly discovery workflow)")
 
     # ---- dates: feeds count only recent jobs
@@ -268,12 +297,18 @@ def collect(shard=0, shards=1):
     feed_rows = [r for r in feed_rows if recent(r)]
 
     # ---- match, then check the new ones
-    matched, raw_n, dropped_loc = match_rows(js_rows + feed_rows)
+    matched, raw_n, dropped_loc, blank = match_rows(js_rows + feed_rows)
+    if blank:   # matching titles with no usable location: read it from the job page
+        filled, fill_log = fill_locations(blank, int(dcfg.get("location_lookups_per_shard", 40)), deadline)
+        log += fill_log
+        more_matched, _, more_dropped, _ = match_rows(filled, count_blank=False)
+        matched += more_matched
+        dropped_loc.update(more_dropped)
     screened, checks_log = screen(matched, today, deadline)
     log += checks_log
 
     OUT.mkdir(exist_ok=True)
-    out = dict(shard=shard, shards=shards, raw=raw_n, rows=[r for r in matched if r.get("keep")],
+    out = dict(shard=shard, shards=shards, role=role, raw=raw_n, rows=[r for r in matched if r.get("keep")],
                known=[r["job_id"] for r in matched if r.get("known")],
                screened=screened, opened=sorted(set(opened)), site_state=state_updates, log=log,
                dropped_location=dict(dropped_loc.most_common(40)),
@@ -281,7 +316,7 @@ def collect(shard=0, shards=1):
                           searches_blocked=js_stats["blocked"], searches_skipped=js_stats["skipped_time"] + js_stats["skipped_blocked"],
                           sources_ok=sum(tasks_ok.values()), sources_failed=sum(tasks_failed.values()),
                           minutes=round((time.time() - t0) / 60, 1)))
-    (OUT / f"shard_{shard}.json").write_text(json.dumps(out, ensure_ascii=False, default=str))
+    (OUT / f"shard_{role}_{shard}.json").write_text(json.dumps(out, ensure_ascii=False, default=str))
     print(f"Runner {shard + 1}: raw={raw_n} matched={len(matched)} kept={len(out['rows'])} in {out['stats']['minutes']} min")
     return out
 
@@ -345,13 +380,42 @@ def signals(today, window_lo, seen_links):
     return rows, log + l3, opened
 
 
-def match_rows(raw_rows):
-    """Role + place matching. Returns (matched rows, raw count, Counter of locations dropped)."""
+BLANK_LOC = re.compile(r"^\s*(\d+\s+locations?|multiple locations|various locations|n/?a|none|nan)?\s*$", re.I)
+
+
+def fill_locations(rows, budget, deadline):
+    """Open the job page of matching titles that came without a location and read it there."""
+    from concurrent.futures import ThreadPoolExecutor
+    todo = [r for r in rows if str(r.get("job_url") or "").startswith("http")][:budget]
+
+    def go(r):
+        if time.time() > deadline:
+            return r, ""
+        try:
+            got = more.open_job_page(r["job_url"], r["source"])
+            loc = next((g["location"] for g in got if g.get("location")), "")
+            return r, loc
+        except Exception:
+            return r, ""
+
+    found = 0
+    out = []
+    with ThreadPoolExecutor(8) as pool:
+        for r, loc in pool.map(go, todo):
+            if loc:
+                found += 1
+                out.append({**r, "location": loc})
+    return out, [f"locations | missing {len(rows)} | looked up {len(todo)} | found {found}"]
+
+
+def match_rows(raw_rows, count_blank=True):
+    """Role + place matching. Returns (matched rows, raw count, Counter of locations dropped,
+    rows with a matching title but no usable location)."""
     hist = _read_csv(JOBS, ["job_id", "job_url", "last_seen"])
     win = (today_pkt() - timedelta(days=CONFIG["repost_window_days"])).isoformat()
     recent = hist[hist["last_seen"] >= win]
     known_ids, known_urls = set(recent["job_id"]), set(recent["job_url"].map(fix_url))
-    out, dropped = [], Counter()
+    out, dropped, blank = [], Counter(), []
     seen_urls = set()
     for r in raw_rows:
         title = html.unescape(str(r.get("title") or "")).strip()
@@ -364,7 +428,10 @@ def match_rows(raw_rows):
             continue
         city, country = GEO.place(r.get("location"), r.get("is_remote") is True)
         if not city:
-            dropped[str(r.get("location") or "")[:60]] += 1
+            if count_blank and BLANK_LOC.match(str(r.get("location") or "")) and r.get("source") not in JOBSPY_SITES:
+                blank.append(r)
+            else:
+                dropped[str(r.get("location") or "")[:60]] += 1
             continue
         if url in seen_urls:
             continue
@@ -377,7 +444,7 @@ def match_rows(raw_rows):
                         date_posted="" if pd.isna(d) else d.date().isoformat(),
                         description=r.get("description") or "", sponsor_query=bool(r.get("sponsor_query")),
                         known=jid in known_ids or url in known_urls, note=""))
-    return out, len(raw_rows), dropped
+    return out, len(raw_rows), dropped, blank
 
 
 def screen(rows, today, deadline):
@@ -494,7 +561,7 @@ def merge(shard_dir=OUT):
         screened += p["screened"]
         opened += p["opened"]
         site_state.update(p["site_state"])
-        log += [f"--- runner {p['shard'] + 1}/{p['shards']} ({p['stats']['minutes']} min)"] + p["log"]
+        log += [f"--- {p.get('role', 'runner')} runner {p['shard'] + 1}/{p['shards']} ({p['stats']['minutes']} min)"] + p["log"]
         stats.update({k: v for k, v in p["stats"].items() if k != "minutes"})
         stats["raw"] += p["raw"]
         dropped.update(p["dropped_location"])
@@ -591,9 +658,10 @@ def main():
     ap.add_argument("--shard", type=int, default=0)
     ap.add_argument("--shards", type=int, default=1)
     ap.add_argument("--from", dest="src", default=str(OUT))
+    ap.add_argument("--role", default="all", choices=["all", "search", "sites"])
     a = ap.parse_args()
     if a.step in ("all", "collect"):
-        collect(a.shard, a.shards)
+        collect(a.shard, a.shards, a.role)
     if a.step in ("all", "merge"):
         merge(Path(a.src))
 

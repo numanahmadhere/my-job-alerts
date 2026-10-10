@@ -406,30 +406,47 @@ def sponsors():
 
 
 # ---------------------------------------------------------------- certificate logs (crt.sh)
+def _crt_query(q, deadline):
+    """crt.sh is free but overloaded: it often answers with an error page. Retry with growing pauses."""
+    for attempt, wait in enumerate((0, 20, 60, 120)):
+        if time.time() + wait > deadline:
+            break
+        time.sleep(wait)
+        try:
+            r = requests.get("https://crt.sh/", params={"q": q, "output": "json", "exclude": "expired", "deduplicate": "Y"},
+                             headers={"User-Agent": BROWSER_UA}, timeout=120)
+            if r.status_code == 200 and r.text.lstrip().startswith("["):
+                return r.json(), attempt
+        except Exception:
+            pass
+    return None, 4
+
+
 def crtsh(minutes):
     deadline = time.time() + minutes * 60
     tlds = sorted(DISC.get("tlds") or TLD_COUNTRY, key=lambda t: (t not in GULF_FIRST, t))
-    found = []
+    found, ok, failed = [], 0, []
     for tld in tlds:
         for prefix in ("careers", "career", "jobs", "karriere", "werkenbij", "join"):
             if time.time() > deadline:
                 break
-            try:
-                r = requests.get("https://crt.sh/", params={"q": f"{prefix}.%.{tld}", "output": "json", "exclude": "expired"},
-                                 headers={"User-Agent": BROWSER_UA}, timeout=90)
-                if r.status_code != 200:
-                    continue
-                hosts = set()
-                for c in r.json():
-                    for n in str(c.get("name_value", "")).split("\n"):
-                        n = n.strip().lower()
-                        if n.startswith(prefix + ".") and "*" not in n and n.endswith("." + tld):
-                            hosts.add(n)
-                found += [dict(host=h) for h in hosts]
-                log(f"crt.sh | {prefix}.*.{tld} | {len(hosts)}")
-                time.sleep(2)
-            except Exception as e:
-                log(f"crt.sh | {prefix}.*.{tld} | FAILED: {str(e)[:60]}")
+            data, tries = _crt_query(f"{prefix}.%.{tld}", deadline)
+            if data is None:
+                failed.append(f"{prefix}.*.{tld}")
+                continue
+            hosts = set()
+            for c in data:
+                for n in str(c.get("name_value", "")).split("\n"):
+                    n = n.strip().lower()
+                    if n.startswith(prefix + ".") and "*" not in n and n.endswith("." + tld):
+                        hosts.add(n)
+            found += [dict(host=h) for h in hosts]
+            ok += 1
+            log(f"crt.sh | {prefix}.*.{tld} | {len(hosts)}" + (f" (after {tries} retries)" if tries else ""))
+            time.sleep(5)
+    if failed:
+        log(f"crt.sh | no answer after retries for {len(failed)} searches: {', '.join(failed[:20])}")
+    log(f"crt.sh | searches answered {ok}")
     add_sites(found, "crt.sh")
 
 
@@ -572,7 +589,7 @@ def main():
             log(f"wdc | FAILED: {str(e)[:200]}")
     if mode == "weekly":
         sponsors()
-        crtsh(40 * SCALE)
+        crtsh(90 * SCALE)
     probe_new(float(DISC.get("probe_minutes", 90)) * SCALE, int(DISC.get("probe_per_run", 20000)))
     validate(float(DISC.get("validate_minutes", 90)) * SCALE)
     log(f"done in {(time.time() - t0) / 60:.0f} min")

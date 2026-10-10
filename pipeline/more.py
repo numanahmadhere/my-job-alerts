@@ -420,9 +420,16 @@ def universities(config, seen):
                         body = " ".join((p.extract_text() or "") for p in PdfReader(io.BytesIO(doc)).pages[:6])
                     else:
                         body = description_from_html(_text(doc))
-                    if not TEACH.search(body + " " + label):
+                    if re.search(r"(?i)non[- ]?faculty|admin(istrative)? staff|support staff", label):
                         continue
-                    subjects = list(dict.fromkeys(m.group(0).title() for m in subj_rx.finditer(body)))[:4]
+                    # a subject only counts when it is written next to a teaching role
+                    # ("Lecturer in Business Analytics", "Assistant Professor (Data Science)"),
+                    # not anywhere on the page (e.g. "School of Management" in the footer)
+                    near = []
+                    for m in TEACH.finditer(label + " \n " + body):
+                        txt = (label + " \n " + body)
+                        near.append(txt[max(0, m.start() - 120): m.end() + 160])
+                    subjects = list(dict.fromkeys(s.group(0).title() for w in near for s in subj_rx.finditer(w)))[:4]
                     title = f"Faculty / Lecturer roles: {', '.join(subjects)}" if subjects else ""
                     if not title or (req and not req.search(title)):
                         continue
@@ -573,7 +580,7 @@ def site_reader(sites, state, seen, window_lo, pages_per_site, deadline):
             st["fails"] = str(int(st.get("fails") or 0) + 1)
             return [], [], st, "failed"
 
-    with ThreadPoolExecutor(10) as pool:
+    with ThreadPoolExecutor(16) as pool:
         for site, (got, op, st, what) in zip(sites, pool.map(go, sites)):
             rows += got
             opened += op

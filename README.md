@@ -26,7 +26,7 @@ accented spellings are matched.
 
 ## Sources
 **Daily (7 AM PKT):**
-- LinkedIn, Indeed (22 countries), Bayt, via JobSpy
+- LinkedIn, Indeed (22 countries), via JobSpy (Bayt was removed: it blocks GitHub's servers)
 - Company hiring systems (official public job feeds): Greenhouse, Lever, Workable, Ashby, SmartRecruiters,
   Recruitee, BambooHR, Personio, Workday, Breezy, Teamtailor, Pinpoint. Employers come from `config.yaml`,
   the [open-jobs-data](https://github.com/ConorsCode/open-jobs-data) list, and `data/employers.csv`
@@ -48,8 +48,10 @@ accented spellings are matched.
 - One time (run by hand): Web Data Commons list of websites that publish job markup
 
 ## How the daily run works
-The searches are split across several GitHub runners working in parallel (each has its own internet address,
-which keeps LinkedIn from blocking). A final step combines them, removes duplicates (by link, company + title +
+Two groups of GitHub runners work at the same time: 10 search runners (LinkedIn, Indeed, hiring systems, feeds)
+and 4 website runners (company websites found by discovery). Each runner has its own internet address, which
+keeps LinkedIn from blocking; a blocked LinkedIn search is retried once at the end. Matching jobs listed without
+a location get it from the job page. A final step combines everything, removes duplicates (by link, company + title +
 city, and fuzzy matching), checks visa / nationals rules, and **adds** new jobs to the Sheet.
 
 ## The Sheet
@@ -61,7 +63,7 @@ city, and fuzzy matching), checks visa / nationals rules, and **adds** new jobs 
 
 ## Notes
 - "Run workflow" has an optional "look further back" box. It only adds jobs; it never rewrites the tab.
-- Private repository: GitHub gives 2,000 free minutes a month, so the run shrinks to fit (2 runners, about
-  20 minutes each; searches not reached rotate day by day) and discovery uses a fifth of its time.
+- Private repository: GitHub gives 2,000 free minutes a month, so the run shrinks to fit (2 search runners and 1 website runner, about
+  15 minutes each; searches not reached rotate day by day) and discovery uses a fifth of its time.
   Public repository: unlimited free minutes, full run.
 - What the last run found, per source: `data/last_run.txt`. Discovery: `data/discovery_log.txt`.

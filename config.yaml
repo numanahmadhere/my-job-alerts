@@ -353,10 +353,7 @@ sites:
         - '("data analyst" OR "business intelligence" OR "BI analyst" OR "power bi" OR "analytics manager" OR "data scientist" OR "product analyst" OR "business analyst") ("visa sponsorship" OR "sponsorship available" OR "relocation package" OR "relocation support" OR "relocation assistance" OR "work permit" OR "blue card" OR "skilled worker visa")'
         - '("revenue operations" OR revops OR "sales operations" OR "AI product" OR "AI specialist" OR "applied AI" OR "strategy and planning" OR "business operations" OR "strategy manager") ("visa sponsorship" OR "sponsorship available" OR "relocation package" OR "relocation support" OR "relocation assistance" OR "work permit" OR "blue card" OR "skilled worker visa")'
         - '(lecturer OR "assistant professor" OR "associate professor") ("data science" OR analytics OR "computer science" OR business OR "artificial intelligence") ("visa sponsorship" OR "relocation" OR "work permit" OR "skilled worker visa")'
-  bayt:
-    results_per_query: 50
-    locations: ["Dubai, UAE", "Riyadh, Saudi Arabia"]
-    queries: ["data analyst", "business intelligence", "revenue operations", "strategy", "data scientist", "lecturer"]
+  # Bayt was removed: it refuses requests from GitHub's servers (403).
 
 hours_old: 48                   # normal daily run looks back 2 days; duplicates are removed
 pause_seconds: 4                # wait between searches (each runner does only a share of them)
@@ -367,13 +364,18 @@ repost_window_days: 30          # a job seen again within 30 days is not added a
 # The daily run is split across this many parallel GitHub runners. Each has its own internet
 # address, so LinkedIn sees fewer searches per address and the run finishes faster.
 daily:
-  shards: 6
-  minutes_per_shard: 70         # a runner stops starting new searches after this
+  shards: 10                    # search runners (LinkedIn, Indeed, hiring systems, feeds)
+  site_shards: 4                # website runners (company websites found by discovery), run at the same time
+  minutes_per_shard: 70         # a search runner stops starting new searches after this
+  site_minutes_per_shard: 60
   checks_per_shard: 90          # job descriptions opened per runner for visa / nationals checks
+  location_lookups_per_shard: 40   # matching jobs listed without a location: read it from the job page
   # A PRIVATE repository gets 2,000 free GitHub minutes a month; a public one is unlimited.
   # While the repository is private the run shrinks to fit (searches not reached rotate daily).
   private_shards: 2
-  private_minutes_per_shard: 22
+  private_minutes_per_shard: 18
+  private_site_shards: 1
+  private_site_minutes_per_shard: 12
 
 # ================================================================== FEEDS AND SITES
 # Company hiring systems (official public job feeds, no scraping). These systems have no search
@@ -531,7 +533,7 @@ universities:
 # Company websites found by the discovery workflows (data/sites.csv). Each day the reader checks
 # the ones that publish jobs (sitemaps, job markup, RSS), oldest-checked first.
 site_reader:
-  sites_per_day: 900
+  sites_per_day: 3000
   pages_per_site: 6        # job pages opened per site per day (only titles that look like a fit)
   window_days: 7           # sitemap entries changed in the last 7 days
 
