@@ -1,13 +1,13 @@
-Run at 2026-10-11 01:49 PKT (daily, 2 runners)
-raw=6323  matching=45  new=45  total=288  coverage=36%
-Searches: 127/372 done, 0 failed, 10 blocked, 245 skipped
-New by city: {'Dubai': 9, 'Abu Dhabi': 6, 'Lahore': 6, 'Karachi': 5, 'Singapore': 4, 'UAE (city not stated)': 3, 'London': 3, 'Sharjah': 2, 'Doha': 2, 'Remote': 2, 'Sydney': 1, 'Mecca': 1, 'Canada (city not stated)': 1}
-New by role group: {'Teaching & Faculty': 19, 'Data & BI': 9, 'Data Science': 5, 'Strategy & Ops': 5, 'AI Product / Applied AI': 5, 'RevOps': 2}
-Cities with matching jobs today: Abu Dhabi, Canada (city not stated), Doha, Dubai, Karachi, Lahore, London, Mecca, Remote, Sharjah, Singapore, Sydney, UAE (city not stated)
+Run at 2026-10-11 03:48 PKT (daily, 2 runners)
+raw=6000  matching=13  new=11  total=299  coverage=51%
+Searches: 183/372 done, 0 failed, 35 blocked, 189 skipped
+New by city: {'Egypt (city not stated)': 4, 'Cairo': 3, 'Kuwait City': 1, 'Istanbul': 1, 'Islamabad': 1, 'Karachi': 1}
+New by role group: {'Data & BI': 6, 'Teaching & Faculty': 2, 'Data Science': 1, 'Strategy & Ops': 1, 'AI Product / Applied AI': 1}
+Cities with matching jobs today: Cairo, Egypt (city not stated), Islamabad, Istanbul, Karachi, Kuwait City, Lahore
 
-Matching titles dropped for location (top 25): {"": 24, "Boston, MA": 6, "2 Locations": 5, "Jubail, Eastern, Saudi Arabia": 4, "Pune, Gera Commerzone SEZ": 3, "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445": 3, "United States | United Kingdom": 2, "San Francisco": 2, "Seattle, Washington,  United States": 2, "Purchase, New York": 2, "Pune, India": 2, "Paris": 2, "New York City": 1, "Chicago": 1, "San Francisco, CA or Remote (U.S.)": 1, "United States - Remote": 1, "Canada - Remote (ON, AB, BC, or NS Only)": 1, "San Francisco, CA, New York, NY, Portland, OR, or Remote wit": 1, "Bellevue, Washington; Chicago, Illinois; San Francisco, Cali": 1, "United States": 1, "Remote, USA": 1, "Barcelona | es | Barcelona, , Spain": 1, "35 Locations": 1, "37 Locations": 1, "49 Locations": 1}
+Matching titles dropped for location (top 25): {"": 25, "Boston, MA": 6, "2 Locations": 5, "Pune, Gera Commerzone SEZ": 3, "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445": 3, "Jubail, Eastern, Saudi Arabia": 2, "United States | United Kingdom": 2, "San Francisco": 2, "Lewisburg, PA, USA": 2, "Danville, PA, USA": 2, "Seattle, Washington,  United States": 2, "Purchase, New York": 2, "Pune, India": 2, "Paris": 2, "New York City": 1, "Chicago": 1, "San Francisco, CA or Remote (U.S.)": 1, "United States - Remote": 1, "Canada - Remote (ON, AB, BC, or NS Only)": 1, "San Francisco, CA, New York, NY, Portland, OR, or Remote wit": 1, "Bellevue, Washington; Chicago, Illinois; San Francisco, Cali": 1, "United States": 1, "Remote, USA": 1, "Campinas | SP | br | Campinas, SP, Brazil": 1, "Cluj-Napoca | CJ | ro | Cluj-Napoca, CJ, Romania": 1}
 
---- runner 1/2 (24.8 min)
+--- runner 1/2 (22.2 min)
 indeed | Australia | (lecturer OR "assistant professor" OR "associate p | 1
 indeed | New Zealand | ("revenue operations" OR revops OR "sales operatio | 1
 bayt | Dubai, UAE | data analyst | 0
@@ -15,82 +15,107 @@ bayt | Dubai, UAE | revenue operations | 0
 bayt | Dubai, UAE | data scientist | 0
 bayt | Riyadh, Saudi Arabia | data analyst | 0
 bayt | Riyadh, Saudi Arabia | revenue operations | 0
-bayt | Riyadh, Saudi Arabia | data scientist | 0
-linkedin | Lahore, Pakistan | data analyst | 28
+bayt | Riyadh, Saudi Arabia | data scientist | 1
+linkedin | Lahore, Pakistan | data analyst | BLOCKED
 linkedin | Lahore, Pakistan | revenue operations | 9
 linkedin | Lahore, Pakistan | AI product | 7
-linkedin | Lahore, Pakistan | data scientist | 10
-linkedin | Lahore, Pakistan | assistant professor | 2
-linkedin | Lahore, Pakistan | power bi | 50
-linkedin | Karachi, Pakistan | business intelligence | 13
-linkedin | Karachi, Pakistan | sales operations | 20
-linkedin | Karachi, Pakistan | strategy and planning | 42
-linkedin | Karachi, Pakistan | lecturer | 1
-linkedin | Karachi, Pakistan | analytics manager | BLOCKED
-linkedin | Islamabad, Pakistan | data analyst | 17
-linkedin | Islamabad, Pakistan | revenue operations | BLOCKED
+linkedin | Lahore, Pakistan | data scientist | 12
+linkedin | Lahore, Pakistan | assistant professor | BLOCKED
+linkedin | Lahore, Pakistan | power bi | 30
+linkedin | Karachi, Pakistan | business intelligence | BLOCKED
+linkedin | Karachi, Pakistan | sales operations | 10
+linkedin | Karachi, Pakistan | strategy and planning | 20
+linkedin | Karachi, Pakistan | lecturer | BLOCKED
+linkedin | Karachi, Pakistan | analytics manager | 12
+linkedin | Islamabad, Pakistan | data analyst | 10
+linkedin | Islamabad, Pakistan | revenue operations | 4
 linkedin | Islamabad, Pakistan | AI product | 2
 linkedin | Islamabad, Pakistan | data scientist | 6
 linkedin | Islamabad, Pakistan | assistant professor | 1
-linkedin | Islamabad, Pakistan | power bi | BLOCKED
-linkedin | Dubai, United Arab Emirates | business intelligence | 100
-linkedin | Dubai, United Arab Emirates | sales operations | 10
+linkedin | Islamabad, Pakistan | power bi | 10
+linkedin | Dubai, United Arab Emirates | business intelligence | BLOCKED
+linkedin | Dubai, United Arab Emirates | sales operations | 20
 linkedin | Dubai, United Arab Emirates | strategy and planning | 100
 linkedin | Dubai, United Arab Emirates | lecturer | 22
-linkedin | Dubai, United Arab Emirates | analytics manager | 74
-linkedin | Abu Dhabi, United Arab Emirates | data analyst | 50
-linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 29
-linkedin | Abu Dhabi, United Arab Emirates | AI product | 32
-linkedin | Abu Dhabi, United Arab Emirates | data scientist | BLOCKED
+linkedin | Dubai, United Arab Emirates | analytics manager | 10
+linkedin | Abu Dhabi, United Arab Emirates | data analyst | BLOCKED
+linkedin | Abu Dhabi, United Arab Emirates | revenue operations | BLOCKED
+linkedin | Abu Dhabi, United Arab Emirates | AI product | 30
+linkedin | Abu Dhabi, United Arab Emirates | data scientist | 41
 linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 15
-linkedin | Abu Dhabi, United Arab Emirates | power bi | 100
-linkedin | United Arab Emirates | business intelligence | 30
+linkedin | Abu Dhabi, United Arab Emirates | power bi | 80
+linkedin | United Arab Emirates | business intelligence | 79
 linkedin | United Arab Emirates | sales operations | 100
-linkedin | United Arab Emirates | strategy and planning | 100
-linkedin | United Arab Emirates | lecturer | 46
-linkedin | United Arab Emirates | analytics manager | 100
-linkedin | Riyadh, Saudi Arabia | data analyst | 10
-linkedin | Riyadh, Saudi Arabia | revenue operations | 16
+linkedin | United Arab Emirates | strategy and planning | 40
+linkedin | United Arab Emirates | lecturer | 40
+linkedin | United Arab Emirates | analytics manager | BLOCKED
+linkedin | Riyadh, Saudi Arabia | data analyst | 24
+linkedin | Riyadh, Saudi Arabia | revenue operations | 15
 linkedin | Riyadh, Saudi Arabia | AI product | 7
 linkedin | Riyadh, Saudi Arabia | data scientist | 8
 linkedin | Riyadh, Saudi Arabia | assistant professor | 1
-linkedin | Riyadh, Saudi Arabia | power bi | 100
-linkedin | Jeddah, Saudi Arabia | business intelligence | 1
-linkedin | Jeddah, Saudi Arabia | sales operations | 15
-linkedin | Jeddah, Saudi Arabia | strategy and planning | BLOCKED
+linkedin | Riyadh, Saudi Arabia | power bi | 20
+linkedin | Jeddah, Saudi Arabia | business intelligence | BLOCKED
+linkedin | Jeddah, Saudi Arabia | sales operations | 12
+linkedin | Jeddah, Saudi Arabia | strategy and planning | 12
 linkedin | Jeddah, Saudi Arabia | lecturer | 2
 linkedin | Jeddah, Saudi Arabia | analytics manager | 0
-linkedin | Saudi Arabia | data analyst | 49
-linkedin | Saudi Arabia | revenue operations | 29
+linkedin | Saudi Arabia | data analyst | BLOCKED
+linkedin | Saudi Arabia | revenue operations | 28
 linkedin | Saudi Arabia | AI product | 9
 linkedin | Saudi Arabia | data scientist | 15
-linkedin | Saudi Arabia | assistant professor | 1
-linkedin | Saudi Arabia | power bi | 20
-linkedin | Qatar | business intelligence | 19
-linkedin | Qatar | sales operations | 14
+linkedin | Saudi Arabia | assistant professor | BLOCKED
+linkedin | Saudi Arabia | power bi | 30
+linkedin | Qatar | business intelligence | 20
+linkedin | Qatar | sales operations | 15
 linkedin | Qatar | strategy and planning | 20
 linkedin | Qatar | lecturer | 0
 linkedin | Qatar | analytics manager | 3
-linkedin | Bahrain | data analyst | 2
+linkedin | Bahrain | data analyst | 0
 linkedin | Bahrain | revenue operations | BLOCKED
-linkedin | Bahrain | AI product | BLOCKED
-linkedin | Bahrain | data scientist | 1
+linkedin | Bahrain | AI product | 0
+linkedin | Bahrain | data scientist | 0
 linkedin | Bahrain | assistant professor | 2
-linkedin | Bahrain | power bi | 25
+linkedin | Bahrain | power bi | 20
 linkedin | Oman | business intelligence | 3
 linkedin | Oman | sales operations | 3
-linkedin | Oman | strategy and planning | 11
-discovered employers | added | 0
+linkedin | Oman | strategy and planning | 10
+linkedin | Oman | lecturer | BLOCKED
+linkedin | Oman | analytics manager | 0
+linkedin | Kuwait | data analyst | 2
+linkedin | Kuwait | revenue operations | 1
+linkedin | Kuwait | AI product | 2
+linkedin | Kuwait | data scientist | 0
+linkedin | Kuwait | assistant professor | 0
+linkedin | Kuwait | power bi | 20
+linkedin | Jordan | business intelligence | BLOCKED
+linkedin | Jordan | sales operations | 25
+linkedin | Jordan | strategy and planning | BLOCKED
+linkedin | Jordan | lecturer | 4
+linkedin | Jordan | analytics manager | 6
+linkedin | Egypt | data analyst | 10
+linkedin | Egypt | revenue operations | 20
+linkedin | Egypt | AI product | BLOCKED
+linkedin | Egypt | data scientist | BLOCKED
+linkedin | Egypt | assistant professor | 2
+linkedin | Egypt | power bi | 70
+linkedin | Istanbul, Türkiye | business intelligence | 30
+linkedin | Istanbul, Türkiye | AI product | BLOCKED
+linkedin | Istanbul, Türkiye | data scientist | BLOCKED
+linkedin | Kuala Lumpur, Malaysia | business intelligence | BLOCKED
+linkedin: blocked 3 times in a row, waiting 2 minutes
+discovered employers | added | 26
 open-jobs-data | employers added | 371
-ashby | 36 employers | 2711
-bamboohr | 1 employers | 10
-greenhouse | 135 employers | 14209
+ashby | 36 employers | 2710
+bamboohr | 2 employers | 13
+greenhouse | 135 employers | 14215
 lever | 8 employers | 1671
-personio | 3 employers | 15
-recruitee | 3 employers | 55
-smartrecruiters | 4 employers | 1122
-workable | 7 employers | 1660
-workday | 8 employers | 1193
+personio | 8 employers | 65
+recruitee | 5 employers | 49
+smartrecruiters | 5 employers | 2966
+teamtailor | 2 employers | 30
+workable | 7 employers | 126
+workday | 10 employers | 1204
 remoteok | 2
 weworkremotely | 87
 rozee | sitemap jobs in window 2690 | title matches 21 | opened 21
@@ -98,43 +123,41 @@ gulftalent | FAILED: HTTP Error 403:
 telegram | jobsvacancydubai | 0
 telegram | jobs_sql | 4
 telegram | datasciencejobs | 0
-university | FAST-NUCES | advert FAILED: Failed to perform, curl: (28) Operation timed out after 4500
-university | FAST-NUCES | new links 15 | relevant 11
+university | FAST-NUCES | new links 10 | relevant 10
 university | LUMS | FAILED: HTTP Error 403: Forbidden
 university | NUST | page not found
 university | COMSATS University | page not found
 university | IBA Karachi | page not found
-university | Information Technology University | new links 8 | relevant 8
+university | Information Technology University | new links 0 | relevant 0
 university | University of Central Punjab | page not found
 university | University of Management and Technology | page not found
 university | University of the Punjab | page not found
 university | Lahore School of Economics | FAILED: Failed to perform, curl: (60) SSL: certificate subject name 'Plesk' does not mat
 university | Forman Christian College | page not found
-university | Beaconhouse National University | new links 7 | relevant 6
-university | Habib University | new links 15 | relevant 14
+university | Beaconhouse National University | new links 0 | relevant 0
+university | Habib University | new links 9 | relevant 9
 university | SZABIST | FAILED: Failed to perform, curl: (60) SSL certificate OpenSSL verify result: unable to g
 university | Air University | page not found
 university | Bahria University | FAILED: HTTP Error 500: 
 university | Quaid-i-Azam University | page not found
-university | PIEAS | new links 1 | relevant 0
+university | PIEAS | new links 0 | relevant 0
 university | GIKI | FAILED: Failed to perform, curl: (60) SSL certificate OpenSSL verify result: unable to g
 university | UET Lahore | page not found
 university | University of Wollongong in Dubai | page not found
 university | Middlesex University Dubai | page not found
 university | Heriot-Watt University Dubai | page not found
-university | Canadian University Dubai | new links 7 | relevant 6
+university | Canadian University Dubai | new links 0 | relevant 0
 university | American University in Dubai | page not found
-university | Abu Dhabi University | new links 7 | relevant 7
-university | American University of Sharjah | advert FAILED: HTTP Error 403: 
-university | American University of Sharjah | new links 13 | relevant 12
+university | Abu Dhabi University | new links 0 | relevant 0
+university | American University of Sharjah | new links 0 | relevant 0
 university | Prince Sultan University | FAILED: Failed to perform, curl: (60) SSL certificate OpenSSL verify result: unable to g
 university | Alfaisal University | page not found
 university | Effat University | page not found
 university | Qatar University | page not found
-university | University of Doha for Science and Technology | new links 8 | relevant 1
+university | University of Doha for Science and Technology | new links 0 | relevant 0
 company sites | {"read": 0, "unchanged": 0, "failed": 0, "jobs": 0}
-checks | descriptions opened 0 | {"nationals only": 2, "visa not checked (ad unreadable)": 2}
---- runner 2/2 (17.3 min)
+checks | descriptions opened 0 | {"dropped earlier": 3, "visa not checked (ad unreadable)": 2}
+--- runner 2/2 (17.5 min)
 indeed | New Zealand | ("data analyst" OR "business intelligence" OR "BI  | 1
 indeed | New Zealand | (lecturer OR "assistant professor" OR "associate p | 0
 bayt | Dubai, UAE | business intelligence | 0
@@ -143,74 +166,108 @@ bayt | Dubai, UAE | lecturer | 0
 bayt | Riyadh, Saudi Arabia | business intelligence | 0
 bayt | Riyadh, Saudi Arabia | strategy | 0
 bayt | Riyadh, Saudi Arabia | lecturer | 0
-linkedin | Lahore, Pakistan | business intelligence | 15
-linkedin | Lahore, Pakistan | sales operations | 32
-linkedin | Lahore, Pakistan | strategy and planning | 41
-linkedin | Lahore, Pakistan | lecturer | 5
-linkedin | Lahore, Pakistan | analytics manager | 9
-linkedin | Karachi, Pakistan | data analyst | 20
-linkedin | Karachi, Pakistan | revenue operations | 11
+linkedin | Lahore, Pakistan | business intelligence | BLOCKED
+linkedin | Lahore, Pakistan | sales operations | 33
+linkedin | Lahore, Pakistan | strategy and planning | BLOCKED
+linkedin | Lahore, Pakistan | lecturer | 4
+linkedin | Lahore, Pakistan | analytics manager | 8
+linkedin | Karachi, Pakistan | data analyst | 19
+linkedin | Karachi, Pakistan | revenue operations | BLOCKED
 linkedin | Karachi, Pakistan | AI product | 8
-linkedin | Karachi, Pakistan | data scientist | BLOCKED
+linkedin | Karachi, Pakistan | data scientist | 8
 linkedin | Karachi, Pakistan | assistant professor | 0
 linkedin | Karachi, Pakistan | power bi | 50
 linkedin | Islamabad, Pakistan | business intelligence | 10
-linkedin | Islamabad, Pakistan | sales operations | 10
-linkedin | Islamabad, Pakistan | strategy and planning | BLOCKED
-linkedin | Islamabad, Pakistan | lecturer | 2
+linkedin | Islamabad, Pakistan | sales operations | 11
+linkedin | Islamabad, Pakistan | strategy and planning | 25
+linkedin | Islamabad, Pakistan | lecturer | BLOCKED
 linkedin | Islamabad, Pakistan | analytics manager | 8
-linkedin | Dubai, United Arab Emirates | data analyst | 50
-linkedin | Dubai, United Arab Emirates | revenue operations | 100
-linkedin | Dubai, United Arab Emirates | AI product | 20
-linkedin | Dubai, United Arab Emirates | data scientist | 74
+linkedin | Dubai, United Arab Emirates | data analyst | 90
+linkedin | Dubai, United Arab Emirates | revenue operations | 40
+linkedin | Dubai, United Arab Emirates | AI product | 10
+linkedin | Dubai, United Arab Emirates | data scientist | 10
 linkedin | Dubai, United Arab Emirates | assistant professor | 7
-linkedin | Dubai, United Arab Emirates | power bi | 30
-linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 47
-linkedin | Abu Dhabi, United Arab Emirates | sales operations | 60
-linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 100
+linkedin | Dubai, United Arab Emirates | power bi | 10
+linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 20
+linkedin | Abu Dhabi, United Arab Emirates | sales operations | 70
+linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | BLOCKED
 linkedin | Abu Dhabi, United Arab Emirates | lecturer | 24
-linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 28
-linkedin | United Arab Emirates | data analyst | 100
-linkedin | United Arab Emirates | revenue operations | 90
+linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 10
+linkedin | United Arab Emirates | data analyst | 30
+linkedin | United Arab Emirates | revenue operations | 60
 linkedin | United Arab Emirates | AI product | 82
 linkedin | United Arab Emirates | data scientist | 100
-linkedin | United Arab Emirates | assistant professor | BLOCKED
+linkedin | United Arab Emirates | assistant professor | 22
 linkedin | United Arab Emirates | power bi | 100
 linkedin | Riyadh, Saudi Arabia | business intelligence | 10
-linkedin | Riyadh, Saudi Arabia | sales operations | 36
+linkedin | Riyadh, Saudi Arabia | sales operations | 35
 linkedin | Riyadh, Saudi Arabia | strategy and planning | 60
 linkedin | Riyadh, Saudi Arabia | lecturer | 4
-linkedin | Riyadh, Saudi Arabia | analytics manager | 11
+linkedin | Riyadh, Saudi Arabia | analytics manager | 10
 linkedin | Jeddah, Saudi Arabia | data analyst | 5
 linkedin | Jeddah, Saudi Arabia | revenue operations | 1
 linkedin | Jeddah, Saudi Arabia | AI product | 0
-linkedin | Jeddah, Saudi Arabia | data scientist | 0
-linkedin | Jeddah, Saudi Arabia | assistant professor | 0
-linkedin | Jeddah, Saudi Arabia | power bi | 20
-linkedin | Saudi Arabia | business intelligence | 21
-linkedin | Saudi Arabia | sales operations | 20
-linkedin | Saudi Arabia | strategy and planning | 100
-discovered employers | added | 0
+linkedin | Jeddah, Saudi Arabia | data scientist | BLOCKED
+linkedin | Jeddah, Saudi Arabia | assistant professor | BLOCKED
+linkedin | Jeddah, Saudi Arabia | power bi | 10
+linkedin | Saudi Arabia | business intelligence | BLOCKED
+linkedin | Saudi Arabia | sales operations | 85
+linkedin | Saudi Arabia | strategy and planning | BLOCKED
+linkedin | Saudi Arabia | lecturer | 8
+linkedin | Saudi Arabia | analytics manager | 17
+linkedin | Qatar | data analyst | BLOCKED
+linkedin | Qatar | revenue operations | 6
+linkedin | Qatar | AI product | 6
+linkedin | Qatar | data scientist | BLOCKED
+linkedin | Qatar | assistant professor | BLOCKED
+linkedin | Qatar | power bi | 50
+linkedin | Bahrain | business intelligence | 2
+linkedin | Bahrain | sales operations | 4
+linkedin | Bahrain | strategy and planning | 12
+linkedin | Bahrain | lecturer | 4
+linkedin | Bahrain | analytics manager | 2
+linkedin | Oman | data analyst | BLOCKED
+linkedin | Oman | revenue operations | 3
+linkedin | Oman | AI product | 0
+linkedin | Oman | data scientist | 0
+linkedin | Oman | assistant professor | BLOCKED
+linkedin | Oman | power bi | 10
+linkedin | Kuwait | business intelligence | 3
+linkedin | Kuwait | sales operations | 8
+linkedin | Kuwait | strategy and planning | 17
+linkedin | Kuwait | lecturer | 0
+linkedin | Kuwait | analytics manager | 2
+linkedin | Jordan | data analyst | 10
+linkedin | Jordan | revenue operations | 3
+linkedin | Jordan | AI product | 1
+linkedin | Jordan | data scientist | 2
+linkedin | Jordan | assistant professor | 3
+linkedin | Jordan | power bi | 20
+linkedin | Egypt | business intelligence | 20
+linkedin | Egypt | sales operations | BLOCKED
+linkedin | Egypt | strategy and planning | 70
+discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 35 employers | 2398
-bamboohr | 1 employers | 5
+bamboohr | 2 employers | 49
 greenhouse | 135 employers | 11186
 lever | 9 employers | 536
-personio | 3 employers | 6
-recruitee | 2 employers | 13
-smartrecruiters | 5 employers | 2966
-workable | 6 employers | 153
-workday | 9 employers | 1410
+personio | 7 employers | 72
+recruitee | 6 employers | 291
+smartrecruiters | 4 employers | 1122
+teamtailor | 3 employers | 107
+workable | 7 employers | 1690
+workday | 10 employers | 1463
 remotive | 55
-himalayas | 6
+himalayas | 1
 jobicy | 3
 workingnomads | 16
-arbeitnow | 750
+arbeitnow | 748
 careerjet | skipped (no CAREERJET_AFFID secret)
 jooble | skipped (no JOOBLE_KEY secret)
 google_jobs | skipped (no SERPAPI_KEY secret)
 google_alerts | skipped (no feeds yet: add GOOGLE_ALERTS_FEEDS secret)
 brave | skipped (no BRAVE_KEY secret)
 signals | pages opened 0 | jobs read 0
-company sites | {"read": 3, "unchanged": 0, "failed": 0, "jobs": 0}
-checks | descriptions opened 23 | {"nationals only": 2, "no visa mention": 13, "visa ruled out": 2}
+company sites | {"read": 0, "unchanged": 0, "failed": 0, "jobs": 0}
+checks | descriptions opened 7 | {"dropped earlier": 15}
