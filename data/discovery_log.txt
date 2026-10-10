@@ -30,3 +30,12 @@ probe | checked 13 | {"active": 7, "none": 4, "unreachable": 2}
 employers | to check 0
 employers | checked 0 | {}
 done in 8 min
+Discovery (wdc) 2026-10-10
+wdc | websites with job markup | 61014
+webdatacommons | new websites added 61005 (total 61018)
+probe | websites to check 20000
+probe | checked 4033 | {"unreachable": 173, "active": 2660, "none": 736, "error": 460, "ats": 4}
+website | new employers added 69 (total 69)
+employers | to check 69
+employers | checked 69 | {"active": 26, "inactive": 29, "empty": 10, "error": 4}
+done in 18 min
