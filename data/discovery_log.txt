@@ -1,0 +1,32 @@
+Discovery (weekly) 2026-10-10
+sponsors | UK | 120644
+sponsors | NL | 13017
+sponsors | CA | 23
+crt.sh | careers.*.ae | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | career.*.ae | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | jobs.*.ae | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | werkenbij.*.ae | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | join.*.ae | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | careers.*.bh | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | career.*.bh | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | jobs.*.bh | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | karriere.*.bh | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | career.*.eg | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | karriere.*.eg | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | werkenbij.*.eg | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | join.*.eg | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | karriere.*.jo | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | werkenbij.*.jo | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | werkenbij.*.kw | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | join.*.kw | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | careers.*.om | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | career.*.om | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | jobs.*.om | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | werkenbij.*.pk | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | join.*.pk | FAILED: Expecting value: line 1 column 2 (char 1)
+crt.sh | new websites added 0 (total 13)
+probe | websites to check 13
+probe | checked 13 | {"active": 7, "none": 4, "unreachable": 2}
+employers | to check 0
+employers | checked 0 | {}
+done in 8 min
