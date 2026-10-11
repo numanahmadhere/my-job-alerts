@@ -1,54 +1,53 @@
-Run at 2026-10-11 04:51 PKT (look back 14 days, 14 runners)
-raw=23876  matching=712  new=687  total=1234  coverage=99%
-Searches: 357/360 done, 0 failed, 3 blocked, 0 skipped
-New by city: {'Singapore': 170, 'Kuala Lumpur': 88, 'London': 60, 'Cairo': 51, 'Abu Dhabi': 40, 'Istanbul': 34, 'Riyadh': 21, 'Dubai': 19, 'Doha': 18, 'Prague': 15, 'Sydney': 13, 'Auckland': 11, 'UAE (city not stated)': 10, 'Remote': 8, 'Melbourne': 8, 'Tokyo': 8, 'Egypt (city not stated)': 6, 'UK (city not stated)': 6, 'Lisbon': 6, 'Toronto': 6, 'Islamabad': 6, 'Jeddah': 6, 'Muscat': 5, 'Berlin': 5, 'Amsterdam': 5, 'Dublin': 5, 'Warsaw': 5, 'Pakistan (city not stated)': 5, 'Munich': 4, 'Karachi': 3, 'Kraków': 3, 'Saudi Arabia (city not stated)': 3, 'Budapest': 3, 'Lahore': 2, 'Sharjah': 2, 'Poland (city not stated)': 2, 'Giza': 2, 'Vancouver': 2, 'Kuwait City': 2, 'Al Khobar': 2, 'Manchester': 2, 'Birmingham': 2, 'Malaysia (city not stated)': 1, 'Qatar (city not stated)': 1, 'Manama': 1, 'Germany (city not stated)': 1, 'Czechia (city not stated)': 1, 'Frankfurt': 1, 'Montreal': 1, 'Ajman': 1, 'Medina': 1, 'Canada (city not stated)': 1, 'Dammam': 1, 'Dhahran': 1, 'Ras Al Khaimah': 1}
-New by role group: {'Data & BI': 284, 'Data Science': 158, 'RevOps': 89, 'AI Product / Applied AI': 69, 'Strategy & Ops': 66, 'Teaching & Faculty': 21}
-Cities with matching jobs today: Abu Dhabi, Ajman, Al Khobar, Amsterdam, Auckland, Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Czechia (city not stated), Dammam, Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Giza, Hamburg, Islamabad, Istanbul, Jeddah, Karachi, Kraków, Kuala Lumpur, Kuwait City, Lahore, Lisbon, London, Malaysia (city not stated), Manama, Manchester, Medina, Melbourne, Montreal, Munich, Muscat, Pakistan (city not stated), Poland (city not stated), Prague, Qatar (city not stated), Ras Al Khaimah, Remote, Riyadh, Saudi Arabia (city not stated), Sharjah, Singapore, Sydney, Tokyo, Toronto, UAE (city not stated), UK (city not stated), Vancouver, Warsaw
+Run at 2026-10-11 13:10 PKT (daily, 14 runners)
+raw=9652  matching=41  new=31  total=1265  coverage=98%
+Searches: 352/360 done, 0 failed, 8 blocked, 0 skipped
+New by city: {'London': 8, 'Singapore': 4, 'Dubai': 4, 'Abu Dhabi': 2, 'Amsterdam': 2, 'Kraków': 1, 'Melbourne': 1, 'UAE (city not stated)': 1, 'Remote': 1, 'Cairo': 1, 'Warsaw': 1, 'Berlin': 1, 'Kuala Lumpur': 1, 'Montreal': 1, 'Giza': 1, 'UK (city not stated)': 1}
+New by role group: {'Data & BI': 17, 'AI Product / Applied AI': 5, 'Data Science': 3, 'Strategy & Ops': 3, 'RevOps': 2, 'Teaching & Faculty': 1}
+Cities with matching jobs today: Abu Dhabi, Amsterdam, Berlin, Cairo, Dubai, Egypt (city not stated), Giza, Hamburg, Kraków, Kuala Lumpur, London, Melbourne, Montreal, Remote, Riyadh, Singapore, The Hague, UAE (city not stated), UK (city not stated), Warsaw
 
-Matching titles dropped for location (top 25): {"Wellington, Wellington, New Zealand": 17, "Utrecht, Utrecht, Netherlands": 11, "Wrocław, Dolnośląskie, Poland": 10, "Pittston, PA, USA": 10, "Danville, PA, USA": 9, "San Francisco": 8, "Galway, County Galway, Ireland": 7, "Lewisburg, PA, USA": 6, "Ottawa, ON, Canada": 6, "Cork, County Cork, Ireland": 6, "Düsseldorf, North Rhine-Westphalia, Germany": 6, "Boston, MA": 6, "Hyderabad, PSD, Pakistan": 6, "US, CA, Santa Clara": 6, "Reading, England, UK": 5, "Cologne, North Rhine-Westphalia, Germany": 5, "Clifton, Sindh, Pakistan": 5, "San Francisco, CA | New York City, NY": 5, "bangalore | in | bangalore, , India": 5, "Brisbane, Queensland, Australia": 4, "Stuttgart, Baden-Württemberg, Germany": 4, "Perth, Western Australia, Australia": 4, "Seri Kembangan, Malaysia": 4, "Ahmadi, Kuwait": 4, "San Francisco, CA": 4}
+Matching titles dropped for location (top 25): {"Wrocław, Dolnośląskie, Poland": 7, "Boston, MA": 6, "Utrecht, Utrecht, Netherlands": 5, "Cologne, North Rhine-Westphalia, Germany": 5, "Reading, England, UK": 4, "Welwyn Garden City, England, UK": 4, "Selangor, Malaysia": 4, "Wageningen, Gelderland, Netherlands": 4, "Leeuwarden, Friesland, Netherlands": 4, "Danville, PA, USA": 4, "Hyderabad, PSD, Pakistan": 4, "Düsseldorf, North Rhine-Westphalia, Germany": 4, "USA MD Aberdeen Proving Ground (6210 Guardian Gateway) | Uni": 4, "Kent, England, UK": 3, "Wales, UK": 3, "Brisbane, Queensland, Australia": 3, "Galway, County Galway, Ireland": 3, "Cork Metropolitan Area": 3, "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445": 3, "Groningen, Groningen, Netherlands": 3, "Haarlem, North Holland, Netherlands": 3, "Veldhoven, North Brabant, Netherlands": 3, "Amstelveen, North Holland, Netherlands": 3, "Milton Keynes, England, UK": 3, "Pune, Gera Commerzone SEZ": 3}
 
---- search runner 1/10 (15.2 min)
-indeed | Saudi Arabia | "BI developer" OR "business analyst" OR "insights  | 16
-indeed | Bahrain | "revenue operations" OR revops OR "sales operation | 1
-indeed | Oman | lecturer OR "assistant professor" OR "associate pr | 3
-indeed | Egypt | "data analyst" OR "business intelligence" OR "BI a | 46
-indeed | Malaysia | "data analyst" OR "business intelligence" OR "BI a | 100
-indeed | Ireland | ("data analyst" OR "business intelligence" OR "BI  | 8
+--- search runner 1/10 (9.9 min)
+indeed | Saudi Arabia | "BI developer" OR "business analyst" OR "insights  | 2
+indeed | Bahrain | "revenue operations" OR revops OR "sales operation | 0
+indeed | Oman | lecturer OR "assistant professor" OR "associate pr | 0
+indeed | Egypt | "data analyst" OR "business intelligence" OR "BI a | 8
+indeed | Malaysia | "data analyst" OR "business intelligence" OR "BI a | 19
+indeed | Ireland | ("data analyst" OR "business intelligence" OR "BI  | 1
 indeed | Poland | ("revenue operations" OR revops OR "sales operatio | 0
 indeed | Portugal | (lecturer OR "assistant professor" OR "associate p | 0
-linkedin | Lahore, Pakistan | data analyst | 50
-linkedin | Lahore, Pakistan | power bi | 50
-linkedin | Karachi, Pakistan | analytics manager | 50
-linkedin | Islamabad, Pakistan | assistant professor | 3
-linkedin | Dubai, United Arab Emirates | lecturer | 60
-linkedin | Abu Dhabi, United Arab Emirates | data scientist | 40
-linkedin | United Arab Emirates | strategy and planning | 50
-linkedin | Riyadh, Saudi Arabia | AI product | BLOCKED (will retry)
-linkedin | Jeddah, Saudi Arabia | sales operations | 30
-linkedin | Saudi Arabia | revenue operations | 100
-linkedin | Qatar | business intelligence | 50
-linkedin | Bahrain | data analyst | 22
-linkedin | Bahrain | power bi | 50
-linkedin | Oman | analytics manager | 16
-linkedin | Kuwait | assistant professor | 6
-linkedin | Jordan | lecturer | 50
-linkedin | Egypt | data scientist | 10
+linkedin | Lahore, Pakistan | data analyst | 18
+linkedin | Lahore, Pakistan | power bi | 39
+linkedin | Karachi, Pakistan | analytics manager | 11
+linkedin | Islamabad, Pakistan | assistant professor | 0
+linkedin | Dubai, United Arab Emirates | lecturer | 19
+linkedin | Abu Dhabi, United Arab Emirates | data scientist | BLOCKED (will retry)
+linkedin | United Arab Emirates | strategy and planning | 100
+linkedin | Riyadh, Saudi Arabia | AI product | 6
+linkedin | Jeddah, Saudi Arabia | sales operations | 9
+linkedin | Saudi Arabia | revenue operations | 35
+linkedin | Qatar | business intelligence | 23
+linkedin | Bahrain | data analyst | 0
+linkedin | Bahrain | power bi | 13
+linkedin | Oman | analytics manager | 0
+linkedin | Kuwait | assistant professor | 1
+linkedin | Jordan | lecturer | 2
+linkedin | Egypt | data scientist | BLOCKED (will retry)
 linkedin | Istanbul, Türkiye | data scientist | 10
 linkedin | Singapore | AI product | BLOCKED (will retry)
-linkedin | London, England, United Kingdom | business intelligence visa sponsorship | BLOCKED (will retry)
+linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 50
 linkedin | United Kingdom | strategy visa sponsorship | 50
 linkedin | Germany | revenue operations visa sponsorship | 50
-linkedin | Poland | business intelligence visa sponsorship | 10
-linkedin | Budapest, Hungary | strategy visa sponsorship | 50
-linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 30
-linkedin | Australia | business intelligence visa sponsorship | BLOCKED (will retry)
-linkedin | New Zealand | strategy visa sponsorship | 30
-indeed | United Arab Emirates | "AI product" OR "AI specialist" OR "AI consultant" | 43
-linkedin: retrying 4 blocked searches after a 90 second wait
-linkedin | Riyadh, Saudi Arabia | AI product | 71 (retry)
-linkedin | Singapore | AI product | 10 (retry)
-linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 50 (retry)
-linkedin | Australia | business intelligence visa sponsorship | 50 (retry)
+linkedin | Poland | business intelligence visa sponsorship | 40
+linkedin | Budapest, Hungary | strategy visa sponsorship | 31
+linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 19
+linkedin | Australia | business intelligence visa sponsorship | 50
+linkedin | New Zealand | strategy visa sponsorship | 10
+indeed | United Arab Emirates | "AI product" OR "AI specialist" OR "AI consultant" | 5
+linkedin: retrying 3 blocked searches after a 90 second wait
+linkedin | Abu Dhabi, United Arab Emirates | data scientist | 20 (retry)
+linkedin | Egypt | data scientist | BLOCKED again
+linkedin | Singapore | AI product | 50 (retry)
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 8 employers | 660
@@ -62,50 +61,52 @@ workable | 1 employers | 11
 workday | 2 employers | 202
 remoteok | 2
 weworkremotely | 87
-checks | descriptions opened 90 | {"dropped earlier": 10, "nationals only": 2, "no visa mention": 70, "visa ruled out": 3}
---- search runner 2/10 (14.7 min)
-indeed | Saudi Arabia | salesforce OR "CRM manager" OR "commercial operati | 57
-indeed | Bahrain | "AI product" OR "AI specialist" OR "AI consultant" | 2
+checks | descriptions opened 20 | {"dropped earlier": 32, "no visa mention": 11}
+--- search runner 2/10 (9.6 min)
+indeed | Saudi Arabia | salesforce OR "CRM manager" OR "commercial operati | 2
+indeed | Bahrain | "AI product" OR "AI specialist" OR "AI consultant" | 0
 indeed | Oman | "BI developer" OR "business analyst" OR "insights  | 0
-indeed | Egypt | "revenue operations" OR revops OR "sales operation | 16
-indeed | Malaysia | "revenue operations" OR revops OR "sales operation | 100
-indeed | Ireland | ("revenue operations" OR revops OR "sales operatio | 6
+indeed | Egypt | "revenue operations" OR revops OR "sales operation | 1
+indeed | Malaysia | "revenue operations" OR revops OR "sales operation | 7
+indeed | Ireland | ("revenue operations" OR revops OR "sales operatio | 1
 indeed | Poland | (lecturer OR "assistant professor" OR "associate p | 0
-indeed | Canada | ("data analyst" OR "business intelligence" OR "BI  | 51
-linkedin | Lahore, Pakistan | business intelligence | 50
-linkedin | Karachi, Pakistan | data analyst | 50
-linkedin | Karachi, Pakistan | power bi | BLOCKED (will retry)
-linkedin | Islamabad, Pakistan | analytics manager | 33
-linkedin | Dubai, United Arab Emirates | assistant professor | 20
-linkedin | Abu Dhabi, United Arab Emirates | lecturer | 80
-linkedin | United Arab Emirates | data scientist | 80
-linkedin | Riyadh, Saudi Arabia | strategy and planning | 20
-linkedin | Jeddah, Saudi Arabia | AI product | BLOCKED (will retry)
-linkedin | Saudi Arabia | sales operations | 70
-linkedin | Qatar | revenue operations | 50
-linkedin | Bahrain | business intelligence | 15
-linkedin | Oman | data analyst | 33
-linkedin | Oman | power bi | BLOCKED (will retry)
-linkedin | Kuwait | analytics manager | 24
-linkedin | Jordan | assistant professor | 30
-linkedin | Egypt | lecturer | 10
+indeed | Canada | ("data analyst" OR "business intelligence" OR "BI  | 4
+linkedin | Lahore, Pakistan | business intelligence | 9
+linkedin | Karachi, Pakistan | data analyst | 17
+linkedin | Karachi, Pakistan | power bi | 50
+linkedin | Islamabad, Pakistan | analytics manager | 6
+linkedin | Dubai, United Arab Emirates | assistant professor | BLOCKED (will retry)
+linkedin | Abu Dhabi, United Arab Emirates | lecturer | BLOCKED (will retry)
+linkedin | United Arab Emirates | data scientist | 96
+linkedin | Riyadh, Saudi Arabia | strategy and planning | BLOCKED (will retry)
+linkedin | Jeddah, Saudi Arabia | AI product | 0
+linkedin | Saudi Arabia | sales operations | 40
+linkedin | Qatar | revenue operations | BLOCKED (will retry)
+linkedin | Bahrain | business intelligence | BLOCKED (will retry)
+linkedin | Oman | data analyst | 3
+linkedin | Oman | power bi | 9
+linkedin | Kuwait | analytics manager | 2
+linkedin | Jordan | assistant professor | 3
+linkedin | Egypt | lecturer | 9
 linkedin | Kuala Lumpur, Malaysia | data analyst | 20
-linkedin | Singapore | strategy and planning | BLOCKED (will retry)
+linkedin | Singapore | strategy and planning | 10
 linkedin | London, England, United Kingdom | data scientist visa sponsorship | BLOCKED (will retry)
-linkedin | Ireland | data analyst visa sponsorship | 50
-linkedin | Germany | AI product manager visa sponsorship | 50
-linkedin | Poland | data scientist visa sponsorship | 50
-linkedin | Prague, Czechia | data analyst visa sponsorship | 50
-linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 7
-linkedin | Australia | data scientist visa sponsorship | 30
-indeed | Pakistan | "data analyst" OR "business intelligence" OR "BI a | 55
-indeed | United Arab Emirates | "strategy and planning" OR "business operations" O | 100
-linkedin: retrying 5 blocked searches after a 90 second wait
-linkedin | Karachi, Pakistan | power bi | 50 (retry)
-linkedin | Jeddah, Saudi Arabia | AI product | BLOCKED again
-linkedin | Oman | power bi | 30 (retry)
-linkedin | Singapore | strategy and planning | 20 (retry)
-linkedin | London, England, United Kingdom | data scientist visa sponsorship | 20 (retry)
+linkedin | Ireland | data analyst visa sponsorship | 38
+linkedin | Germany | AI product manager visa sponsorship | 30
+linkedin | Poland | data scientist visa sponsorship | BLOCKED (will retry)
+linkedin | Prague, Czechia | data analyst visa sponsorship | 21
+linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 0
+linkedin | Australia | data scientist visa sponsorship | 29
+indeed | Pakistan | "data analyst" OR "business intelligence" OR "BI a | 4
+indeed | United Arab Emirates | "strategy and planning" OR "business operations" O | 18
+linkedin: retrying 7 blocked searches after a 90 second wait
+linkedin | Dubai, United Arab Emirates | assistant professor | BLOCKED again
+linkedin | Abu Dhabi, United Arab Emirates | lecturer | 18 (retry)
+linkedin | Riyadh, Saudi Arabia | strategy and planning | 30 (retry)
+linkedin | Qatar | revenue operations | BLOCKED again
+linkedin | Bahrain | business intelligence | 2 (retry)
+linkedin | London, England, United Kingdom | data scientist visa sponsorship | 50 (retry)
+linkedin | Poland | data scientist visa sponsorship | 28 (retry)
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 7 employers | 850
@@ -117,56 +118,56 @@ recruitee | 1 employers | 9
 smartrecruiters | 1 employers | 2
 teamtailor | 1 employers | 2
 workable | 1 employers | 0
-workday | 2 employers | 327
+workday | 2 employers | 326
 remotive | 55
-himalayas | 6
-jobicy | 3
+himalayas | 3
+jobicy | 22
 workingnomads | 16
-arbeitnow | 748
-locations | missing 9 | looked up 9 | found 8
-checks | descriptions opened 90 | {"dropped earlier": 19, "nationals only": 1, "visa ruled out": 7, "no visa mention": 76, "visa not checked (ad unreadable)": 1}
---- search runner 3/10 (16.7 min)
-indeed | Qatar | "data analyst" OR "business intelligence" OR "BI a | 18
-indeed | Bahrain | "strategy and planning" OR "business operations" O | 6
-indeed | Oman | salesforce OR "CRM manager" OR "commercial operati | 5
-indeed | Egypt | "AI product" OR "AI specialist" OR "AI consultant" | 27
-indeed | Singapore | "data analyst" OR "business intelligence" OR "BI a | 100
+arbeitnow | 750
+locations | missing 5 | looked up 5 | found 5
+checks | descriptions opened 20 | {"nationals only": 1, "dropped earlier": 35, "no visa mention": 11}
+--- search runner 3/10 (9.9 min)
+indeed | Qatar | "data analyst" OR "business intelligence" OR "BI a | 1
+indeed | Bahrain | "strategy and planning" OR "business operations" O | 0
+indeed | Oman | salesforce OR "CRM manager" OR "commercial operati | 0
+indeed | Egypt | "AI product" OR "AI specialist" OR "AI consultant" | 2
+indeed | Singapore | "data analyst" OR "business intelligence" OR "BI a | 70
 indeed | Ireland | (lecturer OR "assistant professor" OR "associate p | 0
 indeed | Hungary | ("data analyst" OR "business intelligence" OR "BI  | 0
-indeed | Canada | ("revenue operations" OR revops OR "sales operatio | 33
-linkedin | Lahore, Pakistan | revenue operations | 10
-linkedin | Karachi, Pakistan | business intelligence | 50
-linkedin | Islamabad, Pakistan | data analyst | 20
-linkedin | Islamabad, Pakistan | power bi | 30
-linkedin | Dubai, United Arab Emirates | analytics manager | 100
-linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 20
-linkedin | United Arab Emirates | lecturer | 40
-linkedin | Riyadh, Saudi Arabia | data scientist | 77
-linkedin | Jeddah, Saudi Arabia | strategy and planning | 80
-linkedin | Saudi Arabia | AI product | 100
-linkedin | Qatar | sales operations | 50
-linkedin | Bahrain | revenue operations | BLOCKED (will retry)
-linkedin | Oman | business intelligence | 20
-linkedin | Kuwait | data analyst | BLOCKED (will retry)
-linkedin | Kuwait | power bi | 10
-linkedin | Jordan | analytics manager | 32
-linkedin | Egypt | assistant professor | 20
-linkedin | Kuala Lumpur, Malaysia | business intelligence | 30
-linkedin | Singapore | data scientist | 50
-linkedin | London, England, United Kingdom | revenue operations visa sponsorship | BLOCKED (will retry)
-linkedin | Ireland | business intelligence visa sponsorship | 50
-linkedin | Germany | strategy visa sponsorship | BLOCKED (will retry)
-linkedin | Poland | revenue operations visa sponsorship | 20
-linkedin | Prague, Czechia | business intelligence visa sponsorship | 50
-linkedin | Lisbon, Portugal | strategy visa sponsorship | 10
-linkedin | Australia | revenue operations visa sponsorship | 50
-indeed | Pakistan | "revenue operations" OR revops OR "sales operation | 70
-indeed | United Arab Emirates | lecturer OR "assistant professor" OR "associate pr | 100
+indeed | Canada | ("revenue operations" OR revops OR "sales operatio | 5
+linkedin | Lahore, Pakistan | revenue operations | 6
+linkedin | Karachi, Pakistan | business intelligence | 9
+linkedin | Islamabad, Pakistan | data analyst | 16
+linkedin | Islamabad, Pakistan | power bi | BLOCKED (will retry)
+linkedin | Dubai, United Arab Emirates | analytics manager | 20
+linkedin | Abu Dhabi, United Arab Emirates | assistant professor | BLOCKED (will retry)
+linkedin | United Arab Emirates | lecturer | 41
+linkedin | Riyadh, Saudi Arabia | data scientist | 6
+linkedin | Jeddah, Saudi Arabia | strategy and planning | 11
+linkedin | Saudi Arabia | AI product | 11
+linkedin | Qatar | sales operations | 10
+linkedin | Bahrain | revenue operations | 1
+linkedin | Oman | business intelligence | 3
+linkedin | Kuwait | data analyst | 2
+linkedin | Kuwait | power bi | 22
+linkedin | Jordan | analytics manager | BLOCKED (will retry)
+linkedin | Egypt | assistant professor | 3
+linkedin | Kuala Lumpur, Malaysia | business intelligence | 50
+linkedin | Singapore | data scientist | 40
+linkedin | London, England, United Kingdom | revenue operations visa sponsorship | 50
+linkedin | Ireland | business intelligence visa sponsorship | 40
+linkedin | Germany | strategy visa sponsorship | 50
+linkedin | Poland | revenue operations visa sponsorship | 10
+linkedin | Prague, Czechia | business intelligence visa sponsorship | 16
+linkedin | Lisbon, Portugal | strategy visa sponsorship | BLOCKED (will retry)
+linkedin | Australia | revenue operations visa sponsorship | 27
+indeed | Pakistan | "revenue operations" OR revops OR "sales operation | 6
+indeed | United Arab Emirates | lecturer OR "assistant professor" OR "associate pr | 14
 linkedin: retrying 4 blocked searches after a 90 second wait
-linkedin | Bahrain | revenue operations | 7 (retry)
-linkedin | Kuwait | data analyst | 30 (retry)
-linkedin | London, England, United Kingdom | revenue operations visa sponsorship | 50 (retry)
-linkedin | Germany | strategy visa sponsorship | 50 (retry)
+linkedin | Islamabad, Pakistan | power bi | 26 (retry)
+linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 16 (retry)
+linkedin | Jordan | analytics manager | 6 (retry)
+linkedin | Lisbon, Portugal | strategy visa sponsorship | 30 (retry)
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 7 employers | 252
@@ -178,51 +179,52 @@ recruitee | 1 employers | 10
 smartrecruiters | 1 employers | 1000
 workable | 2 employers | 50
 workday | 2 employers | 69
-rozee | detail FAILED rozee.pk/pta-data-scientist-jobs-1898439: HTTP Error 429: 
-rozee | sitemap jobs in window 2690 | title matches 21 | opened 20
+rozee | sitemap jobs in window 2690 | title matches 21 | opened 21
 gulftalent | FAILED: HTTP Error 403: 
-checks | descriptions opened 90 | {"dropped earlier": 17, "visa ruled out": 4, "no visa mention": 66, "visa not checked (ad unreadable)": 1}
---- search runner 4/10 (15.4 min)
-indeed | Qatar | "revenue operations" OR revops OR "sales operation | 8
-indeed | Bahrain | lecturer OR "assistant professor" OR "associate pr | 4
-indeed | Kuwait | "data analyst" OR "business intelligence" OR "BI a | 3
-indeed | Egypt | "strategy and planning" OR "business operations" O | 38
-indeed | Singapore | "revenue operations" OR revops OR "sales operation | 100
-indeed | Germany | ("data analyst" OR "business intelligence" OR "BI  | 16
+checks | descriptions opened 10 | {"dropped earlier": 25}
+--- search runner 4/10 (8.3 min)
+indeed | Qatar | "revenue operations" OR revops OR "sales operation | 1
+indeed | Bahrain | lecturer OR "assistant professor" OR "associate pr | 0
+indeed | Kuwait | "data analyst" OR "business intelligence" OR "BI a | 0
+indeed | Egypt | "strategy and planning" OR "business operations" O | 2
+indeed | Singapore | "revenue operations" OR revops OR "sales operation | 19
+indeed | Germany | ("data analyst" OR "business intelligence" OR "BI  | 4
 indeed | Hungary | ("revenue operations" OR revops OR "sales operatio | 0
-indeed | Canada | (lecturer OR "assistant professor" OR "associate p | 3
-linkedin | Lahore, Pakistan | sales operations | 50
-linkedin | Karachi, Pakistan | revenue operations | 34
-linkedin | Islamabad, Pakistan | business intelligence | 40
-linkedin | Dubai, United Arab Emirates | data analyst | 100
-linkedin | Dubai, United Arab Emirates | power bi | 10
-linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 20
-linkedin | United Arab Emirates | assistant professor | 70
-linkedin | Riyadh, Saudi Arabia | lecturer | 20
-linkedin | Jeddah, Saudi Arabia | data scientist | 21
-linkedin | Saudi Arabia | strategy and planning | 40
-linkedin | Qatar | AI product | BLOCKED (will retry)
-linkedin | Bahrain | sales operations | 30
-linkedin | Oman | revenue operations | 21
-linkedin | Kuwait | business intelligence | 20
-linkedin | Jordan | data analyst | 20
-linkedin | Jordan | power bi | 50
-linkedin | Egypt | analytics manager | 30
-linkedin | Kuala Lumpur, Malaysia | revenue operations | 20
-linkedin | Tokyo, Japan | data analyst visa sponsorship | 50
+indeed | Canada | (lecturer OR "assistant professor" OR "associate p | 1
+linkedin | Lahore, Pakistan | sales operations | 28
+linkedin | Karachi, Pakistan | revenue operations | 7
+linkedin | Islamabad, Pakistan | business intelligence | BLOCKED (will retry)
+linkedin | Dubai, United Arab Emirates | data analyst | 30
+linkedin | Dubai, United Arab Emirates | power bi | BLOCKED (will retry)
+linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 18
+linkedin | United Arab Emirates | assistant professor | 10
+linkedin | Riyadh, Saudi Arabia | lecturer | 4
+linkedin | Jeddah, Saudi Arabia | data scientist | 0
+linkedin | Saudi Arabia | strategy and planning | BLOCKED (will retry)
+linkedin | Qatar | AI product | 6
+linkedin | Bahrain | sales operations | 2
+linkedin | Oman | revenue operations | 3
+linkedin | Kuwait | business intelligence | 3
+linkedin | Jordan | data analyst | 8
+linkedin | Jordan | power bi | 30
+linkedin | Egypt | analytics manager | 17
+linkedin | Kuala Lumpur, Malaysia | revenue operations | 50
+linkedin | Tokyo, Japan | data analyst visa sponsorship | 38
 linkedin | London, England, United Kingdom | AI product manager visa sponsorship | 50
-linkedin | Ireland | data scientist visa sponsorship | 50
+linkedin | Ireland | data scientist visa sponsorship | 23
 linkedin | Netherlands | data analyst visa sponsorship | 50
-linkedin | Poland | AI product manager visa sponsorship | BLOCKED (will retry)
+linkedin | Poland | AI product manager visa sponsorship | 10
 linkedin | Prague, Czechia | data scientist visa sponsorship | BLOCKED (will retry)
-linkedin | Canada | data analyst visa sponsorship | 50
-linkedin | Australia | AI product manager visa sponsorship | 50
-indeed | Pakistan | "AI product" OR "AI specialist" OR "AI consultant" | 74
-indeed | United Arab Emirates | "BI developer" OR "business analyst" OR "insights  | 32
-linkedin: retrying 3 blocked searches after a 90 second wait
-linkedin | Qatar | AI product | 46 (retry)
-linkedin | Poland | AI product manager visa sponsorship | 40 (retry)
-linkedin | Prague, Czechia | data scientist visa sponsorship | 50 (retry)
+linkedin | Canada | data analyst visa sponsorship | 20
+linkedin | Australia | AI product manager visa sponsorship | BLOCKED (will retry)
+indeed | Pakistan | "AI product" OR "AI specialist" OR "AI consultant" | 6
+indeed | United Arab Emirates | "BI developer" OR "business analyst" OR "insights  | 5
+linkedin: retrying 5 blocked searches after a 90 second wait
+linkedin | Islamabad, Pakistan | business intelligence | 8 (retry)
+linkedin | Dubai, United Arab Emirates | power bi | BLOCKED again
+linkedin | Saudi Arabia | strategy and planning | 20 (retry)
+linkedin | Prague, Czechia | data scientist visa sponsorship | 10 (retry)
+linkedin | Australia | AI product manager visa sponsorship | 14 (retry)
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 7 employers | 736
@@ -232,165 +234,176 @@ lever | 1 employers | 26
 personio | 2 employers | 20
 recruitee | 1 employers | 20
 smartrecruiters | 1 employers | 0
-workable | 2 employers | 313
-workday | 2 employers | 317
+workable | 2 employers | 312
+workday | 2 employers | 318
 careerjet | skipped (no CAREERJET_AFFID secret)
 jooble | skipped (no JOOBLE_KEY secret)
 google_jobs | skipped (no SERPAPI_KEY secret)
 locations | missing 1 | looked up 1 | found 1
-checks | descriptions opened 90 | {"dropped earlier": 14, "visa ruled out": 4, "no visa mention": 76, "visa not checked (ad unreadable)": 5}
---- search runner 5/10 (14.4 min)
-indeed | Qatar | "AI product" OR "AI specialist" OR "AI consultant" | 9
-indeed | Bahrain | "BI developer" OR "business analyst" OR "insights  | 1
+checks | descriptions opened 5 | {"nationals only": 1, "dropped earlier": 32, "no visa mention": 1}
+--- search runner 5/10 (11.3 min)
+indeed | Qatar | "AI product" OR "AI specialist" OR "AI consultant" | 0
+indeed | Bahrain | "BI developer" OR "business analyst" OR "insights  | 0
 indeed | Kuwait | "revenue operations" OR revops OR "sales operation | 0
-indeed | Egypt | lecturer OR "assistant professor" OR "associate pr | 16
-indeed | Japan | ("data analyst" OR "business intelligence" OR "BI  | 2
-indeed | Germany | ("revenue operations" OR revops OR "sales operatio | 7
+indeed | Egypt | lecturer OR "assistant professor" OR "associate pr | 4
+indeed | Japan | ("data analyst" OR "business intelligence" OR "BI  | 0
+indeed | Germany | ("revenue operations" OR revops OR "sales operatio | 2
 indeed | Hungary | (lecturer OR "assistant professor" OR "associate p | 0
-indeed | Australia | ("data analyst" OR "business intelligence" OR "BI  | 24
-linkedin | Lahore, Pakistan | AI product | 10
-linkedin | Karachi, Pakistan | sales operations | 50
-linkedin | Islamabad, Pakistan | revenue operations | 20
-linkedin | Dubai, United Arab Emirates | business intelligence | 100
-linkedin | Abu Dhabi, United Arab Emirates | data analyst | 20
-linkedin | Abu Dhabi, United Arab Emirates | power bi | 90
-linkedin | United Arab Emirates | analytics manager | 10
-linkedin | Riyadh, Saudi Arabia | assistant professor | 7
-linkedin | Jeddah, Saudi Arabia | lecturer | 19
-linkedin | Saudi Arabia | data scientist | 20
-linkedin | Qatar | strategy and planning | 40
-linkedin | Bahrain | AI product | 3
-linkedin | Oman | sales operations | 50
-linkedin | Kuwait | revenue operations | 16
-linkedin | Jordan | business intelligence | 31
-linkedin | Egypt | data analyst | 40
-linkedin | Egypt | power bi | 100
+indeed | Australia | ("data analyst" OR "business intelligence" OR "BI  | 5
+linkedin | Lahore, Pakistan | AI product | 5
+linkedin | Karachi, Pakistan | sales operations | BLOCKED (will retry)
+linkedin | Islamabad, Pakistan | revenue operations | 4
+linkedin | Dubai, United Arab Emirates | business intelligence | 40
+linkedin | Abu Dhabi, United Arab Emirates | data analyst | 63
+linkedin | Abu Dhabi, United Arab Emirates | power bi | 89
+linkedin | United Arab Emirates | analytics manager | 77
+linkedin | Riyadh, Saudi Arabia | assistant professor | 1
+linkedin | Jeddah, Saudi Arabia | lecturer | 2
+linkedin | Saudi Arabia | data scientist | 16
+linkedin | Qatar | strategy and planning | 30
+linkedin | Bahrain | AI product | 0
+linkedin | Oman | sales operations | 3
+linkedin | Kuwait | revenue operations | 1
+linkedin | Jordan | business intelligence | 3
+linkedin | Egypt | data analyst | 30
+linkedin | Egypt | power bi | 80
 linkedin | Kuala Lumpur, Malaysia | AI product | 50
-linkedin | Tokyo, Japan | business intelligence visa sponsorship | 50
-linkedin | London, England, United Kingdom | strategy visa sponsorship | 10
-linkedin | Ireland | revenue operations visa sponsorship | 50
+linkedin | Tokyo, Japan | business intelligence visa sponsorship | 36
+linkedin | London, England, United Kingdom | strategy visa sponsorship | BLOCKED (will retry)
+linkedin | Ireland | revenue operations visa sponsorship | 16
 linkedin | Netherlands | business intelligence visa sponsorship | 50
-linkedin | Poland | strategy visa sponsorship | BLOCKED (will retry)
-linkedin | Prague, Czechia | revenue operations visa sponsorship | 20
-linkedin | Canada | business intelligence visa sponsorship | 20
+linkedin | Poland | strategy visa sponsorship | 30
+linkedin | Prague, Czechia | revenue operations visa sponsorship | BLOCKED (will retry)
+linkedin | Canada | business intelligence visa sponsorship | BLOCKED (will retry)
 linkedin | Australia | strategy visa sponsorship | 50
-indeed | Pakistan | "strategy and planning" OR "business operations" O | 62
-indeed | United Arab Emirates | salesforce OR "CRM manager" OR "commercial operati | 100
-linkedin: retrying 1 blocked searches after a 90 second wait
-linkedin | Poland | strategy visa sponsorship | 50 (retry)
+indeed | Pakistan | "strategy and planning" OR "business operations" O | 12
+indeed | United Arab Emirates | salesforce OR "CRM manager" OR "commercial operati | 13
+linkedin: retrying 4 blocked searches after a 90 second wait
+linkedin | Karachi, Pakistan | sales operations | 10 (retry)
+linkedin | London, England, United Kingdom | strategy visa sponsorship | 50 (retry)
+linkedin | Prague, Czechia | revenue operations visa sponsorship | 5 (retry)
+linkedin | Canada | business intelligence visa sponsorship | BLOCKED again
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 7 employers | 1130
 bamboohr | 1 employers | 10
-greenhouse | 27 employers | 2387
+greenhouse | 27 employers | 2386
 lever | 1 employers | 309
 personio | 2 employers | 17
 recruitee | 1 employers | 3
 smartrecruiters | 1 employers | 228
 workable | 2 employers | 12
-workday | 2 employers | 391
+workday | 2 employers | 390
 telegram | jobsvacancydubai | 0
-telegram | jobs_sql | 10
-telegram | datasciencejobs | 2
-locations | missing 7 | looked up 6 | found 5
-checks | descriptions opened 90 | {"dropped earlier": 8, "nationals only": 1, "visa ruled out": 4, "no visa mention": 53}
---- search runner 6/10 (13.7 min)
-indeed | Qatar | "strategy and planning" OR "business operations" O | 13
-indeed | Bahrain | salesforce OR "CRM manager" OR "commercial operati | 3
-indeed | Kuwait | "AI product" OR "AI specialist" OR "AI consultant" | 1
-indeed | Egypt | "BI developer" OR "business analyst" OR "insights  | 26
-indeed | Japan | ("revenue operations" OR revops OR "sales operatio | 1
-indeed | Germany | (lecturer OR "assistant professor" OR "associate p | 4
-indeed | Czech Republic | ("data analyst" OR "business intelligence" OR "BI  | 2
-indeed | Australia | ("revenue operations" OR revops OR "sales operatio | 17
-linkedin | Lahore, Pakistan | strategy and planning | 10
-linkedin | Karachi, Pakistan | AI product | 20
-linkedin | Islamabad, Pakistan | sales operations | 50
-linkedin | Dubai, United Arab Emirates | revenue operations | 100
-linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 100
-linkedin | United Arab Emirates | data analyst | 30
-linkedin | United Arab Emirates | power bi | 20
-linkedin | Riyadh, Saudi Arabia | analytics manager | 30
-linkedin | Jeddah, Saudi Arabia | assistant professor | 4
-linkedin | Saudi Arabia | lecturer | 50
-linkedin | Qatar | data scientist | 50
-linkedin | Bahrain | strategy and planning | 50
-linkedin | Oman | AI product | 4
-linkedin | Kuwait | sales operations | 50
-linkedin | Jordan | revenue operations | 20
-linkedin | Egypt | business intelligence | 20
-linkedin | Istanbul, Türkiye | data analyst | 30
+telegram | jobs_sql | 4
+telegram | datasciencejobs | 0
+locations | missing 2 | looked up 2 | found 1
+checks | descriptions opened 19 | {"dropped earlier": 21, "nationals only": 1, "no visa mention": 5}
+--- search runner 6/10 (10.2 min)
+indeed | Qatar | "strategy and planning" OR "business operations" O | 1
+indeed | Bahrain | salesforce OR "CRM manager" OR "commercial operati | 0
+indeed | Kuwait | "AI product" OR "AI specialist" OR "AI consultant" | 0
+indeed | Egypt | "BI developer" OR "business analyst" OR "insights  | 1
+indeed | Japan | ("revenue operations" OR revops OR "sales operatio | 0
+indeed | Germany | (lecturer OR "assistant professor" OR "associate p | 0
+indeed | Czech Republic | ("data analyst" OR "business intelligence" OR "BI  | 0
+indeed | Australia | ("revenue operations" OR revops OR "sales operatio | 0
+linkedin | Lahore, Pakistan | strategy and planning | 32
+linkedin | Karachi, Pakistan | AI product | 6
+linkedin | Islamabad, Pakistan | sales operations | 8
+linkedin | Dubai, United Arab Emirates | revenue operations | 99
+linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 47
+linkedin | United Arab Emirates | data analyst | 50
+linkedin | United Arab Emirates | power bi | BLOCKED (will retry)
+linkedin | Riyadh, Saudi Arabia | analytics manager | 13
+linkedin | Jeddah, Saudi Arabia | assistant professor | 0
+linkedin | Saudi Arabia | lecturer | 9
+linkedin | Qatar | data scientist | BLOCKED (will retry)
+linkedin | Bahrain | strategy and planning | 6
+linkedin | Oman | AI product | 0
+linkedin | Kuwait | sales operations | 5
+linkedin | Jordan | revenue operations | BLOCKED (will retry)
+linkedin | Egypt | business intelligence | 38
+linkedin | Istanbul, Türkiye | data analyst | 40
 linkedin | Kuala Lumpur, Malaysia | strategy and planning | 50
-linkedin | Tokyo, Japan | data scientist visa sponsorship | 20
-linkedin | United Kingdom | data analyst visa sponsorship | 50
-linkedin | Ireland | AI product manager visa sponsorship | 50
+linkedin | Tokyo, Japan | data scientist visa sponsorship | BLOCKED (will retry)
+linkedin | United Kingdom | data analyst visa sponsorship | BLOCKED (will retry)
+linkedin | Ireland | AI product manager visa sponsorship | 10
 linkedin | Netherlands | data scientist visa sponsorship | 50
-linkedin | Budapest, Hungary | data analyst visa sponsorship | 50
-linkedin | Prague, Czechia | AI product manager visa sponsorship | 30
-linkedin | Canada | data scientist visa sponsorship | 50
-linkedin | New Zealand | data analyst visa sponsorship | 50
-indeed | Pakistan | lecturer OR "assistant professor" OR "associate pr | 100
-indeed | Saudi Arabia | "data analyst" OR "business intelligence" OR "BI a | 48
+linkedin | Budapest, Hungary | data analyst visa sponsorship | 25
+linkedin | Prague, Czechia | AI product manager visa sponsorship | 7
+linkedin | Canada | data scientist visa sponsorship | 20
+linkedin | New Zealand | data analyst visa sponsorship | 15
+indeed | Pakistan | lecturer OR "assistant professor" OR "associate pr | 17
+indeed | Saudi Arabia | "data analyst" OR "business intelligence" OR "BI a | 7
+linkedin: retrying 5 blocked searches after a 90 second wait
+linkedin | United Arab Emirates | power bi | 50 (retry)
+linkedin | Qatar | data scientist | 15 (retry)
+linkedin | Jordan | revenue operations | 2 (retry)
+linkedin | Tokyo, Japan | data scientist visa sponsorship | 12 (retry)
+linkedin | United Kingdom | data analyst visa sponsorship | 50 (retry)
 discovered employers | added | 26
 open-jobs-data | employers added | 371
-ashby | 7 employers | 535
+ashby | 7 employers | 534
 greenhouse | 27 employers | 1308
 lever | 2 employers | 132
 personio | 2 employers | 4
 recruitee | 1 employers | 38
 smartrecruiters | 1 employers | 171
 workable | 2 employers | 125
-workday | 2 employers | 300
+workday | 2 employers | 299
 google_alerts | skipped (no feeds yet: add GOOGLE_ALERTS_FEEDS secret)
 brave | skipped (no BRAVE_KEY secret)
 signals | pages opened 0 | jobs read 0
-locations | missing 2 | looked up 2 | found 2
-checks | descriptions opened 90 | {"dropped earlier": 15, "nationals only": 1, "no visa mention": 71, "visa ruled out": 4, "visa not checked (ad unreadable)": 3}
---- search runner 7/10 (20.0 min)
-indeed | Qatar | lecturer OR "assistant professor" OR "associate pr | 25
-indeed | Oman | "data analyst" OR "business intelligence" OR "BI a | 1
-indeed | Kuwait | "strategy and planning" OR "business operations" O | 5
-indeed | Egypt | salesforce OR "CRM manager" OR "commercial operati | 43
+checks | descriptions opened 7 | {"nationals only": 1, "dropped earlier": 32}
+--- search runner 7/10 (12.6 min)
+indeed | Qatar | lecturer OR "assistant professor" OR "associate pr | 5
+indeed | Oman | "data analyst" OR "business intelligence" OR "BI a | 0
+indeed | Kuwait | "strategy and planning" OR "business operations" O | 2
+indeed | Egypt | salesforce OR "CRM manager" OR "commercial operati | 1
 indeed | Japan | (lecturer OR "assistant professor" OR "associate p | 0
-indeed | Netherlands | ("data analyst" OR "business intelligence" OR "BI  | 9
+indeed | Netherlands | ("data analyst" OR "business intelligence" OR "BI  | 4
 indeed | Czech Republic | ("revenue operations" OR revops OR "sales operatio | 0
-indeed | Australia | (lecturer OR "assistant professor" OR "associate p | 6
-linkedin | Lahore, Pakistan | data scientist | 50
-linkedin | Karachi, Pakistan | strategy and planning | 50
-linkedin | Islamabad, Pakistan | AI product | 32
-linkedin | Dubai, United Arab Emirates | sales operations | 100
-linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 100
+indeed | Australia | (lecturer OR "assistant professor" OR "associate p | 1
+linkedin | Lahore, Pakistan | data scientist | 8
+linkedin | Karachi, Pakistan | strategy and planning | 30
+linkedin | Islamabad, Pakistan | AI product | 0
+linkedin | Dubai, United Arab Emirates | sales operations | 10
+linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 30
 linkedin | United Arab Emirates | business intelligence | BLOCKED (will retry)
-linkedin | Riyadh, Saudi Arabia | data analyst | 100
-linkedin | Riyadh, Saudi Arabia | power bi | BLOCKED (will retry)
-linkedin | Jeddah, Saudi Arabia | analytics manager | 30
-linkedin | Saudi Arabia | assistant professor | 30
-linkedin | Qatar | lecturer | 32
-linkedin | Bahrain | data scientist | 5
-linkedin | Oman | strategy and planning | 50
-linkedin | Kuwait | AI product | 7
-linkedin | Jordan | sales operations | 50
-linkedin | Egypt | revenue operations | 100
-linkedin | Istanbul, Türkiye | business intelligence | 10
-linkedin | Kuala Lumpur, Malaysia | data scientist | 50
-linkedin | Tokyo, Japan | revenue operations visa sponsorship | 50
-linkedin | United Kingdom | business intelligence visa sponsorship | 50
-linkedin | Ireland | strategy visa sponsorship | 40
+linkedin | Riyadh, Saudi Arabia | data analyst | 24
+linkedin | Riyadh, Saudi Arabia | power bi | 40
+linkedin | Jeddah, Saudi Arabia | analytics manager | BLOCKED (will retry)
+linkedin | Saudi Arabia | assistant professor | 1
+linkedin | Qatar | lecturer | 0
+linkedin | Bahrain | data scientist | 0
+linkedin | Oman | strategy and planning | 11
+linkedin | Kuwait | AI product | BLOCKED (will retry)
+linkedin | Jordan | sales operations | 22
+linkedin | Egypt | revenue operations | 24
+linkedin | Istanbul, Türkiye | business intelligence | 48
+linkedin | Kuala Lumpur, Malaysia | data scientist | 40
+linkedin | Tokyo, Japan | revenue operations visa sponsorship | 19
+linkedin | United Kingdom | business intelligence visa sponsorship | 20
+linkedin | Ireland | strategy visa sponsorship | BLOCKED (will retry)
 linkedin | Netherlands | revenue operations visa sponsorship | BLOCKED (will retry)
-linkedin | Budapest, Hungary | business intelligence visa sponsorship | 10
-linkedin | Prague, Czechia | strategy visa sponsorship | 20
-linkedin | Canada | revenue operations visa sponsorship | 50
-linkedin | New Zealand | business intelligence visa sponsorship | 50
-indeed | Pakistan | "BI developer" OR "business analyst" OR "insights  | 46
-indeed | Saudi Arabia | "revenue operations" OR revops OR "sales operation | 9
-linkedin: retrying 3 blocked searches after a 90 second wait
-linkedin | United Arab Emirates | business intelligence | 100 (retry)
-linkedin | Riyadh, Saudi Arabia | power bi | 20 (retry)
-linkedin | Netherlands | revenue operations visa sponsorship | BLOCKED again
+linkedin | Budapest, Hungary | business intelligence visa sponsorship | 21
+linkedin | Prague, Czechia | strategy visa sponsorship | 50
+linkedin | Canada | revenue operations visa sponsorship | BLOCKED (will retry)
+linkedin | New Zealand | business intelligence visa sponsorship | 14
+indeed | Pakistan | "BI developer" OR "business analyst" OR "insights  | 3
+indeed | Saudi Arabia | "revenue operations" OR revops OR "sales operation | 1
+linkedin: retrying 6 blocked searches after a 90 second wait
+linkedin | United Arab Emirates | business intelligence | 10 (retry)
+linkedin | Jeddah, Saudi Arabia | analytics manager | 0 (retry)
+linkedin | Kuwait | AI product | 2 (retry)
+linkedin | Ireland | strategy visa sponsorship | 40 (retry)
+linkedin | Netherlands | revenue operations visa sponsorship | 10 (retry)
+linkedin | Canada | revenue operations visa sponsorship | BLOCKED again
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 7 employers | 345
-greenhouse | 27 employers | 5304
+greenhouse | 27 employers | 5305
 lever | 2 employers | 50
 personio | 2 employers | 21
 recruitee | 1 employers | 16
@@ -408,14 +421,14 @@ university | University of Management and Technology | page not found
 university | University of the Punjab | page not found
 university | Lahore School of Economics | FAILED: Failed to perform, curl: (60) SSL: certificate subject name 'Plesk' does not mat
 university | Forman Christian College | page not found
-university | Beaconhouse National University | FAILED: HTTP Error 503: Service Unavailable
+university | Beaconhouse National University | new links 0 | relevant 0
 university | Habib University | new links 0 | relevant 0
 university | SZABIST | FAILED: Failed to perform, curl: (60) SSL certificate OpenSSL verify result: unable to g
 university | Air University | page not found
 university | Bahria University | FAILED: HTTP Error 500: 
 university | Quaid-i-Azam University | page not found
 university | PIEAS | new links 0 | relevant 0
-university | GIKI | FAILED: Failed to perform, curl: (60) SSL certificate OpenSSL verify result: unable to g
+university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 45002 milliseconds. See
 university | UET Lahore | page not found
 university | University of Wollongong in Dubai | page not found
 university | Middlesex University Dubai | page not found
@@ -429,50 +442,47 @@ university | Alfaisal University | page not found
 university | Effat University | page not found
 university | Qatar University | page not found
 university | University of Doha for Science and Technology | new links 0 | relevant 0
-locations | missing 2 | looked up 2 | found 2
-checks | descriptions opened 90 | {"dropped earlier": 8, "nationals only": 1, "no visa mention": 72, "visa ruled out": 2}
---- search runner 8/10 (15.9 min)
-indeed | Qatar | "BI developer" OR "business analyst" OR "insights  | 8
-indeed | Oman | "revenue operations" OR revops OR "sales operation | 2
-indeed | Kuwait | lecturer OR "assistant professor" OR "associate pr | 11
-indeed | Turkey | ("data analyst" OR "business intelligence" OR "BI  | 2
-indeed | UK | ("data analyst" OR "business intelligence" OR "BI  | 100
-indeed | Netherlands | ("revenue operations" OR revops OR "sales operatio | 5
+checks | descriptions opened 6 | {"dropped earlier": 19, "nationals only": 1}
+--- search runner 8/10 (9.1 min)
+indeed | Qatar | "BI developer" OR "business analyst" OR "insights  | 0
+indeed | Oman | "revenue operations" OR revops OR "sales operation | 0
+indeed | Kuwait | lecturer OR "assistant professor" OR "associate pr | 2
+indeed | Turkey | ("data analyst" OR "business intelligence" OR "BI  | 0
+indeed | UK | ("data analyst" OR "business intelligence" OR "BI  | 15
+indeed | Netherlands | ("revenue operations" OR revops OR "sales operatio | 2
 indeed | Czech Republic | (lecturer OR "assistant professor" OR "associate p | 0
-indeed | New Zealand | ("data analyst" OR "business intelligence" OR "BI  | 2
-linkedin | Lahore, Pakistan | lecturer | 10
-linkedin | Karachi, Pakistan | data scientist | BLOCKED (will retry)
-linkedin | Islamabad, Pakistan | strategy and planning | 50
-linkedin | Dubai, United Arab Emirates | AI product | 30
-linkedin | Abu Dhabi, United Arab Emirates | sales operations | 100
-linkedin | United Arab Emirates | revenue operations | 10
-linkedin | Riyadh, Saudi Arabia | business intelligence | 100
-linkedin | Jeddah, Saudi Arabia | data analyst | 100
-linkedin | Jeddah, Saudi Arabia | power bi | 100
-linkedin | Saudi Arabia | analytics manager | 100
-linkedin | Qatar | assistant professor | 10
-linkedin | Bahrain | lecturer | 8
-linkedin | Oman | data scientist | 5
-linkedin | Kuwait | strategy and planning | 50
-linkedin | Jordan | AI product | 5
-linkedin | Egypt | sales operations | 60
-linkedin | Istanbul, Türkiye | revenue operations | 20
-linkedin | Singapore | data analyst | BLOCKED (will retry)
-linkedin | Tokyo, Japan | AI product manager visa sponsorship | 50
-linkedin | United Kingdom | data scientist visa sponsorship | 50
-linkedin | Germany | data analyst visa sponsorship | BLOCKED (will retry)
-linkedin | Netherlands | AI product manager visa sponsorship | 50
-linkedin | Budapest, Hungary | data scientist visa sponsorship | 44
-linkedin | Lisbon, Portugal | data analyst visa sponsorship | 30
-linkedin | Canada | AI product manager visa sponsorship | 20
+indeed | New Zealand | ("data analyst" OR "business intelligence" OR "BI  | 0
+linkedin | Lahore, Pakistan | lecturer | 1
+linkedin | Karachi, Pakistan | data scientist | 7
+linkedin | Islamabad, Pakistan | strategy and planning | 22
+linkedin | Dubai, United Arab Emirates | AI product | 40
+linkedin | Abu Dhabi, United Arab Emirates | sales operations | 30
+linkedin | United Arab Emirates | revenue operations | 30
+linkedin | Riyadh, Saudi Arabia | business intelligence | 10
+linkedin | Jeddah, Saudi Arabia | data analyst | 5
+linkedin | Jeddah, Saudi Arabia | power bi | 20
+linkedin | Saudi Arabia | analytics manager | 21
+linkedin | Qatar | assistant professor | 0
+linkedin | Bahrain | lecturer | 4
+linkedin | Oman | data scientist | 0
+linkedin | Kuwait | strategy and planning | 14
+linkedin | Jordan | AI product | 1
+linkedin | Egypt | sales operations | 100
+linkedin | Istanbul, Türkiye | revenue operations | 40
+linkedin | Singapore | data analyst | 50
+linkedin | Tokyo, Japan | AI product manager visa sponsorship | BLOCKED (will retry)
+linkedin | United Kingdom | data scientist visa sponsorship | 20
+linkedin | Germany | data analyst visa sponsorship | 40
+linkedin | Netherlands | AI product manager visa sponsorship | 23
+linkedin | Budapest, Hungary | data scientist visa sponsorship | 5
+linkedin | Lisbon, Portugal | data analyst visa sponsorship | 11
+linkedin | Canada | AI product manager visa sponsorship | 50
 linkedin | New Zealand | data scientist visa sponsorship | BLOCKED (will retry)
-indeed | Pakistan | salesforce OR "CRM manager" OR "commercial operati | 98
-indeed | Saudi Arabia | "AI product" OR "AI specialist" OR "AI consultant" | 15
-linkedin: retrying 4 blocked searches after a 90 second wait
-linkedin | Karachi, Pakistan | data scientist | 29 (retry)
-linkedin | Singapore | data analyst | 50 (retry)
-linkedin | Germany | data analyst visa sponsorship | BLOCKED again
-linkedin | New Zealand | data scientist visa sponsorship | 50 (retry)
+indeed | Pakistan | salesforce OR "CRM manager" OR "commercial operati | 8
+indeed | Saudi Arabia | "AI product" OR "AI specialist" OR "AI consultant" | 0
+linkedin: retrying 2 blocked searches after a 90 second wait
+linkedin | Tokyo, Japan | AI product manager visa sponsorship | 15 (retry)
+linkedin | New Zealand | data scientist visa sponsorship | 7 (retry)
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 7 employers | 187
@@ -483,49 +493,58 @@ recruitee | 2 employers | 220
 teamtailor | 1 employers | 100
 workable | 1 employers | 1249
 workday | 2 employers | 313
-locations | missing 5 | looked up 5 | found 5
-checks | descriptions opened 90 | {"dropped earlier": 10, "visa ruled out": 6, "no visa mention": 50}
---- search runner 9/10 (12.4 min)
-indeed | Qatar | salesforce OR "CRM manager" OR "commercial operati | 17
-indeed | Oman | "AI product" OR "AI specialist" OR "AI consultant" | 3
-indeed | Kuwait | "BI developer" OR "business analyst" OR "insights  | 2
+locations | missing 2 | looked up 2 | found 2
+checks | descriptions opened 9 | {"dropped earlier": 24, "no visa mention": 1}
+--- search runner 9/10 (9.0 min)
+indeed | Qatar | salesforce OR "CRM manager" OR "commercial operati | 0
+indeed | Oman | "AI product" OR "AI specialist" OR "AI consultant" | 0
+indeed | Kuwait | "BI developer" OR "business analyst" OR "insights  | 0
 indeed | Turkey | ("revenue operations" OR revops OR "sales operatio | 0
-indeed | UK | ("revenue operations" OR revops OR "sales operatio | 80
+indeed | UK | ("revenue operations" OR revops OR "sales operatio | 18
 indeed | Netherlands | (lecturer OR "assistant professor" OR "associate p | 0
 indeed | Portugal | ("data analyst" OR "business intelligence" OR "BI  | 0
-indeed | New Zealand | ("revenue operations" OR revops OR "sales operatio | 2
-linkedin | Lahore, Pakistan | assistant professor | 6
-linkedin | Karachi, Pakistan | lecturer | 9
-linkedin | Islamabad, Pakistan | data scientist | 41
-linkedin | Dubai, United Arab Emirates | strategy and planning | 30
-linkedin | Abu Dhabi, United Arab Emirates | AI product | 20
-linkedin | United Arab Emirates | sales operations | 100
-linkedin | Riyadh, Saudi Arabia | revenue operations | 100
-linkedin | Jeddah, Saudi Arabia | business intelligence | 20
-linkedin | Saudi Arabia | data analyst | 10
-linkedin | Saudi Arabia | power bi | 50
-linkedin | Qatar | analytics manager | 10
+indeed | New Zealand | ("revenue operations" OR revops OR "sales operatio | 1
+linkedin | Lahore, Pakistan | assistant professor | 1
+linkedin | Karachi, Pakistan | lecturer | 1
+linkedin | Islamabad, Pakistan | data scientist | BLOCKED (will retry)
+linkedin | Dubai, United Arab Emirates | strategy and planning | 70
+linkedin | Abu Dhabi, United Arab Emirates | AI product | 31
+linkedin | United Arab Emirates | sales operations | 60
+linkedin | Riyadh, Saudi Arabia | revenue operations | BLOCKED (will retry)
+linkedin | Jeddah, Saudi Arabia | business intelligence | 1
+linkedin | Saudi Arabia | data analyst | 30
+linkedin | Saudi Arabia | power bi | BLOCKED (will retry)
+linkedin | Qatar | analytics manager | 6
 linkedin | Bahrain | assistant professor | 2
-linkedin | Oman | lecturer | 1
-linkedin | Kuwait | data scientist | 11
-linkedin | Jordan | strategy and planning | 50
-linkedin | Egypt | AI product | 20
-linkedin | Istanbul, Türkiye | AI product | 40
-linkedin | Singapore | business intelligence | 50
-linkedin | Tokyo, Japan | strategy visa sponsorship | 20
-linkedin | United Kingdom | revenue operations visa sponsorship | 50
-linkedin | Germany | business intelligence visa sponsorship | 30
+linkedin | Oman | lecturer | 0
+linkedin | Kuwait | data scientist | BLOCKED (will retry)
+linkedin | Jordan | strategy and planning | 30
+linkedin | Egypt | AI product | 15
+linkedin | Istanbul, Türkiye | AI product | 23
+linkedin | Singapore | business intelligence | 20
+linkedin | Tokyo, Japan | strategy visa sponsorship | 40
+linkedin | United Kingdom | revenue operations visa sponsorship | BLOCKED (will retry)
+linkedin | Germany | business intelligence visa sponsorship | BLOCKED (will retry)
 linkedin | Netherlands | strategy visa sponsorship | 50
-linkedin | Budapest, Hungary | revenue operations visa sponsorship | 50
-linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 50
-linkedin | Canada | strategy visa sponsorship | 50
-linkedin | New Zealand | revenue operations visa sponsorship | 10
-indeed | United Arab Emirates | "data analyst" OR "business intelligence" OR "BI a | 100
-indeed | Saudi Arabia | "strategy and planning" OR "business operations" O | 22
+linkedin | Budapest, Hungary | revenue operations visa sponsorship | 6
+linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 7
+linkedin | Canada | strategy visa sponsorship | BLOCKED (will retry)
+linkedin | New Zealand | revenue operations visa sponsorship | BLOCKED (will retry)
+indeed | United Arab Emirates | "data analyst" OR "business intelligence" OR "BI a | 8
+indeed | Saudi Arabia | "strategy and planning" OR "business operations" O | 1
+linkedin: retrying 8 blocked searches after a 90 second wait
+linkedin | Islamabad, Pakistan | data scientist | 5 (retry)
+linkedin | Riyadh, Saudi Arabia | revenue operations | BLOCKED again
+linkedin | Saudi Arabia | power bi | 10 (retry)
+linkedin | Kuwait | data scientist | 0 (retry)
+linkedin | United Kingdom | revenue operations visa sponsorship | 20 (retry)
+linkedin | Germany | business intelligence visa sponsorship | BLOCKED again
+linkedin | Canada | strategy visa sponsorship | 10 (retry)
+linkedin | New Zealand | revenue operations visa sponsorship | 3 (retry)
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 7 employers | 323
-greenhouse | 27 employers | 3489
+greenhouse | 27 employers | 3488
 lever | 2 employers | 976
 personio | 1 employers | 4
 recruitee | 1 employers | 1
@@ -533,45 +552,51 @@ smartrecruiters | 1 employers | 1000
 teamtailor | 1 employers | 22
 workable | 1 employers | 6
 workday | 2 employers | 354
-locations | missing 4 | looked up 4 | found 4
-checks | descriptions opened 90 | {"dropped earlier": 7, "nationals only": 1, "visa ruled out": 3, "no visa mention": 52}
---- search runner 10/10 (15.0 min)
-indeed | Bahrain | "data analyst" OR "business intelligence" OR "BI a | 4
-indeed | Oman | "strategy and planning" OR "business operations" O | 7
-indeed | Kuwait | salesforce OR "CRM manager" OR "commercial operati | 4
+locations | missing 2 | looked up 2 | found 2
+checks | descriptions opened 8 | {"dropped earlier": 15, "no visa mention": 3}
+--- search runner 10/10 (10.6 min)
+indeed | Bahrain | "data analyst" OR "business intelligence" OR "BI a | 0
+indeed | Oman | "strategy and planning" OR "business operations" O | 0
+indeed | Kuwait | salesforce OR "CRM manager" OR "commercial operati | 1
 indeed | Turkey | (lecturer OR "assistant professor" OR "associate p | 0
-indeed | UK | (lecturer OR "assistant professor" OR "associate p | 27
-indeed | Poland | ("data analyst" OR "business intelligence" OR "BI  | 11
+indeed | UK | (lecturer OR "assistant professor" OR "associate p | 0
+indeed | Poland | ("data analyst" OR "business intelligence" OR "BI  | 0
 indeed | Portugal | ("revenue operations" OR revops OR "sales operatio | 0
-indeed | New Zealand | (lecturer OR "assistant professor" OR "associate p | 1
-linkedin | Lahore, Pakistan | analytics manager | 39
-linkedin | Karachi, Pakistan | assistant professor | 2
-linkedin | Islamabad, Pakistan | lecturer | 6
-linkedin | Dubai, United Arab Emirates | data scientist | 100
+indeed | New Zealand | (lecturer OR "assistant professor" OR "associate p | 0
+linkedin | Lahore, Pakistan | analytics manager | 4
+linkedin | Karachi, Pakistan | assistant professor | 0
+linkedin | Islamabad, Pakistan | lecturer | 1
+linkedin | Dubai, United Arab Emirates | data scientist | 50
 linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 100
-linkedin | United Arab Emirates | AI product | 100
-linkedin | Riyadh, Saudi Arabia | sales operations | 100
-linkedin | Jeddah, Saudi Arabia | revenue operations | 41
-linkedin | Saudi Arabia | business intelligence | 100
-linkedin | Qatar | data analyst | 50
-linkedin | Qatar | power bi | 50
-linkedin | Bahrain | analytics manager | 14
-linkedin | Oman | assistant professor | 1
-linkedin | Kuwait | lecturer | 9
-linkedin | Jordan | data scientist | 12
-linkedin | Egypt | strategy and planning | 100
+linkedin | United Arab Emirates | AI product | 71
+linkedin | Riyadh, Saudi Arabia | sales operations | 36
+linkedin | Jeddah, Saudi Arabia | revenue operations | 1
+linkedin | Saudi Arabia | business intelligence | 27
+linkedin | Qatar | data analyst | BLOCKED (will retry)
+linkedin | Qatar | power bi | BLOCKED (will retry)
+linkedin | Bahrain | analytics manager | 2
+linkedin | Oman | assistant professor | 0
+linkedin | Kuwait | lecturer | 1
+linkedin | Jordan | data scientist | 1
+linkedin | Egypt | strategy and planning | BLOCKED (will retry)
 linkedin | Istanbul, Türkiye | strategy and planning | 50
 linkedin | Singapore | revenue operations | 50
 linkedin | London, England, United Kingdom | data analyst visa sponsorship | 50
-linkedin | United Kingdom | AI product manager visa sponsorship | 50
-linkedin | Germany | data scientist visa sponsorship | 50
-linkedin | Poland | data analyst visa sponsorship | 50
-linkedin | Budapest, Hungary | AI product manager visa sponsorship | 19
-linkedin | Lisbon, Portugal | data scientist visa sponsorship | 21
+linkedin | United Kingdom | AI product manager visa sponsorship | 20
+linkedin | Germany | data scientist visa sponsorship | BLOCKED (will retry)
+linkedin | Poland | data analyst visa sponsorship | BLOCKED (will retry)
+linkedin | Budapest, Hungary | AI product manager visa sponsorship | 4
+linkedin | Lisbon, Portugal | data scientist visa sponsorship | 3
 linkedin | Australia | data analyst visa sponsorship | 50
-linkedin | New Zealand | AI product manager visa sponsorship | 26
-indeed | United Arab Emirates | "revenue operations" OR revops OR "sales operation | 99
-indeed | Saudi Arabia | lecturer OR "assistant professor" OR "associate pr | 19
+linkedin | New Zealand | AI product manager visa sponsorship | 2
+indeed | United Arab Emirates | "revenue operations" OR revops OR "sales operation | 12
+indeed | Saudi Arabia | lecturer OR "assistant professor" OR "associate pr | 1
+linkedin: retrying 5 blocked searches after a 90 second wait
+linkedin | Qatar | data analyst | 30 (retry)
+linkedin | Qatar | power bi | 20 (retry)
+linkedin | Egypt | strategy and planning | 30 (retry)
+linkedin | Germany | data scientist visa sponsorship | 50 (retry)
+linkedin | Poland | data analyst visa sponsorship | 50 (retry)
 discovered employers | added | 26
 open-jobs-data | employers added | 371
 ashby | 7 employers | 91
@@ -579,21 +604,21 @@ greenhouse | 27 employers | 2964
 lever | 2 employers | 17
 personio | 1 employers | 40
 recruitee | 1 employers | 4
-smartrecruiters | 1 employers | 949
+smartrecruiters | 1 employers | 946
 teamtailor | 1 employers | 5
 workable | 1 employers | 3
 workday | 2 employers | 206
-locations | missing 22 | looked up 22 | found 22
-checks | descriptions opened 90 | {"dropped earlier": 12, "nationals only": 1, "no visa mention": 77, "visa ruled out": 2, "visa not checked (ad unreadable)": 3}
---- sites runner 1/4 (2.4 min)
-company sites | {"read": 146, "unchanged": 493, "failed": 28, "jobs": 20}
+locations | missing 21 | looked up 21 | found 21
+checks | descriptions opened 18 | {"nationals only": 1, "dropped earlier": 39, "no visa mention": 7}
+--- sites runner 1/4 (1.7 min)
+company sites | {"read": 203, "unchanged": 441, "failed": 23, "jobs": 24}
 checks | descriptions opened 0 | {}
---- sites runner 2/4 (0.9 min)
-company sites | {"read": 158, "unchanged": 494, "failed": 15, "jobs": 24}
-checks | descriptions opened 0 | {}
---- sites runner 3/4 (1.9 min)
-company sites | {"read": 137, "unchanged": 510, "failed": 20, "jobs": 15}
-checks | descriptions opened 0 | {"no visa mention": 2}
+--- sites runner 2/4 (3.4 min)
+company sites | {"read": 215, "unchanged": 398, "failed": 54, "jobs": 54}
+checks | descriptions opened 0 | {"no visa mention": 8}
+--- sites runner 3/4 (2.6 min)
+company sites | {"read": 195, "unchanged": 453, "failed": 19, "jobs": 14}
+checks | descriptions opened 0 | {"no visa mention": 1}
 --- sites runner 4/4 (1.9 min)
-company sites | {"read": 138, "unchanged": 509, "failed": 19, "jobs": 2}
+company sites | {"read": 186, "unchanged": 466, "failed": 14, "jobs": 28}
 checks | descriptions opened 0 | {}
