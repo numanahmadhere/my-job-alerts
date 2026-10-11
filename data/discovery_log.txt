@@ -39,3 +39,16 @@ website | new employers added 69 (total 69)
 employers | to check 69
 employers | checked 69 | {"active": 26, "inactive": 29, "empty": 10, "error": 4}
 done in 18 min
+Discovery (weekly) 2026-10-11
+sponsors | UK | 120644
+sponsors | NL | 13017
+sponsors | CA | 23
+crt.sh | no answer after retries for 33 searches: careers.*.ae, career.*.ae, jobs.*.ae, karriere.*.ae, werkenbij.*.ae, join.*.ae, careers.*.bh, career.*.bh, jobs.*.bh, karriere.*.bh, werkenbij.*.bh, join.*.bh, careers.*.eg, career.*.eg, jobs.*.eg, karriere.*.eg, werkenbij.*.eg, join.*.eg, careers.*.jo, career.*.jo
+crt.sh | searches answered 0
+crt.sh | new websites added 0 (total 61018)
+probe | websites to check 20000
+probe | checked 20000 | {"active": 9637, "none": 5788, "unreachable": 995, "error": 2719, "ats": 156, "offtarget": 705}
+website | new employers added 428 (total 497)
+employers | to check 428
+employers | checked 428 | {"active": 195, "inactive": 221, "empty": 70, "error": 11}
+done in 171 min
