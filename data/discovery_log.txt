@@ -65,3 +65,55 @@ website | new employers added 1288 (total 2152)
 employers | to check 1655
 employers | checked 1655 | {"active": 936, "inactive": 773, "empty": 405, "error": 38}
 done in 67 min
+Discovery (monthly) 2026-10-12
+commoncrawl | CC-MAIN-2026-39 | 300 index files
+commoncrawl | greenhouse | urls 28957 | boards 3317
+commoncrawl | lever | urls 455 | boards 0
+commoncrawl | workable | urls 9993 | boards 3196
+commoncrawl | ashby | urls 20513 | boards 3044
+commoncrawl | smartrecruiters | urls 2846 | boards 746
+commoncrawl | recruitee | urls 3286 | boards 464
+commoncrawl | bamboohr | urls 442 | boards 4
+commoncrawl | personio | urls 6212 | boards 488
+commoncrawl | personio | urls 4210 | boards 789
+commoncrawl | workday | urls 63067 | boards 3265
+commoncrawl | breezy | urls 337 | boards 57
+commoncrawl | teamtailor | urls 10274 | boards 472
+commoncrawl | pinpoint | urls 226 | boards 56
+commoncrawl | oracle | urls 12202 | boards 978
+commoncrawl | successfactors | urls 0 | boards 0
+commoncrawl | successfactors | urls 0 | boards 0
+commoncrawl | taleo | urls 592 | boards 462
+commoncrawl | icims | urls 13824 | boards 1306
+commoncrawl | new employers added 16897 (total 19049)
+commoncrawl | .ae careers sites | 1260
+commoncrawl | .bh careers sites | 38
+commoncrawl | .eg careers sites | 155
+commoncrawl | .jo careers sites | 87
+commoncrawl | .kw careers sites | 66
+commoncrawl | .om careers sites | 89
+commoncrawl | .pk careers sites | 879
+commoncrawl | .qa careers sites | 164
+commoncrawl | .sa careers sites | 861
+commoncrawl | .au careers sites | 4000
+commoncrawl | .ca careers sites | 4000
+commoncrawl | .cz careers sites | 4000
+commoncrawl | .de careers sites | 4000
+commoncrawl | .hu careers sites | 1829
+commoncrawl | .ie careers sites | 1561
+commoncrawl | .jp careers sites | 4000
+commoncrawl | .my careers sites | 1663
+commoncrawl | .nl careers sites | 4000
+commoncrawl | .nz careers sites | 2316
+commoncrawl | .pl careers sites | 4000
+commoncrawl | .pt careers sites | 952
+commoncrawl | .sg careers sites | 1265
+commoncrawl | .tr careers sites | 1794
+commoncrawl | .uk careers sites | 4000
+commoncrawl | new websites added 46282 (total 107434)
+probe | websites to check 20000
+probe | checked 20000 | {"active": 17879, "error": 373, "none": 1207, "unreachable": 515, "ats": 26}
+website | new employers added 512 (total 19561)
+employers | to check 17409
+employers | checked 17409 | {"active": 6965, "inactive": 8618, "empty": 3878, "error": 100}
+done in 156 min
