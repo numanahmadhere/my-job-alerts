@@ -28,7 +28,11 @@ accented spellings are matched.
 **Daily (7 AM PKT):**
 - LinkedIn, Indeed (22 countries), via JobSpy (Bayt was removed: it blocks GitHub's servers)
 - Company hiring systems (official public job feeds): Greenhouse, Lever, Workable, Ashby, SmartRecruiters,
-  Recruitee, BambooHR, Personio, Workday, Breezy, Teamtailor, Pinpoint. Employers come from `config.yaml`,
+  Recruitee, BambooHR, Personio, Workday, Breezy, Teamtailor, Pinpoint, and for big employers Oracle Recruiting
+  Cloud, SAP SuccessFactors, Taleo and iCIMS. Workday and SmartRecruiters are searched inside your countries only.
+  Workable is also searched across all its employers by role and city.
+- Target employers (`data/target_employers.csv`): about 160 Pakistan and Gulf employers. Weekly discovery opens
+  each one's website, finds its careers system and adds it. Edit the list (set include to no to drop one). Employers come from `config.yaml`,
   the [open-jobs-data](https://github.com/ConorsCode/open-jobs-data) list, and `data/employers.csv`
   (found automatically, see Discovery)
 - Job-board sitemaps: Rozee.pk, GulfTalent (all Gulf countries, Jordan, Egypt)
@@ -59,6 +63,8 @@ city, and fuzzy matching), checks visa / nationals rules, and **adds** new jobs 
   changed. Columns: Date found, Posted, Role, Company, City, Why it matches, Level, Found on, Apply link,
   Status (yours), Region.
 - **Companies newly hiring:** employers seen for the first time, one row per company per day.
+- **Visa unclear:** UK / Europe / Canada / Australia / Japan roles whose ad says nothing about visas.
+- **Jobs by source:** new jobs per source each run.
 - **Run health:** one row per run: jobs scanned, searches done vs planned, failures, coverage %.
 
 ## Notes

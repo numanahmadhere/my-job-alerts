@@ -23,7 +23,7 @@ from urllib.parse import unquote, urljoin, urlparse
 
 import requests
 
-from . import extra
+from . import ats2, extra  # noqa: F401  (ats2 registers the new readers)
 from .match import CONFIG, GEO, ROOT, description_from_html, sponsor_norm
 from .more import BROWSER_UA, _text, jsonld_jobs
 
@@ -86,7 +86,7 @@ def add_sites(new_sites, source):
         sites.append(dict(host=h, careers_url=s.get("careers_url") or f"https://{h}/", status="new",
                           priority=s.get("priority") or ("1" if tld in GULF_FIRST else "2" if tld in TLD_COUNTRY else "3"),
                           country=TLD_COUNTRY.get(tld, ""), default_location=TLD_COUNTRY.get(tld, ""),
-                          source=source, added=TODAY))
+                          source=source, added=TODAY, name=s.get("name", "")))
         have.add(h)
         added += 1
     write_rows(SITES, SITE_COLS, sites)
@@ -129,8 +129,30 @@ ATS_PATTERNS = [
 WORKDAY_RX = re.compile(r"([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[a-z]{2}-[A-Z]{2}/)?([A-Za-z0-9_-]+)")
 
 
-def find_ats(text):
+NEW_ATS = [
+    ("oracle", re.compile(r"([a-z0-9-]+\.fa\.[a-z0-9-]+\.oraclecloud\.com)/hcmUI/CandidateExperience/[a-z]{2}(?:-[A-Z]{2})?/sites/([A-Za-z0-9_]+)")),
+    ("successfactors", re.compile(r"(career\d*\.successfactors\.(?:com|eu))/career\?company=([A-Za-z0-9_-]+)")),
+    ("taleo", re.compile(r"([a-z0-9-]+)\.taleo\.net/careersection/([A-Za-z0-9_.-]+)/")),
+    ("icims", re.compile(r"((?:careers-|jobs-)?[a-z0-9-]+\.icims\.com)")),
+]
+
+
+def find_ats(text, host=None):
     out = set()
+    for platform, rx in NEW_ATS:
+        for m in rx.finditer(text):
+            if platform == "icims":
+                h = m.group(1).lower()
+                if h.split(".")[0] not in SKIP_SLUGS and h != "www.icims.com":
+                    out.add(("icims", h, h.split(".")[0].replace("careers-", "")))
+            elif platform == "taleo":
+                if m.group(2).lower() not in ("rest", "application", "theme"):
+                    out.add(("taleo", f"{m.group(1)}|{m.group(2)}", m.group(1)))
+            else:
+                out.add((platform, f"{m.group(1)}|{m.group(2)}",
+                         m.group(2) if platform == "successfactors" else m.group(1).split(".")[0]))
+    if host and re.search(r"rmkcdn|jobs2web|successfactors\.com/career|sfcareer", text):
+        out.add(("successfactors", host, host))   # SAP Career Site Builder on the company's own domain
     for platform, rx in ATS_PATTERNS:
         for m in re.finditer(rx, text):
             slug = unquote(m.group(1)).strip("/")
@@ -167,7 +189,7 @@ def probe(site):
     host = site["host"]
     res = dict(site)
     res.update(probed=TODAY, status="none", kind="", ats="")
-    target_tld = tld_of(host) in TLD_COUNTRY
+    target_tld = tld_of(host) in TLD_COUNTRY or site.get("source") == "target"
     try:
         page, final = _get(site.get("careers_url") or f"https://{host}/")
         if page is None:
@@ -186,7 +208,9 @@ def probe(site):
                         if p2:
                             page, final, text = p2, f2, _text(p2)
                         break
-        ats = find_ats(text) | find_ats(final or "")
+        ats = find_ats(text, urlparse(final or "").netloc or host) | find_ats(final or "")
+        if site.get("name"):   # target employers: keep their real name instead of the system's code
+            ats = {(p, s, site["name"]) for p, s, _ in ats}
         res["careers_url"] = final or res.get("careers_url")
         jobs = jsonld_jobs(page, final)
         rss = re.search(r'<link[^>]+type=["\']application/(?:rss|atom)\+xml["\'][^>]*href=["\']([^"\']+)["\']', text, re.I)
@@ -457,16 +481,32 @@ ATS_RANGES = [
     ("bamboohr", "com,bamboohr,"), ("personio", "de,personio,"), ("personio", "com,personio,"),
     ("workday", "com,myworkdayjobs,"), ("breezy", "hr,breezy,"), ("teamtailor", "com,teamtailor,"),
     ("pinpoint", "com,pinpointhq,"),
+    ("oracle", "com,oraclecloud,"), ("successfactors", "com,successfactors,"), ("successfactors", "eu,successfactors,"),
+    ("taleo", "net,taleo,"), ("icims", "com,icims,"),
 ]
+PATH_FILTER = {"oracle": "/hcmUI/CandidateExperience/%", "successfactors": "/career%", "taleo": "/careersection/%"}
 CAREER_PATH = (r"^/([a-z]{2}(-[a-z]{2})?/)?(careers?|jobs?|vacanc(y|ies)|job-?openings?|join-?us|work-?with-?us|"
                r"opportunities|recruitment|karriere|stellenangebote|stellen|vacatures|werken-?bij|kariera|praca|"
                r"karrier|kariyer|carreiras?|empregos?|saiyo|recruit|wazaif)(/|\.html?|\.aspx|\.php|$)")
 
 
-def _ats_from_url(platform, host, path):
+def _ats_from_url(platform, host, path, url=""):
     host = host.lower()
     parts = [p for p in path.split("/") if p]
     sub = host.split(".")[0]
+    if platform == "oracle":
+        if ".fa." in host and len(parts) > 4 and parts[3] == "sites":
+            return f"{host}|{parts[4]}", sub
+        return None
+    if platform == "successfactors":
+        m = re.search(r"[?&]company=([A-Za-z0-9_-]+)", url or "")
+        return (f"{host}|{m.group(1)}", m.group(1)) if m and host.startswith("career") else None
+    if platform == "taleo":
+        if len(parts) > 1 and parts[0] == "careersection" and parts[1] not in ("rest", "application", "theme"):
+            return f"{sub}|{parts[1]}", sub
+        return None
+    if platform == "icims":
+        return (host, sub.replace("careers-", "")) if sub not in SKIP_SLUGS and host != "www.icims.com" else None
     if platform == "workday":
         bits = host.split(".")
         if len(bits) >= 4 and parts:
@@ -521,11 +561,13 @@ def commoncrawl(minutes):
             break
         hi = lo[:-1] + "-"   # ',' < '-' so this covers every key that starts with lo
         try:
-            got = con.execute(f"SELECT DISTINCT url_host_name, url_path FROM cc WHERE url_surtkey >= '{lo}' "
-                              f"AND url_surtkey < '{hi}' AND fetch_status = 200").fetchall()
+            pf = f" AND url_path LIKE '{PATH_FILTER[platform]}'" if platform in PATH_FILTER else ""
+            sel = "url_host_name, url_path, any_value(url)" if platform == "successfactors" else "url_host_name, url_path, ''"
+            got = con.execute(f"SELECT {sel} FROM cc WHERE url_surtkey >= '{lo}' "
+                              f"AND url_surtkey < '{hi}' AND fetch_status = 200{pf} GROUP BY 1, 2").fetchall()
             n0 = len(employers)
-            for host, path in got:
-                hit = _ats_from_url(platform, host or "", path or "")
+            for host, path, url in got:
+                hit = _ats_from_url(platform, host or "", path or "", url or "")
                 if hit:
                     employers.add((platform, hit[0], hit[1]))
             log(f"commoncrawl | {platform} | urls {len(got)} | boards {len(employers) - n0}")
@@ -572,6 +614,52 @@ def wdc():
     add_sites([dict(host=h) for h in sorted(hosts)], "webdatacommons")
 
 
+# ---------------------------------------------------------------- employer lists
+def import_open_jobs_data():
+    """open-jobs-data (GitHub) employers go through the same check as everyone else: kept only with
+    jobs in your markets. (Before, all 360 were read every day though few hire where you are.)"""
+    try:
+        data = extra._get_json(extra.OPEN_JOBS_DATA) or []
+        found = set()
+        for c in data:
+            p = c.get("platform")
+            if p == "workday" and c.get("workday"):
+                w = c["workday"]
+                found.add(("workday", f"{w['tenant']}/{w['shard']}/{w['site']}", c.get("name") or w["tenant"]))
+            elif p in extra.FETCHERS and c.get("slug"):
+                found.add((p, str(c["slug"]), c.get("name") or c["slug"]))
+        add_employers(found, "open-jobs-data")
+    except Exception as e:
+        log(f"open-jobs-data | FAILED: {str(e)[:100]}")
+
+
+TARGETS = DATA / "target_employers.csv"
+
+
+def import_targets():
+    """Your target employers: their websites are checked first (priority 0), so the careers system
+    behind each one is found and its jobs are read daily."""
+    if not TARGETS.exists():
+        return
+    rows = read_rows(TARGETS, ["name", "country", "sector", "website", "careers_url", "include"])
+    rows = [r for r in rows if (r["include"] or "yes").strip().lower() != "no" and (r["website"] or r["careers_url"])]
+    sites = []
+    for r in rows:
+        url = r["careers_url"] or f"https://{r['website'].strip('/')}/"
+        host = urlparse(url if "://" in url else "https://" + url).netloc.lower()
+        sites.append(dict(host=host, careers_url=url, priority="0", name=r["name"]))
+    known = {s["host"]: s for s in read_rows(SITES, SITE_COLS)}
+    # target employers already known: move them to the front and check them again
+    sites_all = read_rows(SITES, SITE_COLS)
+    hosts = {s["host"] for s in sites}
+    for s in sites_all:
+        if s["host"] in hosts and s["source"] != "target":
+            s.update(priority="0", source="target", status="new" if s["status"] != "active" else s["status"])
+    write_rows(SITES, SITE_COLS, sites_all)
+    add_sites([s for s in sites if s["host"] not in known], "target")
+    log(f"targets | {len(rows)} employers in the list")
+
+
 # ---------------------------------------------------------------- entry point
 def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else "weekly"
@@ -589,7 +677,10 @@ def main():
             log(f"wdc | FAILED: {str(e)[:200]}")
     if mode == "weekly":
         sponsors()
-        crtsh(90 * SCALE)
+        import_open_jobs_data()
+        import_targets()
+        # crt.sh (certificate logs) is not called any more: it never answers GitHub's servers, and the
+        # monthly Common Crawl sweep already finds careers.* / jobs.* sites in your countries.
     probe_new(float(DISC.get("probe_minutes", 90)) * SCALE, int(DISC.get("probe_per_run", 20000)))
     validate(float(DISC.get("validate_minutes", 90)) * SCALE)
     log(f"done in {(time.time() - t0) / 60:.0f} min")

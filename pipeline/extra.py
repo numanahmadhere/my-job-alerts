@@ -59,12 +59,13 @@ def _post_json(url, body, headers=None):
 
 
 @retry(stop=stop_after_attempt(2), wait=wait_exponential(multiplier=2, max=10), reraise=True)
-def _get_page(url):
-    """Fetch a public web page (sitemaps, job pages) with a browser-like client when available."""
+def _get_page(url, verify=True):
+    """Fetch a public web page (sitemaps, job pages) with a browser-like client when available.
+    verify=False is used only for reading public pages of sites with broken security certificates."""
     if cffi_requests is not None:
-        r = cffi_requests.get(url, impersonate="chrome", timeout=TIMEOUT, allow_redirects=True)
+        r = cffi_requests.get(url, impersonate="chrome", timeout=TIMEOUT, allow_redirects=True, verify=verify)
     else:
-        r = requests.get(url, headers={"User-Agent": UA}, timeout=TIMEOUT, allow_redirects=True)
+        r = requests.get(url, headers={"User-Agent": UA}, timeout=TIMEOUT, allow_redirects=True, verify=verify)
     if r.status_code == 404:
         return None, None
     r.raise_for_status()
@@ -263,7 +264,8 @@ FETCHERS = {"greenhouse": _greenhouse, "lever": _lever, "workable": _workable, "
 
 
 def _employer_list(config, log):
-    """config.yaml career_pages + (optionally) the open-jobs-data list, without duplicates."""
+    """config.yaml career_pages + data/employers.csv (active only) + optionally open-jobs-data."""
+    from . import ats2  # noqa: F401  (registers Oracle, SuccessFactors, Taleo, iCIMS readers)
     boards = {}  # (platform, key) -> (name, cfg)
     cp = config.get("career_pages") or {}
     for platform in FETCHERS:
@@ -328,7 +330,11 @@ def hiring_systems(config, shard=0, shards=1):
     def run(item):
         (platform, _), (name, cfg) = item
         try:
-            got = _workday(cfg, name, keywords, max_pages) if platform == "workday" else FETCHERS[platform](cfg, name)
+            if platform == "workday":
+                from .ats2 import workday
+                got = workday(cfg, name, keywords)
+            else:
+                got = FETCHERS[platform](cfg, name)
             return got, None
         except Exception as e:
             return [], f"{platform} | {name} | FAILED: {str(e)[:100]}"
@@ -418,9 +424,17 @@ def sitemaps(config, role_group, window_lo):
                  if loc and (not lm or lm[:10] >= window_lo) and url_filter(loc)]
         candidates = [(loc, lm) for loc, lm in fresh if role_group(_slug_text(loc))]
         got = 0
+        import time as _t
         for loc, lm in candidates[:max_details]:
+            _t.sleep(2)   # Rozee answers 429 (too many requests) when pages are opened quickly
             try:
-                page, final_url = _get_page(loc)
+                try:
+                    page, final_url = _get_page(loc)
+                except Exception as e:
+                    if "429" not in str(e):
+                        raise
+                    _t.sleep(20)
+                    page, final_url = _get_page(loc)
                 if not page:
                     continue
                 d = _jsonld_job(page) or _page_fallback(page, city_words)

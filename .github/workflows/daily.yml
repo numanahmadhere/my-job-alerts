@@ -2,7 +2,8 @@ name: Daily job alerts
 
 on:
   schedule:
-    - cron: "0 2 * * *"      # 07:00 Pakistan time, every day
+    - cron: "0 2 * * *"      # 07:00 Pakistan time
+    - cron: "0 14 * * *"     # 19:00 Pakistan time
   workflow_dispatch:           # "Run workflow" button for manual runs
     inputs:
       lookback_days:

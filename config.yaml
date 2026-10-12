@@ -25,8 +25,8 @@ markets:
       Lahore: ['lahore', 'لاہور']
       Islamabad: ['islamabad', 'rawalpindi']
       Karachi: ['karachi']
-    linkedin: {locations: ["Lahore, Pakistan", "Karachi, Pakistan", "Islamabad, Pakistan"], queries: full}
-    indeed: {country: Pakistan, queries: full}
+    linkedin: {locations: ["Lahore, Pakistan", "Karachi, Pakistan", "Islamabad, Pakistan"], queries: pakistan}
+    indeed: {country: Pakistan, queries: full, where: ["", "Lahore", "Karachi", "Islamabad"]}   # whole country + each city
 
   UAE:
     region: Gulf
@@ -330,6 +330,10 @@ sites:
     query_sets:
       full: ["data analyst", "business intelligence", "revenue operations", "sales operations", "AI product",
              "strategy and planning", "data scientist", "lecturer", "assistant professor", "analytics manager", "power bi"]
+      pakistan: ["data analyst", "business intelligence", "revenue operations", "sales operations", "AI product",
+                 "strategy and planning", "data scientist", "lecturer", "assistant professor", "analytics manager",
+                 "power bi", "business analyst", "data analytics", "product analyst", "head of data", "BI developer",
+                 "strategy manager", "corporate planning", "salesforce", "AI specialist"]
       core: ["data analyst", "business intelligence", "revenue operations", "AI product", "strategy and planning",
              "data scientist"]
       sponsorship: ["data analyst visa sponsorship", "business intelligence visa sponsorship",
@@ -382,7 +386,9 @@ daily:
 # across companies, so employers are listed here. Add one line per company: board-name: "Display Name"
 # (the board name is the part of the careers URL after the domain).
 # The open-jobs-data list (378 mostly-tech employers, updated daily on GitHub) is added automatically.
-use_open_jobs_data: true
+# open-jobs-data employers are now checked weekly like all others and read daily only if they have jobs
+# in your markets (data/employers.csv). Set true to read all of them every day again.
+use_open_jobs_data: false
 career_pages:
   greenhouse:
     gomotive: "Motive"
@@ -492,7 +498,7 @@ signals:
   max_pages_opened: 60     # job pages opened per day from alerts / Brave
   # Public Telegram channels (read through the t.me/s/ web preview). Only posts whose title
   # matches your roles AND whose location matches your cities are kept.
-  telegram: [jobsvacancydubai, jobs_sql, datasciencejobs]
+  telegram: [jobs_sql]      # jobsvacancydubai and datasciencejobs removed: no matching posts in practice
 
 # University job pages (Pakistan + Gulf). New adverts are opened (PDFs read as text) and kept
 # when they mention a teaching role in a subject that fits you.

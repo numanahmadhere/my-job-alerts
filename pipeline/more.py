@@ -380,6 +380,38 @@ def open_candidates(cands, seen, budget):
 
 
 # ---------------------------------------------------------------- universities
+def _get_lenient(url):
+    """University sites often have broken security certificates; these are public pages, so read them anyway."""
+    try:
+        return _get_page(url)
+    except Exception as e:
+        if "certificate" in str(e).lower() or "ssl" in str(e).lower():
+            return _get_page(url, verify=False)
+        raise
+
+
+def _uni_page(url):
+    """The configured careers page; if it moved, find the careers / jobs link on the home page instead."""
+    try:
+        page, final = _get_lenient(url)
+        if page:
+            return page, final
+    except Exception as e:
+        if not re.search(r"404|403|410|500|503", str(e)):
+            raise
+    root = f"{urlparse(url).scheme}://{urlparse(url).netloc}/"
+    home, final = _get_lenient(root)
+    if not home:
+        return None, None
+    for href, label in re.findall(r'<a[^>]+href=["\']([^"\'#]+)["\'][^>]*>(.*?)</a>', _text(home), re.S | re.I):
+        if re.search(r"(?i)career|jobs|vacanc|recruit|employment|work with us|join us", href + " " + description_from_html(label)):
+            try:
+                page, f2 = _get_lenient(urljoin(final or root, html.unescape(href)))
+                if page:
+                    return page, f2
+            except Exception:
+                continue
+    return None, None
 TEACH = re.compile(r"\b(lecturer|assistant professor|associate professor|professor|faculty|instructor|teaching)\b", re.I)
 
 
@@ -393,9 +425,9 @@ def universities(config, seen):
     rows, log, opened = [], [], []
     for u in config.get("universities") or []:
         try:
-            page, final = _get_page(u["url"])
+            page, final = _uni_page(u["url"])
             if not page:
-                log.append(f"university | {u['name']} | page not found")
+                log.append(f"university | {u['name']} | careers page not found (also tried the home page)")
                 continue
             text = _text(page)
             links = []
@@ -412,7 +444,7 @@ def universities(config, seen):
             for link, label in links:
                 opened.append(url_key(link))
                 try:
-                    doc, _ = _get_page(link)
+                    doc, _ = _get_lenient(link)
                     if not doc:
                         continue
                     if link.lower().endswith(".pdf") or doc[:4] == b"%PDF":
@@ -562,6 +594,8 @@ def read_site(site, st, seen, window_lo, pages_per_site):
                 pass
     new_state["last_checked"] = date.today().isoformat()
     new_state["last_found"] = str(found)
+    new_state["fails"] = ""
+    new_state["zeros"] = "0" if found else str(int(st.get("zeros") or 0) + 1)
     return rows, opened, new_state, f"read {found}"
 
 

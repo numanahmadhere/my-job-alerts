@@ -24,7 +24,7 @@ from pathlib import Path
 import pandas as pd
 import requests
 
-from . import extra, more, sheets
+from . import ats2, extra, more, sheets
 from .match import (CONFIG, GEO, SPONSORS, fix_url, job_id, level, nationals_only, norm, role_group,
                     visa_says)
 
@@ -47,13 +47,18 @@ SOURCE_NAMES = {"linkedin": "LinkedIn", "indeed": "Indeed", "bayt": "Bayt", "rem
                 "arbeitnow": "Arbeitnow", "telegram": "Telegram", "google_alerts": "Google Alerts",
                 "brave": "Web search (Brave)", "university": "University website", "site": "Company website"}
 for _p in ("greenhouse", "lever", "workable", "ashby", "smartrecruiters", "recruitee", "bamboohr", "personio",
-           "workday", "breezy", "teamtailor", "pinpoint"):
+           "workday", "breezy", "teamtailor", "pinpoint", "oracle", "successfactors", "taleo", "icims"):
     SOURCE_NAMES[_p] = "Company careers"
 JOBSPY_SITES = {"linkedin", "indeed", "bayt"}
-LONG_WINDOW = {"rozee", "gulftalent", "site", "university"}   # sources read from sitemaps / pages
+# Sources that list every open job (sitemaps, company hiring systems): jobs posted in the last 30 days
+# count, so an employer's already-open roles are picked up the first time it is read. Duplicates are
+# removed against the history, so later runs only add new ones.
+LONG_WINDOW = {"rozee", "gulftalent", "site", "university", "greenhouse", "lever", "workable", "ashby",
+               "smartrecruiters", "recruitee", "bamboohr", "personio", "workday", "breezy", "teamtailor",
+               "pinpoint", "oracle", "successfactors", "taleo", "icims"}
 
 COLUMNS = ["job_id", "first_seen", "last_seen", "date_posted", "title", "company", "city", "role_group",
-           "level", "source", "job_url", "location_raw", "region", "note"]
+           "level", "source", "job_url", "location_raw", "region", "note", "tab"]
 SHEET_HEADERS = ["Date found", "Posted", "Role", "Company", "City", "Why it matches", "Level", "Found on",
                  "Apply link", "Status", "Region"]
 
@@ -93,10 +98,12 @@ def search_plan():
                                  country, "sponsor" in li.get("queries", "")))
         ind = m.get("indeed")
         if ind:
-            for q in s["indeed"]["query_sets"][ind.get("queries", "full")]:
-                plan.append(("indeed", q, dict(location=ind.get("where") or None, country_indeed=ind["country"],
-                                               results_wanted=ind.get("results", s["indeed"]["results_per_query"])),
-                             country, "sponsor" in ind.get("queries", "")))
+            wheres = ind.get("where") if isinstance(ind.get("where"), list) else [ind.get("where")]
+            for where in wheres:
+                for q in s["indeed"]["query_sets"][ind.get("queries", "full")]:
+                    plan.append(("indeed", q, dict(location=where or None, country_indeed=ind["country"],
+                                                   results_wanted=ind.get("results", s["indeed"]["results_per_query"])),
+                                 country, "sponsor" in ind.get("queries", "")))
     b = s.get("bayt") or {}
     for loc in b.get("locations") or []:
         for q in b.get("queries") or []:
@@ -206,8 +213,21 @@ def _sites_for_today(today, shards, shard):
         return [], {}
     sites = sites[sites["status"] == "active"]
     state = {r["host"]: r for r in _read_csv(SITE_STATE, ["host"]).to_dict("records")}
-    sites = sites.assign(_last=[state.get(h, {}).get("last_checked", "") for h in sites["host"]])
-    sites = sites.sort_values("_last")
+    week_ago = (today - timedelta(days=7)).isoformat()
+
+    def due(h):
+        st = state.get(h, {})
+        if int(st.get("fails") or 0) >= 5:          # paused: failed 5 times in a row
+            return False
+        if int(st.get("zeros") or 0) >= 3 and st.get("last_checked", "") > week_ago:
+            return False                              # no jobs 3 reads running: read weekly
+        return True
+
+    sites = sites[[due(h) for h in sites["host"]]]
+    rank = {"0": 0, "1": 1}
+    sites = sites.assign(_last=[state.get(h, {}).get("last_checked", "") for h in sites["host"]],
+                         _prio=[rank.get(str(p), 2) for p in sites.get("priority", pd.Series("", index=sites.index))])
+    sites = sites.sort_values(["_prio", "_last"])
     per_day = int((CONFIG.get("site_reader") or {}).get("sites_per_day", 900))
     todays = sites.head(per_day).to_dict("records")
     return my_share(todays, shard, shards), state
@@ -272,6 +292,7 @@ def collect(shard=0, shards=1, role="all"):
         ("telegram", lambda: more.telegram(CONFIG, window_lo)),
         ("alerts + web search", lambda: signals(today, window_lo, seen_links)),
         ("universities", lambda: more.universities(CONFIG, seen_links)),
+        ("workable search", lambda: ats2.workable_search(CONFIG)),
     ]
     for name, fn in (my_share(small, shard, shards) if do_search else []):
         run_task(name, fn)
@@ -500,14 +521,16 @@ def screen(rows, today, deadline):
             elif on_list:
                 r["note"] = f"licensed visa sponsor ({GEO.sponsor_list(r['country']).upper()} list)"
             elif desc:
-                r["keep"] = False
-                screened.append(dict(job_id=r["job_id"], date=today.isoformat(), reason="no visa mention"))
-                stats["no visa mention"] += 1
+                # the ad says nothing about visas: kept, but in the "Visa unclear" tab, for you to decide
+                r["tab"] = "Visa unclear"
+                r["note"] = "ad does not mention visa sponsorship"
+                stats["visa unclear (no mention)"] += 1
             elif r["sponsor_query"]:
                 r["note"] = "found by a visa-sponsorship search; check the ad"
             else:
-                r["keep"] = False
-                stats["visa not checked (ad unreadable)"] += 1
+                r["tab"] = "Visa unclear"
+                r["note"] = "ad could not be read; check visa"
+                stats["visa unclear (ad unreadable)"] += 1
         elif rule == "open":
             if says == "no":
                 r["keep"] = False
@@ -602,7 +625,7 @@ def merge(shard_dir=OUT):
         ss = {r["host"]: r for r in _read_csv(SITE_STATE, ["host"]).to_dict("records")}
         for h, st in site_state.items():
             ss[h] = {**ss.get(h, {}), **st, "host": h}
-        cols = ["host", "etag", "last_modified", "hash", "last_checked", "last_found", "fails"]
+        cols = ["host", "etag", "last_modified", "hash", "last_checked", "last_found", "fails", "zeros"]
         pd.DataFrame(list(ss.values())).reindex(columns=cols).fillna("").to_csv(SITE_STATE, index=False)
 
     # summary + log
@@ -628,10 +651,13 @@ def merge(shard_dir=OUT):
 
     if len(new):
         new = new.sort_values(["first_seen", "date_posted"], ascending=False)
-        sheets.write("master", TAB, SHEET_HEADERS,
-                     [[r.first_seen, r.date_posted, r.title, r.company, r.city, why(r), r.level,
-                       SOURCE_NAMES.get(r.source, r.source), r.job_url, "", r.region] for r in new.itertuples()],
-                     format=False)
+        for tab_name, part in new.groupby(new["tab"].replace("", TAB)):
+            # "My jobs": everything that passed; "Visa unclear": UK / Europe / Canada / Australia / Japan
+            # roles whose ad says nothing about visas (kept for you to decide instead of being dropped)
+            sheets.write("master", tab_name, SHEET_HEADERS,
+                         [[r.first_seen, r.date_posted, r.title, r.company, r.city, why(r), r.level,
+                           SOURCE_NAMES.get(r.source, r.source), r.job_url, "", r.region] for r in part.itertuples()],
+                         format=False)
         nc = new[~new["company"].map(norm).isin(companies_before)]
         if len(nc):
             g = nc.groupby(nc["company"].map(norm))
@@ -648,6 +674,12 @@ def merge(shard_dir=OUT):
                    stats["raw"], len(fresh), len(new), stats["searches_ok"], stats["searches_planned"],
                    stats["searches_failed"] + stats["searches_blocked"], stats["sources_ok"], stats["sources_failed"],
                    coverage, len(cities_hit), len(screened), len(parts)]], format=False)
+    # which source found today's new jobs (one row per source per run)
+    if len(new):
+        by_src = new.assign(src=new["source"].map(lambda s: SOURCE_NAMES.get(s, s))).groupby("src")
+        sheets.write("master", "Jobs by source", ["Run at (PKT)", "Source", "New jobs", "Of which Pakistan", "Of which Gulf"],
+                     [[f"{datetime.now(PKT):%Y-%m-%d %H:%M}", s, len(x), int((x["region"] == "Pakistan").sum()),
+                       int(x["region"].str.startswith("Gulf").sum())] for s, x in by_src], format=False)
     if stats["raw"] == 0:
         raise SystemExit("No jobs found at all: every source failed. Check data/last_run.txt.")
 
