@@ -50,6 +50,8 @@ for _p in ("greenhouse", "lever", "workable", "ashby", "smartrecruiters", "recru
            "workday", "breezy", "teamtailor", "pinpoint", "oracle", "successfactors", "taleo", "icims"):
     SOURCE_NAMES[_p] = "Company careers"
 JOBSPY_SITES = {"linkedin", "indeed", "bayt"}
+OPEN_ONLY = {"greenhouse", "lever", "workable", "ashby", "smartrecruiters", "recruitee", "bamboohr", "personio",
+             "workday", "breezy", "teamtailor", "pinpoint", "oracle", "successfactors", "taleo", "icims"}
 # Sources that list every open job (sitemaps, company hiring systems): jobs posted in the last 30 days
 # count, so an employer's already-open roles are picked up the first time it is read. Duplicates are
 # removed against the history, so later runs only add new ones.
@@ -313,6 +315,11 @@ def collect(shard=0, shards=1, role="all"):
 
     # ---- dates: feeds count only recent jobs
     def recent(r):
+        # Company hiring systems list only jobs that are still open, so every one counts the first time we
+        # see it, however long ago it was posted (e.g. a Motive role open since January). The history file
+        # makes sure it is added only once.
+        if r["source"] in OPEN_ONLY:
+            return True
         d = str(r.get("date_posted") or "")[:10]
         return not d or d >= (long_lo if r["source"] in LONG_WINDOW else window_lo)
     feed_rows = [r for r in feed_rows if recent(r)]

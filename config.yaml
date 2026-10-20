@@ -26,7 +26,7 @@ markets:
       Islamabad: ['islamabad', 'rawalpindi']
       Karachi: ['karachi']
     linkedin: {locations: ["Lahore, Pakistan", "Karachi, Pakistan", "Islamabad, Pakistan"], queries: pakistan}
-    indeed: {country: Pakistan, queries: full, where: ["", "Lahore", "Karachi", "Islamabad"]}   # whole country + each city
+    indeed: {country: Pakistan, queries: pakistan, where: ["", "Lahore", "Karachi", "Islamabad"]}   # whole country + each city
 
   UAE:
     region: Gulf
@@ -298,21 +298,21 @@ remote_boards: [remoteok, weworkremotely, remotive, himalayas, jobicy, workingno
 # Patterns are regex, case-insensitive.
 role_groups:
   - name: "Teaching & Faculty"
-    title: '\b(lecturer|assistant professor|associate professor|professor|faculty|instructor|teaching fellow|(ai|data|analytics|power ?bi|corporate) trainer)\b'
-    requires: '\b(data|analytics|ai|a\.i\.|artificial intelligence|machine learning|computer science|computing|cs|business|management|mba|statistics|information (systems|technology)|mis|economics|finance|marketing|bba)\b'
+    title: '\b(lecturer|assistant professor|associate professor|professor|faculty|instructor|teaching fellow|(ai|data|analytics|power ?bi|corporate|python|excel|machine learning|ml) trainer|trainer[^,]{0,20}\b(ai|data|analytics|power ?bi))\b'
+    requires: '\b(data|analytics|ai|a\.i\.|artificial intelligence|machine learning|computer science|computing|cs|business|management|mba|statistics|information (systems|technology)|mis|economics|finance|marketing|bba|power ?bi|python)\b'
   - name: "RevOps"
-    title: '\b((head|director|vp) of (revenue|sales|gtm) operations|revenue operations|revops|rev ops|sales operations|sales ops|gtm operations|go[- ]to[- ]market operations|commercial operations|salesforce (analyst|administrator|admin|specialist|consultant|lead|manager)|crm (analyst|manager|specialist|lead|administrator))\b'
+    title: '\b((head|director|vp) of (revenue|sales|gtm) operations|revenue operations|revops|rev ops|sales operations|sales ops|gtm operations|gtm strategy|go[- ]to[- ]market (operations|strategy)|commercial operations|commercial excellence|sales excellence|sales (analyst|analytics|strategy)|revenue (analyst|strategy|strategist)|deal desk|marketing operations|customer success operations|business systems analyst|salesforce (analyst|administrator|admin|specialist|consultant|lead|manager|developer)|hubspot (admin|administrator|specialist|consultant)|crm (analyst|manager|specialist|lead|administrator|executive))\b'
   - name: "AI Product / Applied AI"
-    title: '\b(ai product|product (manager|owner|specialist|lead)[^,]{0,25}\b(ai|ml|data)\b|(ai|genai|gen ai) (solutions?|implementation|specialist|consultant|strategist|transformation|lead|manager|analyst)|applied ai|ai adoption)'
+    title: '\b(ai product|product (manager|owner|specialist|lead|analyst)[^,]{0,25}\b(ai|ml|data|analytics)\b|(ai|genai|gen ai|generative ai|llm) (solutions?|implementation|specialist|consultant|strategist|strategy|transformation|lead|manager|analyst|engineer|trainer|educator|enablement|automation|evangelist|program manager|project manager|architect)|applied ai|ai adoption|ai automation|prompt engineer|copilot|ai[- ]powered|automation (specialist|consultant|lead) )'
   - name: "Data & BI"
-    title: '\b((head|director) of (data|analytics|bi|business intelligence|insights)|data analyst|analytics (lead|manager|specialist|consultant|analyst|engineer)|business intelligence|bi (analyst|developer|specialist|lead|manager|engineer|consultant)|power ?bi|tableau|product analyst|insights? (analyst|manager|lead)|reporting analyst|experimentation|a/?b test|business analyst|data analytics)'
+    title: '\b((head|director|vp) of (data|analytics|bi|business intelligence|insights)|data (analyst|lead|manager|specialist)|analytics (lead|manager|specialist|consultant|analyst|engineer|executive|officer)|business intelligence|bi (analyst|developer|specialist|lead|manager|engineer|consultant)|power ?bi|tableau|looker|product analyst|insights? (analyst|manager|lead|specialist)|business insights|reporting (analyst|specialist|manager|lead)|experimentation|a/?b test|business analyst|data analytics|mis (analyst|executive|officer|manager|specialist|lead|coordinator)|management information|decision scien|commercial analyst|operations analyst|payments? (analyst|operations)|marketing analyst|customer analyst|pricing (analyst|manager|lead|strategy|specialist)|performance analyst|kpi)'
   - name: "Strategy & Ops"
-    title: '\b((head|director|vp) of (strategy|business operations|planning)|strategy (and|&) (planning|operations)|strategic planning|business operations|bizops|strategy (analyst|associate|manager|lead|consultant)|(strategic|business|corporate) planning|operations strategy)'
+    title: '\b((head|director|vp) of (strategy|business operations|planning|growth|transformation)|strategy (and|&) (planning|operations|business operations|analytics)|strategy[^,]{0,15}operations|strategic planning|business operations|bizops|strategy (analyst|associate|manager|lead|consultant|specialist|officer|executive)|(strategic|business|corporate|commercial) planning|planning (analyst|manager|lead|specialist)|operations strategy|corporate strategy|business strategy|chief of staff|founder.?s office|ceo office|business (excellence|transformation|performance)|operational excellence|transformation (manager|lead|analyst|office)|growth (analyst|manager|lead|strategy|&|and)|performance management|pmo (analyst|lead|manager)|special projects)'
   - name: "Data Science"
-    title: '\bdata scien'
+    title: '\b(data scien|machine learning (engineer|scientist|specialist|lead)|ml (engineer|scientist)|applied scientist|quantitative analyst|statistician|ai/ml|ml/ai)'
 
 # Titles containing any of these are dropped even if they match a group above.
-exclude_title: '\b(intern|internship|trainee|junior|jr\.?|fresh(er)?|graduate program|sales (executive|representative|associate|officer|agent|manager)|account executive|business development|telesales|call cent(er|re)|data entry)\b'
+exclude_title: '\b(intern|internship|trainee|junior|jr\.?|fresh(er)?|graduate program|sales (executive|representative|associate|officer|agent|manager)|account executive|business development|telesales|call cent(er|re)|data entry|production planning|demand planning|supply (chain|planning)|media plann(ing|er)|event plann(ing|er)|maintenance planning|material planning|planning engineer)\b'
 
 # "Nationals only" jobs (Gulf / Middle East) are dropped. Checked on the title, and on the
 # job description when one is available.
@@ -333,7 +333,8 @@ sites:
       pakistan: ["data analyst", "business intelligence", "revenue operations", "sales operations", "AI product",
                  "strategy and planning", "data scientist", "lecturer", "assistant professor", "analytics manager",
                  "power bi", "business analyst", "data analytics", "product analyst", "head of data", "BI developer",
-                 "strategy manager", "corporate planning", "salesforce", "AI specialist"]
+                 "strategy manager", "corporate planning", "salesforce", "AI specialist", "business planning",
+                 "pricing analyst", "growth analyst", "MIS", "chief of staff", "operations analyst"]
       core: ["data analyst", "business intelligence", "revenue operations", "AI product", "strategy and planning",
              "data scientist"]
       sponsorship: ["data analyst visa sponsorship", "business intelligence visa sponsorship",
@@ -341,22 +342,70 @@ sites:
                     "AI product manager visa sponsorship", "strategy visa sponsorship"]
   indeed:
     results_per_query: 100
+    # One role per search. A QA on 2026-10-20 showed Indeed mishandles long "A OR B OR C" searches
+    # (a 7-term search for Lahore returned 600 unrelated jobs, while "business analyst" alone returned
+    # the right 5), so every search is a single role.
     query_sets:
-      full:
-        - '"data analyst" OR "business intelligence" OR "BI analyst" OR "power bi" OR "analytics manager" OR "product analyst"'
-        - '"revenue operations" OR revops OR "sales operations" OR "salesforce analyst" OR "salesforce administrator" OR "CRM analyst"'
-        - '"AI product" OR "AI specialist" OR "AI consultant" OR "AI solutions" OR "applied AI" OR "AI implementation"'
-        - '"strategy and planning" OR "business operations" OR "strategy analyst" OR "strategy manager" OR "data scientist"'
-        - 'lecturer OR "assistant professor" OR "associate professor" OR faculty OR instructor OR "AI trainer" OR "data trainer"'
-        - '"BI developer" OR "business analyst" OR "insights manager" OR "insights analyst" OR "head of data" OR "analytics lead" OR "reporting analyst"'
-        - 'salesforce OR "CRM manager" OR "commercial operations" OR "GTM operations" OR "strategic planning" OR "corporate planning"'
-      core_indeed:
-        - '"data analyst" OR "business intelligence" OR "BI analyst" OR "power bi" OR "analytics manager" OR "data scientist" OR "business analyst"'
-        - '"revenue operations" OR revops OR "sales operations" OR "AI product" OR "AI specialist" OR "strategy and planning" OR "strategy manager"'
-      sponsorship:   # Indeed searches the whole ad, so only ads that mention visa / relocation come back
-        - '("data analyst" OR "business intelligence" OR "BI analyst" OR "power bi" OR "analytics manager" OR "data scientist" OR "product analyst" OR "business analyst") ("visa sponsorship" OR "sponsorship available" OR "relocation package" OR "relocation support" OR "relocation assistance" OR "work permit" OR "blue card" OR "skilled worker visa")'
-        - '("revenue operations" OR revops OR "sales operations" OR "AI product" OR "AI specialist" OR "applied AI" OR "strategy and planning" OR "business operations" OR "strategy manager") ("visa sponsorship" OR "sponsorship available" OR "relocation package" OR "relocation support" OR "relocation assistance" OR "work permit" OR "blue card" OR "skilled worker visa")'
-        - '(lecturer OR "assistant professor" OR "associate professor") ("data science" OR analytics OR "computer science" OR business OR "artificial intelligence") ("visa sponsorship" OR "relocation" OR "work permit" OR "skilled worker visa")'
+      pakistan:   # each Pakistani city + the whole country
+        - data analyst
+        - business analyst
+        - business intelligence
+        - power bi
+        - data analytics
+        - data scientist
+        - machine learning
+        - analytics manager
+        - product analyst
+        - MIS
+        - strategy
+        - business planning
+        - strategy and operations
+        - business operations
+        - revenue operations
+        - sales operations
+        - salesforce
+        - CRM
+        - pricing analyst
+        - growth
+        - operations analyst
+        - AI
+        - AI product
+        - lecturer
+        - assistant professor
+        - trainer
+      full:       # Gulf and Middle East (whole country)
+        - data analyst
+        - business analyst
+        - business intelligence
+        - power bi
+        - data scientist
+        - analytics manager
+        - strategy
+        - business planning
+        - revenue operations
+        - sales operations
+        - AI product
+        - AI specialist
+        - pricing analyst
+        - lecturer
+      core_indeed:   # Malaysia, Singapore
+        - data analyst
+        - business analyst
+        - business intelligence
+        - data scientist
+        - revenue operations
+        - strategy and operations
+        - AI product
+        - pricing analyst
+      sponsorship:   # UK, Europe, Canada, Australia, NZ, Japan, Turkey: role + visa wording, both required
+        - data analyst visa sponsorship
+        - business analyst visa sponsorship
+        - business intelligence visa sponsorship
+        - data scientist visa sponsorship
+        - revenue operations visa sponsorship
+        - strategy visa sponsorship
+        - data analyst relocation
+        - AI product visa sponsorship
   # Bayt was removed: it refuses requests from GitHub's servers (403).
 
 hours_old: 48                   # normal daily run looks back 2 days; duplicates are removed
