@@ -1,583 +1,582 @@
-Run at 2026-10-23 12:07 PKT (daily, 14 runners)
-raw=565898  matching=1167  new=294  total=11876  coverage=100%
+Run at 2026-10-23 23:30 PKT (daily, 14 runners)
+raw=560875  matching=1175  new=313  total=12189  coverage=100%
 Searches: 628/628 done, 0 failed, 0 blocked, 0 skipped
-New by city: {'Berlin': 48, 'Germany (city not stated)': 44, 'Sydney': 17, 'Toronto': 17, 'London': 16, 'Munich': 16, 'Frankfurt': 16, 'Singapore': 15, 'Abu Dhabi': 12, 'Melbourne': 11, 'Kuala Lumpur': 9, 'Hamburg': 8, 'Dubai': 6, 'Auckland': 5, 'Remote': 5, 'Montreal': 4, 'Istanbul': 4, 'Dublin': 4, 'Lahore': 3, 'Doha': 3, 'Tokyo': 3, 'Budapest': 3, 'Lisbon': 3, 'Egypt (city not stated)': 2, 'Amsterdam': 2, 'Cairo': 2, 'Warsaw': 2, 'Poland (city not stated)': 2, 'Manchester': 1, 'Netherlands (city not stated)': 1, 'Karachi': 1, 'Islamabad': 1, 'Riyadh': 1, 'Dammam': 1, 'Kraków': 1, 'Prague': 1, 'Australia (city not stated)': 1, 'Malaysia (city not stated)': 1, 'Ireland (city not stated)': 1, 'Mecca': 1}
-New by role group: {'Data & BI': 109, 'Strategy & Ops': 73, 'AI Product / Applied AI': 54, 'Data Science': 32, 'RevOps': 24, 'Teaching & Faculty': 2}
-Cities with matching jobs today: Abu Dhabi, Amsterdam, Auckland, Australia (city not stated), Bahrain (city not stated), Berlin, Budapest, Cairo, Canada (city not stated), Dammam, Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Jordan (city not stated), Karachi, Kraków, Kuala Lumpur, Kuwait (city not stated), Lahore, Lisbon, London, Malaysia (city not stated), Manchester, Mecca, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UK (city not stated), Vancouver, Warsaw
+New by city: {'London': 39, 'Singapore': 32, 'Dubai': 25, 'Germany (city not stated)': 24, 'Berlin': 18, 'Munich': 17, 'Abu Dhabi': 12, 'Warsaw': 12, 'Amsterdam': 10, 'Toronto': 10, 'Lisbon': 9, 'Remote': 8, 'Kuala Lumpur': 7, 'Dublin': 6, 'Karachi': 5, 'Ireland (city not stated)': 5, 'Hamburg': 5, 'Frankfurt': 5, 'Cairo': 4, 'Istanbul': 4, 'Auckland': 4, 'Pakistan (city not stated)': 4, 'Prague': 4, 'Lahore': 3, 'UAE (city not stated)': 3, 'Doha': 3, 'Budapest': 3, 'Czechia (city not stated)': 3, 'Poland (city not stated)': 3, 'Sharjah': 2, 'Manama': 2, 'Jeddah': 2, 'Manchester': 2, 'Montreal': 2, 'UK (city not stated)': 2, 'Sydney': 2, 'Tokyo': 2, 'Rotterdam': 2, 'Melbourne': 2, 'Riyadh': 1, 'Kraków': 1, 'Islamabad': 1, 'Egypt (city not stated)': 1, 'New Zealand (city not stated)': 1, 'Birmingham': 1}
+New by role group: {'Data & BI': 121, 'Strategy & Ops': 58, 'AI Product / Applied AI': 58, 'Data Science': 45, 'RevOps': 24, 'Teaching & Faculty': 7}
+Cities with matching jobs today: Abu Dhabi, Amsterdam, Auckland, Australia (city not stated), Bahrain (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Czechia (city not stated), Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Jeddah, Jordan (city not stated), Karachi, Kraków, Kuala Lumpur, Kuwait (city not stated), Lahore, Lisbon, London, Malaysia (city not stated), Manama, Manchester, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Sharjah, Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
 
-Matching titles dropped for location (top 25): {"San Francisco": 218, "World Wide - Remote": 191, "United States": 169, "United States of America": 126, "San Francisco, CA": 89, "New York, NY": 86, "United States | United States": 82, "New York City": 77, "New York": 77, "Spain": 76, "Indonesia": 69, "Thailand": 67, "Taipei, Taiwan": 63, "India": 61, "Hong Kong": 58, "Paris": 56, "Paris | IDF | fr | Paris, IDF, France": 54, "Philippines": 52, "Sweden": 51, "Remote - United States": 49, "Seoul, Korea": 48, "China": 47, "Mexico | Mexico": 44, "New York, NY, United States | US": 42, "Philippines | Philippines": 40}
+Matching titles dropped for location (top 25): {"San Francisco": 221, "World Wide - Remote": 191, "United States": 173, "United States of America": 126, "San Francisco, CA": 89, "United States | United States": 84, "New York, NY": 83, "New York City": 82, "New York": 78, "Spain": 76, "Indonesia": 69, "Thailand": 67, "Taipei, Taiwan": 63, "Hong Kong": 58, "India": 56, "Paris": 55, "Paris | IDF | fr | Paris, IDF, France": 55, "Sweden": 55, "Philippines": 52, "Remote - United States": 49, "Seoul, Korea": 48, "China": 47, "Mexico | Mexico": 44, "New York, NY, United States | US": 43, "Philippines | Philippines": 40}
 
---- search runner 1/10 (16.8 min)
-indeed | Islamabad | AI | 18
-indeed | United Arab Emirates | analytics manager | 46
-indeed | Saudi Arabia | business analyst | 4
+--- search runner 1/10 (13.0 min)
+indeed | Islamabad | AI | 20
+indeed | United Arab Emirates | analytics manager | 35
+indeed | Saudi Arabia | business analyst | 3
 indeed | Saudi Arabia | AI specialist | 6
-indeed | Qatar | business planning | 30
-indeed | Bahrain | power bi | 1
+indeed | Qatar | business planning | 25
+indeed | Bahrain | power bi | 0
 indeed | Bahrain | lecturer | 0
 indeed | Oman | sales operations | 3
 indeed | Kuwait | analytics manager | 1
-indeed | Egypt | business analyst | 11
-indeed | Egypt | AI specialist | 8
+indeed | Egypt | business analyst | 6
+indeed | Egypt | AI specialist | 6
 indeed | Turkey | AI product visa sponsorship | 1
-indeed | Singapore | business analyst | 29
+indeed | Singapore | business analyst | 33
 indeed | Japan | data scientist visa sponsorship | 0
 indeed | UK | strategy visa sponsorship | 100
-indeed | Ireland | AI product visa sponsorship | 4
+indeed | Ireland | AI product visa sponsorship | 3
 indeed | Netherlands | business analyst visa sponsorship | 0
 indeed | Poland | data scientist visa sponsorship | 0
-indeed | Hungary | strategy visa sponsorship | 0
+indeed | Hungary | strategy visa sponsorship | 1
 indeed | Czech Republic | AI product visa sponsorship | 0
 indeed | Canada | business analyst visa sponsorship | 0
-indeed | Australia | data scientist visa sponsorship | 0
-indeed | New Zealand | strategy visa sponsorship | 4
-linkedin | Lahore, Pakistan | data analyst | 40
-linkedin | Lahore, Pakistan | power bi | 50
+indeed | Australia | data scientist visa sponsorship | 1
+indeed | New Zealand | strategy visa sponsorship | 3
+linkedin | Lahore, Pakistan | data analyst | 10
+linkedin | Lahore, Pakistan | power bi | 40
 linkedin | Lahore, Pakistan | business planning | 50
 linkedin | Karachi, Pakistan | AI product | 0
-linkedin | Karachi, Pakistan | head of data | 8
+linkedin | Karachi, Pakistan | head of data | 7
 linkedin | Karachi, Pakistan | chief of staff | 10
-linkedin | Islamabad, Pakistan | assistant professor | 0
-linkedin | Islamabad, Pakistan | salesforce | 17
-linkedin | Dubai, United Arab Emirates | revenue operations | 100
-linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 100
-linkedin | United Arab Emirates | data analyst | 100
-linkedin | United Arab Emirates | power bi | 100
-linkedin | Riyadh, Saudi Arabia | analytics manager | 28
-linkedin | Jeddah, Saudi Arabia | assistant professor | 0
-linkedin | Saudi Arabia | lecturer | 13
-linkedin | Qatar | data scientist | 22
-linkedin | Bahrain | strategy and planning | 28
+linkedin | Islamabad, Pakistan | assistant professor | 1
+linkedin | Islamabad, Pakistan | salesforce | 15
+linkedin | Dubai, United Arab Emirates | revenue operations | 0
+linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 70
+linkedin | United Arab Emirates | data analyst | 70
+linkedin | United Arab Emirates | power bi | 20
+linkedin | Riyadh, Saudi Arabia | analytics manager | 0
+linkedin | Jeddah, Saudi Arabia | assistant professor | 1
+linkedin | Saudi Arabia | lecturer | 14
+linkedin | Qatar | data scientist | 10
+linkedin | Bahrain | strategy and planning | 22
 linkedin | Oman | AI product | 0
-linkedin | Kuwait | sales operations | 27
-linkedin | Jordan | revenue operations | 5
-linkedin | Egypt | business intelligence | 70
+linkedin | Kuwait | sales operations | 0
+linkedin | Jordan | revenue operations | 3
+linkedin | Egypt | business intelligence | 10
 linkedin | Istanbul, Türkiye | data analyst | 30
-linkedin | Kuala Lumpur, Malaysia | strategy and planning | 50
-linkedin | Tokyo, Japan | data scientist visa sponsorship | 50
-linkedin | United Kingdom | data analyst visa sponsorship | 50
-linkedin | Ireland | AI product manager visa sponsorship | 28
+linkedin | Kuala Lumpur, Malaysia | strategy and planning | 30
+linkedin | Tokyo, Japan | data scientist visa sponsorship | 0
+linkedin | United Kingdom | data analyst visa sponsorship | 40
+linkedin | Ireland | AI product manager visa sponsorship | 0
 linkedin | Netherlands | data scientist visa sponsorship | 50
-linkedin | Budapest, Hungary | data analyst visa sponsorship | 40
-linkedin | Prague, Czechia | AI product manager visa sponsorship | 6
-linkedin | Canada | data scientist visa sponsorship | 50
-linkedin | New Zealand | data analyst visa sponsorship | 42
+linkedin | Budapest, Hungary | data analyst visa sponsorship | 20
+linkedin | Prague, Czechia | AI product manager visa sponsorship | 10
+linkedin | Canada | data scientist visa sponsorship | 10
+linkedin | New Zealand | data analyst visa sponsorship | 10
 indeed | Pakistan | MIS | 2
 indeed | Pakistan | growth | 100
-indeed | Lahore | power bi | 4
-indeed | Lahore | business operations | 50
+indeed | Lahore | power bi | 1
+indeed | Lahore | business operations | 38
 indeed | Lahore | lecturer | 1
-indeed | Karachi | analytics manager | 11
-indeed | Karachi | CRM | 63
-indeed | Islamabad | business analyst | 7
-indeed | Islamabad | business planning | 25
+indeed | Karachi | analytics manager | 10
+indeed | Karachi | CRM | 49
+indeed | Islamabad | business analyst | 4
+indeed | Islamabad | business planning | 20
 discovered employers | added | 7043
-ashby | 129 employers | 2906
-bamboohr | 6 employers | 42
+ashby | 129 employers | 2900
+bamboohr | 6 employers | 43
 breezy | 2 employers | 12
-greenhouse | 148 employers | 10535
-icims | 14 employers | 1028
+greenhouse | 148 employers | 10526
+icims | 14 employers | 1030
 lever | 7 employers | 380
-oracle | 36 employers | 8323
-personio | 57 employers | 621
-pinpoint | 3 employers | 339
+oracle | 36 employers | 8355
+personio | 57 employers | 617
+pinpoint | 3 employers | 333
 recruitee | 23 employers | 661
-smartrecruiters | 31 employers | 7211
-successfactors | 19 employers | 2439
+smartrecruiters | 31 employers | 7223
+successfactors | 19 employers | 2438
 taleo | 5 employers | 378
-teamtailor | 13 employers | 199
-workable | 78 employers | 8622
-workday | 138 employers | 9080
+teamtailor | 13 employers | 201
+workable | 78 employers | 8657
+workday | 138 employers | 9083
 remoteok | 1
-weworkremotely | 88
-locations | missing 82 | looked up 40 | found 37
-checks | descriptions opened 90 | {"dropped earlier": 41, "nationals only": 1, "visa ruled out": 1, "visa unclear (no mention)": 39}
---- search runner 2/10 (17.2 min)
-linkedin | Dubai, United Arab Emirates | sales operations | 100
-linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 57
-linkedin | United Arab Emirates | business intelligence | 100
-linkedin | Riyadh, Saudi Arabia | data analyst | 52
-linkedin | Riyadh, Saudi Arabia | power bi | 100
-linkedin | Jeddah, Saudi Arabia | analytics manager | 7
+weworkremotely | 90
+locations | missing 85 | looked up 40 | found 37
+checks | descriptions opened 90 | {"dropped earlier": 37, "visa unclear (no mention)": 41, "nationals only": 1}
+--- search runner 2/10 (12.6 min)
+linkedin | Dubai, United Arab Emirates | sales operations | 10
+linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 50
+linkedin | United Arab Emirates | business intelligence | 10
+linkedin | Riyadh, Saudi Arabia | data analyst | 38
+linkedin | Riyadh, Saudi Arabia | power bi | 80
+linkedin | Jeddah, Saudi Arabia | analytics manager | 5
 linkedin | Saudi Arabia | assistant professor | 6
-linkedin | Qatar | lecturer | 14
+linkedin | Qatar | lecturer | 0
 linkedin | Bahrain | data scientist | 5
-linkedin | Oman | strategy and planning | 25
+linkedin | Oman | strategy and planning | 20
 linkedin | Kuwait | AI product | 0
-linkedin | Jordan | sales operations | 30
-linkedin | Egypt | revenue operations | 65
-linkedin | Istanbul, Türkiye | business intelligence | 50
+linkedin | Jordan | sales operations | 27
+linkedin | Egypt | revenue operations | 42
+linkedin | Istanbul, Türkiye | business intelligence | 0
 linkedin | Kuala Lumpur, Malaysia | data scientist | 50
-linkedin | Tokyo, Japan | revenue operations visa sponsorship | 50
-linkedin | United Kingdom | business intelligence visa sponsorship | 50
-linkedin | Ireland | strategy visa sponsorship | 30
-linkedin | Netherlands | revenue operations visa sponsorship | 50
-linkedin | Budapest, Hungary | business intelligence visa sponsorship | 20
-linkedin | Prague, Czechia | strategy visa sponsorship | 45
-linkedin | Canada | revenue operations visa sponsorship | 50
-linkedin | New Zealand | business intelligence visa sponsorship | 42
-indeed | Pakistan | data analyst | 16
+linkedin | Tokyo, Japan | revenue operations visa sponsorship | 10
+linkedin | United Kingdom | business intelligence visa sponsorship | 0
+linkedin | Ireland | strategy visa sponsorship | 10
+linkedin | Netherlands | revenue operations visa sponsorship | 30
+linkedin | Budapest, Hungary | business intelligence visa sponsorship | 10
+linkedin | Prague, Czechia | strategy visa sponsorship | 30
+linkedin | Canada | revenue operations visa sponsorship | 0
+linkedin | New Zealand | business intelligence visa sponsorship | 30
+indeed | Pakistan | data analyst | 15
 indeed | Pakistan | strategy | 100
-indeed | Pakistan | operations analyst | 11
-indeed | Lahore | data analytics | 19
-indeed | Lahore | revenue operations | 15
+indeed | Pakistan | operations analyst | 13
+indeed | Lahore | data analytics | 14
+indeed | Lahore | revenue operations | 7
 indeed | Lahore | assistant professor | 0
-indeed | Karachi | product analyst | 3
-indeed | Karachi | pricing analyst | 0
-indeed | Islamabad | business intelligence | 5
+indeed | Karachi | product analyst | 4
+indeed | Karachi | pricing analyst | 1
+indeed | Islamabad | business intelligence | 6
 indeed | Islamabad | strategy and operations | 13
-indeed | Islamabad | AI product | 4
+indeed | Islamabad | AI product | 5
 indeed | United Arab Emirates | strategy | 100
-indeed | Saudi Arabia | business intelligence | 12
+indeed | Saudi Arabia | business intelligence | 10
 indeed | Saudi Arabia | pricing analyst | 0
-indeed | Qatar | revenue operations | 14
+indeed | Qatar | revenue operations | 11
 indeed | Bahrain | data scientist | 0
 indeed | Oman | data analyst | 0
 indeed | Oman | AI product | 2
-indeed | Kuwait | strategy | 8
-indeed | Egypt | business intelligence | 21
-indeed | Egypt | pricing analyst | 3
-indeed | Malaysia | data analyst | 33
+indeed | Kuwait | strategy | 7
+indeed | Egypt | business intelligence | 8
+indeed | Egypt | pricing analyst | 0
+indeed | Malaysia | data analyst | 41
 indeed | Singapore | business intelligence | 100
 indeed | Japan | revenue operations visa sponsorship | 0
-indeed | UK | data analyst relocation | 7
+indeed | UK | data analyst relocation | 4
 indeed | Germany | data analyst visa sponsorship | 0
 indeed | Netherlands | business intelligence visa sponsorship | 0
 indeed | Poland | revenue operations visa sponsorship | 0
 indeed | Hungary | data analyst relocation | 0
 indeed | Portugal | data analyst visa sponsorship | 0
-indeed | Canada | business intelligence visa sponsorship | 13
-indeed | Australia | revenue operations visa sponsorship | 2
+indeed | Canada | business intelligence visa sponsorship | 12
+indeed | Australia | revenue operations visa sponsorship | 1
 indeed | New Zealand | data analyst relocation | 1
-linkedin | Lahore, Pakistan | business intelligence | 23
-linkedin | Lahore, Pakistan | business analyst | 40
-linkedin | Lahore, Pakistan | pricing analyst | 19
-linkedin | Karachi, Pakistan | strategy and planning | 50
-linkedin | Karachi, Pakistan | BI developer | 3
-linkedin | Karachi, Pakistan | operations analyst | 35
-linkedin | Islamabad, Pakistan | analytics manager | 11
-linkedin | Islamabad, Pakistan | AI specialist | 6
+linkedin | Lahore, Pakistan | business intelligence | 20
+linkedin | Lahore, Pakistan | business analyst | 35
+linkedin | Lahore, Pakistan | pricing analyst | 15
+linkedin | Karachi, Pakistan | strategy and planning | 20
+linkedin | Karachi, Pakistan | BI developer | 5
+linkedin | Karachi, Pakistan | operations analyst | 30
+linkedin | Islamabad, Pakistan | analytics manager | 12
+linkedin | Islamabad, Pakistan | AI specialist | 0
 discovered employers | added | 7043
 workday | accenture | FAILED: 429 Client Error: Too Many Requests for url: https://accenture.wd103.myworkdayjobs.com/wday/cxs/acce
-ashby | 129 employers | 5203
-bamboohr | 6 employers | 43
-breezy | 2 employers | 52
-greenhouse | 148 employers | 7754
-icims | 14 employers | 983
-lever | 7 employers | 1635
-oracle | 36 employers | 7211
-personio | 57 employers | 523
-pinpoint | 3 employers | 96
-recruitee | 23 employers | 415
-smartrecruiters | 31 employers | 5204
-successfactors | 19 employers | 2743
-taleo | 5 employers | 330
-teamtailor | 13 employers | 137
-workable | 78 employers | 3502
-workday | 138 employers | 8608
+ashby | 129 employers | 5189
+bamboohr | 6 employers | 42
+breezy | 2 employers | 51
+greenhouse | 148 employers | 7770
+icims | 14 employers | 986
+lever | 7 employers | 1629
+oracle | 36 employers | 7251
+personio | 57 employers | 524
+pinpoint | 3 employers | 93
+recruitee | 23 employers | 417
+smartrecruiters | 31 employers | 5190
+successfactors | 19 employers | 2718
+taleo | 5 employers | 366
+teamtailor | 13 employers | 138
+workable | 78 employers | 3515
+workday | 138 employers | 8622
 remotive | 35
-himalayas | 1
-jobicy | 13
+himalayas | 4
+jobicy | 20
 workingnomads | 14
 arbeitnow | 900
-locations | missing 71 | looked up 40 | found 38
-checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 37, "visa unclear (no mention)": 47, "visa ruled out": 2}
---- search runner 3/10 (21.6 min)
-linkedin | Dubai, United Arab Emirates | AI product | 46
-linkedin | Abu Dhabi, United Arab Emirates | sales operations | 100
-linkedin | United Arab Emirates | revenue operations | 100
-linkedin | Riyadh, Saudi Arabia | business intelligence | 33
-linkedin | Jeddah, Saudi Arabia | data analyst | 22
-linkedin | Jeddah, Saudi Arabia | power bi | 85
-linkedin | Saudi Arabia | analytics manager | 53
-linkedin | Qatar | assistant professor | 9
+locations | missing 84 | looked up 40 | found 38
+checks | descriptions opened 90 | {"dropped earlier": 28, "visa unclear (no mention)": 55, "visa ruled out": 1}
+--- search runner 3/10 (14.2 min)
+linkedin | Dubai, United Arab Emirates | AI product | 30
+linkedin | Abu Dhabi, United Arab Emirates | sales operations | 0
+linkedin | United Arab Emirates | revenue operations | 70
+linkedin | Riyadh, Saudi Arabia | business intelligence | 24
+linkedin | Jeddah, Saudi Arabia | data analyst | 0
+linkedin | Jeddah, Saudi Arabia | power bi | 61
+linkedin | Saudi Arabia | analytics manager | 39
+linkedin | Qatar | assistant professor | 7
 linkedin | Bahrain | lecturer | 0
 linkedin | Oman | data scientist | 0
-linkedin | Kuwait | strategy and planning | 44
+linkedin | Kuwait | strategy and planning | 34
 linkedin | Jordan | AI product | 0
-linkedin | Egypt | sales operations | 100
+linkedin | Egypt | sales operations | 0
 linkedin | Istanbul, Türkiye | revenue operations | 50
-linkedin | Singapore | data analyst | 50
-linkedin | Tokyo, Japan | AI product manager visa sponsorship | 49
+linkedin | Singapore | data analyst | 40
+linkedin | Tokyo, Japan | AI product manager visa sponsorship | 10
 linkedin | United Kingdom | data scientist visa sponsorship | 50
 linkedin | Germany | data analyst visa sponsorship | 50
-linkedin | Netherlands | AI product manager visa sponsorship | 42
-linkedin | Budapest, Hungary | data scientist visa sponsorship | 13
+linkedin | Netherlands | AI product manager visa sponsorship | 20
+linkedin | Budapest, Hungary | data scientist visa sponsorship | 0
 linkedin | Lisbon, Portugal | data analyst visa sponsorship | 10
-linkedin | Canada | AI product manager visa sponsorship | 50
-linkedin | New Zealand | data scientist visa sponsorship | 26
+linkedin | Canada | AI product manager visa sponsorship | 20
+linkedin | New Zealand | data scientist visa sponsorship | 36
 indeed | Pakistan | business analyst | 21
-indeed | Pakistan | business planning | 88
+indeed | Pakistan | business planning | 86
 indeed | Pakistan | AI | 100
-indeed | Lahore | data scientist | 2
-indeed | Lahore | sales operations | 30
-indeed | Lahore | trainer | 5
+indeed | Lahore | data scientist | 1
+indeed | Lahore | sales operations | 24
+indeed | Lahore | trainer | 2
 indeed | Karachi | MIS | 2
 indeed | Karachi | growth | 100
-indeed | Islamabad | power bi | 3
+indeed | Islamabad | power bi | 2
 indeed | Islamabad | business operations | 37
 indeed | Islamabad | lecturer | 0
 indeed | United Arab Emirates | business planning | 100
 indeed | Saudi Arabia | power bi | 9
 indeed | Saudi Arabia | lecturer | 0
-indeed | Qatar | sales operations | 34
-indeed | Bahrain | analytics manager | 2
+indeed | Qatar | sales operations | 24
+indeed | Bahrain | analytics manager | 3
 indeed | Oman | business analyst | 0
-indeed | Oman | AI specialist | 2
+indeed | Oman | AI specialist | 0
 indeed | Kuwait | business planning | 5
-indeed | Egypt | power bi | 11
-indeed | Egypt | lecturer | 2
-indeed | Malaysia | business analyst | 47
-indeed | Singapore | data scientist | 30
+indeed | Egypt | power bi | 4
+indeed | Egypt | lecturer | 0
+indeed | Malaysia | business analyst | 60
+indeed | Singapore | data scientist | 29
 indeed | Japan | strategy visa sponsorship | 1
-indeed | UK | AI product visa sponsorship | 36
+indeed | UK | AI product visa sponsorship | 39
 indeed | Germany | business analyst visa sponsorship | 0
-indeed | Netherlands | data scientist visa sponsorship | 1
+indeed | Netherlands | data scientist visa sponsorship | 2
 indeed | Poland | strategy visa sponsorship | 0
 indeed | Hungary | AI product visa sponsorship | 0
 indeed | Portugal | business analyst visa sponsorship | 0
 indeed | Canada | data scientist visa sponsorship | 0
-indeed | Australia | strategy visa sponsorship | 22
+indeed | Australia | strategy visa sponsorship | 18
 indeed | New Zealand | AI product visa sponsorship | 0
-linkedin | Lahore, Pakistan | revenue operations | 17
-linkedin | Lahore, Pakistan | data analytics | 37
-linkedin | Lahore, Pakistan | growth analyst | 21
-linkedin | Karachi, Pakistan | data scientist | 11
-linkedin | Karachi, Pakistan | strategy manager | 32
-linkedin | Islamabad, Pakistan | data analyst | 20
-linkedin | Islamabad, Pakistan | power bi | 50
-linkedin | Islamabad, Pakistan | business planning | 30
+linkedin | Lahore, Pakistan | revenue operations | 0
+linkedin | Lahore, Pakistan | data analytics | 0
+linkedin | Lahore, Pakistan | growth analyst | 24
+linkedin | Karachi, Pakistan | data scientist | 12
+linkedin | Karachi, Pakistan | strategy manager | 10
+linkedin | Islamabad, Pakistan | data analyst | 0
+linkedin | Islamabad, Pakistan | power bi | 10
+linkedin | Islamabad, Pakistan | business planning | 0
 discovered employers | added | 7043
-ashby | 129 employers | 2910
+ashby | 129 employers | 2903
 bamboohr | 5 employers | 74
 breezy | 3 employers | 78
-greenhouse | 147 employers | 12896
-icims | 15 employers | 489
-lever | 7 employers | 882
-oracle | 36 employers | 12185
-personio | 57 employers | 618
-pinpoint | 3 employers | 91
-recruitee | 23 employers | 517
-smartrecruiters | 31 employers | 5163
-successfactors | 19 employers | 3831
-taleo | 5 employers | 671
+greenhouse | 147 employers | 12888
+icims | 15 employers | 491
+lever | 7 employers | 889
+oracle | 36 employers | 12201
+personio | 57 employers | 619
+pinpoint | 3 employers | 89
+recruitee | 23 employers | 522
+smartrecruiters | 31 employers | 5145
+successfactors | 19 employers | 3860
+taleo | 5 employers | 720
 teamtailor | 13 employers | 459
-workable | 78 employers | 4463
-workday | 137 employers | 12145
-rozee | detail FAILED ng-assistant-vice-president-jobs-1913664: Failed to perform, curl: (47) Maximum (30) redirects followe
-rozee | sitemap jobs in window 2694 | title matches 34 | opened 33
+workable | 78 employers | 4479
+workday | 137 employers | 12189
+rozee | FAILED: HTTP Error 403: 
 gulftalent | FAILED: HTTP Error 403: 
-locations | missing 113 | looked up 40 | found 37
-checks | descriptions opened 90 | {"dropped earlier": 23, "visa unclear (no mention)": 70}
---- search runner 4/10 (16.5 min)
-indeed | Islamabad | revenue operations | 13
+locations | missing 112 | looked up 40 | found 37
+checks | descriptions opened 90 | {"dropped earlier": 22, "visa unclear (no mention)": 75}
+--- search runner 4/10 (14.0 min)
+indeed | Islamabad | revenue operations | 12
 indeed | Islamabad | assistant professor | 0
-indeed | United Arab Emirates | revenue operations | 79
-indeed | Saudi Arabia | data scientist | 1
-indeed | Qatar | data analyst | 6
-indeed | Qatar | AI product | 11
-indeed | Bahrain | strategy | 8
-indeed | Oman | business intelligence | 1
+indeed | United Arab Emirates | revenue operations | 100
+indeed | Saudi Arabia | data scientist | 0
+indeed | Qatar | data analyst | 5
+indeed | Qatar | AI product | 8
+indeed | Bahrain | strategy | 9
+indeed | Oman | business intelligence | 0
 indeed | Oman | pricing analyst | 0
-indeed | Kuwait | revenue operations | 6
-indeed | Egypt | data scientist | 1
+indeed | Kuwait | revenue operations | 5
+indeed | Egypt | data scientist | 0
 indeed | Turkey | data analyst visa sponsorship | 0
-indeed | Malaysia | business intelligence | 45
+indeed | Malaysia | business intelligence | 65
 indeed | Singapore | revenue operations | 100
 indeed | Japan | data analyst relocation | 0
-indeed | Ireland | data analyst visa sponsorship | 2
-indeed | Germany | business intelligence visa sponsorship | 6
+indeed | Ireland | data analyst visa sponsorship | 1
+indeed | Germany | business intelligence visa sponsorship | 3
 indeed | Netherlands | revenue operations visa sponsorship | 0
 indeed | Poland | data analyst relocation | 0
 indeed | Czech Republic | data analyst visa sponsorship | 0
 indeed | Portugal | business intelligence visa sponsorship | 0
 indeed | Canada | revenue operations visa sponsorship | 2
 indeed | Australia | data analyst relocation | 3
-linkedin | Lahore, Pakistan | sales operations | 50
-linkedin | Lahore, Pakistan | product analyst | 21
+linkedin | Lahore, Pakistan | sales operations | 40
+linkedin | Lahore, Pakistan | product analyst | 18
 linkedin | Lahore, Pakistan | MIS | 50
 linkedin | Karachi, Pakistan | lecturer | 4
-linkedin | Karachi, Pakistan | corporate planning | 35
-linkedin | Islamabad, Pakistan | business intelligence | 17
-linkedin | Islamabad, Pakistan | business analyst | 31
-linkedin | Islamabad, Pakistan | pricing analyst | 17
-linkedin | Dubai, United Arab Emirates | strategy and planning | 100
-linkedin | Abu Dhabi, United Arab Emirates | AI product | 49
-linkedin | United Arab Emirates | sales operations | 100
-linkedin | Riyadh, Saudi Arabia | revenue operations | 46
-linkedin | Jeddah, Saudi Arabia | business intelligence | 14
-linkedin | Saudi Arabia | data analyst | 0
-linkedin | Saudi Arabia | power bi | 100
-linkedin | Qatar | analytics manager | 21
+linkedin | Karachi, Pakistan | corporate planning | 20
+linkedin | Islamabad, Pakistan | business intelligence | 0
+linkedin | Islamabad, Pakistan | business analyst | 37
+linkedin | Islamabad, Pakistan | pricing analyst | 0
+linkedin | Dubai, United Arab Emirates | strategy and planning | 20
+linkedin | Abu Dhabi, United Arab Emirates | AI product | 40
+linkedin | United Arab Emirates | sales operations | 0
+linkedin | Riyadh, Saudi Arabia | revenue operations | 30
+linkedin | Jeddah, Saudi Arabia | business intelligence | 12
+linkedin | Saudi Arabia | data analyst | 60
+linkedin | Saudi Arabia | power bi | 50
+linkedin | Qatar | analytics manager | 10
 linkedin | Bahrain | assistant professor | 0
 linkedin | Oman | lecturer | 0
-linkedin | Kuwait | data scientist | 5
-linkedin | Jordan | strategy and planning | 49
-linkedin | Egypt | AI product | 32
-linkedin | Istanbul, Türkiye | AI product | 33
-linkedin | Singapore | business intelligence | 50
-linkedin | Tokyo, Japan | strategy visa sponsorship | 50
-linkedin | United Kingdom | revenue operations visa sponsorship | 50
+linkedin | Kuwait | data scientist | 4
+linkedin | Jordan | strategy and planning | 50
+linkedin | Egypt | AI product | 23
+linkedin | Istanbul, Türkiye | AI product | 32
+linkedin | Singapore | business intelligence | 20
+linkedin | Tokyo, Japan | strategy visa sponsorship | 0
+linkedin | United Kingdom | revenue operations visa sponsorship | 20
 linkedin | Germany | business intelligence visa sponsorship | 50
 linkedin | Netherlands | strategy visa sponsorship | 50
-linkedin | Budapest, Hungary | revenue operations visa sponsorship | 16
-linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 15
-linkedin | Canada | strategy visa sponsorship | 50
-linkedin | New Zealand | revenue operations visa sponsorship | 9
-indeed | Pakistan | business intelligence | 25
-indeed | Pakistan | strategy and operations | 61
-indeed | Pakistan | AI product | 44
-indeed | Lahore | machine learning | 1
-indeed | Lahore | salesforce | 4
+linkedin | Budapest, Hungary | revenue operations visa sponsorship | 0
+linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 13
+linkedin | Canada | strategy visa sponsorship | 30
+linkedin | New Zealand | revenue operations visa sponsorship | 12
+indeed | Pakistan | business intelligence | 28
+indeed | Pakistan | strategy and operations | 49
+indeed | Pakistan | AI product | 47
+indeed | Lahore | machine learning | 0
+indeed | Lahore | salesforce | 5
 indeed | Karachi | data analyst | 1
-indeed | Karachi | strategy | 65
-indeed | Karachi | operations analyst | 2
-indeed | Islamabad | data analytics | 8
+indeed | Karachi | strategy | 56
+indeed | Karachi | operations analyst | 3
+indeed | Islamabad | data analytics | 10
 discovered employers | added | 7043
-ashby | 129 employers | 3467
+ashby | 129 employers | 3464
 bamboohr | 5 employers | 116
 breezy | 2 employers | 10
-greenhouse | 148 employers | 6902
-icims | 15 employers | 1946
-lever | 7 employers | 81
-oracle | 36 employers | 9304
-personio | 57 employers | 624
-pinpoint | 3 employers | 145
-recruitee | 23 employers | 1152
-smartrecruiters | 31 employers | 5827
-successfactors | 19 employers | 1947
-taleo | 5 employers | 328
-teamtailor | 12 employers | 176
-workable | 79 employers | 4239
-workday | 137 employers | 7925
+greenhouse | 148 employers | 6897
+icims | 15 employers | 1944
+lever | 7 employers | 78
+oracle | 36 employers | 9307
+personio | 57 employers | 633
+pinpoint | 3 employers | 147
+recruitee | 23 employers | 1156
+smartrecruiters | 31 employers | 5943
+successfactors | 19 employers | 1952
+taleo | 5 employers | 329
+teamtailor | 12 employers | 177
+workable | 79 employers | 4144
+workday | 137 employers | 7944
 careerjet | skipped (no CAREERJET_AFFID secret)
 jooble | skipped (no JOOBLE_KEY secret)
 google_jobs | skipped (no SERPAPI_KEY secret)
-locations | missing 73 | looked up 40 | found 28
-checks | descriptions opened 81 | {"dropped earlier": 18, "visa unclear (no mention)": 31, "visa ruled out": 1}
---- search runner 5/10 (15.3 min)
-indeed | Islamabad | sales operations | 25
+locations | missing 72 | looked up 40 | found 28
+checks | descriptions opened 85 | {"nationals only": 1, "dropped earlier": 17, "visa unclear (no mention)": 40}
+--- search runner 5/10 (10.3 min)
+indeed | Islamabad | sales operations | 31
 indeed | Islamabad | trainer | 2
 indeed | United Arab Emirates | sales operations | 100
-indeed | Saudi Arabia | analytics manager | 9
-indeed | Qatar | business analyst | 5
+indeed | Saudi Arabia | analytics manager | 8
+indeed | Qatar | business analyst | 3
 indeed | Qatar | AI specialist | 0
-indeed | Bahrain | business planning | 1
+indeed | Bahrain | business planning | 2
 indeed | Oman | power bi | 0
 indeed | Oman | lecturer | 0
-indeed | Kuwait | sales operations | 6
-indeed | Egypt | analytics manager | 13
+indeed | Kuwait | sales operations | 8
+indeed | Egypt | analytics manager | 5
 indeed | Turkey | business analyst visa sponsorship | 0
-indeed | Malaysia | data scientist | 7
+indeed | Malaysia | data scientist | 6
 indeed | Singapore | strategy and operations | 100
 indeed | Japan | AI product visa sponsorship | 1
-indeed | Ireland | business analyst visa sponsorship | 2
+indeed | Ireland | business analyst visa sponsorship | 1
 indeed | Germany | data scientist visa sponsorship | 0
 indeed | Netherlands | strategy visa sponsorship | 3
 indeed | Poland | AI product visa sponsorship | 0
 indeed | Czech Republic | business analyst visa sponsorship | 0
 indeed | Portugal | data scientist visa sponsorship | 0
-indeed | Canada | strategy visa sponsorship | 10
-indeed | Australia | AI product visa sponsorship | 3
-linkedin | Lahore, Pakistan | AI product | 10
-linkedin | Lahore, Pakistan | head of data | 3
-linkedin | Lahore, Pakistan | chief of staff | 8
-linkedin | Karachi, Pakistan | assistant professor | 1
-linkedin | Karachi, Pakistan | salesforce | 33
-linkedin | Islamabad, Pakistan | revenue operations | 12
-linkedin | Islamabad, Pakistan | data analytics | 20
-linkedin | Islamabad, Pakistan | growth analyst | 12
-linkedin | Dubai, United Arab Emirates | data scientist | 73
-linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 100
-linkedin | United Arab Emirates | AI product | 77
-linkedin | Riyadh, Saudi Arabia | sales operations | 94
-linkedin | Jeddah, Saudi Arabia | revenue operations | 15
-linkedin | Saudi Arabia | business intelligence | 88
-linkedin | Qatar | data analyst | 41
-linkedin | Qatar | power bi | 30
+indeed | Canada | strategy visa sponsorship | 13
+indeed | Australia | AI product visa sponsorship | 5
+linkedin | Lahore, Pakistan | AI product | 9
+linkedin | Lahore, Pakistan | head of data | 0
+linkedin | Lahore, Pakistan | chief of staff | 0
+linkedin | Karachi, Pakistan | assistant professor | 0
+linkedin | Karachi, Pakistan | salesforce | 10
+linkedin | Islamabad, Pakistan | revenue operations | 10
+linkedin | Islamabad, Pakistan | data analytics | 24
+linkedin | Islamabad, Pakistan | growth analyst | 10
+linkedin | Dubai, United Arab Emirates | data scientist | 10
+linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 10
+linkedin | United Arab Emirates | AI product | 20
+linkedin | Riyadh, Saudi Arabia | sales operations | 0
+linkedin | Jeddah, Saudi Arabia | revenue operations | 12
+linkedin | Saudi Arabia | business intelligence | 10
+linkedin | Qatar | data analyst | 30
+linkedin | Qatar | power bi | 10
 linkedin | Bahrain | analytics manager | 6
 linkedin | Oman | assistant professor | 0
-linkedin | Kuwait | lecturer | 2
-linkedin | Jordan | data scientist | 1
-linkedin | Egypt | strategy and planning | 100
-linkedin | Istanbul, Türkiye | strategy and planning | 20
+linkedin | Kuwait | lecturer | 1
+linkedin | Jordan | data scientist | 0
+linkedin | Egypt | strategy and planning | 60
+linkedin | Istanbul, Türkiye | strategy and planning | 0
 linkedin | Singapore | revenue operations | 50
-linkedin | London, England, United Kingdom | data analyst visa sponsorship | 50
-linkedin | United Kingdom | AI product manager visa sponsorship | 50
-linkedin | Germany | data scientist visa sponsorship | 50
-linkedin | Poland | data analyst visa sponsorship | 30
+linkedin | London, England, United Kingdom | data analyst visa sponsorship | 0
+linkedin | United Kingdom | AI product manager visa sponsorship | 10
+linkedin | Germany | data scientist visa sponsorship | 20
+linkedin | Poland | data analyst visa sponsorship | 50
 linkedin | Budapest, Hungary | AI product manager visa sponsorship | 7
 linkedin | Lisbon, Portugal | data scientist visa sponsorship | 6
 linkedin | Australia | data analyst visa sponsorship | 0
 linkedin | New Zealand | AI product manager visa sponsorship | 5
-indeed | Pakistan | power bi | 13
+indeed | Pakistan | power bi | 11
 indeed | Pakistan | business operations | 100
 indeed | Pakistan | lecturer | 3
-indeed | Lahore | analytics manager | 16
-indeed | Lahore | CRM | 47
-indeed | Karachi | business analyst | 3
-indeed | Karachi | business planning | 28
-indeed | Karachi | AI | 40
-indeed | Islamabad | data scientist | 0
+indeed | Lahore | analytics manager | 13
+indeed | Lahore | CRM | 42
+indeed | Karachi | business analyst | 4
+indeed | Karachi | business planning | 30
+indeed | Karachi | AI | 47
+indeed | Islamabad | data scientist | 1
 discovered employers | added | 7043
-ashby | 129 employers | 7338
+ashby | 129 employers | 7342
 bamboohr | 5 employers | 54
-breezy | 2 employers | 29
-greenhouse | 148 employers | 5631
-icims | 15 employers | 914
-lever | 7 employers | 523
-oracle | 36 employers | 9447
-personio | 57 employers | 803
+breezy | 2 employers | 32
+greenhouse | 148 employers | 5621
+icims | 15 employers | 932
+lever | 7 employers | 522
+oracle | 36 employers | 9451
+personio | 57 employers | 817
 pinpoint | 3 employers | 18
-recruitee | 23 employers | 493
-smartrecruiters | 31 employers | 7169
-successfactors | 19 employers | 7262
-taleo | 5 employers | 506
-teamtailor | 12 employers | 170
-workable | 79 employers | 8795
-workday | 137 employers | 7619
+recruitee | 23 employers | 495
+smartrecruiters | 31 employers | 7144
+successfactors | 19 employers | 7294
+taleo | 5 employers | 508
+teamtailor | 12 employers | 171
+workable | 79 employers | 8837
+workday | 137 employers | 7704
 telegram | jobs_sql | 1
-locations | missing 62 | looked up 40 | found 39
-checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 21, "visa unclear (no mention)": 85, "visa ruled out": 1, "visa unclear (ad unreadable)": 155}
---- search runner 6/10 (18.5 min)
-indeed | Islamabad | salesforce | 3
-indeed | United Arab Emirates | data analyst | 22
-indeed | United Arab Emirates | AI product | 55
-indeed | Saudi Arabia | strategy | 80
-indeed | Qatar | business intelligence | 4
+locations | missing 67 | looked up 40 | found 39
+checks | descriptions opened 90 | {"dropped earlier": 18, "visa unclear (no mention)": 86, "visa ruled out": 1, "visa unclear (ad unreadable)": 163}
+--- search runner 6/10 (15.0 min)
+indeed | Islamabad | salesforce | 2
+indeed | United Arab Emirates | data analyst | 25
+indeed | United Arab Emirates | AI product | 50
+indeed | Saudi Arabia | strategy | 67
+indeed | Qatar | business intelligence | 2
 indeed | Qatar | pricing analyst | 0
-indeed | Bahrain | revenue operations | 3
+indeed | Bahrain | revenue operations | 4
 indeed | Oman | data scientist | 0
-indeed | Kuwait | data analyst | 0
+indeed | Kuwait | data analyst | 1
 indeed | Kuwait | AI product | 1
-indeed | Egypt | strategy | 53
+indeed | Egypt | strategy | 31
 indeed | Turkey | business intelligence visa sponsorship | 0
-indeed | Malaysia | revenue operations | 56
+indeed | Malaysia | revenue operations | 67
 indeed | Singapore | AI product | 100
 indeed | UK | data analyst visa sponsorship | 0
-indeed | Ireland | business intelligence visa sponsorship | 2
+indeed | Ireland | business intelligence visa sponsorship | 3
 indeed | Germany | revenue operations visa sponsorship | 0
-indeed | Netherlands | data analyst relocation | 4
+indeed | Netherlands | data analyst relocation | 5
 indeed | Hungary | data analyst visa sponsorship | 0
 indeed | Czech Republic | business intelligence visa sponsorship | 0
 indeed | Portugal | revenue operations visa sponsorship | 0
-indeed | Canada | data analyst relocation | 4
+indeed | Canada | data analyst relocation | 7
 indeed | New Zealand | data analyst visa sponsorship | 1
 linkedin | Lahore, Pakistan | strategy and planning | 50
-linkedin | Lahore, Pakistan | BI developer | 12
-linkedin | Lahore, Pakistan | operations analyst | 39
-linkedin | Karachi, Pakistan | analytics manager | 23
-linkedin | Karachi, Pakistan | AI specialist | 8
-linkedin | Islamabad, Pakistan | sales operations | 46
-linkedin | Islamabad, Pakistan | product analyst | 15
-linkedin | Islamabad, Pakistan | MIS | 43
-linkedin | Dubai, United Arab Emirates | lecturer | 29
-linkedin | Abu Dhabi, United Arab Emirates | data scientist | 70
-linkedin | United Arab Emirates | strategy and planning | 100
-linkedin | Riyadh, Saudi Arabia | AI product | 18
-linkedin | Jeddah, Saudi Arabia | sales operations | 44
-linkedin | Saudi Arabia | revenue operations | 98
-linkedin | Qatar | business intelligence | 33
-linkedin | Bahrain | data analyst | 11
-linkedin | Bahrain | power bi | 32
-linkedin | Oman | analytics manager | 3
+linkedin | Lahore, Pakistan | BI developer | 13
+linkedin | Lahore, Pakistan | operations analyst | 34
+linkedin | Karachi, Pakistan | analytics manager | 0
+linkedin | Karachi, Pakistan | AI specialist | 10
+linkedin | Islamabad, Pakistan | sales operations | 20
+linkedin | Islamabad, Pakistan | product analyst | 16
+linkedin | Islamabad, Pakistan | MIS | 42
+linkedin | Dubai, United Arab Emirates | lecturer | 40
+linkedin | Abu Dhabi, United Arab Emirates | data scientist | 79
+linkedin | United Arab Emirates | strategy and planning | 20
+linkedin | Riyadh, Saudi Arabia | AI product | 0
+linkedin | Jeddah, Saudi Arabia | sales operations | 35
+linkedin | Saudi Arabia | revenue operations | 0
+linkedin | Qatar | business intelligence | 26
+linkedin | Bahrain | data analyst | 12
+linkedin | Bahrain | power bi | 21
+linkedin | Oman | analytics manager | 0
 linkedin | Kuwait | assistant professor | 1
-linkedin | Jordan | lecturer | 5
-linkedin | Egypt | data scientist | 45
-linkedin | Istanbul, Türkiye | data scientist | 50
-linkedin | Singapore | AI product | 30
+linkedin | Jordan | lecturer | 6
+linkedin | Egypt | data scientist | 24
+linkedin | Istanbul, Türkiye | data scientist | 10
+linkedin | Singapore | AI product | 50
 linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 50
 linkedin | United Kingdom | strategy visa sponsorship | 50
 linkedin | Germany | revenue operations visa sponsorship | 50
-linkedin | Poland | business intelligence visa sponsorship | 50
-linkedin | Budapest, Hungary | strategy visa sponsorship | 50
-linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 21
-linkedin | Australia | business intelligence visa sponsorship | 50
-linkedin | New Zealand | strategy visa sponsorship | 50
-indeed | Pakistan | data analytics | 53
-indeed | Pakistan | revenue operations | 53
+linkedin | Poland | business intelligence visa sponsorship | 0
+linkedin | Budapest, Hungary | strategy visa sponsorship | 10
+linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 10
+linkedin | Australia | business intelligence visa sponsorship | 0
+linkedin | New Zealand | strategy visa sponsorship | 10
+indeed | Pakistan | data analytics | 56
+indeed | Pakistan | revenue operations | 41
 indeed | Pakistan | assistant professor | 1
-indeed | Lahore | product analyst | 0
-indeed | Lahore | pricing analyst | 0
-indeed | Karachi | business intelligence | 7
-indeed | Karachi | strategy and operations | 15
+indeed | Lahore | product analyst | 1
+indeed | Lahore | pricing analyst | 1
+indeed | Karachi | business intelligence | 6
+indeed | Karachi | strategy and operations | 11
 indeed | Karachi | AI product | 16
-indeed | Islamabad | machine learning | 0
+indeed | Islamabad | machine learning | 1
 discovered employers | added | 7043
-ashby | 129 employers | 3228
-bamboohr | 5 employers | 52
+ashby | 129 employers | 3220
+bamboohr | 5 employers | 55
 breezy | 2 employers | 43
-greenhouse | 148 employers | 8248
-icims | 15 employers | 1631
-lever | 7 employers | 220
-oracle | 36 employers | 9400
-personio | 57 employers | 661
-pinpoint | 3 employers | 362
-recruitee | 23 employers | 505
-smartrecruiters | 31 employers | 6206
-successfactors | 18 employers | 3547
+greenhouse | 148 employers | 8281
+icims | 15 employers | 1632
+lever | 7 employers | 219
+oracle | 36 employers | 9362
+personio | 57 employers | 660
+pinpoint | 3 employers | 356
+recruitee | 23 employers | 507
+smartrecruiters | 31 employers | 6241
+successfactors | 18 employers | 3554
 taleo | 6 employers | 932
-teamtailor | 12 employers | 214
-workable | 79 employers | 7415
-workday | 137 employers | 7608
+teamtailor | 12 employers | 212
+workable | 79 employers | 7422
+workday | 137 employers | 7607
 google_alerts | skipped (no feeds yet: add GOOGLE_ALERTS_FEEDS secret)
 brave | skipped (no BRAVE_KEY secret)
 signals | pages opened 0 | jobs read 0
-locations | missing 64 | looked up 40 | found 27
-checks | descriptions opened 90 | {"dropped earlier": 21, "visa unclear (no mention)": 51, "visa unclear (ad unreadable)": 26}
---- search runner 7/10 (26.9 min)
-linkedin | Karachi, Pakistan | business planning | 50
-linkedin | Islamabad, Pakistan | AI product | 10
-linkedin | Islamabad, Pakistan | head of data | 11
-linkedin | Islamabad, Pakistan | chief of staff | 13
-linkedin | Dubai, United Arab Emirates | assistant professor | 8
-linkedin | Abu Dhabi, United Arab Emirates | lecturer | 85
-linkedin | United Arab Emirates | data scientist | 100
-linkedin | Riyadh, Saudi Arabia | strategy and planning | 100
-linkedin | Jeddah, Saudi Arabia | AI product | 1
-linkedin | Saudi Arabia | sales operations | 100
-linkedin | Qatar | revenue operations | 21
-linkedin | Bahrain | business intelligence | 7
-linkedin | Oman | data analyst | 5
-linkedin | Oman | power bi | 27
+locations | missing 66 | looked up 40 | found 27
+checks | descriptions opened 90 | {"dropped earlier": 17, "nationals only": 1, "visa unclear (no mention)": 46, "visa unclear (ad unreadable)": 22}
+--- search runner 7/10 (23.6 min)
+linkedin | Karachi, Pakistan | business planning | 40
+linkedin | Islamabad, Pakistan | AI product | 5
+linkedin | Islamabad, Pakistan | head of data | 10
+linkedin | Islamabad, Pakistan | chief of staff | 11
+linkedin | Dubai, United Arab Emirates | assistant professor | 0
+linkedin | Abu Dhabi, United Arab Emirates | lecturer | 10
+linkedin | United Arab Emirates | data scientist | 0
+linkedin | Riyadh, Saudi Arabia | strategy and planning | 40
+linkedin | Jeddah, Saudi Arabia | AI product | 3
+linkedin | Saudi Arabia | sales operations | 10
+linkedin | Qatar | revenue operations | 17
+linkedin | Bahrain | business intelligence | 0
+linkedin | Oman | data analyst | 3
+linkedin | Oman | power bi | 24
 linkedin | Kuwait | analytics manager | 13
 linkedin | Jordan | assistant professor | 2
-linkedin | Egypt | lecturer | 35
+linkedin | Egypt | lecturer | 30
 linkedin | Kuala Lumpur, Malaysia | data analyst | 50
 linkedin | Singapore | strategy and planning | 50
-linkedin | London, England, United Kingdom | data scientist visa sponsorship | 50
+linkedin | London, England, United Kingdom | data scientist visa sponsorship | 20
 linkedin | Ireland | data analyst visa sponsorship | 50
-linkedin | Germany | AI product manager visa sponsorship | 50
-linkedin | Poland | data scientist visa sponsorship | 50
-linkedin | Prague, Czechia | data analyst visa sponsorship | 24
-linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 2
-linkedin | Australia | data scientist visa sponsorship | 50
+linkedin | Germany | AI product manager visa sponsorship | 40
+linkedin | Poland | data scientist visa sponsorship | 0
+linkedin | Prague, Czechia | data analyst visa sponsorship | 20
+linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 0
+linkedin | Australia | data scientist visa sponsorship | 20
 indeed | Pakistan | data scientist | 2
 indeed | Pakistan | sales operations | 100
-indeed | Pakistan | trainer | 15
+indeed | Pakistan | trainer | 13
 indeed | Lahore | MIS | 0
-indeed | Lahore | growth | 100
-indeed | Karachi | power bi | 0
-indeed | Karachi | business operations | 55
+indeed | Lahore | growth | 84
+indeed | Karachi | power bi | 1
+indeed | Karachi | business operations | 62
 indeed | Karachi | lecturer | 0
-indeed | Islamabad | analytics manager | 9
-indeed | Islamabad | CRM | 43
-indeed | United Arab Emirates | business analyst | 26
-indeed | United Arab Emirates | AI specialist | 23
-indeed | Saudi Arabia | business planning | 50
-indeed | Qatar | power bi | 4
+indeed | Islamabad | analytics manager | 8
+indeed | Islamabad | CRM | 41
+indeed | United Arab Emirates | business analyst | 28
+indeed | United Arab Emirates | AI specialist | 17
+indeed | Saudi Arabia | business planning | 37
+indeed | Qatar | power bi | 3
 indeed | Qatar | lecturer | 0
-indeed | Bahrain | sales operations | 10
-indeed | Oman | analytics manager | 1
-indeed | Kuwait | business analyst | 2
+indeed | Bahrain | sales operations | 9
+indeed | Oman | analytics manager | 0
+indeed | Kuwait | business analyst | 1
 indeed | Kuwait | AI specialist | 0
-indeed | Egypt | business planning | 47
+indeed | Egypt | business planning | 25
 indeed | Turkey | data scientist visa sponsorship | 0
 indeed | Malaysia | strategy and operations | 100
 indeed | Singapore | pricing analyst | 6
 indeed | UK | business analyst visa sponsorship | 0
 indeed | Ireland | data scientist visa sponsorship | 0
-indeed | Germany | strategy visa sponsorship | 7
+indeed | Germany | strategy visa sponsorship | 3
 indeed | Netherlands | AI product visa sponsorship | 5
 indeed | Hungary | business analyst visa sponsorship | 0
 indeed | Czech Republic | data scientist visa sponsorship | 0
@@ -585,28 +584,27 @@ indeed | Portugal | strategy visa sponsorship | 0
 indeed | Canada | AI product visa sponsorship | 15
 indeed | New Zealand | business analyst visa sponsorship | 1
 linkedin | Lahore, Pakistan | data scientist | 13
-linkedin | Lahore, Pakistan | strategy manager | 18
-linkedin | Karachi, Pakistan | data analyst | 32
-linkedin | Karachi, Pakistan | power bi | 50
+linkedin | Lahore, Pakistan | strategy manager | 20
+linkedin | Karachi, Pakistan | data analyst | 0
+linkedin | Karachi, Pakistan | power bi | 0
 discovered employers | added | 7043
-workday | damen | FAILED: 502 Server Error: Bad Gateway for url: https://damen.wd3.myworkdayjobs.com/wday/cxs/damen/Damen_Care
-ashby | 128 employers | 2483
-bamboohr | 6 employers | 38
+ashby | 128 employers | 2495
+bamboohr | 6 employers | 39
 breezy | 2 employers | 85
-greenhouse | 148 employers | 6935
-icims | 15 employers | 1408
+greenhouse | 148 employers | 6924
+icims | 15 employers | 1401
 lever | 7 employers | 134
-oracle | 36 employers | 10688
-personio | 57 employers | 730
+oracle | 36 employers | 10751
+personio | 57 employers | 728
 pinpoint | 3 employers | 19
-recruitee | 23 employers | 563
-smartrecruiters | 31 employers | 5017
-successfactors | 18 employers | 1793
-taleo | 6 employers | 884
-teamtailor | 12 employers | 206
-workable | 79 employers | 6772
-workday | 137 employers | 8904
-university | FAST-NUCES | new links 1 | relevant 1
+recruitee | 23 employers | 562
+smartrecruiters | 31 employers | 5043
+successfactors | 18 employers | 1772
+taleo | 6 employers | 909
+teamtailor | 12 employers | 208
+workable | 79 employers | 6789
+workday | 137 employers | 8991
+university | FAST-NUCES | new links 0 | relevant 0
 university | LUMS | new links 0 | relevant 0
 university | NUST | new links 0 | relevant 0
 university | COMSATS University | new links 0 | relevant 0
@@ -614,17 +612,17 @@ university | IBA Karachi | new links 0 | relevant 0
 university | Information Technology University | new links 0 | relevant 0
 university | University of Central Punjab | new links 0 | relevant 0
 university | University of Management and Technology | careers page not found (also tried the home page)
-university | University of the Punjab | new links 0 | relevant 0
+university | University of the Punjab | new links 1 | relevant 0
 university | Lahore School of Economics | careers page not found (also tried the home page)
 university | Forman Christian College | new links 0 | relevant 0
 university | Beaconhouse National University | new links 0 | relevant 0
 university | Habib University | new links 0 | relevant 0
 university | SZABIST | new links 0 | relevant 0
 university | Air University | new links 0 | relevant 0
-university | Bahria University | new links 1 | relevant 0
+university | Bahria University | new links 0 | relevant 0
 university | Quaid-i-Azam University | new links 0 | relevant 0
 university | PIEAS | new links 0 | relevant 0
-university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 42487 milliseconds. See
+university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 42695 milliseconds. See
 university | UET Lahore | new links 0 | relevant 0
 university | University of Wollongong in Dubai | new links 0 | relevant 0
 university | Middlesex University Dubai | new links 0 | relevant 0
@@ -638,88 +636,89 @@ university | Alfaisal University | new links 0 | relevant 0
 university | Effat University | new links 0 | relevant 0
 university | Qatar University | new links 0 | relevant 0
 university | University of Doha for Science and Technology | new links 0 | relevant 0
-locations | missing 72 | looked up 40 | found 39
-checks | descriptions opened 90 | {"dropped earlier": 45, "visa unclear (no mention)": 45, "visa ruled out": 3}
---- search runner 8/10 (24.2 min)
-linkedin | Karachi, Pakistan | pricing analyst | 12
-linkedin | Islamabad, Pakistan | strategy and planning | 44
-linkedin | Islamabad, Pakistan | BI developer | 8
-linkedin | Islamabad, Pakistan | operations analyst | 34
-linkedin | Dubai, United Arab Emirates | analytics manager | 87
-linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 48
-linkedin | United Arab Emirates | lecturer | 100
-linkedin | Riyadh, Saudi Arabia | data scientist | 15
-linkedin | Jeddah, Saudi Arabia | strategy and planning | 70
-linkedin | Saudi Arabia | AI product | 31
-linkedin | Qatar | sales operations | 50
-linkedin | Bahrain | revenue operations | 4
+locations | missing 73 | looked up 40 | found 39
+checks | descriptions opened 78 | {"dropped earlier": 38, "visa ruled out": 1, "visa unclear (no mention)": 33}
+--- search runner 8/10 (18.5 min)
+linkedin | Karachi, Pakistan | pricing analyst | 18
+linkedin | Islamabad, Pakistan | strategy and planning | 39
+linkedin | Islamabad, Pakistan | BI developer | 10
+linkedin | Islamabad, Pakistan | operations analyst | 30
+linkedin | Dubai, United Arab Emirates | analytics manager | 0
+linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 0
+linkedin | United Arab Emirates | lecturer | 0
+linkedin | Riyadh, Saudi Arabia | data scientist | 21
+linkedin | Jeddah, Saudi Arabia | strategy and planning | 20
+linkedin | Saudi Arabia | AI product | 20
+linkedin | Qatar | sales operations | 0
+linkedin | Bahrain | revenue operations | 0
 linkedin | Oman | business intelligence | 4
-linkedin | Kuwait | data analyst | 17
-linkedin | Kuwait | power bi | 50
-linkedin | Jordan | analytics manager | 11
-linkedin | Egypt | assistant professor | 7
+linkedin | Kuwait | data analyst | 11
+linkedin | Kuwait | power bi | 0
+linkedin | Jordan | analytics manager | 9
+linkedin | Egypt | assistant professor | 10
 linkedin | Kuala Lumpur, Malaysia | business intelligence | 50
-linkedin | Singapore | data scientist | 50
+linkedin | Singapore | data scientist | 30
 linkedin | London, England, United Kingdom | revenue operations visa sponsorship | 50
-linkedin | Ireland | business intelligence visa sponsorship | 50
-linkedin | Germany | strategy visa sponsorship | 50
-linkedin | Poland | revenue operations visa sponsorship | 30
-linkedin | Prague, Czechia | business intelligence visa sponsorship | 13
-linkedin | Lisbon, Portugal | strategy visa sponsorship | 28
-linkedin | Australia | revenue operations visa sponsorship | 50
-indeed | Pakistan | machine learning | 6
-indeed | Pakistan | salesforce | 14
-indeed | Lahore | data analyst | 1
-indeed | Lahore | strategy | 58
+linkedin | Ireland | business intelligence visa sponsorship | 10
+linkedin | Germany | strategy visa sponsorship | 0
+linkedin | Poland | revenue operations visa sponsorship | 0
+linkedin | Prague, Czechia | business intelligence visa sponsorship | 17
+linkedin | Lisbon, Portugal | strategy visa sponsorship | 20
+linkedin | Australia | revenue operations visa sponsorship | 0
+indeed | Pakistan | machine learning | 7
+indeed | Pakistan | salesforce | 20
+indeed | Lahore | data analyst | 0
+indeed | Lahore | strategy | 52
 indeed | Lahore | operations analyst | 0
-indeed | Karachi | data analytics | 13
-indeed | Karachi | revenue operations | 14
+indeed | Karachi | data analytics | 14
+indeed | Karachi | revenue operations | 13
 indeed | Karachi | assistant professor | 0
-indeed | Islamabad | product analyst | 1
-indeed | Islamabad | pricing analyst | 2
-indeed | United Arab Emirates | business intelligence | 55
-indeed | United Arab Emirates | pricing analyst | 3
-indeed | Saudi Arabia | revenue operations | 15
-indeed | Qatar | data scientist | 0
+indeed | Islamabad | product analyst | 2
+indeed | Islamabad | pricing analyst | 3
+indeed | United Arab Emirates | business intelligence | 46
+indeed | United Arab Emirates | pricing analyst | 4
+indeed | Saudi Arabia | revenue operations | 9
+indeed | Qatar | data scientist | 1
 indeed | Bahrain | data analyst | 0
 indeed | Bahrain | AI product | 2
-indeed | Oman | strategy | 7
-indeed | Kuwait | business intelligence | 2
-indeed | Kuwait | pricing analyst | 1
-indeed | Egypt | revenue operations | 12
+indeed | Oman | strategy | 1
+indeed | Kuwait | business intelligence | 1
+indeed | Kuwait | pricing analyst | 0
+indeed | Egypt | revenue operations | 6
 indeed | Turkey | revenue operations visa sponsorship | 0
-indeed | Malaysia | AI product | 64
+indeed | Malaysia | AI product | 70
 indeed | Japan | data analyst visa sponsorship | 0
-indeed | UK | business intelligence visa sponsorship | 70
-indeed | Ireland | revenue operations visa sponsorship | 1
-indeed | Germany | data analyst relocation | 4
+indeed | UK | business intelligence visa sponsorship | 52
+indeed | Ireland | revenue operations visa sponsorship | 0
+indeed | Germany | data analyst relocation | 6
 indeed | Poland | data analyst visa sponsorship | 0
 indeed | Hungary | business intelligence visa sponsorship | 0
 indeed | Czech Republic | revenue operations visa sponsorship | 0
 indeed | Portugal | data analyst relocation | 0
-indeed | Australia | data analyst visa sponsorship | 1
+indeed | Australia | data analyst visa sponsorship | 3
 indeed | New Zealand | business intelligence visa sponsorship | 1
-linkedin | Lahore, Pakistan | lecturer | 4
-linkedin | Lahore, Pakistan | corporate planning | 41
+linkedin | Lahore, Pakistan | lecturer | 6
+linkedin | Lahore, Pakistan | corporate planning | 32
 linkedin | Karachi, Pakistan | business intelligence | 18
-linkedin | Karachi, Pakistan | business analyst | 43
+linkedin | Karachi, Pakistan | business analyst | 0
 discovered employers | added | 7043
-ashby | 128 employers | 4111
+ashby | 128 employers | 4119
 bamboohr | 6 employers | 103
 breezy | 2 employers | 44
-greenhouse | 148 employers | 8420
-icims | 14 employers | 1203
-lever | 8 employers | 239
-oracle | 36 employers | 8341
-personio | 57 employers | 913
-pinpoint | 3 employers | 201
-recruitee | 23 employers | 920
-smartrecruiters | 31 employers | 5775
-successfactors | 18 employers | 3920
-taleo | 5 employers | 564
+greenhouse | 148 employers | 8404
+icims | 14 employers | 1206
+lever | 8 employers | 241
+oracle | 36 employers | 8428
+personio | 57 employers | 922
+pinpoint | 3 employers | 204
+recruitee | 23 employers | 926
+smartrecruiters | 31 employers | 5840
+successfactors | 18 employers | 3926
+taleo | 5 employers | 593
 teamtailor | 13 employers | 299
-workable | 79 employers | 5269
-workday | 137 employers | 11005
+workable | 79 employers | 5249
+workday | 137 employers | 11002
+workable search | Lisbon | AI product | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | strategy | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | business analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
@@ -778,182 +777,182 @@ workable search | Auckland | strategy | FAILED: 429 Client Error: Too Many Reque
 workable search | Auckland | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | business analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | lecturer | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | 459 searches | 2737
-locations | missing 82 | looked up 40 | found 38
-checks | descriptions opened 90 | {"dropped earlier": 55, "nationals only": 1, "visa ruled out": 3, "visa unclear (no mention)": 78, "visa unclear (ad unreadable)": 23}
---- search runner 9/10 (16.0 min)
-linkedin | Karachi, Pakistan | growth analyst | 19
-linkedin | Islamabad, Pakistan | data scientist | 11
-linkedin | Islamabad, Pakistan | strategy manager | 20
-linkedin | Dubai, United Arab Emirates | data analyst | 100
+workable search | 459 searches | 2716
+locations | missing 84 | looked up 40 | found 38
+checks | descriptions opened 90 | {"dropped earlier": 48, "visa unclear (no mention)": 81, "visa ruled out": 1, "visa unclear (ad unreadable)": 17}
+--- search runner 9/10 (12.7 min)
+linkedin | Karachi, Pakistan | growth analyst | 0
+linkedin | Islamabad, Pakistan | data scientist | 10
+linkedin | Islamabad, Pakistan | strategy manager | 0
+linkedin | Dubai, United Arab Emirates | data analyst | 30
 linkedin | Dubai, United Arab Emirates | power bi | 100
-linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 57
-linkedin | United Arab Emirates | assistant professor | 58
-linkedin | Riyadh, Saudi Arabia | lecturer | 3
-linkedin | Jeddah, Saudi Arabia | data scientist | 3
-linkedin | Saudi Arabia | strategy and planning | 100
-linkedin | Qatar | AI product | 8
-linkedin | Bahrain | sales operations | 16
+linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 20
+linkedin | United Arab Emirates | assistant professor | 64
+linkedin | Riyadh, Saudi Arabia | lecturer | 5
+linkedin | Jeddah, Saudi Arabia | data scientist | 5
+linkedin | Saudi Arabia | strategy and planning | 0
+linkedin | Qatar | AI product | 0
+linkedin | Bahrain | sales operations | 13
 linkedin | Oman | revenue operations | 3
-linkedin | Kuwait | business intelligence | 10
-linkedin | Jordan | data analyst | 19
-linkedin | Jordan | power bi | 50
-linkedin | Egypt | analytics manager | 47
-linkedin | Kuala Lumpur, Malaysia | revenue operations | 50
+linkedin | Kuwait | business intelligence | 7
+linkedin | Jordan | data analyst | 18
+linkedin | Jordan | power bi | 30
+linkedin | Egypt | analytics manager | 10
+linkedin | Kuala Lumpur, Malaysia | revenue operations | 30
 linkedin | Tokyo, Japan | data analyst visa sponsorship | 50
-linkedin | London, England, United Kingdom | AI product manager visa sponsorship | 50
-linkedin | Ireland | data scientist visa sponsorship | 35
-linkedin | Netherlands | data analyst visa sponsorship | 50
-linkedin | Poland | AI product manager visa sponsorship | 37
-linkedin | Prague, Czechia | data scientist visa sponsorship | 8
-linkedin | Canada | data analyst visa sponsorship | 50
-linkedin | Australia | AI product manager visa sponsorship | 27
-indeed | Pakistan | analytics manager | 39
+linkedin | London, England, United Kingdom | AI product manager visa sponsorship | 0
+linkedin | Ireland | data scientist visa sponsorship | 31
+linkedin | Netherlands | data analyst visa sponsorship | 10
+linkedin | Poland | AI product manager visa sponsorship | 0
+linkedin | Prague, Czechia | data scientist visa sponsorship | 7
+linkedin | Canada | data analyst visa sponsorship | 10
+linkedin | Australia | AI product manager visa sponsorship | 38
+indeed | Pakistan | analytics manager | 40
 indeed | Pakistan | CRM | 100
 indeed | Lahore | business analyst | 2
-indeed | Lahore | business planning | 19
-indeed | Lahore | AI | 35
+indeed | Lahore | business planning | 20
+indeed | Lahore | AI | 33
 indeed | Karachi | data scientist | 0
-indeed | Karachi | sales operations | 41
+indeed | Karachi | sales operations | 39
 indeed | Karachi | trainer | 4
 indeed | Islamabad | MIS | 0
-indeed | Islamabad | growth | 75
-indeed | United Arab Emirates | power bi | 24
-indeed | United Arab Emirates | lecturer | 5
-indeed | Saudi Arabia | sales operations | 28
-indeed | Qatar | analytics manager | 6
+indeed | Islamabad | growth | 87
+indeed | United Arab Emirates | power bi | 30
+indeed | United Arab Emirates | lecturer | 4
+indeed | Saudi Arabia | sales operations | 37
+indeed | Qatar | analytics manager | 4
 indeed | Bahrain | business analyst | 0
 indeed | Bahrain | AI specialist | 0
-indeed | Oman | business planning | 9
+indeed | Oman | business planning | 3
 indeed | Kuwait | power bi | 0
 indeed | Kuwait | lecturer | 0
-indeed | Egypt | sales operations | 26
+indeed | Egypt | sales operations | 13
 indeed | Turkey | strategy visa sponsorship | 0
 indeed | Malaysia | pricing analyst | 4
 indeed | Japan | business analyst visa sponsorship | 0
 indeed | UK | data scientist visa sponsorship | 0
 indeed | Ireland | strategy visa sponsorship | 4
-indeed | Germany | AI product visa sponsorship | 7
+indeed | Germany | AI product visa sponsorship | 3
 indeed | Poland | business analyst visa sponsorship | 0
 indeed | Hungary | data scientist visa sponsorship | 0
 indeed | Czech Republic | strategy visa sponsorship | 0
 indeed | Portugal | AI product visa sponsorship | 0
-indeed | Australia | business analyst visa sponsorship | 1
+indeed | Australia | business analyst visa sponsorship | 4
 indeed | New Zealand | data scientist visa sponsorship | 0
-linkedin | Lahore, Pakistan | assistant professor | 1
-linkedin | Lahore, Pakistan | salesforce | 30
-linkedin | Karachi, Pakistan | revenue operations | 10
-linkedin | Karachi, Pakistan | data analytics | 10
+linkedin | Lahore, Pakistan | assistant professor | 0
+linkedin | Lahore, Pakistan | salesforce | 20
+linkedin | Karachi, Pakistan | revenue operations | 0
+linkedin | Karachi, Pakistan | data analytics | 32
 discovered employers | added | 7043
-ashby | 128 employers | 3676
+ashby | 128 employers | 3681
 bamboohr | 6 employers | 74
 breezy | 2 employers | 7
-greenhouse | 148 employers | 13340
-icims | 14 employers | 1551
-lever | 8 employers | 119
-oracle | 35 employers | 12901
-personio | 58 employers | 1046
+greenhouse | 148 employers | 13350
+icims | 14 employers | 1549
+lever | 8 employers | 116
+oracle | 35 employers | 12914
+personio | 58 employers | 1050
 pinpoint | 2 employers | 113
-recruitee | 23 employers | 910
-smartrecruiters | 32 employers | 9927
-successfactors | 18 employers | 4599
-taleo | 5 employers | 450
-teamtailor | 13 employers | 272
-workable | 78 employers | 5205
-workday | 138 employers | 6288
-locations | missing 34 | looked up 34 | found 32
-checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 35, "visa unclear (no mention)": 57, "visa ruled out": 2}
---- search runner 10/10 (17.2 min)
-linkedin | Karachi, Pakistan | MIS | 50
-linkedin | Islamabad, Pakistan | lecturer | 0
-linkedin | Islamabad, Pakistan | corporate planning | 21
+recruitee | 23 employers | 915
+smartrecruiters | 32 employers | 9957
+successfactors | 18 employers | 4629
+taleo | 5 employers | 454
+teamtailor | 13 employers | 273
+workable | 78 employers | 5305
+workday | 138 employers | 6306
+locations | missing 35 | looked up 35 | found 33
+checks | descriptions opened 89 | {"dropped earlier": 29, "visa unclear (no mention)": 52}
+--- search runner 10/10 (13.5 min)
+linkedin | Karachi, Pakistan | MIS | 10
+linkedin | Islamabad, Pakistan | lecturer | 3
+linkedin | Islamabad, Pakistan | corporate planning | 10
 linkedin | Dubai, United Arab Emirates | business intelligence | 100
-linkedin | Abu Dhabi, United Arab Emirates | data analyst | 100
-linkedin | Abu Dhabi, United Arab Emirates | power bi | 70
-linkedin | United Arab Emirates | analytics manager | 100
-linkedin | Riyadh, Saudi Arabia | assistant professor | 2
-linkedin | Jeddah, Saudi Arabia | lecturer | 3
-linkedin | Saudi Arabia | data scientist | 39
-linkedin | Qatar | strategy and planning | 50
-linkedin | Bahrain | AI product | 3
-linkedin | Oman | sales operations | 12
+linkedin | Abu Dhabi, United Arab Emirates | data analyst | 30
+linkedin | Abu Dhabi, United Arab Emirates | power bi | 50
+linkedin | United Arab Emirates | analytics manager | 0
+linkedin | Riyadh, Saudi Arabia | assistant professor | 1
+linkedin | Jeddah, Saudi Arabia | lecturer | 2
+linkedin | Saudi Arabia | data scientist | 20
+linkedin | Qatar | strategy and planning | 0
+linkedin | Bahrain | AI product | 2
+linkedin | Oman | sales operations | 14
 linkedin | Kuwait | revenue operations | 5
-linkedin | Jordan | business intelligence | 9
-linkedin | Egypt | data analyst | 100
-linkedin | Egypt | power bi | 100
-linkedin | Kuala Lumpur, Malaysia | AI product | 50
-linkedin | Tokyo, Japan | business intelligence visa sponsorship | 50
-linkedin | London, England, United Kingdom | strategy visa sponsorship | 50
-linkedin | Ireland | revenue operations visa sponsorship | 25
+linkedin | Jordan | business intelligence | 10
+linkedin | Egypt | data analyst | 70
+linkedin | Egypt | power bi | 0
+linkedin | Kuala Lumpur, Malaysia | AI product | 40
+linkedin | Tokyo, Japan | business intelligence visa sponsorship | 0
+linkedin | London, England, United Kingdom | strategy visa sponsorship | 30
+linkedin | Ireland | revenue operations visa sponsorship | 26
 linkedin | Netherlands | business intelligence visa sponsorship | 50
 linkedin | Poland | strategy visa sponsorship | 50
-linkedin | Prague, Czechia | revenue operations visa sponsorship | 6
+linkedin | Prague, Czechia | revenue operations visa sponsorship | 5
 linkedin | Canada | business intelligence visa sponsorship | 50
 linkedin | Australia | strategy visa sponsorship | 50
-indeed | Pakistan | product analyst | 8
-indeed | Pakistan | pricing analyst | 2
-indeed | Lahore | business intelligence | 6
-indeed | Lahore | strategy and operations | 18
-indeed | Lahore | AI product | 9
+indeed | Pakistan | product analyst | 12
+indeed | Pakistan | pricing analyst | 5
+indeed | Lahore | business intelligence | 7
+indeed | Lahore | strategy and operations | 14
+indeed | Lahore | AI product | 10
 indeed | Karachi | machine learning | 0
-indeed | Karachi | salesforce | 2
+indeed | Karachi | salesforce | 4
 indeed | Islamabad | data analyst | 5
-indeed | Islamabad | strategy | 38
+indeed | Islamabad | strategy | 36
 indeed | Islamabad | operations analyst | 3
-indeed | United Arab Emirates | data scientist | 8
-indeed | Saudi Arabia | data analyst | 2
+indeed | United Arab Emirates | data scientist | 7
+indeed | Saudi Arabia | data analyst | 3
 indeed | Saudi Arabia | AI product | 18
-indeed | Qatar | strategy | 55
-indeed | Bahrain | business intelligence | 1
+indeed | Qatar | strategy | 38
+indeed | Bahrain | business intelligence | 2
 indeed | Bahrain | pricing analyst | 0
-indeed | Oman | revenue operations | 3
+indeed | Oman | revenue operations | 1
 indeed | Kuwait | data scientist | 0
-indeed | Egypt | data analyst | 11
-indeed | Egypt | AI product | 14
+indeed | Egypt | data analyst | 5
+indeed | Egypt | AI product | 9
 indeed | Turkey | data analyst relocation | 0
-indeed | Singapore | data analyst | 42
+indeed | Singapore | data analyst | 43
 indeed | Japan | business intelligence visa sponsorship | 1
-indeed | UK | revenue operations visa sponsorship | 5
+indeed | UK | revenue operations visa sponsorship | 6
 indeed | Ireland | data analyst relocation | 2
-indeed | Netherlands | data analyst visa sponsorship | 0
+indeed | Netherlands | data analyst visa sponsorship | 1
 indeed | Poland | business intelligence visa sponsorship | 0
 indeed | Hungary | revenue operations visa sponsorship | 0
 indeed | Czech Republic | data analyst relocation | 0
 indeed | Canada | data analyst visa sponsorship | 0
-indeed | Australia | business intelligence visa sponsorship | 6
+indeed | Australia | business intelligence visa sponsorship | 5
 indeed | New Zealand | revenue operations visa sponsorship | 0
-linkedin | Lahore, Pakistan | analytics manager | 14
+linkedin | Lahore, Pakistan | analytics manager | 0
 linkedin | Lahore, Pakistan | AI specialist | 19
-linkedin | Karachi, Pakistan | sales operations | 50
-linkedin | Karachi, Pakistan | product analyst | 12
+linkedin | Karachi, Pakistan | sales operations | 10
+linkedin | Karachi, Pakistan | product analyst | 0
 discovered employers | added | 7043
-ashby | 128 employers | 3534
-bamboohr | 6 employers | 67
+ashby | 128 employers | 3531
+bamboohr | 6 employers | 69
 breezy | 2 employers | 8
-greenhouse | 148 employers | 7562
-icims | 14 employers | 969
-lever | 7 employers | 247
-oracle | 36 employers | 11876
-personio | 58 employers | 820
-pinpoint | 2 employers | 55
-recruitee | 23 employers | 1124
-smartrecruiters | 32 employers | 8537
-successfactors | 18 employers | 30894
-taleo | 5 employers | 436
-teamtailor | 13 employers | 226
-workable | 78 employers | 4544
-workday | 138 employers | 9721
-locations | missing 99 | looked up 40 | found 35
-checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 60, "visa unclear (no mention)": 56, "visa unclear (ad unreadable)": 1}
---- sites runner 1/4 (2.6 min)
-company sites | {"read": 390, "unchanged": 327, "failed": 33, "jobs": 256}
-checks | descriptions opened 0 | {"dropped earlier": 1, "visa unclear (no mention)": 45}
---- sites runner 2/4 (3.1 min)
-company sites | {"read": 335, "unchanged": 401, "failed": 14, "jobs": 271}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 28}
---- sites runner 3/4 (2.6 min)
-company sites | {"read": 323, "unchanged": 403, "failed": 24, "jobs": 287}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 52}
---- sites runner 4/4 (4.9 min)
-company sites | {"read": 321, "unchanged": 413, "failed": 16, "jobs": 225}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 49}
+greenhouse | 148 employers | 7560
+icims | 14 employers | 973
+lever | 7 employers | 248
+oracle | 36 employers | 11916
+personio | 58 employers | 821
+pinpoint | 2 employers | 56
+recruitee | 23 employers | 1128
+smartrecruiters | 32 employers | 8573
+successfactors | 18 employers | 30877
+taleo | 5 employers | 438
+teamtailor | 13 employers | 228
+workable | 78 employers | 4564
+workday | 138 employers | 9768
+locations | missing 97 | looked up 40 | found 35
+checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 51, "visa unclear (no mention)": 62, "visa unclear (ad unreadable)": 1}
+--- sites runner 1/4 (1.1 min)
+company sites | {"read": 345, "unchanged": 389, "failed": 16, "jobs": 163}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 8}
+--- sites runner 2/4 (3.2 min)
+company sites | {"read": 387, "unchanged": 325, "failed": 38, "jobs": 107}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 11}
+--- sites runner 3/4 (3.0 min)
+company sites | {"read": 349, "unchanged": 385, "failed": 16, "jobs": 175}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 10}
+--- sites runner 4/4 (2.1 min)
+company sites | {"read": 356, "unchanged": 382, "failed": 12, "jobs": 156}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 20}
