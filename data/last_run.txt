@@ -1,25 +1,25 @@
-Run at 2026-10-24 11:58 PKT (daily, 14 runners)
-raw=484379  matching=922  new=179  total=12368  coverage=100%
+Run at 2026-10-24 22:36 PKT (daily, 14 runners)
+raw=563301  matching=1093  new=232  total=12600  coverage=100%
 Searches: 628/628 done, 0 failed, 0 blocked, 0 skipped
-New by city: {'Singapore': 25, 'London': 22, 'Dubai': 11, 'Abu Dhabi': 11, 'Germany (city not stated)': 11, 'Toronto': 7, 'Melbourne': 7, 'Sydney': 7, 'Hungary (city not stated)': 7, 'Tokyo': 6, 'Remote': 6, 'Berlin': 6, 'Warsaw': 5, 'Montreal': 5, 'Budapest': 5, 'Kuala Lumpur': 4, 'Kraków': 4, 'Dublin': 3, 'Hamburg': 3, 'Munich': 3, 'Poland (city not stated)': 3, 'Lisbon': 2, 'Cairo': 2, 'Doha': 2, 'Istanbul': 2, 'Amsterdam': 2, 'Riyadh': 1, 'Lahore': 1, 'Ireland (city not stated)': 1, 'Saudi Arabia (city not stated)': 1, 'UK (city not stated)': 1, 'Australia (city not stated)': 1, 'Netherlands (city not stated)': 1, 'Canada (city not stated)': 1}
-New by role group: {'Data & BI': 81, 'AI Product / Applied AI': 32, 'Strategy & Ops': 31, 'Data Science': 20, 'RevOps': 14, 'Teaching & Faculty': 1}
-Cities with matching jobs today: Abu Dhabi, Amsterdam, Auckland, Australia (city not stated), Bahrain (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Hungary (city not stated), Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Jordan (city not stated), Karachi, Kraków, Kuala Lumpur, Kuwait (city not stated), Lahore, Lisbon, London, Malaysia (city not stated), Manchester, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
+New by city: {'London': 27, 'Dublin': 22, 'Singapore': 18, 'Toronto': 17, 'Ireland (city not stated)': 16, 'Berlin': 13, 'Kraków': 11, 'Munich': 9, 'Dubai': 7, 'Abu Dhabi': 7, 'Poland (city not stated)': 7, 'Tokyo': 5, 'Amsterdam': 5, 'Canada (city not stated)': 5, 'Sydney': 5, 'Hamburg': 4, 'Frankfurt': 4, 'Melbourne': 4, 'Hungary (city not stated)': 4, 'Lahore': 3, 'Istanbul': 3, 'UK (city not stated)': 3, 'Vancouver': 3, 'Riyadh': 3, 'Warsaw': 3, 'Budapest': 3, 'Karachi': 2, 'New Zealand (city not stated)': 2, 'Remote': 2, 'Kuala Lumpur': 2, 'Montreal': 2, 'Egypt (city not stated)': 2, 'Lisbon': 2, 'Cairo': 1, 'Czechia (city not stated)': 1, 'Manchester': 1, 'Germany (city not stated)': 1, 'Rotterdam': 1, 'Auckland': 1, 'Al Ain': 1}
+New by role group: {'Data & BI': 70, 'Strategy & Ops': 62, 'Data Science': 50, 'AI Product / Applied AI': 32, 'RevOps': 16, 'Teaching & Faculty': 2}
+Cities with matching jobs today: Abu Dhabi, Al Ain, Amsterdam, Auckland, Australia (city not stated), Bahrain (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Czechia (city not stated), Dhahran, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Hungary (city not stated), Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Jordan (city not stated), Karachi, Kraków, Kuala Lumpur, Kuwait (city not stated), Lahore, Lisbon, London, Malaysia (city not stated), Manchester, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Sharjah, Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
 
-Matching titles dropped for location (top 25): {"San Francisco": 219, "World Wide - Remote": 191, "United States": 174, "United States of America": 126, "San Francisco, CA": 90, "New York, NY": 85, "United States | United States": 84, "New York City": 82, "Spain": 76, "New York": 74, "Indonesia": 69, "Thailand": 67, "Taipei, Taiwan": 63, "India": 60, "Hong Kong": 58, "Paris": 55, "Paris | IDF | fr | Paris, IDF, France": 55, "Sweden": 55, "Philippines": 52, "Seoul, Korea": 48, "Remote - United States": 48, "China": 47, "Mexico | Mexico": 44, "New York, NY, United States | US": 43, "United States | US": 41}
+Matching titles dropped for location (top 25): {"San Francisco": 220, "World Wide - Remote": 191, "United States": 174, "United States of America": 126, "San Francisco, CA": 90, "New York, NY": 85, "United States | United States": 84, "New York": 78, "Spain": 76, "New York City": 75, "Indonesia": 69, "Thailand": 67, "Taipei, Taiwan": 63, "Hong Kong": 58, "India": 56, "Paris": 55, "Paris | IDF | fr | Paris, IDF, France": 55, "Philippines": 52, "Sweden": 51, "Seoul, Korea": 48, "Remote - United States": 48, "China": 47, "Mexico | Mexico": 44, "New York, NY, United States | US": 43, "Philippines | Philippines": 40}
 
---- search runner 1/10 (11.6 min)
-indeed | United Arab Emirates | analytics manager | 39
-indeed | Saudi Arabia | business analyst | 5
-indeed | Saudi Arabia | AI specialist | 19
-indeed | Qatar | business planning | 26
+--- search runner 1/10 (14.8 min)
+indeed | United Arab Emirates | analytics manager | 27
+indeed | Saudi Arabia | business analyst | 3
+indeed | Saudi Arabia | AI specialist | 17
+indeed | Qatar | business planning | 13
 indeed | Bahrain | power bi | 0
 indeed | Bahrain | lecturer | 0
-indeed | Oman | sales operations | 3
+indeed | Oman | sales operations | 2
 indeed | Kuwait | analytics manager | 0
-indeed | Egypt | business analyst | 5
-indeed | Egypt | AI specialist | 3
-indeed | Turkey | AI product visa sponsorship | 1
-indeed | Singapore | business analyst | 46
+indeed | Egypt | business analyst | 3
+indeed | Egypt | AI specialist | 1
+indeed | Turkey | AI product visa sponsorship | 0
+indeed | Singapore | business analyst | 28
 indeed | Japan | data scientist visa sponsorship | 0
 indeed | UK | strategy visa sponsorship | 100
 indeed | Ireland | AI product visa sponsorship | 2
@@ -29,597 +29,279 @@ indeed | Hungary | strategy visa sponsorship | 1
 indeed | Czech Republic | AI product visa sponsorship | 0
 indeed | Canada | business analyst visa sponsorship | 0
 indeed | Australia | data scientist visa sponsorship | 3
-indeed | New Zealand | strategy visa sponsorship | 2
-linkedin | Lahore, Pakistan | data analyst | 28
-linkedin | Lahore, Pakistan | power bi | 20
-linkedin | Lahore, Pakistan | business planning | 10
-linkedin | Karachi, Pakistan | AI product | 6
-linkedin | Karachi, Pakistan | head of data | 7
+indeed | New Zealand | strategy visa sponsorship | 1
+linkedin | Lahore, Pakistan | data analyst | 20
+linkedin | Lahore, Pakistan | power bi | 50
+linkedin | Lahore, Pakistan | business planning | 50
+linkedin | Karachi, Pakistan | AI product | 3
+linkedin | Karachi, Pakistan | head of data | 4
 linkedin | Karachi, Pakistan | chief of staff | 9
 linkedin | Islamabad, Pakistan | assistant professor | 1
-linkedin | Islamabad, Pakistan | salesforce | 14
-linkedin | Dubai, United Arab Emirates | revenue operations | 30
-linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 30
-linkedin | United Arab Emirates | data analyst | 90
-linkedin | United Arab Emirates | power bi | 10
-linkedin | Riyadh, Saudi Arabia | analytics manager | 15
+linkedin | Islamabad, Pakistan | salesforce | 11
+linkedin | Dubai, United Arab Emirates | revenue operations | 80
+linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 68
+linkedin | United Arab Emirates | data analyst | 100
+linkedin | United Arab Emirates | power bi | 100
+linkedin | Riyadh, Saudi Arabia | analytics manager | 8
 linkedin | Jeddah, Saudi Arabia | assistant professor | 1
-linkedin | Saudi Arabia | lecturer | 10
-linkedin | Qatar | data scientist | 0
-linkedin | Bahrain | strategy and planning | 23
-linkedin | Oman | AI product | 0
-linkedin | Kuwait | sales operations | 0
-linkedin | Jordan | revenue operations | 0
-linkedin | Egypt | business intelligence | 30
-linkedin | Istanbul, Türkiye | data analyst | 0
-linkedin | Kuala Lumpur, Malaysia | strategy and planning | 20
+linkedin | Saudi Arabia | lecturer | 3
+linkedin | Qatar | data scientist | 9
+linkedin | Bahrain | strategy and planning | 13
+linkedin | Oman | AI product | 1
+linkedin | Kuwait | sales operations | 6
+linkedin | Jordan | revenue operations | 2
+linkedin | Egypt | business intelligence | 55
+linkedin | Istanbul, Türkiye | data analyst | 50
+linkedin | Kuala Lumpur, Malaysia | strategy and planning | 50
 linkedin | Tokyo, Japan | data scientist visa sponsorship | 50
-linkedin | United Kingdom | data analyst visa sponsorship | 40
-linkedin | Ireland | AI product manager visa sponsorship | 26
-linkedin | Netherlands | data scientist visa sponsorship | 0
-linkedin | Budapest, Hungary | data analyst visa sponsorship | 0
-linkedin | Prague, Czechia | AI product manager visa sponsorship | 10
-linkedin | Canada | data scientist visa sponsorship | 0
-linkedin | New Zealand | data analyst visa sponsorship | 0
+linkedin | United Kingdom | data analyst visa sponsorship | 50
+linkedin | Ireland | AI product manager visa sponsorship | 22
+linkedin | Netherlands | data scientist visa sponsorship | 50
+linkedin | Budapest, Hungary | data analyst visa sponsorship | 14
+linkedin | Prague, Czechia | AI product manager visa sponsorship | 8
+linkedin | Canada | data scientist visa sponsorship | 50
+linkedin | New Zealand | data analyst visa sponsorship | 30
 indeed | Pakistan | MIS | 2
 indeed | Pakistan | growth | 100
 indeed | Lahore | power bi | 0
-indeed | Lahore | business operations | 40
+indeed | Lahore | business operations | 34
 indeed | Lahore | lecturer | 2
-indeed | Karachi | analytics manager | 11
-indeed | Karachi | CRM | 43
-indeed | Islamabad | business analyst | 4
-indeed | Islamabad | business planning | 20
-indeed | Islamabad | AI | 22
+indeed | Karachi | analytics manager | 9
+indeed | Karachi | CRM | 29
+indeed | Islamabad | business analyst | 2
+indeed | Islamabad | business planning | 9
+indeed | Islamabad | AI | 17
 discovered employers | added | 7043
-workday | 7eleven | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | abglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aig | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | alleima | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | amynta | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | arcticwolf | FAILED: HTTPSConnectionPool(host='arcticwolf.wd1.myworkdayjobs.com', port=443): Read timed out. (read timeou
-workday | aspca | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aviagen | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | axiscapital | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | baxter | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bentleysystems | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bmo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bpinternational | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bristolmyerssquibb | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bullish | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | campaignmonitor | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | careabout | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cba | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | churchs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | citi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | collectorsuniverse | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | conocophillips | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | costar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | crowdstrike | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | curtisswright | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | datarobot | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | diconium | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dowjones | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | edwards | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | embryriddle | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | eosgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | eset | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | evonik | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fastretailing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | firstquality | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | flir | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | freudenberg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gaig | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gartner | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | geico | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | globelife | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | greystar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | guidehouse | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harriscomputer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | healthcare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hpe | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ia | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | imerys | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | intactfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jacksonhealthcare | FAILED: HTTPSConnectionPool(host='jacksonhealthcare.wd1.myworkdayjobs.com', port=443): Read timed out. (read
-workday | jj | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kantar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kiongroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kyndryl | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | linklaters | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | logitech | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | luminegrp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Mastercard | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mckesson | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | micron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mksinst | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | monotype | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mydpr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nandosanz | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ncr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | noerr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ntrs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | oceanspray | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | onelineage | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | paloaltonetworks | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pfizer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pimco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | prologis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | quickenloans | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | reed | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | relx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | richemont | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | roche | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rollsroyce | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rsllc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sailpoint | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sanoma | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | semrush | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | shell | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | simedarby | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | smithnephew | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sonyglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | springernature | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sunbeltrentals | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | swisslife | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | talentmanagementsolution | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tcsedsystem | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tempus | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | theirc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tmx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | transamerica | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trimble | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | umiami | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | unitytech | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | velux | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | viterra | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wattswater | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wiley | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wmg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wvumedicine | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | youthvillages | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zoll | FAILED: Expecting value: line 1 column 1 (char 0)
 ashby | 129 employers | 2906
 bamboohr | 6 employers | 43
 breezy | 2 employers | 12
-greenhouse | 148 employers | 10540
+greenhouse | 148 employers | 10542
 icims | 14 employers | 1031
 lever | 7 employers | 380
-oracle | 36 employers | 8322
+oracle | 36 employers | 8321
 personio | 57 employers | 617
 pinpoint | 3 employers | 325
 recruitee | 23 employers | 661
-smartrecruiters | 31 employers | 7216
-successfactors | 19 employers | 2424
+smartrecruiters | 31 employers | 7214
+successfactors | 19 employers | 2420
 taleo | 5 employers | 378
 teamtailor | 13 employers | 201
-workable | 78 employers | 8663
-workday | 138 employers | 1371
+workable | 78 employers | 8661
+workday | 138 employers | 9056
 remoteok | 1
-weworkremotely | 90
-locations | missing 17 | looked up 17 | found 14
-checks | descriptions opened 58 | {"dropped earlier": 24, "visa unclear (no mention)": 25, "visa ruled out": 3}
---- search runner 2/10 (12.2 min)
-linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 10
-linkedin | United Arab Emirates | business intelligence | 10
-linkedin | Riyadh, Saudi Arabia | data analyst | 30
-linkedin | Riyadh, Saudi Arabia | power bi | 80
-linkedin | Jeddah, Saudi Arabia | analytics manager | 0
-linkedin | Saudi Arabia | assistant professor | 6
-linkedin | Qatar | lecturer | 11
+weworkremotely | 91
+locations | missing 84 | looked up 40 | found 37
+checks | descriptions opened 89 | {"dropped earlier": 37, "nationals only": 2, "visa unclear (no mention)": 47}
+--- search runner 2/10 (15.2 min)
+linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 43
+linkedin | United Arab Emirates | business intelligence | 100
+linkedin | Riyadh, Saudi Arabia | data analyst | 24
+linkedin | Riyadh, Saudi Arabia | power bi | 100
+linkedin | Jeddah, Saudi Arabia | analytics manager | 4
+linkedin | Saudi Arabia | assistant professor | 1
+linkedin | Qatar | lecturer | 6
 linkedin | Bahrain | data scientist | 2
-linkedin | Oman | strategy and planning | 17
+linkedin | Oman | strategy and planning | 21
 linkedin | Kuwait | AI product | 0
-linkedin | Jordan | sales operations | 32
-linkedin | Egypt | revenue operations | 0
-linkedin | Istanbul, Türkiye | business intelligence | 0
+linkedin | Jordan | sales operations | 28
+linkedin | Egypt | revenue operations | 26
+linkedin | Istanbul, Türkiye | business intelligence | 50
 linkedin | Kuala Lumpur, Malaysia | data scientist | 50
 linkedin | Tokyo, Japan | revenue operations visa sponsorship | 50
-linkedin | United Kingdom | business intelligence visa sponsorship | 0
-linkedin | Ireland | strategy visa sponsorship | 30
-linkedin | Netherlands | revenue operations visa sponsorship | 10
-linkedin | Budapest, Hungary | business intelligence visa sponsorship | 32
-linkedin | Prague, Czechia | strategy visa sponsorship | 20
-linkedin | Canada | revenue operations visa sponsorship | 0
-linkedin | New Zealand | business intelligence visa sponsorship | 10
-indeed | Pakistan | data analyst | 18
+linkedin | United Kingdom | business intelligence visa sponsorship | 50
+linkedin | Ireland | strategy visa sponsorship | 50
+linkedin | Netherlands | revenue operations visa sponsorship | 39
+linkedin | Budapest, Hungary | business intelligence visa sponsorship | 15
+linkedin | Prague, Czechia | strategy visa sponsorship | 49
+linkedin | Canada | revenue operations visa sponsorship | 50
+linkedin | New Zealand | business intelligence visa sponsorship | 36
+indeed | Pakistan | data analyst | 9
 indeed | Pakistan | strategy | 100
-indeed | Pakistan | operations analyst | 15
-indeed | Lahore | data analytics | 14
-indeed | Lahore | revenue operations | 6
+indeed | Pakistan | operations analyst | 8
+indeed | Lahore | data analytics | 11
+indeed | Lahore | revenue operations | 4
 indeed | Lahore | assistant professor | 0
-indeed | Karachi | product analyst | 5
+indeed | Karachi | product analyst | 2
 indeed | Karachi | pricing analyst | 1
 indeed | Islamabad | business intelligence | 7
-indeed | Islamabad | strategy and operations | 14
+indeed | Islamabad | strategy and operations | 8
 indeed | Islamabad | AI product | 10
 indeed | United Arab Emirates | strategy | 100
-indeed | Saudi Arabia | business intelligence | 11
+indeed | Saudi Arabia | business intelligence | 4
 indeed | Saudi Arabia | pricing analyst | 1
-indeed | Qatar | revenue operations | 11
+indeed | Qatar | revenue operations | 6
 indeed | Bahrain | data scientist | 0
 indeed | Oman | data analyst | 0
-indeed | Oman | AI product | 2
-indeed | Kuwait | strategy | 3
-indeed | Egypt | business intelligence | 6
+indeed | Oman | AI product | 0
+indeed | Kuwait | strategy | 4
+indeed | Egypt | business intelligence | 3
 indeed | Egypt | pricing analyst | 0
-indeed | Malaysia | data analyst | 39
+indeed | Malaysia | data analyst | 28
 indeed | Singapore | business intelligence | 100
 indeed | Japan | revenue operations visa sponsorship | 0
-indeed | UK | data analyst relocation | 4
+indeed | UK | data analyst relocation | 2
 indeed | Germany | data analyst visa sponsorship | 0
 indeed | Netherlands | business intelligence visa sponsorship | 0
 indeed | Poland | revenue operations visa sponsorship | 0
 indeed | Hungary | data analyst relocation | 0
 indeed | Portugal | data analyst visa sponsorship | 0
-indeed | Canada | business intelligence visa sponsorship | 9
+indeed | Canada | business intelligence visa sponsorship | 7
 indeed | Australia | revenue operations visa sponsorship | 0
 indeed | New Zealand | data analyst relocation | 0
-linkedin | Lahore, Pakistan | business intelligence | 10
-linkedin | Lahore, Pakistan | business analyst | 30
-linkedin | Lahore, Pakistan | pricing analyst | 13
-linkedin | Karachi, Pakistan | strategy and planning | 0
-linkedin | Karachi, Pakistan | BI developer | 0
-linkedin | Karachi, Pakistan | operations analyst | 38
-linkedin | Islamabad, Pakistan | analytics manager | 10
-linkedin | Islamabad, Pakistan | AI specialist | 8
-linkedin | Dubai, United Arab Emirates | sales operations | 0
+linkedin | Lahore, Pakistan | business intelligence | 9
+linkedin | Lahore, Pakistan | business analyst | 23
+linkedin | Lahore, Pakistan | pricing analyst | 7
+linkedin | Karachi, Pakistan | strategy and planning | 37
+linkedin | Karachi, Pakistan | BI developer | 5
+linkedin | Karachi, Pakistan | operations analyst | 23
+linkedin | Islamabad, Pakistan | analytics manager | 5
+linkedin | Islamabad, Pakistan | AI specialist | 9
+linkedin | Dubai, United Arab Emirates | sales operations | 100
 discovered employers | added | 7043
-workday | 7eleven | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | adventisthealthcare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | airliquidehr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | alliance | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | amat | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | analogdevices | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aresmgmt | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aspentech | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Autodesk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | avisbudget | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | axos | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bb | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | begacheese | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bernergroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | blackrock | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | boden | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bpinternational | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | broadcom | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bupa | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | canadiantirecorporation | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | caresource | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cbcrc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | celltrionhealthcare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cibc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cityblockhealth | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cmegroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | colliers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | costar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | CVS Health | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | datasite | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dbs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dowjones | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | eiffage | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | embryriddle | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | epicorsoftware | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | essentiahealth | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | evotecgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fastretailing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | firstquantum | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | flir | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | foundationccc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fronius | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gaig | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gcu | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | geisinger | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | georgia | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | globusmedical | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | greystar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | haemonetics | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harriscomputer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | henryschein | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hrhub | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | iberdrola | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | intapp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | iqvia | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jacksonhealthcare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jj | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kapsch | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kith | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | labcorp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | leidos | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | linklaters | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lombardodier | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | luminegrp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mckesson | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | midtown | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mksinst | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | moog | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | myhr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nasdaq | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | neighborlybrands | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | norconsult | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nttlimited | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | odfl | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | oneok | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | oreillyauto | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | panerabread | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pernodricard | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pitneybowes | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | promutuel | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pvh | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | quilter | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | reed | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | remitly | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | riministreet | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | roche | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rollsroyce | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rsm | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | saintlukes | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | santander | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | semtech | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | simedarby | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | smucker | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sonyglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | stewart | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | suncor | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | swisslife | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | talentmanagementsolution | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tcsedsystem | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tempus | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tmx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | transamerica | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | troweprice | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | umusic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | unum | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | usfoods | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | volarisgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | web | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wilsonart | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | woodward | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wwecorp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zoom | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 129 employers | 5187
+ashby | 129 employers | 5185
 bamboohr | 6 employers | 42
 breezy | 2 employers | 51
-greenhouse | 148 employers | 7777
+greenhouse | 148 employers | 7774
 icims | 14 employers | 984
 lever | 7 employers | 1641
-oracle | 36 employers | 7244
-personio | 57 employers | 524
+oracle | 36 employers | 7243
+personio | 57 employers | 523
 pinpoint | 3 employers | 93
 recruitee | 23 employers | 417
-smartrecruiters | 31 employers | 5202
-successfactors | 19 employers | 2715
-taleo | 5 employers | 357
+smartrecruiters | 31 employers | 5206
+successfactors | 19 employers | 2714
+taleo | 5 employers | 359
 teamtailor | 13 employers | 138
-workable | 78 employers | 3486
-workday | 138 employers | 1534
-remotive | 35
-himalayas | 4
-jobicy | 15
+workable | 78 employers | 3489
+workday | 138 employers | 9125
+remotive | 40
+himalayas | 2
+jobicy | 28
 workingnomads | 14
 arbeitnow | 900
-locations | missing 44 | looked up 40 | found 38
-checks | descriptions opened 90 | {"dropped earlier": 24, "visa unclear (no mention)": 68, "visa ruled out": 1}
---- search runner 3/10 (13.4 min)
-linkedin | Abu Dhabi, United Arab Emirates | sales operations | 60
+locations | missing 120 | looked up 40 | found 39
+checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 31, "visa unclear (no mention)": 58}
+--- search runner 3/10 (19.9 min)
+linkedin | Abu Dhabi, United Arab Emirates | sales operations | 72
 linkedin | United Arab Emirates | revenue operations | 100
-linkedin | Riyadh, Saudi Arabia | business intelligence | 20
-linkedin | Jeddah, Saudi Arabia | data analyst | 0
-linkedin | Jeddah, Saudi Arabia | power bi | 40
-linkedin | Saudi Arabia | analytics manager | 0
-linkedin | Qatar | assistant professor | 5
+linkedin | Riyadh, Saudi Arabia | business intelligence | 15
+linkedin | Jeddah, Saudi Arabia | data analyst | 15
+linkedin | Jeddah, Saudi Arabia | power bi | 34
+linkedin | Saudi Arabia | analytics manager | 22
+linkedin | Qatar | assistant professor | 2
 linkedin | Bahrain | lecturer | 0
 linkedin | Oman | data scientist | 0
-linkedin | Kuwait | strategy and planning | 26
+linkedin | Kuwait | strategy and planning | 15
 linkedin | Jordan | AI product | 0
-linkedin | Egypt | sales operations | 20
-linkedin | Istanbul, Türkiye | revenue operations | 0
+linkedin | Egypt | sales operations | 100
+linkedin | Istanbul, Türkiye | revenue operations | 47
 linkedin | Singapore | data analyst | 50
-linkedin | Tokyo, Japan | AI product manager visa sponsorship | 30
-linkedin | United Kingdom | data scientist visa sponsorship | 10
-linkedin | Germany | data analyst visa sponsorship | 10
-linkedin | Netherlands | AI product manager visa sponsorship | 20
-linkedin | Budapest, Hungary | data scientist visa sponsorship | 0
+linkedin | Tokyo, Japan | AI product manager visa sponsorship | 50
+linkedin | United Kingdom | data scientist visa sponsorship | 50
+linkedin | Germany | data analyst visa sponsorship | 50
+linkedin | Netherlands | AI product manager visa sponsorship | 30
+linkedin | Budapest, Hungary | data scientist visa sponsorship | 6
 linkedin | Lisbon, Portugal | data analyst visa sponsorship | 23
-linkedin | Canada | AI product manager visa sponsorship | 0
-linkedin | New Zealand | data scientist visa sponsorship | 10
-indeed | Pakistan | business analyst | 25
-indeed | Pakistan | business planning | 77
+linkedin | Canada | AI product manager visa sponsorship | 50
+linkedin | New Zealand | data scientist visa sponsorship | 22
+indeed | Pakistan | business analyst | 14
+indeed | Pakistan | business planning | 55
 indeed | Pakistan | AI | 100
-indeed | Lahore | data scientist | 1
-indeed | Lahore | sales operations | 24
-indeed | Lahore | trainer | 2
+indeed | Lahore | data scientist | 0
+indeed | Lahore | sales operations | 21
+indeed | Lahore | trainer | 1
 indeed | Karachi | MIS | 2
 indeed | Karachi | growth | 100
-indeed | Islamabad | power bi | 2
-indeed | Islamabad | business operations | 33
+indeed | Islamabad | power bi | 1
+indeed | Islamabad | business operations | 18
 indeed | Islamabad | lecturer | 0
 indeed | United Arab Emirates | business planning | 100
-indeed | Saudi Arabia | power bi | 8
+indeed | Saudi Arabia | power bi | 3
 indeed | Saudi Arabia | lecturer | 0
-indeed | Qatar | sales operations | 21
-indeed | Bahrain | analytics manager | 4
+indeed | Qatar | sales operations | 14
+indeed | Bahrain | analytics manager | 3
 indeed | Oman | business analyst | 0
 indeed | Oman | AI specialist | 0
-indeed | Kuwait | business planning | 4
-indeed | Egypt | power bi | 2
+indeed | Kuwait | business planning | 2
+indeed | Egypt | power bi | 1
 indeed | Egypt | lecturer | 0
-indeed | Malaysia | business analyst | 56
-indeed | Singapore | data scientist | 33
-indeed | Japan | strategy visa sponsorship | 1
-indeed | UK | AI product visa sponsorship | 43
+indeed | Malaysia | business analyst | 44
+indeed | Singapore | data scientist | 15
+indeed | Japan | strategy visa sponsorship | 0
+indeed | UK | AI product visa sponsorship | 27
 indeed | Germany | business analyst visa sponsorship | 0
-indeed | Netherlands | data scientist visa sponsorship | 2
+indeed | Netherlands | data scientist visa sponsorship | 1
 indeed | Poland | strategy visa sponsorship | 0
 indeed | Hungary | AI product visa sponsorship | 0
 indeed | Portugal | business analyst visa sponsorship | 0
 indeed | Canada | data scientist visa sponsorship | 0
-indeed | Australia | strategy visa sponsorship | 23
+indeed | Australia | strategy visa sponsorship | 18
 indeed | New Zealand | AI product visa sponsorship | 0
-linkedin | Lahore, Pakistan | revenue operations | 14
-linkedin | Lahore, Pakistan | data analytics | 29
-linkedin | Lahore, Pakistan | growth analyst | 18
-linkedin | Karachi, Pakistan | data scientist | 12
-linkedin | Karachi, Pakistan | strategy manager | 20
+linkedin | Lahore, Pakistan | revenue operations | 11
+linkedin | Lahore, Pakistan | data analytics | 20
+linkedin | Lahore, Pakistan | growth analyst | 16
+linkedin | Karachi, Pakistan | data scientist | 7
+linkedin | Karachi, Pakistan | strategy manager | 16
 linkedin | Islamabad, Pakistan | data analyst | 22
-linkedin | Islamabad, Pakistan | power bi | 40
-linkedin | Islamabad, Pakistan | business planning | 0
-linkedin | Dubai, United Arab Emirates | AI product | 10
+linkedin | Islamabad, Pakistan | power bi | 50
+linkedin | Islamabad, Pakistan | business planning | 27
+linkedin | Dubai, United Arab Emirates | AI product | 54
 discovered employers | added | 7043
-workday | aaamidatlantic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ag | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | airliquidehr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | alliancewd | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | amcn | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | andersonsinc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | arianegroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | assurant | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | autodesk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aviva | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ayvens | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bb | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | beigene | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bestbuycanada | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | blackstone | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | boeing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brambles | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brookfield | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cancerresearchuk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cengage | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | chesterfield | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cibc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | clarios | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | columbiasportswearcompany | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | costar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | crownresorts | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cw | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | datev | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | debeka | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dowjones | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | eisneramper | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | emcins | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | essity | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fastretailing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ferguson | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | firststudent | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | flowserve | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fourseasons | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gaig | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gcu | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | generac | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gevernova | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | grpr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hagerty | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harriscomputer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | heidelbergmaterials | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hshs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | icf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | inalfa | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | integralads | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ironmountain | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jacksonlewis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jj | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kapsch | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kla | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lambweston | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lendlease | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lonza | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | matthey | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mercy | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | miele | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mmc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | morningstar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mtb | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | myhrabc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nelnet | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nttlimited | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ofcom | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | onetp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | organon | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | parexel | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | perpetual | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | phcgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | plains | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ponsse | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | proofpoint | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pwc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | qvc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | regions | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ringcentral | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rochester | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rollsroyce | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sarepta | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | semtech | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | smucker | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | stageentertainment | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | stibosystems | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sunlife | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | synechron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | talentmanagementsolution | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tcsedsystem | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tencent | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | thermofisher | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tnsi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | transperfect | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trumpf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | umusic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | uobgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | veoliauki | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | volarisgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | web | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wisconsin | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Workday Inc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wwecorp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zeissgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 129 employers | 2900
+ashby | 129 employers | 2899
 bamboohr | 5 employers | 74
 breezy | 3 employers | 78
-greenhouse | 147 employers | 12895
+greenhouse | 147 employers | 12893
 icims | 15 employers | 491
 lever | 7 employers | 888
-oracle | 36 employers | 12197
+oracle | 36 employers | 12188
 personio | 57 employers | 621
 pinpoint | 3 employers | 89
 recruitee | 23 employers | 522
-smartrecruiters | 31 employers | 5150
-successfactors | 19 employers | 3832
+smartrecruiters | 31 employers | 5152
+successfactors | 19 employers | 3831
 taleo | 5 employers | 642
 teamtailor | 13 employers | 459
-workable | 78 employers | 4480
-workday | 137 employers | 2200
-rozee | FAILED: HTTP Error 403: 
+workable | 78 employers | 4481
+workday | 137 employers | 12177
+rozee | detail FAILED ng-assistant-vice-president-jobs-1913664: HTTP Error 429: 
+rozee | detail FAILED t-advanced-excel-specialist-jobs-1908458: HTTP Error 403: 
+rozee | detail FAILED -movers-senior-data-analyst-jobs-1908451: HTTP Error 403: 
+rozee | detail FAILED ub-manager-sales-operations-jobs-1907399: HTTP Error 403: 
+rozee | detail FAILED -business-operations-remote-jobs-1907368: HTTP Error 403: 
+rozee | detail FAILED -llm-engineer-genai-systems-jobs-1906320: HTTP Error 403: 
+rozee | detail FAILED -interior-design-specialist-jobs-1906265: HTTP Error 403: 
+rozee | detail FAILED zee.pk/anwarson-ai-engineer-jobs-1906258: HTTP Error 403: 
+rozee | detail FAILED 0%93-healthcare-dawaloop360-jobs-1906233: HTTP Error 403: 
+rozee | detail FAILED gics-product-analytics-lead-jobs-1902289: HTTP Error 403: 
+rozee | detail FAILED eveloper-erp-crm-specialist-jobs-1902229: HTTP Error 403: 
+rozee | detail FAILED eb-design-digital-marketing-jobs-1898855: HTTP Error 403: 
+rozee | detail FAILED rozee.pk/pta-data-scientist-jobs-1898439: HTTP Error 403: 
+rozee | detail FAILED cial-media-manager-crm-lead-jobs-1897481: HTTP Error 403: 
+rozee | detail FAILED ialist-islamabad-rawalpindi-jobs-1895067: HTTP Error 403: 
+rozee | detail FAILED k/millsdale-data-bi-analyst-jobs-1892287: HTTP Error 403: 
+rozee | detail FAILED elogics-sr-business-analyst-jobs-1892208: HTTP Error 403: 
+rozee | detail FAILED reporting-specialist-lahore-jobs-1888613: HTTP Error 403: 
+rozee | detail FAILED y-cro-ab-testing-specialist-jobs-1888466: HTTP Error 403: 
+rozee | detail FAILED yers-pvt-ltd-crm-specialist-jobs-1887416: HTTP Error 403: 
+rozee | detail FAILED .pk/skilldockhq-ai-engineer-jobs-1883646: HTTP Error 403: 
+rozee | sitemap jobs in window 2690 | title matches 31 | opened 9
 gulftalent | FAILED: HTTP Error 403: 
-locations | missing 34 | looked up 34 | found 31
-checks | descriptions opened 90 | {"dropped earlier": 17, "visa unclear (no mention)": 49}
---- search runner 4/10 (13.8 min)
+locations | missing 109 | looked up 40 | found 37
+checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 25, "visa unclear (no mention)": 70, "visa ruled out": 1}
+--- search runner 4/10 (15.1 min)
 indeed | Islamabad | assistant professor | 0
-indeed | United Arab Emirates | revenue operations | 100
+indeed | United Arab Emirates | revenue operations | 95
 indeed | Saudi Arabia | data scientist | 0
-indeed | Qatar | data analyst | 11
-indeed | Qatar | AI product | 8
-indeed | Bahrain | strategy | 10
-indeed | Oman | business intelligence | 0
+indeed | Qatar | data analyst | 6
+indeed | Qatar | AI product | 3
+indeed | Bahrain | strategy | 7
+indeed | Oman | business intelligence | 1
 indeed | Oman | pricing analyst | 0
-indeed | Kuwait | revenue operations | 4
+indeed | Kuwait | revenue operations | 2
 indeed | Egypt | data scientist | 0
 indeed | Turkey | data analyst visa sponsorship | 0
-indeed | Malaysia | business intelligence | 53
-indeed | Singapore | revenue operations | 100
+indeed | Malaysia | business intelligence | 41
+indeed | Singapore | revenue operations | 92
 indeed | Japan | data analyst relocation | 0
 indeed | Ireland | data analyst visa sponsorship | 1
 indeed | Germany | business intelligence visa sponsorship | 1
@@ -628,765 +310,321 @@ indeed | Poland | data analyst relocation | 0
 indeed | Czech Republic | data analyst visa sponsorship | 0
 indeed | Portugal | business intelligence visa sponsorship | 0
 indeed | Canada | revenue operations visa sponsorship | 2
-indeed | Australia | data analyst relocation | 3
-linkedin | Lahore, Pakistan | sales operations | 50
-linkedin | Lahore, Pakistan | product analyst | 0
-linkedin | Lahore, Pakistan | MIS | 40
-linkedin | Karachi, Pakistan | lecturer | 0
-linkedin | Karachi, Pakistan | corporate planning | 33
-linkedin | Islamabad, Pakistan | business intelligence | 14
-linkedin | Islamabad, Pakistan | business analyst | 32
-linkedin | Islamabad, Pakistan | pricing analyst | 10
-linkedin | Dubai, United Arab Emirates | strategy and planning | 70
-linkedin | Abu Dhabi, United Arab Emirates | AI product | 20
-linkedin | United Arab Emirates | sales operations | 80
-linkedin | Riyadh, Saudi Arabia | revenue operations | 0
-linkedin | Jeddah, Saudi Arabia | business intelligence | 11
-linkedin | Saudi Arabia | data analyst | 0
-linkedin | Saudi Arabia | power bi | 60
-linkedin | Qatar | analytics manager | 17
+indeed | Australia | data analyst relocation | 1
+linkedin | Lahore, Pakistan | sales operations | 49
+linkedin | Lahore, Pakistan | product analyst | 6
+linkedin | Lahore, Pakistan | MIS | 49
+linkedin | Karachi, Pakistan | lecturer | 2
+linkedin | Karachi, Pakistan | corporate planning | 22
+linkedin | Islamabad, Pakistan | business intelligence | 9
+linkedin | Islamabad, Pakistan | business analyst | 27
+linkedin | Islamabad, Pakistan | pricing analyst | 6
+linkedin | Dubai, United Arab Emirates | strategy and planning | 100
+linkedin | Abu Dhabi, United Arab Emirates | AI product | 30
+linkedin | United Arab Emirates | sales operations | 100
+linkedin | Riyadh, Saudi Arabia | revenue operations | 14
+linkedin | Jeddah, Saudi Arabia | business intelligence | 10
+linkedin | Saudi Arabia | data analyst | 59
+linkedin | Saudi Arabia | power bi | 100
+linkedin | Qatar | analytics manager | 11
 linkedin | Bahrain | assistant professor | 0
 linkedin | Oman | lecturer | 0
-linkedin | Kuwait | data scientist | 2
-linkedin | Jordan | strategy and planning | 50
-linkedin | Egypt | AI product | 22
-linkedin | Istanbul, Türkiye | AI product | 32
+linkedin | Kuwait | data scientist | 1
+linkedin | Jordan | strategy and planning | 44
+linkedin | Egypt | AI product | 19
+linkedin | Istanbul, Türkiye | AI product | 29
 linkedin | Singapore | business intelligence | 50
-linkedin | Tokyo, Japan | strategy visa sponsorship | 0
-linkedin | United Kingdom | revenue operations visa sponsorship | 40
+linkedin | Tokyo, Japan | strategy visa sponsorship | 50
+linkedin | United Kingdom | revenue operations visa sponsorship | 50
 linkedin | Germany | business intelligence visa sponsorship | 50
-linkedin | Netherlands | strategy visa sponsorship | 10
-linkedin | Budapest, Hungary | revenue operations visa sponsorship | 0
+linkedin | Netherlands | strategy visa sponsorship | 50
+linkedin | Budapest, Hungary | revenue operations visa sponsorship | 6
 linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 14
-linkedin | Canada | strategy visa sponsorship | 10
-linkedin | New Zealand | revenue operations visa sponsorship | 0
-indeed | Pakistan | business intelligence | 28
-indeed | Pakistan | strategy and operations | 49
-indeed | Pakistan | AI product | 57
+linkedin | Canada | strategy visa sponsorship | 50
+linkedin | New Zealand | revenue operations visa sponsorship | 7
+indeed | Pakistan | business intelligence | 19
+indeed | Pakistan | strategy and operations | 31
+indeed | Pakistan | AI product | 43
 indeed | Lahore | machine learning | 0
-indeed | Lahore | salesforce | 4
-indeed | Karachi | data analyst | 2
-indeed | Karachi | strategy | 56
-indeed | Karachi | operations analyst | 3
-indeed | Islamabad | data analytics | 8
-indeed | Islamabad | revenue operations | 13
+indeed | Lahore | salesforce | 3
+indeed | Karachi | data analyst | 0
+indeed | Karachi | strategy | 43
+indeed | Karachi | operations analyst | 2
+indeed | Islamabad | data analytics | 6
+indeed | Islamabad | revenue operations | 10
 discovered employers | added | 7043
-workday | aaamidatlantic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | acciona | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | airproducts | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | alliancewd | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | amcor | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | arianegroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | astrazeneca | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | automationanywhere | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | awc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bbinsurance | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | belkin | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | beyondmeat | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | blackstone | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | boeing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brenntag | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brookfield | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bydeluxe | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | capgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | carmax | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cboe | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | centific | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | chevron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cigna | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | clarivate | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | columbiasportswearcompany | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | copeland | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | covestro | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cwi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | daveandbusters | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | deckers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | disney | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | draftkings | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | elanco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | equinix | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | essity | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fastretailing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ferguson | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | flsmidth | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fox | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Galileo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gdit | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | generac | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gevernova | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | goodyear | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | grpr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | haier | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harriscomputer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | heidelbergmaterials | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | highmarkhealth | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hubinternational | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ich | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Intel | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jas | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jll | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lambweston | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | leonardocompany | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | littelfuse | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lowell | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mabanaft | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mars | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mavenir | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | millerknoll | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mmsg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | morningstar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mtb | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | myhrabc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nextgen | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nutreco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | oldmutual | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | osfglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Parsons | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | phcgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | plugpower | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pru | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pwc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rackspace | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | repsol | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rocket | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rollsroyce | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | russell | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | salvationarmyca | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sci | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sensata | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | simpro | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | snapchat | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | stageentertainment | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sunlife | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | talentmanagementsolution | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tcsedsystem | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tencent | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | transunion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trumpf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | unhcr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | uofl | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | uwaterloo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | veoliauki | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | weforum | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wisconsin | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | workday | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wwecorp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zendesk | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 129 employers | 3458
+ashby | 129 employers | 3461
 bamboohr | 5 employers | 116
 breezy | 2 employers | 10
 greenhouse | 148 employers | 6910
 icims | 15 employers | 1894
 lever | 7 employers | 80
-oracle | 36 employers | 9295
+oracle | 36 employers | 9291
 personio | 57 employers | 633
 pinpoint | 3 employers | 147
 recruitee | 23 employers | 1156
-smartrecruiters | 31 employers | 5932
-successfactors | 19 employers | 1948
+smartrecruiters | 31 employers | 5931
+successfactors | 19 employers | 1947
 taleo | 5 employers | 330
 teamtailor | 12 employers | 177
-workable | 79 employers | 4160
-workday | 137 employers | 1217
+workable | 79 employers | 4173
+workday | 137 employers | 7924
 careerjet | skipped (no CAREERJET_AFFID secret)
 jooble | skipped (no JOOBLE_KEY secret)
 google_jobs | skipped (no SERPAPI_KEY secret)
-locations | missing 27 | looked up 27 | found 15
-checks | descriptions opened 61 | {"dropped earlier": 15, "visa unclear (no mention)": 24}
---- search runner 5/10 (9.9 min)
-indeed | Islamabad | trainer | 3
+locations | missing 72 | looked up 40 | found 28
+checks | descriptions opened 65 | {"dropped earlier": 19, "nationals only": 1, "visa unclear (no mention)": 27}
+--- search runner 5/10 (15.1 min)
+indeed | Islamabad | trainer | 1
 indeed | United Arab Emirates | sales operations | 100
-indeed | Saudi Arabia | analytics manager | 9
-indeed | Qatar | business analyst | 7
+indeed | Saudi Arabia | analytics manager | 4
+indeed | Qatar | business analyst | 4
 indeed | Qatar | AI specialist | 0
-indeed | Bahrain | business planning | 3
+indeed | Bahrain | business planning | 5
 indeed | Oman | power bi | 0
 indeed | Oman | lecturer | 0
-indeed | Kuwait | sales operations | 6
-indeed | Egypt | analytics manager | 4
+indeed | Kuwait | sales operations | 7
+indeed | Egypt | analytics manager | 2
 indeed | Turkey | business analyst visa sponsorship | 0
-indeed | Malaysia | data scientist | 6
+indeed | Malaysia | data scientist | 4
 indeed | Singapore | strategy and operations | 100
-indeed | Japan | AI product visa sponsorship | 1
+indeed | Japan | AI product visa sponsorship | 0
 indeed | Ireland | business analyst visa sponsorship | 1
 indeed | Germany | data scientist visa sponsorship | 0
-indeed | Netherlands | strategy visa sponsorship | 3
+indeed | Netherlands | strategy visa sponsorship | 2
 indeed | Poland | AI product visa sponsorship | 0
 indeed | Czech Republic | business analyst visa sponsorship | 0
 indeed | Portugal | data scientist visa sponsorship | 0
-indeed | Canada | strategy visa sponsorship | 11
-indeed | Australia | AI product visa sponsorship | 9
-linkedin | Lahore, Pakistan | AI product | 0
-linkedin | Lahore, Pakistan | head of data | 1
-linkedin | Lahore, Pakistan | chief of staff | 8
+indeed | Canada | strategy visa sponsorship | 12
+indeed | Australia | AI product visa sponsorship | 8
+linkedin | Lahore, Pakistan | AI product | 6
+linkedin | Lahore, Pakistan | head of data | 3
+linkedin | Lahore, Pakistan | chief of staff | 5
 linkedin | Karachi, Pakistan | assistant professor | 0
 linkedin | Karachi, Pakistan | salesforce | 20
-linkedin | Islamabad, Pakistan | revenue operations | 7
-linkedin | Islamabad, Pakistan | data analytics | 21
-linkedin | Islamabad, Pakistan | growth analyst | 0
-linkedin | Dubai, United Arab Emirates | data scientist | 10
-linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 10
-linkedin | United Arab Emirates | AI product | 0
-linkedin | Riyadh, Saudi Arabia | sales operations | 20
-linkedin | Jeddah, Saudi Arabia | revenue operations | 0
-linkedin | Saudi Arabia | business intelligence | 20
-linkedin | Qatar | data analyst | 27
-linkedin | Qatar | power bi | 10
-linkedin | Bahrain | analytics manager | 4
+linkedin | Islamabad, Pakistan | revenue operations | 8
+linkedin | Islamabad, Pakistan | data analytics | 20
+linkedin | Islamabad, Pakistan | growth analyst | 12
+linkedin | Dubai, United Arab Emirates | data scientist | 56
+linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 100
+linkedin | United Arab Emirates | AI product | 84
+linkedin | Riyadh, Saudi Arabia | sales operations | 49
+linkedin | Jeddah, Saudi Arabia | revenue operations | 6
+linkedin | Saudi Arabia | business intelligence | 37
+linkedin | Qatar | data analyst | 21
+linkedin | Qatar | power bi | 50
+linkedin | Bahrain | analytics manager | 3
 linkedin | Oman | assistant professor | 0
-linkedin | Kuwait | lecturer | 1
-linkedin | Jordan | data scientist | 0
-linkedin | Egypt | strategy and planning | 0
-linkedin | Istanbul, Türkiye | strategy and planning | 10
+linkedin | Kuwait | lecturer | 4
+linkedin | Jordan | data scientist | 4
+linkedin | Egypt | strategy and planning | 100
+linkedin | Istanbul, Türkiye | strategy and planning | 50
 linkedin | Singapore | revenue operations | 50
-linkedin | London, England, United Kingdom | data analyst visa sponsorship | 30
-linkedin | United Kingdom | AI product manager visa sponsorship | 0
-linkedin | Germany | data scientist visa sponsorship | 20
+linkedin | London, England, United Kingdom | data analyst visa sponsorship | 50
+linkedin | United Kingdom | AI product manager visa sponsorship | 50
+linkedin | Germany | data scientist visa sponsorship | 50
 linkedin | Poland | data analyst visa sponsorship | 50
-linkedin | Budapest, Hungary | AI product manager visa sponsorship | 6
-linkedin | Lisbon, Portugal | data scientist visa sponsorship | 7
-linkedin | Australia | data analyst visa sponsorship | 0
-linkedin | New Zealand | AI product manager visa sponsorship | 0
-indeed | Pakistan | power bi | 8
+linkedin | Budapest, Hungary | AI product manager visa sponsorship | 2
+linkedin | Lisbon, Portugal | data scientist visa sponsorship | 8
+linkedin | Australia | data analyst visa sponsorship | 50
+linkedin | New Zealand | AI product manager visa sponsorship | 4
+indeed | Pakistan | power bi | 3
 indeed | Pakistan | business operations | 100
 indeed | Pakistan | lecturer | 3
-indeed | Lahore | analytics manager | 13
-indeed | Lahore | CRM | 45
-indeed | Karachi | business analyst | 6
-indeed | Karachi | business planning | 24
-indeed | Karachi | AI | 39
+indeed | Lahore | analytics manager | 10
+indeed | Lahore | CRM | 37
+indeed | Karachi | business analyst | 3
+indeed | Karachi | business planning | 20
+indeed | Karachi | AI | 32
 indeed | Islamabad | data scientist | 1
-indeed | Islamabad | sales operations | 32
+indeed | Islamabad | sales operations | 20
 discovered employers | added | 7043
-workday | aah | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | agilent | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allina | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ameresco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aristocrat | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | astreya | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | autostore | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | awc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bah | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bbinsurance | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | belron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | blueorigin | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | boeing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bridgeigp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brookfield | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | caci | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | capita | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cbrands | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | chg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cincinnatichildrens | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | clearesult | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cna | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | columbiasportswearcompany | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | corebridgefinancial | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cpalliance | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | csagroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | davidlloyd | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | deckers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | disney | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | draftkings | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | elderslimited | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | enbridge | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | equinor | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fca | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ffive | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fiserv | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fox | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fujifilm | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | galileo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gdit | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | generalmotors | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gfs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gilead | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | goto | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gsk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | haier | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harriscomputer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | heidelbergmaterials | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Hitachi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | humana | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ico | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | infobip | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | intelcomgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | issgovernance | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kbr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | knitwellgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | landolakes | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | levistraussandco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lowes | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | maersk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mars | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | maxar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mimecast | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | morningstar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mufgub | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mymvw | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nb | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ngc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nvent | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | oshkoshcorporation | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | path | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | phcgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pluxee | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | premierinc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | prudential | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pwc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rbc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | relx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | republic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rmit | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rockwellautomation | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rollsroyce | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ryan | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sandvik | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | scm | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | servicetitan | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | shusa | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sju | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | solenis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | spe | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | stark | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sunlife | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | synnex | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | talentmanagementsolution | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | td | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | terminix | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | thinkbrg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | toryburch | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | travelers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tsys | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | uhaul | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | unhcr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | uq | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | valeo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | verily | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vsp | FAILED: 520 Server Error: <none> for url: https://vsp.wd1.myworkdayjobs.com/wday/cxs/vsp/VSPVisionCareers/jo
-workday | wegmans | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wisconsin | FAILED: 520 Server Error: <none> for url: https://wisconsin.wd1.myworkdayjobs.com/wday/cxs/wisconsin/UW_Stud
-workday | worldvision | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wynd | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zentiva | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 129 employers | 7356
+ashby | 129 employers | 7355
 bamboohr | 5 employers | 52
 breezy | 2 employers | 32
-greenhouse | 148 employers | 5632
-icims | 15 employers | 934
+greenhouse | 148 employers | 5627
+icims | 15 employers | 933
 lever | 7 employers | 520
-oracle | 36 employers | 9426
-personio | 57 employers | 818
+oracle | 36 employers | 9418
+personio | 57 employers | 817
 pinpoint | 3 employers | 17
 recruitee | 23 employers | 495
-smartrecruiters | 31 employers | 7127
-successfactors | 19 employers | 7292
+smartrecruiters | 31 employers | 7132
+successfactors | 19 employers | 7285
 taleo | 5 employers | 496
 teamtailor | 12 employers | 171
-workable | 79 employers | 8832
-workday | 137 employers | 457
+workable | 79 employers | 8830
+workday | 137 employers | 7724
 telegram | jobs_sql | 1
-locations | missing 6 | looked up 6 | found 4
-checks | descriptions opened 90 | {"dropped earlier": 19, "visa unclear (no mention)": 88, "visa ruled out": 1, "visa unclear (ad unreadable)": 133}
---- search runner 6/10 (13.9 min)
-indeed | United Arab Emirates | data analyst | 24
-indeed | United Arab Emirates | AI product | 42
-indeed | Saudi Arabia | strategy | 65
-indeed | Qatar | business intelligence | 6
+locations | missing 67 | looked up 40 | found 39
+checks | descriptions opened 90 | {"dropped earlier": 21, "nationals only": 1, "visa unclear (no mention)": 87, "visa ruled out": 3, "visa unclear (ad unreadable)": 178}
+--- search runner 6/10 (15.7 min)
+indeed | United Arab Emirates | data analyst | 16
+indeed | United Arab Emirates | AI product | 29
+indeed | Saudi Arabia | strategy | 34
+indeed | Qatar | business intelligence | 5
 indeed | Qatar | pricing analyst | 1
-indeed | Bahrain | revenue operations | 4
+indeed | Bahrain | revenue operations | 1
 indeed | Oman | data scientist | 0
 indeed | Kuwait | data analyst | 1
-indeed | Kuwait | AI product | 1
-indeed | Egypt | strategy | 28
+indeed | Kuwait | AI product | 0
+indeed | Egypt | strategy | 12
 indeed | Turkey | business intelligence visa sponsorship | 0
-indeed | Malaysia | revenue operations | 56
+indeed | Malaysia | revenue operations | 38
 indeed | Singapore | AI product | 100
 indeed | UK | data analyst visa sponsorship | 0
 indeed | Ireland | business intelligence visa sponsorship | 4
 indeed | Germany | revenue operations visa sponsorship | 0
-indeed | Netherlands | data analyst relocation | 5
+indeed | Netherlands | data analyst relocation | 1
 indeed | Hungary | data analyst visa sponsorship | 0
 indeed | Czech Republic | business intelligence visa sponsorship | 0
 indeed | Portugal | revenue operations visa sponsorship | 0
-indeed | Canada | data analyst relocation | 5
+indeed | Canada | data analyst relocation | 4
 indeed | New Zealand | data analyst visa sponsorship | 0
-linkedin | Lahore, Pakistan | strategy and planning | 20
-linkedin | Lahore, Pakistan | BI developer | 11
-linkedin | Lahore, Pakistan | operations analyst | 31
-linkedin | Karachi, Pakistan | analytics manager | 14
-linkedin | Karachi, Pakistan | AI specialist | 11
-linkedin | Islamabad, Pakistan | sales operations | 10
-linkedin | Islamabad, Pakistan | product analyst | 11
-linkedin | Islamabad, Pakistan | MIS | 38
-linkedin | Dubai, United Arab Emirates | lecturer | 70
-linkedin | Abu Dhabi, United Arab Emirates | data scientist | 60
-linkedin | United Arab Emirates | strategy and planning | 0
-linkedin | Riyadh, Saudi Arabia | AI product | 11
-linkedin | Jeddah, Saudi Arabia | sales operations | 32
-linkedin | Saudi Arabia | revenue operations | 67
-linkedin | Qatar | business intelligence | 10
-linkedin | Bahrain | data analyst | 9
-linkedin | Bahrain | power bi | 10
+linkedin | Lahore, Pakistan | strategy and planning | 43
+linkedin | Lahore, Pakistan | BI developer | 5
+linkedin | Lahore, Pakistan | operations analyst | 25
+linkedin | Karachi, Pakistan | analytics manager | 7
+linkedin | Karachi, Pakistan | AI specialist | 6
+linkedin | Islamabad, Pakistan | sales operations | 24
+linkedin | Islamabad, Pakistan | product analyst | 9
+linkedin | Islamabad, Pakistan | MIS | 25
+linkedin | Dubai, United Arab Emirates | lecturer | 77
+linkedin | Abu Dhabi, United Arab Emirates | data scientist | 51
+linkedin | United Arab Emirates | strategy and planning | 100
+linkedin | Riyadh, Saudi Arabia | AI product | 9
+linkedin | Jeddah, Saudi Arabia | sales operations | 20
+linkedin | Saudi Arabia | revenue operations | 36
+linkedin | Qatar | business intelligence | 15
+linkedin | Bahrain | data analyst | 5
+linkedin | Bahrain | power bi | 13
 linkedin | Oman | analytics manager | 0
-linkedin | Kuwait | assistant professor | 1
+linkedin | Kuwait | assistant professor | 3
 linkedin | Jordan | lecturer | 6
-linkedin | Egypt | data scientist | 0
-linkedin | Istanbul, Türkiye | data scientist | 10
-linkedin | Singapore | AI product | 20
+linkedin | Egypt | data scientist | 20
+linkedin | Istanbul, Türkiye | data scientist | 36
+linkedin | Singapore | AI product | 50
 linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 50
 linkedin | United Kingdom | strategy visa sponsorship | 50
-linkedin | Germany | revenue operations visa sponsorship | 30
+linkedin | Germany | revenue operations visa sponsorship | 50
 linkedin | Poland | business intelligence visa sponsorship | 50
-linkedin | Budapest, Hungary | strategy visa sponsorship | 20
-linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 19
+linkedin | Budapest, Hungary | strategy visa sponsorship | 30
+linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 4
 linkedin | Australia | business intelligence visa sponsorship | 50
-linkedin | New Zealand | strategy visa sponsorship | 0
-indeed | Pakistan | data analytics | 55
-indeed | Pakistan | revenue operations | 37
-indeed | Pakistan | assistant professor | 1
-indeed | Lahore | product analyst | 1
+linkedin | New Zealand | strategy visa sponsorship | 50
+indeed | Pakistan | data analytics | 42
+indeed | Pakistan | revenue operations | 22
+indeed | Pakistan | assistant professor | 0
+indeed | Lahore | product analyst | 2
 indeed | Lahore | pricing analyst | 1
-indeed | Karachi | business intelligence | 5
-indeed | Karachi | strategy and operations | 9
-indeed | Karachi | AI product | 15
+indeed | Karachi | business intelligence | 4
+indeed | Karachi | strategy and operations | 7
+indeed | Karachi | AI product | 12
 indeed | Islamabad | machine learning | 1
-indeed | Islamabad | salesforce | 2
+indeed | Islamabad | salesforce | 3
 discovered employers | added | 7043
-workday | abb | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | agilent | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | akumincorp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allstate | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | americanredcross | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aritzia | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | athene | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | avera | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | awg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bakerhughes | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bbinsurance | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | belron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | biibhr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | blueowl | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | boliden | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bridgestone | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brooksauto | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cadence | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | capitalhealth | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | carters | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | christianacare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | circle | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | clearwateranalytics | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | crateandbarrel | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | csgi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | daikinapplied | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | davita | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | djeholdings | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | electrolux | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | encore | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | erm | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fca | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fico | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | flexerasoftware | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fox | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gadventures | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | galileo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gdit | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | genesys | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gfs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | grammy | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gsk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | haier | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harriscomputer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | heidelbergmaterials | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hklaw | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | horizonmedia | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | icon | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | interdigital | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | itron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jci | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Jotun | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kcura | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | knitwellgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | languageline | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | loyola | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | maersk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | marvell | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | metabo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | modernatx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mpc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mufgub | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nbn | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nghs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | novanta | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Nvidia | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | omya | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | onterris | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | osu | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pewtrusts | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | philips | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pnc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | priceline | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | prudential | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pzcussons | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rbc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | relx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | reputation | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | robeco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rockwellautomation | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ryansg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sandvik | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | scottsmiraclegro | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | shutterstock | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | skechers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | som | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | specialized | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | stark | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | strayer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | synnex | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | talentmanagementsolution | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | teamwass | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | terminix | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | thisisglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | totalwine | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | travelers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ttiemea | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | unilever | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | uq | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vermeer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | viatris | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vwr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | weir | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wsu | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | xboxgaming | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zeppelin | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 129 employers | 3211
+ashby | 129 employers | 3212
 bamboohr | 5 employers | 55
 breezy | 2 employers | 43
-greenhouse | 148 employers | 8286
+greenhouse | 148 employers | 8285
 icims | 15 employers | 1627
 lever | 7 employers | 218
-oracle | 36 employers | 9367
+oracle | 36 employers | 9359
 personio | 57 employers | 660
-pinpoint | 3 employers | 355
+pinpoint | 3 employers | 354
 recruitee | 23 employers | 506
-smartrecruiters | 31 employers | 6261
-successfactors | 18 employers | 3552
-taleo | 6 employers | 929
+smartrecruiters | 31 employers | 6256
+successfactors | 18 employers | 3545
+taleo | 6 employers | 935
 teamtailor | 12 employers | 211
 workable | 79 employers | 7425
-workday | 137 employers | 598
+workday | 137 employers | 7595
 google_alerts | skipped (no feeds yet: add GOOGLE_ALERTS_FEEDS secret)
 brave | skipped (no BRAVE_KEY secret)
 signals | pages opened 0 | jobs read 0
-locations | missing 14 | looked up 14 | found 1
-checks | descriptions opened 90 | {"dropped earlier": 16, "visa unclear (no mention)": 44, "visa unclear (ad unreadable)": 14}
---- search runner 7/10 (21.6 min)
-linkedin | Islamabad, Pakistan | AI product | 4
-linkedin | Islamabad, Pakistan | head of data | 0
-linkedin | Islamabad, Pakistan | chief of staff | 11
-linkedin | Dubai, United Arab Emirates | assistant professor | 0
-linkedin | Abu Dhabi, United Arab Emirates | lecturer | 100
-linkedin | United Arab Emirates | data scientist | 0
-linkedin | Riyadh, Saudi Arabia | strategy and planning | 0
-linkedin | Jeddah, Saudi Arabia | AI product | 0
-linkedin | Saudi Arabia | sales operations | 50
-linkedin | Qatar | revenue operations | 13
-linkedin | Bahrain | business intelligence | 0
-linkedin | Oman | data analyst | 0
-linkedin | Oman | power bi | 0
-linkedin | Kuwait | analytics manager | 10
-linkedin | Jordan | assistant professor | 3
-linkedin | Egypt | lecturer | 0
-linkedin | Kuala Lumpur, Malaysia | data analyst | 0
+locations | missing 66 | looked up 40 | found 27
+checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 15, "visa unclear (no mention)": 54, "visa unclear (ad unreadable)": 26, "visa ruled out": 1}
+--- search runner 7/10 (23.0 min)
+linkedin | Islamabad, Pakistan | AI product | 3
+linkedin | Islamabad, Pakistan | head of data | 4
+linkedin | Islamabad, Pakistan | chief of staff | 6
+linkedin | Dubai, United Arab Emirates | assistant professor | 11
+linkedin | Abu Dhabi, United Arab Emirates | lecturer | 49
+linkedin | United Arab Emirates | data scientist | 100
+linkedin | Riyadh, Saudi Arabia | strategy and planning | 80
+linkedin | Jeddah, Saudi Arabia | AI product | 2
+linkedin | Saudi Arabia | sales operations | 100
+linkedin | Qatar | revenue operations | 10
+linkedin | Bahrain | business intelligence | 3
+linkedin | Oman | data analyst | 1
+linkedin | Oman | power bi | 21
+linkedin | Kuwait | analytics manager | 5
+linkedin | Jordan | assistant professor | 4
+linkedin | Egypt | lecturer | 24
+linkedin | Kuala Lumpur, Malaysia | data analyst | 50
 linkedin | Singapore | strategy and planning | 50
-linkedin | London, England, United Kingdom | data scientist visa sponsorship | 40
+linkedin | London, England, United Kingdom | data scientist visa sponsorship | 50
 linkedin | Ireland | data analyst visa sponsorship | 50
-linkedin | Germany | AI product manager visa sponsorship | 0
-linkedin | Poland | data scientist visa sponsorship | 10
-linkedin | Prague, Czechia | data analyst visa sponsorship | 0
-linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 1
+linkedin | Germany | AI product manager visa sponsorship | 50
+linkedin | Poland | data scientist visa sponsorship | 50
+linkedin | Prague, Czechia | data analyst visa sponsorship | 22
+linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 2
 linkedin | Australia | data scientist visa sponsorship | 50
-indeed | Pakistan | data scientist | 2
-indeed | Pakistan | sales operations | 97
-indeed | Pakistan | trainer | 13
+indeed | Pakistan | data scientist | 1
+indeed | Pakistan | sales operations | 72
+indeed | Pakistan | trainer | 6
 indeed | Lahore | MIS | 0
-indeed | Lahore | growth | 86
+indeed | Lahore | growth | 70
 indeed | Karachi | power bi | 1
-indeed | Karachi | business operations | 55
+indeed | Karachi | business operations | 45
 indeed | Karachi | lecturer | 0
-indeed | Islamabad | analytics manager | 8
-indeed | Islamabad | CRM | 41
-indeed | United Arab Emirates | business analyst | 25
-indeed | United Arab Emirates | AI specialist | 12
-indeed | Saudi Arabia | business planning | 32
-indeed | Qatar | power bi | 5
+indeed | Islamabad | analytics manager | 6
+indeed | Islamabad | CRM | 31
+indeed | United Arab Emirates | business analyst | 17
+indeed | United Arab Emirates | AI specialist | 4
+indeed | Saudi Arabia | business planning | 20
+indeed | Qatar | power bi | 2
 indeed | Qatar | lecturer | 0
-indeed | Bahrain | sales operations | 8
+indeed | Bahrain | sales operations | 3
 indeed | Oman | analytics manager | 0
-indeed | Kuwait | business analyst | 1
+indeed | Kuwait | business analyst | 0
 indeed | Kuwait | AI specialist | 0
-indeed | Egypt | business planning | 17
+indeed | Egypt | business planning | 10
 indeed | Turkey | data scientist visa sponsorship | 0
 indeed | Malaysia | strategy and operations | 100
-indeed | Singapore | pricing analyst | 8
+indeed | Singapore | pricing analyst | 7
 indeed | UK | business analyst visa sponsorship | 0
 indeed | Ireland | data scientist visa sponsorship | 0
-indeed | Germany | strategy visa sponsorship | 3
-indeed | Netherlands | AI product visa sponsorship | 6
+indeed | Germany | strategy visa sponsorship | 2
+indeed | Netherlands | AI product visa sponsorship | 3
 indeed | Hungary | business analyst visa sponsorship | 0
 indeed | Czech Republic | data scientist visa sponsorship | 0
 indeed | Portugal | strategy visa sponsorship | 0
-indeed | Canada | AI product visa sponsorship | 14
+indeed | Canada | AI product visa sponsorship | 12
 indeed | New Zealand | business analyst visa sponsorship | 0
-linkedin | Lahore, Pakistan | data scientist | 10
-linkedin | Lahore, Pakistan | strategy manager | 10
-linkedin | Karachi, Pakistan | data analyst | 0
-linkedin | Karachi, Pakistan | power bi | 0
-linkedin | Karachi, Pakistan | business planning | 50
+linkedin | Lahore, Pakistan | data scientist | 6
+linkedin | Lahore, Pakistan | strategy manager | 21
+linkedin | Karachi, Pakistan | data analyst | 25
+linkedin | Karachi, Pakistan | power bi | 50
+linkedin | Karachi, Pakistan | business planning | 33
 discovered employers | added | 7043
-workday | abbott | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | agropur | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | altera | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ameriprise | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | apog | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | arrow | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | athene | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | averis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | awg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bakertilly | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bbva | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | belron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | biotechne | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bluescopenac | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | borgwarner | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brighthorizons | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | calibercollision | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cat | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ccc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cewe | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | christies | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | circlek | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | clio | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cnx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cornell | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | creationtech | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | csl | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | damen | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | demegroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | djeholdings | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dxctechnology | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | elekta | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | enovis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | erm | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | etsy | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fccfac | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fil | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | flexerasoftware | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fmr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fox | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gafsgi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | galileo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gea | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | genmills | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | global | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gsknch | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | halma | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harriscomputer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | heinz | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | huntsman | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | iff | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ingrammicro | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | internationalschools | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | itron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | juliusbaer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | keybank | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | languageline | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | libertyglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lplfinancial | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | maersk | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | massgeneralbrigham | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mbda | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mgpru | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mitsubishichemicalgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | modsquad | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nike | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | novartis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nztagovtnz | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | opteon | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | overlakemedicalcenter | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | PayPal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pfg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | phreesia | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | poet | FAILED: HTTPSConnectionPool(host='poet.wd1.myworkdayjobs.com', port=443): Read timed out. (read timeout=45)
-workday | priceline | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | psu | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | q2ebanking | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rbi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | relx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | resilience | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rockwoolgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | roquette | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ryansg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sandvik | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sifive | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sky | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sonder | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | spectris | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | stark | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | strongtie | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sunrun | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | techem | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | terminix | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | thomsonreuters | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trafigura | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trekbikes | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ukgrantt | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | unilever | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ur | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vanderlande | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | victaulic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | walkerdunlop | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wellcome | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wmeimg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wts | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | xboxgaming | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zillow | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 128 employers | 2496
+ashby | 128 employers | 2501
 bamboohr | 6 employers | 38
 breezy | 2 employers | 85
-greenhouse | 148 employers | 6943
-icims | 15 employers | 1400
+greenhouse | 148 employers | 6944
+icims | 15 employers | 1399
 lever | 7 employers | 132
-oracle | 36 employers | 10709
+oracle | 36 employers | 10701
 personio | 57 employers | 728
 pinpoint | 3 employers | 18
 recruitee | 23 employers | 561
-smartrecruiters | 31 employers | 5057
+smartrecruiters | 31 employers | 5047
 successfactors | 18 employers | 1772
 taleo | 6 employers | 909
 teamtailor | 12 employers | 209
-workable | 79 employers | 6778
-workday | 137 employers | 1428
-university | FAST-NUCES | new links 1 | relevant 1
+workable | 79 employers | 6779
+workday | 137 employers | 8964
+university | FAST-NUCES | new links 0 | relevant 0
 university | LUMS | new links 0 | relevant 0
 university | NUST | new links 0 | relevant 0
 university | COMSATS University | new links 0 | relevant 0
@@ -1404,7 +642,7 @@ university | Air University | new links 0 | relevant 0
 university | Bahria University | new links 0 | relevant 0
 university | Quaid-i-Azam University | new links 0 | relevant 0
 university | PIEAS | new links 0 | relevant 0
-university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 42344 milliseconds. See
+university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 42339 milliseconds. See
 university | UET Lahore | new links 0 | relevant 0
 university | University of Wollongong in Dubai | new links 0 | relevant 0
 university | Middlesex University Dubai | new links 0 | relevant 0
@@ -1418,202 +656,88 @@ university | Alfaisal University | new links 0 | relevant 0
 university | Effat University | new links 0 | relevant 0
 university | Qatar University | new links 0 | relevant 0
 university | University of Doha for Science and Technology | new links 0 | relevant 0
-locations | missing 10 | looked up 10 | found 9
-checks | descriptions opened 49 | {"dropped earlier": 33, "visa unclear (no mention)": 27}
---- search runner 8/10 (19.2 min)
-linkedin | Islamabad, Pakistan | strategy and planning | 35
+locations | missing 73 | looked up 40 | found 38
+checks | descriptions opened 81 | {"dropped earlier": 39, "visa unclear (no mention)": 51, "nationals only": 1}
+--- search runner 8/10 (21.8 min)
+linkedin | Islamabad, Pakistan | strategy and planning | 30
 linkedin | Islamabad, Pakistan | BI developer | 7
 linkedin | Islamabad, Pakistan | operations analyst | 20
-linkedin | Dubai, United Arab Emirates | analytics manager | 30
-linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 50
-linkedin | United Arab Emirates | lecturer | 0
-linkedin | Riyadh, Saudi Arabia | data scientist | 0
-linkedin | Jeddah, Saudi Arabia | strategy and planning | 20
-linkedin | Saudi Arabia | AI product | 0
-linkedin | Qatar | sales operations | 39
-linkedin | Bahrain | revenue operations | 0
+linkedin | Dubai, United Arab Emirates | analytics manager | 62
+linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 12
+linkedin | United Arab Emirates | lecturer | 100
+linkedin | Riyadh, Saudi Arabia | data scientist | 15
+linkedin | Jeddah, Saudi Arabia | strategy and planning | 29
+linkedin | Saudi Arabia | AI product | 15
+linkedin | Qatar | sales operations | 25
+linkedin | Bahrain | revenue operations | 2
 linkedin | Oman | business intelligence | 2
-linkedin | Kuwait | data analyst | 8
-linkedin | Kuwait | power bi | 44
-linkedin | Jordan | analytics manager | 0
-linkedin | Egypt | assistant professor | 11
-linkedin | Kuala Lumpur, Malaysia | business intelligence | 20
-linkedin | Singapore | data scientist | 0
+linkedin | Kuwait | data analyst | 6
+linkedin | Kuwait | power bi | 30
+linkedin | Jordan | analytics manager | 7
+linkedin | Egypt | assistant professor | 12
+linkedin | Kuala Lumpur, Malaysia | business intelligence | 50
+linkedin | Singapore | data scientist | 50
 linkedin | London, England, United Kingdom | revenue operations visa sponsorship | 50
-linkedin | Ireland | business intelligence visa sponsorship | 10
-linkedin | Germany | strategy visa sponsorship | 10
-linkedin | Poland | revenue operations visa sponsorship | 20
-linkedin | Prague, Czechia | business intelligence visa sponsorship | 18
-linkedin | Lisbon, Portugal | strategy visa sponsorship | 0
-linkedin | Australia | revenue operations visa sponsorship | 0
-indeed | Pakistan | machine learning | 8
-indeed | Pakistan | salesforce | 18
+linkedin | Ireland | business intelligence visa sponsorship | 50
+linkedin | Germany | strategy visa sponsorship | 50
+linkedin | Poland | revenue operations visa sponsorship | 36
+linkedin | Prague, Czechia | business intelligence visa sponsorship | 19
+linkedin | Lisbon, Portugal | strategy visa sponsorship | 16
+linkedin | Australia | revenue operations visa sponsorship | 50
+indeed | Pakistan | machine learning | 4
+indeed | Pakistan | salesforce | 14
 indeed | Lahore | data analyst | 0
-indeed | Lahore | strategy | 53
+indeed | Lahore | strategy | 37
 indeed | Lahore | operations analyst | 0
-indeed | Karachi | data analytics | 13
-indeed | Karachi | revenue operations | 11
+indeed | Karachi | data analytics | 14
+indeed | Karachi | revenue operations | 6
 indeed | Karachi | assistant professor | 0
-indeed | Islamabad | product analyst | 2
-indeed | Islamabad | pricing analyst | 3
-indeed | United Arab Emirates | business intelligence | 37
+indeed | Islamabad | product analyst | 1
+indeed | Islamabad | pricing analyst | 2
+indeed | United Arab Emirates | business intelligence | 26
 indeed | United Arab Emirates | pricing analyst | 4
-indeed | Saudi Arabia | revenue operations | 9
+indeed | Saudi Arabia | revenue operations | 5
 indeed | Qatar | data scientist | 1
 indeed | Bahrain | data analyst | 0
-indeed | Bahrain | AI product | 3
+indeed | Bahrain | AI product | 1
 indeed | Oman | strategy | 1
 indeed | Kuwait | business intelligence | 0
 indeed | Kuwait | pricing analyst | 0
-indeed | Egypt | revenue operations | 6
+indeed | Egypt | revenue operations | 3
 indeed | Turkey | revenue operations visa sponsorship | 0
-indeed | Malaysia | AI product | 58
+indeed | Malaysia | AI product | 43
 indeed | Japan | data analyst visa sponsorship | 0
-indeed | UK | business intelligence visa sponsorship | 67
+indeed | UK | business intelligence visa sponsorship | 49
 indeed | Ireland | revenue operations visa sponsorship | 0
-indeed | Germany | data analyst relocation | 5
+indeed | Germany | data analyst relocation | 3
 indeed | Poland | data analyst visa sponsorship | 0
 indeed | Hungary | business intelligence visa sponsorship | 0
 indeed | Czech Republic | revenue operations visa sponsorship | 0
 indeed | Portugal | data analyst relocation | 0
 indeed | Australia | data analyst visa sponsorship | 3
 indeed | New Zealand | business intelligence visa sponsorship | 0
-linkedin | Lahore, Pakistan | lecturer | 5
-linkedin | Lahore, Pakistan | corporate planning | 31
-linkedin | Karachi, Pakistan | business intelligence | 17
-linkedin | Karachi, Pakistan | business analyst | 10
-linkedin | Karachi, Pakistan | pricing analyst | 18
+linkedin | Lahore, Pakistan | lecturer | 4
+linkedin | Lahore, Pakistan | corporate planning | 23
+linkedin | Karachi, Pakistan | business intelligence | 10
+linkedin | Karachi, Pakistan | business analyst | 29
+linkedin | Karachi, Pakistan | pricing analyst | 12
 discovered employers | added | 7043
-workday | abbott | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | adient | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aig | FAILED: 520 Server Error: <none> for url: https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs
-workday | alcon | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | alterra | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | amfam | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | applyboard | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | atriumhospitality | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aveva | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | awg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Barclays | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bcbsnc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | belron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bird | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bmc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brinks | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | browserstack | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | calistacorp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | capri | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cat | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ccf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | chrobinson | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cisco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cloudera | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cochlear | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | conagrabrands | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cornell | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | crick | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | danaher | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | db | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dentsuaegis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dlapiper | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | earlywarning | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | elkay | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | entegris | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | erm | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | etsy | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | finastra | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | flextronics | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fnz | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | freseniusglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gafsgi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | galileo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | geaerospace | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ghc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | globalfoundries | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | greenheckgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gsma | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hcmportal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | heinz | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hoganlovells | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | huron | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ilitch | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ingredion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | interpublic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | itw | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jupitermed | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kimberlyclark | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kpluss | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lbg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lifeworks | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lkqcorp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lplfinancial | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mango | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | massmutual | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mbda | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | medline | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mizuho | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | momentive | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ms | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | murdoch | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | myview | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nngroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | novartis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | o9solutions | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | optioncare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pfg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | phreesia | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pointloma | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | psu | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | reagroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | relx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | resmed | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rockymountain | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rothschildandco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sandvik | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sec | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sharecare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | signetjewelers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | slihrms | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sonoco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | spectrumhealth | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | stryker | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | svha | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | theapexgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | thrivent | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trafigura | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trellix | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tysonfoods | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ukgrantt | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | uniphar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vanguard | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | visa | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wellsky | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wmeimg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wustl | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zillow | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 128 employers | 4106
+ashby | 128 employers | 4103
 bamboohr | 6 employers | 103
 breezy | 2 employers | 44
-greenhouse | 148 employers | 8408
+greenhouse | 148 employers | 8406
 icims | 14 employers | 1193
-lever | 8 employers | 244
-oracle | 36 employers | 8375
+lever | 8 employers | 241
+oracle | 36 employers | 8384
 personio | 57 employers | 921
 pinpoint | 3 employers | 203
-recruitee | 23 employers | 925
-smartrecruiters | 31 employers | 5839
-successfactors | 18 employers | 3916
+recruitee | 23 employers | 926
+smartrecruiters | 31 employers | 5840
+successfactors | 18 employers | 3915
 taleo | 5 employers | 561
-teamtailor | 13 employers | 299
-workable | 79 employers | 5251
-workday | 137 employers | 1697
+teamtailor | 13 employers | 300
+workable | 79 employers | 5215
+workday | 137 employers | 10993
 workable search | Lisbon | AI product | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | strategy | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
@@ -1673,414 +797,182 @@ workable search | Auckland | strategy | FAILED: 429 Client Error: Too Many Reque
 workable search | Auckland | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | business analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | lecturer | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | 459 searches | 2716
-locations | missing 7 | looked up 7 | found 5
-checks | descriptions opened 90 | {"dropped earlier": 40, "visa unclear (no mention)": 71}
---- search runner 9/10 (17.2 min)
-linkedin | Islamabad, Pakistan | data scientist | 7
-linkedin | Islamabad, Pakistan | strategy manager | 18
+workable search | 459 searches | 2717
+locations | missing 84 | looked up 40 | found 38
+checks | descriptions opened 90 | {"dropped earlier": 56, "visa unclear (no mention)": 84, "visa unclear (ad unreadable)": 23}
+--- search runner 9/10 (14.5 min)
+linkedin | Islamabad, Pakistan | data scientist | 6
+linkedin | Islamabad, Pakistan | strategy manager | 11
 linkedin | Dubai, United Arab Emirates | data analyst | 100
 linkedin | Dubai, United Arab Emirates | power bi | 100
-linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 57
-linkedin | United Arab Emirates | assistant professor | 64
-linkedin | Riyadh, Saudi Arabia | lecturer | 3
-linkedin | Jeddah, Saudi Arabia | data scientist | 5
+linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 35
+linkedin | United Arab Emirates | assistant professor | 24
+linkedin | Riyadh, Saudi Arabia | lecturer | 1
+linkedin | Jeddah, Saudi Arabia | data scientist | 6
 linkedin | Saudi Arabia | strategy and planning | 100
-linkedin | Qatar | AI product | 9
-linkedin | Bahrain | sales operations | 11
-linkedin | Oman | revenue operations | 2
-linkedin | Kuwait | business intelligence | 5
-linkedin | Jordan | data analyst | 20
+linkedin | Qatar | AI product | 8
+linkedin | Bahrain | sales operations | 7
+linkedin | Oman | revenue operations | 5
+linkedin | Kuwait | business intelligence | 1
+linkedin | Jordan | data analyst | 14
 linkedin | Jordan | power bi | 50
-linkedin | Egypt | analytics manager | 30
+linkedin | Egypt | analytics manager | 18
 linkedin | Kuala Lumpur, Malaysia | revenue operations | 50
 linkedin | Tokyo, Japan | data analyst visa sponsorship | 50
 linkedin | London, England, United Kingdom | AI product manager visa sponsorship | 50
-linkedin | Ireland | data scientist visa sponsorship | 30
+linkedin | Ireland | data scientist visa sponsorship | 34
 linkedin | Netherlands | data analyst visa sponsorship | 50
-linkedin | Poland | AI product manager visa sponsorship | 40
-linkedin | Prague, Czechia | data scientist visa sponsorship | 7
+linkedin | Poland | AI product manager visa sponsorship | 28
+linkedin | Prague, Czechia | data scientist visa sponsorship | 8
 linkedin | Canada | data analyst visa sponsorship | 50
-linkedin | Australia | AI product manager visa sponsorship | 30
-indeed | Pakistan | analytics manager | 42
+linkedin | Australia | AI product manager visa sponsorship | 26
+indeed | Pakistan | analytics manager | 31
 indeed | Pakistan | CRM | 100
 indeed | Lahore | business analyst | 2
-indeed | Lahore | business planning | 19
-indeed | Lahore | AI | 38
+indeed | Lahore | business planning | 14
+indeed | Lahore | AI | 25
 indeed | Karachi | data scientist | 0
-indeed | Karachi | sales operations | 30
-indeed | Karachi | trainer | 4
+indeed | Karachi | sales operations | 24
+indeed | Karachi | trainer | 2
 indeed | Islamabad | MIS | 0
-indeed | Islamabad | growth | 83
-indeed | United Arab Emirates | power bi | 26
+indeed | Islamabad | growth | 60
+indeed | United Arab Emirates | power bi | 20
 indeed | United Arab Emirates | lecturer | 4
-indeed | Saudi Arabia | sales operations | 54
-indeed | Qatar | analytics manager | 2
+indeed | Saudi Arabia | sales operations | 45
+indeed | Qatar | analytics manager | 0
 indeed | Bahrain | business analyst | 0
 indeed | Bahrain | AI specialist | 0
 indeed | Oman | business planning | 2
 indeed | Kuwait | power bi | 0
 indeed | Kuwait | lecturer | 0
-indeed | Egypt | sales operations | 13
+indeed | Egypt | sales operations | 6
 indeed | Turkey | strategy visa sponsorship | 0
 indeed | Malaysia | pricing analyst | 2
 indeed | Japan | business analyst visa sponsorship | 0
 indeed | UK | data scientist visa sponsorship | 0
-indeed | Ireland | strategy visa sponsorship | 4
-indeed | Germany | AI product visa sponsorship | 1
+indeed | Ireland | strategy visa sponsorship | 3
+indeed | Germany | AI product visa sponsorship | 0
 indeed | Poland | business analyst visa sponsorship | 0
 indeed | Hungary | data scientist visa sponsorship | 0
 indeed | Czech Republic | strategy visa sponsorship | 0
 indeed | Portugal | AI product visa sponsorship | 0
-indeed | Australia | business analyst visa sponsorship | 4
+indeed | Australia | business analyst visa sponsorship | 3
 indeed | New Zealand | data scientist visa sponsorship | 0
 linkedin | Lahore, Pakistan | assistant professor | 1
-linkedin | Lahore, Pakistan | salesforce | 32
-linkedin | Karachi, Pakistan | revenue operations | 13
-linkedin | Karachi, Pakistan | data analytics | 32
-linkedin | Karachi, Pakistan | growth analyst | 21
+linkedin | Lahore, Pakistan | salesforce | 29
+linkedin | Karachi, Pakistan | revenue operations | 11
+linkedin | Karachi, Pakistan | data analytics | 21
+linkedin | Karachi, Pakistan | growth analyst | 12
 discovered employers | added | 7043
-successfactors | careers.oeb.ca | FAILED: Failed to perform, curl: (6) Could not resolve host: careers.oeb.ca. See https://curl.se/libcurl/c/l
-workday | 2020companies | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | abcfinancial | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | adient | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aig | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | alfalaval | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | amlrightsource | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aptiv | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | asml | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aussiebroadband | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aveva | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | axis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | barrywehmiller | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | benchmark | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bitsight | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bmo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | boydgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brinks | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brunswick | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | calix | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | capri | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cba | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ccf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cgm | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | churchdwight | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cisecurity | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cohesity | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | corpartners | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | criteo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cubic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | darktrace | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | db | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dexcom | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ebi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | elringklinger | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | entrust | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fastretailing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | finning | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | freseniusmedicalcare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gafsgi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gapinc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | geha | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ghc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | globalhr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | greif | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gtlaw | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harbourvest | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hcsc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | holmanautogroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hpe | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | husqvarnagroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | illumina | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | inlandimaging | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | invesco | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jabil | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jda | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kindercare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ksb | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lbg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lifung | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lnw | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lseg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | manulife | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mastercard | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mckesson | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | medtronic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | michaels | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mksinst | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | moneris | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ms | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | murex | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | myview | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ncr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | noblecorp | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nrel | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | onehealthineers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | optiv | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pciservices | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pfg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pierrefabre | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | progleasing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ptc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | quadient | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | relx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rogersbh | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rrhs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sabre | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sanford | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | seic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | shawinc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | signetjewelers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sonos | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | spgi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | statestreet | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | swarovski | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | talentmanagementsolution | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Target | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | thehartford | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tiaa | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trafigura | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | trendmicro | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tysonfoods | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | uline | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | usbank | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Vanguard | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | visa | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | warnerbros | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wework | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wmeimg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wvumedicine | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | xylem | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zoetis | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 128 employers | 3692
+ashby | 128 employers | 3690
 bamboohr | 6 employers | 74
 breezy | 2 employers | 7
-greenhouse | 148 employers | 13356
+greenhouse | 148 employers | 13360
 icims | 14 employers | 1549
 lever | 8 employers | 116
-oracle | 35 employers | 12912
-personio | 58 employers | 1050
+oracle | 35 employers | 12909
+personio | 58 employers | 1049
 pinpoint | 2 employers | 111
-recruitee | 23 employers | 917
+recruitee | 23 employers | 918
 smartrecruiters | 32 employers | 9933
-successfactors | 18 employers | 4615
+successfactors | 18 employers | 4621
 taleo | 5 employers | 448
 teamtailor | 13 employers | 273
-workable | 78 employers | 5299
-workday | 138 employers | 1009
-locations | missing 7 | looked up 7 | found 5
-checks | descriptions opened 85 | {"dropped earlier": 33, "visa unclear (no mention)": 48, "visa ruled out": 1}
---- search runner 10/10 (15.5 min)
+workable | 78 employers | 5362
+workday | 138 employers | 6294
+locations | missing 34 | looked up 34 | found 32
+checks | descriptions opened 78 | {"dropped earlier": 34, "visa unclear (no mention)": 55, "nationals only": 1}
+--- search runner 10/10 (17.5 min)
 linkedin | Islamabad, Pakistan | lecturer | 3
-linkedin | Islamabad, Pakistan | corporate planning | 0
-linkedin | Dubai, United Arab Emirates | business intelligence | 30
-linkedin | Abu Dhabi, United Arab Emirates | data analyst | 0
+linkedin | Islamabad, Pakistan | corporate planning | 14
+linkedin | Dubai, United Arab Emirates | business intelligence | 93
+linkedin | Abu Dhabi, United Arab Emirates | data analyst | 100
 linkedin | Abu Dhabi, United Arab Emirates | power bi | 100
 linkedin | United Arab Emirates | analytics manager | 100
-linkedin | Riyadh, Saudi Arabia | assistant professor | 1
-linkedin | Jeddah, Saudi Arabia | lecturer | 2
-linkedin | Saudi Arabia | data scientist | 33
-linkedin | Qatar | strategy and planning | 10
-linkedin | Bahrain | AI product | 1
-linkedin | Oman | sales operations | 12
-linkedin | Kuwait | revenue operations | 3
-linkedin | Jordan | business intelligence | 10
-linkedin | Egypt | data analyst | 100
-linkedin | Egypt | power bi | 40
-linkedin | Kuala Lumpur, Malaysia | AI product | 40
+linkedin | Riyadh, Saudi Arabia | assistant professor | 0
+linkedin | Jeddah, Saudi Arabia | lecturer | 1
+linkedin | Saudi Arabia | data scientist | 28
+linkedin | Qatar | strategy and planning | 50
+linkedin | Bahrain | AI product | 0
+linkedin | Oman | sales operations | 18
+linkedin | Kuwait | revenue operations | 2
+linkedin | Jordan | business intelligence | 8
+linkedin | Egypt | data analyst | 79
+linkedin | Egypt | power bi | 100
+linkedin | Kuala Lumpur, Malaysia | AI product | 50
 linkedin | Tokyo, Japan | business intelligence visa sponsorship | 50
-linkedin | London, England, United Kingdom | strategy visa sponsorship | 30
-linkedin | Ireland | revenue operations visa sponsorship | 27
-linkedin | Netherlands | business intelligence visa sponsorship | 40
+linkedin | London, England, United Kingdom | strategy visa sponsorship | 50
+linkedin | Ireland | revenue operations visa sponsorship | 24
+linkedin | Netherlands | business intelligence visa sponsorship | 50
 linkedin | Poland | strategy visa sponsorship | 50
-linkedin | Prague, Czechia | revenue operations visa sponsorship | 7
+linkedin | Prague, Czechia | revenue operations visa sponsorship | 5
 linkedin | Canada | business intelligence visa sponsorship | 50
 linkedin | Australia | strategy visa sponsorship | 50
-indeed | Pakistan | product analyst | 13
-indeed | Pakistan | pricing analyst | 5
-indeed | Lahore | business intelligence | 9
-indeed | Lahore | strategy and operations | 16
-indeed | Lahore | AI product | 13
+indeed | Pakistan | product analyst | 7
+indeed | Pakistan | pricing analyst | 4
+indeed | Lahore | business intelligence | 4
+indeed | Lahore | strategy and operations | 11
+indeed | Lahore | AI product | 9
 indeed | Karachi | machine learning | 0
-indeed | Karachi | salesforce | 4
-indeed | Islamabad | data analyst | 5
-indeed | Islamabad | strategy | 35
-indeed | Islamabad | operations analyst | 3
-indeed | United Arab Emirates | data scientist | 5
-indeed | Saudi Arabia | data analyst | 5
-indeed | Saudi Arabia | AI product | 22
-indeed | Qatar | strategy | 42
-indeed | Bahrain | business intelligence | 2
+indeed | Karachi | salesforce | 3
+indeed | Islamabad | data analyst | 3
+indeed | Islamabad | strategy | 20
+indeed | Islamabad | operations analyst | 2
+indeed | United Arab Emirates | data scientist | 3
+indeed | Saudi Arabia | data analyst | 3
+indeed | Saudi Arabia | AI product | 18
+indeed | Qatar | strategy | 21
+indeed | Bahrain | business intelligence | 3
 indeed | Bahrain | pricing analyst | 0
 indeed | Oman | revenue operations | 1
 indeed | Kuwait | data scientist | 0
-indeed | Egypt | data analyst | 3
-indeed | Egypt | AI product | 7
+indeed | Egypt | data analyst | 2
+indeed | Egypt | AI product | 4
 indeed | Turkey | data analyst relocation | 0
-indeed | Singapore | data analyst | 54
-indeed | Japan | business intelligence visa sponsorship | 1
-indeed | UK | revenue operations visa sponsorship | 9
+indeed | Singapore | data analyst | 29
+indeed | Japan | business intelligence visa sponsorship | 0
+indeed | UK | revenue operations visa sponsorship | 7
 indeed | Ireland | data analyst relocation | 0
 indeed | Netherlands | data analyst visa sponsorship | 1
 indeed | Poland | business intelligence visa sponsorship | 0
 indeed | Hungary | revenue operations visa sponsorship | 0
 indeed | Czech Republic | data analyst relocation | 0
 indeed | Canada | data analyst visa sponsorship | 0
-indeed | Australia | business intelligence visa sponsorship | 3
+indeed | Australia | business intelligence visa sponsorship | 1
 indeed | New Zealand | revenue operations visa sponsorship | 0
-linkedin | Lahore, Pakistan | analytics manager | 0
-linkedin | Lahore, Pakistan | AI specialist | 15
-linkedin | Karachi, Pakistan | sales operations | 10
-linkedin | Karachi, Pakistan | product analyst | 10
-linkedin | Karachi, Pakistan | MIS | 50
+linkedin | Lahore, Pakistan | analytics manager | 9
+linkedin | Lahore, Pakistan | AI specialist | 12
+linkedin | Karachi, Pakistan | sales operations | 33
+linkedin | Karachi, Pakistan | product analyst | 8
+linkedin | Karachi, Pakistan | MIS | 39
 discovered employers | added | 7043
-workday | 3m | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Adobe | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aig | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | alfalaval | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | allegion | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | altusgroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aqa | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aspca | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | austintexas | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | aveva | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | axiscapital | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | barrywehmiller | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | blackbaud | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bmo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bpinternational | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | brinks | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | bullish | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cambiumlearning | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cardinalhealth | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cba | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | churchdwight | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | citi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | coke | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | conmed | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | crosscountrymortgage | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | cubic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | db | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | diageo | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | dow | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ecolab | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | esab | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | evercommerce | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fastretailing | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | firstam | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | fortrea | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | freshfields | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gaig | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gehc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | georgetown | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | globalhr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | gtt | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | harriscomputer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hdsupply | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | homedepot | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hpe | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | hyvee | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | imerys | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | intactfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ipas | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jacksonhealthcare | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | jdgroupnam | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kantar | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kiongroup | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | kyndryl | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lbg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | logicalis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | lsu | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | manulife | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mastercard | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mckesson | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | medtronic | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | michelinhr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | mksinst | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | msd | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ncr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | noerr | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | nrf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | onehealthineers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | optiva | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pae | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | peak6group | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pfizer | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | pillsburylaw | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | progyny | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ptcbio | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | recoveryfocus | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | relx | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rhahealthservices | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | rrhs | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | safeguardglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sanofi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | selinc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | shell | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | silgancontainers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sluhn | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | sonyglobal | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | spgi | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | statestreet | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | swift | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | Contour Software | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tbinstitute | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | telstra | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | thehartford | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tmobile | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tricentis | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | tysonfoods | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | ulse | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | unisys | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | usbank | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | velux | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vfc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | vishay | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | warnerbros | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wexinc | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wmg | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | wvumedicine | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | yeticoolers | FAILED: Expecting value: line 1 column 1 (char 0)
-workday | zoetis | FAILED: Expecting value: line 1 column 1 (char 0)
-ashby | 128 employers | 3530
+ashby | 128 employers | 3529
 bamboohr | 6 employers | 70
 breezy | 2 employers | 8
-greenhouse | 148 employers | 7563
-icims | 14 employers | 974
+greenhouse | 148 employers | 7554
+icims | 14 employers | 973
 lever | 7 employers | 248
-oracle | 36 employers | 11891
+oracle | 36 employers | 11887
 personio | 58 employers | 812
 pinpoint | 2 employers | 56
 recruitee | 23 employers | 1129
-smartrecruiters | 32 employers | 8559
-successfactors | 18 employers | 30822
+smartrecruiters | 32 employers | 8558
+successfactors | 18 employers | 30797
 taleo | 5 employers | 438
 teamtailor | 13 employers | 228
-workable | 78 employers | 4572
-workday | 138 employers | 1455
-locations | missing 11 | looked up 11 | found 6
-checks | descriptions opened 83 | {"dropped earlier": 47, "visa unclear (no mention)": 32, "visa unclear (ad unreadable)": 1}
---- sites runner 1/4 (2.8 min)
-company sites | {"read": 359, "unchanged": 377, "failed": 14, "jobs": 91}
-checks | descriptions opened 0 | {"dropped earlier": 1, "visa unclear (no mention)": 5}
---- sites runner 2/4 (2.6 min)
-company sites | {"read": 354, "unchanged": 380, "failed": 16, "jobs": 106}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 9}
---- sites runner 3/4 (2.1 min)
-company sites | {"read": 352, "unchanged": 379, "failed": 19, "jobs": 95}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 5}
---- sites runner 4/4 (1.9 min)
-company sites | {"read": 344, "unchanged": 386, "failed": 20, "jobs": 80}
-checks | descriptions opened 1 | {"visa unclear (no mention)": 12}
+workable | 78 employers | 4569
+workday | 138 employers | 9758
+locations | missing 97 | looked up 40 | found 35
+checks | descriptions opened 90 | {"dropped earlier": 55, "nationals only": 1, "visa unclear (no mention)": 52, "visa unclear (ad unreadable)": 1, "visa ruled out": 1}
+--- sites runner 1/4 (2.5 min)
+company sites | {"read": 348, "unchanged": 375, "failed": 27, "jobs": 39}
+checks | descriptions opened 0 | {"nationals only": 1, "visa unclear (no mention)": 21}
+--- sites runner 2/4 (2.5 min)
+company sites | {"read": 354, "unchanged": 378, "failed": 18, "jobs": 22}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 7}
+--- sites runner 3/4 (2.0 min)
+company sites | {"read": 351, "unchanged": 382, "failed": 17, "jobs": 30}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 6}
+--- sites runner 4/4 (2.8 min)
+company sites | {"read": 346, "unchanged": 379, "failed": 25, "jobs": 29}
+checks | descriptions opened 1 | {"visa unclear (ad unreadable)": 1, "visa unclear (no mention)": 2}
