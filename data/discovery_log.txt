@@ -143,3 +143,16 @@ website | new employers added 534 (total 20281)
 employers | to check 560
 employers | checked 560 | {"active": 7222, "inactive": 8893, "empty": 4054, "error": 112}
 done in 65 min
+Discovery (weekly) 2026-11-01
+sponsors | UK | 120719
+sponsors | NL | 13017
+sponsors | CA | 23
+open-jobs-data | new employers added 0 (total 20281)
+target | new websites added 0 (total 107434)
+targets | 158 employers in the list
+probe | websites to check 3395
+probe | checked 3395 | {"active": 531, "none": 1689, "offtarget": 409, "error": 479, "ats": 137, "unreachable": 150}
+website | new employers added 116 (total 20397)
+employers | to check 7055
+employers | checked 7055 | {"active": 6875, "inactive": 9207, "empty": 4201, "error": 114}
+done in 25 min
