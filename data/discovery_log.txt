@@ -156,3 +156,55 @@ website | new employers added 116 (total 20397)
 employers | to check 7055
 employers | checked 7055 | {"active": 6875, "inactive": 9207, "empty": 4201, "error": 114}
 done in 25 min
+Discovery (monthly) 2026-11-03
+commoncrawl | CC-MAIN-2026-43 | 300 index files
+commoncrawl | greenhouse | urls 27741 | boards 3019
+commoncrawl | lever | urls 511 | boards 0
+commoncrawl | workable | urls 14804 | boards 3666
+commoncrawl | ashby | urls 4212 | boards 1106
+commoncrawl | smartrecruiters | urls 3464 | boards 794
+commoncrawl | recruitee | urls 4534 | boards 627
+commoncrawl | bamboohr | urls 331 | boards 4
+commoncrawl | personio | urls 9685 | boards 916
+commoncrawl | personio | urls 4557 | boards 1089
+commoncrawl | workday | urls 70264 | boards 3270
+commoncrawl | breezy | urls 657 | boards 59
+commoncrawl | teamtailor | urls 9125 | boards 555
+commoncrawl | pinpoint | urls 277 | boards 47
+commoncrawl | oracle | urls 10994 | boards 1023
+commoncrawl | successfactors | urls 0 | boards 0
+commoncrawl | successfactors | urls 0 | boards 0
+commoncrawl | taleo | urls 573 | boards 454
+commoncrawl | icims | urls 15745 | boards 1575
+commoncrawl | new employers added 6533 (total 26930)
+commoncrawl | .ae careers sites | 1317
+commoncrawl | .bh careers sites | 52
+commoncrawl | .eg careers sites | 143
+commoncrawl | .jo careers sites | 99
+commoncrawl | .kw careers sites | 68
+commoncrawl | .om careers sites | 93
+commoncrawl | .pk careers sites | 928
+commoncrawl | .qa careers sites | 146
+commoncrawl | .sa careers sites | 854
+commoncrawl | .au careers sites | 4000
+commoncrawl | .ca careers sites | 4000
+commoncrawl | .cz careers sites | 4000
+commoncrawl | .de | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .hu | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .ie | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .jp | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .my | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .nl | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .nz | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .pl | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .pt | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .sg | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .tr | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | .uk | FAILED: HTTP Error: HTTP GET error on 'https://data.commoncrawl.org/cc-index/table/cc-main/warc/crawl=CC-MAIN-2026-43/subset=war
+commoncrawl | new websites added 9910 (total 117344)
+probe | websites to check 9910
+probe | checked 9910 | {"error": 226, "active": 9167, "unreachable": 84, "none": 432, "ats": 1}
+website | new employers added 82 (total 27012)
+employers | to check 6716
+employers | checked 6716 | {"active": 8504, "inactive": 12334, "empty": 6047, "error": 127}
+done in 60 min
