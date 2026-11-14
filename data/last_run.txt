@@ -1,122 +1,201 @@
-Run at 2026-11-14 02:14 PKT (daily, 14 runners)
-raw=641912  matching=1232  new=229  total=21631  coverage=100%
+Run at 2026-11-14 13:45 PKT (daily, 14 runners)
+raw=575526  matching=1043  new=118  total=21749  coverage=100%
 Searches: 628/628 done, 0 failed, 0 blocked, 0 skipped
-New by city: {'London': 30, 'Dubai': 19, 'Singapore': 18, 'Toronto': 14, 'Warsaw': 12, 'Berlin': 11, 'Budapest': 9, 'Tokyo': 7, 'Poland (city not stated)': 7, 'Remote': 6, 'Islamabad': 5, 'Abu Dhabi': 5, 'Prague': 5, 'Munich': 5, 'Lahore': 4, 'Karachi': 4, 'Kuala Lumpur': 4, 'Amsterdam': 4, 'Montreal': 4, 'Dublin': 4, 'Melbourne': 4, 'Lisbon': 4, 'Hamburg': 4, 'Egypt (city not stated)': 3, 'Istanbul': 3, 'Manchester': 3, 'UK (city not stated)': 3, 'Canada (city not stated)': 3, 'Kraków': 3, 'Sydney': 3, 'UAE (city not stated)': 2, 'Rotterdam': 2, 'Sharjah': 2, 'Frankfurt': 2, 'Pakistan (city not stated)': 2, 'Australia (city not stated)': 2, 'Doha': 1, 'Cairo': 1, 'Birmingham': 1, 'Ireland (city not stated)': 1, 'Vancouver': 1, 'Oman (city not stated)': 1, 'Germany (city not stated)': 1}
-New by role group: {'Data & BI': 69, 'Strategy & Ops': 47, 'AI Product / Applied AI': 42, 'Data Science': 36, 'RevOps': 35}
-Cities with matching jobs today: Abu Dhabi, Amsterdam, Auckland, Australia (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Karachi, Kraków, Kuala Lumpur, Kuwait City, Lahore, Lisbon, London, Malaysia (city not stated), Manchester, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Oman (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Sharjah, Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
+New by city: {'Toronto': 18, 'UAE (city not stated)': 9, 'London': 9, 'Canada (city not stated)': 9, 'Abu Dhabi': 7, 'Dubai': 6, 'Singapore': 6, 'Sydney': 6, 'Montreal': 5, 'Melbourne': 4, 'Vancouver': 3, 'Karachi': 3, 'Munich': 3, 'UK (city not stated)': 3, 'Remote': 3, 'Prague': 3, 'Warsaw': 2, 'Poland (city not stated)': 2, 'Ireland (city not stated)': 2, 'Czechia (city not stated)': 2, 'The Hague': 1, 'New Zealand (city not stated)': 1, 'Tokyo': 1, 'Dublin': 1, 'Hungary (city not stated)': 1, 'Saudi Arabia (city not stated)': 1, 'Manchester': 1, 'Birmingham': 1, 'Egypt (city not stated)': 1, 'Australia (city not stated)': 1, 'Sharjah': 1, 'Lisbon': 1, 'Kuala Lumpur': 1}
+New by role group: {'Data & BI': 32, 'AI Product / Applied AI': 27, 'Strategy & Ops': 25, 'Data Science': 19, 'RevOps': 15}
+Cities with matching jobs today: Abu Dhabi, Amsterdam, Auckland, Australia (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Czechia (city not stated), Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Hungary (city not stated), Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Karachi, Kraków, Kuala Lumpur, Kuwait City, Lahore, Lisbon, London, Malaysia (city not stated), Manchester, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Sharjah, Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
 
-Matching titles dropped for location (top 25): {"San Francisco": 203, "World Wide - Remote": 191, "United States": 179, "United States of America": 126, "San Francisco, CA": 99, "United States | United States": 95, "New York City": 94, "New York, NY": 78, "Spain": 70, "Indonesia": 68, "Thailand": 67, "New York": 65, "Hong Kong": 64, "Taipei, Taiwan": 64, "India": 63, "New York | New York | United States | New York | New York | ": 59, "New York, NY, United States | US": 57, "Paris": 55, "San Francisco | California | United States | San Francisco |": 52, "China": 52, "Philippines": 51, "Sweden": 50, "Madrid": 46, "Seoul, Korea": 46, "Paris | IDF | fr | Paris, IDF, France": 43}
+Matching titles dropped for location (top 25): {"San Francisco": 206, "World Wide - Remote": 191, "United States": 179, "United States of America": 126, "San Francisco, CA": 98, "United States | United States": 95, "New York City": 90, "New York, NY": 76, "Spain": 70, "Indonesia": 68, "Thailand": 67, "New York": 65, "Hong Kong": 64, "Taipei, Taiwan": 64, "India": 63, "New York | New York | United States | New York | New York | ": 59, "New York, NY, United States | US": 58, "Paris": 55, "San Francisco | California | United States | San Francisco |": 52, "China": 52, "Philippines": 51, "Sweden": 50, "Madrid": 46, "Seoul, Korea": 46, "United States | US": 43}
 
---- search runner 1/10 (18.5 min)
+--- search runner 1/10 (16.8 min)
 indeed | New Zealand | strategy visa sponsorship | 1
-linkedin | Lahore, Pakistan | data analyst | 37
+linkedin | Lahore, Pakistan | data analyst | 26
 linkedin | Lahore, Pakistan | power bi | 50
 linkedin | Lahore, Pakistan | business planning | 50
-linkedin | Karachi, Pakistan | AI product | 6
-linkedin | Karachi, Pakistan | head of data | 10
+linkedin | Karachi, Pakistan | AI product | 5
+linkedin | Karachi, Pakistan | head of data | 8
 linkedin | Karachi, Pakistan | chief of staff | 11
 linkedin | Islamabad, Pakistan | assistant professor | 4
 linkedin | Islamabad, Pakistan | salesforce | 15
 linkedin | Dubai, United Arab Emirates | revenue operations | 100
-linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 95
+linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 100
 linkedin | United Arab Emirates | data analyst | 100
 linkedin | United Arab Emirates | power bi | 100
-linkedin | Riyadh, Saudi Arabia | analytics manager | 11
+linkedin | Riyadh, Saudi Arabia | analytics manager | 13
 linkedin | Jeddah, Saudi Arabia | assistant professor | 0
 linkedin | Saudi Arabia | lecturer | 4
-linkedin | Qatar | data scientist | 27
-linkedin | Bahrain | strategy and planning | 17
+linkedin | Qatar | data scientist | 26
+linkedin | Bahrain | strategy and planning | 29
 linkedin | Oman | AI product | 0
-linkedin | Kuwait | sales operations | 16
-linkedin | Jordan | revenue operations | 3
-linkedin | Egypt | business intelligence | 61
+linkedin | Kuwait | sales operations | 13
+linkedin | Jordan | revenue operations | 2
+linkedin | Egypt | business intelligence | 57
 linkedin | Istanbul, Türkiye | data analyst | 50
 linkedin | Kuala Lumpur, Malaysia | strategy and planning | 50
 linkedin | Tokyo, Japan | data scientist visa sponsorship | 50
 linkedin | United Kingdom | data analyst visa sponsorship | 50
-linkedin | Ireland | AI product manager visa sponsorship | 25
+linkedin | Ireland | AI product manager visa sponsorship | 21
 linkedin | Netherlands | data scientist visa sponsorship | 50
-linkedin | Budapest, Hungary | data analyst visa sponsorship | 22
+linkedin | Budapest, Hungary | data analyst visa sponsorship | 23
 linkedin | Prague, Czechia | AI product manager visa sponsorship | 12
 linkedin | Canada | data scientist visa sponsorship | 50
-linkedin | New Zealand | data analyst visa sponsorship | 34
-indeed | Pakistan | MIS | 6
+linkedin | New Zealand | data analyst visa sponsorship | 24
+indeed | Pakistan | MIS | 0
 indeed | Pakistan | growth | 100
 indeed | Lahore | power bi | 3
-indeed | Lahore | business operations | 75
+indeed | Lahore | business operations | 60
 indeed | Lahore | lecturer | 0
-indeed | Karachi | analytics manager | 12
-indeed | Karachi | CRM | 34
+indeed | Karachi | analytics manager | 4
+indeed | Karachi | CRM | 29
 indeed | Islamabad | business analyst | 6
-indeed | Islamabad | business planning | 24
-indeed | Islamabad | AI | 27
-indeed | United Arab Emirates | analytics manager | 10
+indeed | Islamabad | business planning | 2
+indeed | Islamabad | AI | 23
+indeed | United Arab Emirates | analytics manager | 20
 indeed | Saudi Arabia | business analyst | 4
-indeed | Saudi Arabia | AI specialist | 2
-indeed | Qatar | business planning | 13
+indeed | Saudi Arabia | AI specialist | 3
+indeed | Qatar | business planning | 11
 indeed | Bahrain | power bi | 0
 indeed | Bahrain | lecturer | 0
 indeed | Oman | sales operations | 3
 indeed | Kuwait | analytics manager | 1
 indeed | Egypt | business analyst | 4
-indeed | Egypt | AI specialist | 9
+indeed | Egypt | AI specialist | 6
 indeed | Turkey | AI product visa sponsorship | 0
-indeed | Singapore | business analyst | 31
+indeed | Singapore | business analyst | 28
 indeed | Japan | data scientist visa sponsorship | 0
 indeed | UK | strategy visa sponsorship | 100
-indeed | Ireland | AI product visa sponsorship | 0
+indeed | Ireland | AI product visa sponsorship | 1
 indeed | Netherlands | business analyst visa sponsorship | 0
 indeed | Poland | data scientist visa sponsorship | 0
 indeed | Hungary | strategy visa sponsorship | 1
 indeed | Czech Republic | AI product visa sponsorship | 0
 indeed | Canada | business analyst visa sponsorship | 0
-indeed | Australia | data scientist visa sponsorship | 1
+indeed | Australia | data scientist visa sponsorship | 0
 discovered employers | added | 8478
-workday | jj | FAILED: 502 Server Error: Bad Gateway for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs
-ashby | 129 employers | 2868
+workday | aampower | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | acelero | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | adventisthealthcare | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | aig | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/careers_S
+workday | ameresco | FAILED: 521 Server Error: <none> for url: https://ameresco.wd5.myworkdayjobs.com/wday/cxs/ameresco/Ameresco/
+workday | aresmgmt | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | aspca | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | atriumhospitality | FAILED: 521 Server Error: <none> for url: https://atriumhospitality.wd5.myworkdayjobs.com/wday/cxs/atriumhos
+workday | barrywehmiller | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | brinks | FAILED: 521 Server Error: <none> for url: https://brinks.wd5.myworkdayjobs.com/wday/cxs/brinks/BrinksCareers
+workday | cambiumlearning | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | capitalhealth | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | carrier | FAILED: 521 Server Error: <none> for url: https://carrier.wd5.myworkdayjobs.com/wday/cxs/carrier/kgs_jobs/jo
+workday | cbrands | FAILED: 521 Server Error: <none> for url: https://cbrands.wd5.myworkdayjobs.com/wday/cxs/cbrands/CBI_Externa
+workday | centific | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | churchdwight | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cisco | FAILED: 521 Server Error: <none> for url: https://cisco.wd5.myworkdayjobs.com/wday/cxs/cisco/cisco_careers/j
+workday | cnx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | columbiasportswearcompany | FAILED: 521 Server Error: <none> for url: https://columbiasportswearcompany.wd5.myworkdayjobs.com/wday/cxs/c
+workday | corebridgefinancial | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | crossroadstreatmentcenters | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | davita | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dealertire | FAILED: 521 Server Error: <none> for url: https://dealertire.wd5.myworkdayjobs.com/wday/cxs/dealertire/sonsi
+workday | dexcom | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dlapiper | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dtn | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | eisai | FAILED: 521 Server Error: <none> for url: https://eisai.wd5.myworkdayjobs.com/wday/cxs/eisai/eisai/jobs
+workday | emcins | FAILED: 521 Server Error: <none> for url: https://emcins.wd5.myworkdayjobs.com/wday/cxs/emcins/EMC_Internshi
+workday | etsy | FAILED: 521 Server Error: <none> for url: https://etsy.wd5.myworkdayjobs.com/wday/cxs/etsy/Depop_Careers/job
+workday | ffive | FAILED: 521 Server Error: <none> for url: https://ffive.wd5.myworkdayjobs.com/wday/cxs/ffive/f5jobs/jobs
+workday | firstquality | FAILED: 521 Server Error: <none> for url: https://firstquality.wd5.myworkdayjobs.com/wday/cxs/firstquality/F
+workday | freddiemac | FAILED: 521 Server Error: <none> for url: https://freddiemac.wd5.myworkdayjobs.com/wday/cxs/freddiemac/Exter
+workday | gartner | FAILED: 521 Server Error: <none> for url: https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/ext/jobs
+workday | geico | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | georgetown | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ghc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | global | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | greystar | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | guggenheim | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hagerty | FAILED: 521 Server Error: <none> for url: https://hagerty.wd5.myworkdayjobs.com/wday/cxs/hagerty/hagerty/job
+workday | hcsc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | heidrick | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hubinternational | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ingenovishealth | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | Intel | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | iqvia | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | jacksonhealthcare | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | jj | FAILED: 521 Server Error: <none> for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs
+workday | kyriba | FAILED: 521 Server Error: <none> for url: https://kyriba.wd5.myworkdayjobs.com/wday/cxs/kyriba/Kyriba-Career
+workday | mastercard | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mimecast | FAILED: 521 Server Error: <none> for url: https://mimecast.wd5.myworkdayjobs.com/wday/cxs/mimecast/Mimecast-
+workday | mmc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | morningstar | FAILED: 521 Server Error: <none> for url: https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/Ame
+workday | nextracker | FAILED: 521 Server Error: <none> for url: https://nextracker.wd5.myworkdayjobs.com/wday/cxs/nextracker/nextp
+workday | ntrs | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | optioncare | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | PayPal | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | premierinc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ryan | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | servicetitan | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sluhn | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sonder | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | spe | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sundayriley | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tcsedsystem | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tempus | FAILED: 521 Server Error: <none> for url: https://tempus.wd5.myworkdayjobs.com/wday/cxs/tempus/tempus_career
+workday | theirc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | trellix | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ttc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | verily | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vfc | FAILED: 521 Server Error: <none> for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/timberland_careers/
+workday | wisconsin | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | Workday Inc | FAILED: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday/job
+workday | wustl | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | xpel | FAILED: 521 Server Error: <none> for url: https://xpel.wd5.myworkdayjobs.com/wday/cxs/xpel/XPEL_Careers/jobs
+workday | zillow | FAILED: 521 Server Error: <none> for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/referrals/job
+ashby | 129 employers | 2873
 bamboohr | 8 employers | 76
 breezy | 3 employers | 15
-greenhouse | 156 employers | 6301
-icims | 17 employers | 1117
-lever | 8 employers | 114
-oracle | 42 employers | 9791
-personio | 92 employers | 1451
+greenhouse | 156 employers | 6303
+icims | 17 employers | 1118
+lever | 8 employers | 75
+oracle | 42 employers | 9770
+personio | 92 employers | 1452
 pinpoint | 5 employers | 68
-recruitee | 34 employers | 1290
+recruitee | 34 employers | 1288
 smartrecruiters | 39 employers | 11744
-successfactors | 23 employers | 5136
-taleo | 7 employers | 1077
-teamtailor | 21 employers | 412
-workable | 101 employers | 7315
-workday | 167 employers | 10040
+successfactors | 23 employers | 4267
+taleo | 7 employers | 1075
+teamtailor | 21 employers | 411
+workable | 101 employers | 7309
+workday | 167 employers | 5107
 remoteok | 4
-weworkremotely | 59
-locations | missing 105 | looked up 40 | found 39
-checks | descriptions opened 90 | {"dropped earlier": 23, "visa unclear (no mention)": 65, "visa ruled out": 1}
---- search runner 2/10 (17.9 min)
-linkedin | New Zealand | business intelligence visa sponsorship | 46
-indeed | Pakistan | data analyst | 15
+weworkremotely | 58
+locations | missing 45 | looked up 40 | found 39
+checks | descriptions opened 87 | {"dropped earlier": 23, "visa unclear (no mention)": 47}
+--- search runner 2/10 (17.3 min)
+linkedin | New Zealand | business intelligence visa sponsorship | 27
+indeed | Pakistan | data analyst | 14
 indeed | Pakistan | strategy | 100
-indeed | Pakistan | operations analyst | 3
-indeed | Lahore | data analytics | 16
+indeed | Pakistan | operations analyst | 4
+indeed | Lahore | data analytics | 15
 indeed | Lahore | revenue operations | 16
 indeed | Lahore | assistant professor | 0
 indeed | Karachi | product analyst | 0
 indeed | Karachi | pricing analyst | 1
-indeed | Islamabad | business intelligence | 1
-indeed | Islamabad | strategy and operations | 2
-indeed | Islamabad | AI product | 14
+indeed | Islamabad | business intelligence | 5
+indeed | Islamabad | strategy and operations | 13
+indeed | Islamabad | AI product | 12
 indeed | United Arab Emirates | strategy | 100
-indeed | Saudi Arabia | business intelligence | 6
+indeed | Saudi Arabia | business intelligence | 5
 indeed | Saudi Arabia | pricing analyst | 0
-indeed | Qatar | revenue operations | 11
+indeed | Qatar | revenue operations | 9
 indeed | Bahrain | data scientist | 0
 indeed | Oman | data analyst | 0
 indeed | Oman | AI product | 0
 indeed | Kuwait | strategy | 3
-indeed | Egypt | business intelligence | 8
+indeed | Egypt | business intelligence | 7
 indeed | Egypt | pricing analyst | 1
-indeed | Malaysia | data analyst | 35
+indeed | Malaysia | data analyst | 21
 indeed | Singapore | business intelligence | 100
 indeed | Japan | revenue operations visa sponsorship | 0
 indeed | UK | data analyst relocation | 3
@@ -125,261 +204,532 @@ indeed | Netherlands | business intelligence visa sponsorship | 0
 indeed | Poland | revenue operations visa sponsorship | 0
 indeed | Hungary | data analyst relocation | 0
 indeed | Portugal | data analyst visa sponsorship | 0
-indeed | Canada | business intelligence visa sponsorship | 4
-indeed | Australia | revenue operations visa sponsorship | 2
+indeed | Canada | business intelligence visa sponsorship | 5
+indeed | Australia | revenue operations visa sponsorship | 3
 indeed | New Zealand | data analyst relocation | 0
 linkedin | Lahore, Pakistan | business intelligence | 16
-linkedin | Lahore, Pakistan | business analyst | 50
-linkedin | Lahore, Pakistan | pricing analyst | 11
+linkedin | Lahore, Pakistan | business analyst | 42
+linkedin | Lahore, Pakistan | pricing analyst | 7
 linkedin | Karachi, Pakistan | strategy and planning | 50
-linkedin | Karachi, Pakistan | BI developer | 6
-linkedin | Karachi, Pakistan | operations analyst | 42
-linkedin | Islamabad, Pakistan | analytics manager | 5
+linkedin | Karachi, Pakistan | BI developer | 4
+linkedin | Karachi, Pakistan | operations analyst | 37
+linkedin | Islamabad, Pakistan | analytics manager | 4
 linkedin | Islamabad, Pakistan | AI specialist | 8
 linkedin | Dubai, United Arab Emirates | sales operations | 100
-linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 49
+linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 55
 linkedin | United Arab Emirates | business intelligence | 100
 linkedin | Riyadh, Saudi Arabia | data analyst | 31
 linkedin | Riyadh, Saudi Arabia | power bi | 100
-linkedin | Jeddah, Saudi Arabia | analytics manager | 3
+linkedin | Jeddah, Saudi Arabia | analytics manager | 2
 linkedin | Saudi Arabia | assistant professor | 1
-linkedin | Qatar | lecturer | 8
+linkedin | Qatar | lecturer | 5
 linkedin | Bahrain | data scientist | 0
-linkedin | Oman | strategy and planning | 23
+linkedin | Oman | strategy and planning | 22
 linkedin | Kuwait | AI product | 4
-linkedin | Jordan | sales operations | 22
-linkedin | Egypt | revenue operations | 37
+linkedin | Jordan | sales operations | 24
+linkedin | Egypt | revenue operations | 36
 linkedin | Istanbul, Türkiye | business intelligence | 50
 linkedin | Kuala Lumpur, Malaysia | data scientist | 50
 linkedin | Tokyo, Japan | revenue operations visa sponsorship | 50
 linkedin | United Kingdom | business intelligence visa sponsorship | 50
 linkedin | Ireland | strategy visa sponsorship | 50
 linkedin | Netherlands | revenue operations visa sponsorship | 50
-linkedin | Budapest, Hungary | business intelligence visa sponsorship | 26
+linkedin | Budapest, Hungary | business intelligence visa sponsorship | 27
 linkedin | Prague, Czechia | strategy visa sponsorship | 50
 linkedin | Canada | revenue operations visa sponsorship | 50
 discovered employers | added | 8478
-workday | allina | FAILED: 504 Server Error: Gateway Timeout for url: https://allina.wd5.myworkdayjobs.com/wday/cxs/allina/Exte
-workday | geisinger | FAILED: 502 Server Error: Bad Gateway for url: https://geisinger.wd5.myworkdayjobs.com/wday/cxs/geisinger/Ge
-workday | jj | FAILED: 500 Server Error: Internal Server Error for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/NonCom
-ashby | 129 employers | 4254
+workday | acrisure | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | aig | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | alcon | FAILED: 521 Server Error: <none> for url: https://alcon.wd5.myworkdayjobs.com/wday/cxs/alcon/careers_alcon/j
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/careers_S
+workday | allina | FAILED: 521 Server Error: <none> for url: https://allina.wd5.myworkdayjobs.com/wday/cxs/allina/External/jobs
+workday | americanredcross | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | aspca | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | azenta | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | baxter | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bestfriends | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | blackrock | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bnl | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | brinks | FAILED: 521 Server Error: <none> for url: https://brinks.wd5.myworkdayjobs.com/wday/cxs/brinks/BrinksCareers
+workday | campaignmonitor | FAILED: 521 Server Error: <none> for url: https://campaignmonitor.wd5.myworkdayjobs.com/wday/cxs/campaignmon
+workday | carters | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cisecurity | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cloudera | FAILED: 521 Server Error: <none> for url: https://cloudera.wd5.myworkdayjobs.com/wday/cxs/cloudera/External_
+workday | covetrus | FAILED: 521 Server Error: <none> for url: https://covetrus.wd5.myworkdayjobs.com/wday/cxs/covetrus/covetrusc
+workday | crowdstrike | FAILED: 521 Server Error: <none> for url: https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crowdstrike/cro
+workday | cubic | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dmainc | FAILED: 521 Server Error: <none> for url: https://dmainc.wd5.myworkdayjobs.com/wday/cxs/dmainc/DMA/jobs
+workday | dtna | FAILED: 521 Server Error: <none> for url: https://dtna.wd5.myworkdayjobs.com/wday/cxs/dtna/DTNA_affiliate/jo
+workday | eisneramper | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | etsy | FAILED: 521 Server Error: <none> for url: https://etsy.wd5.myworkdayjobs.com/wday/cxs/etsy/Etsy_Careers/jobs
+workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fico | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | flir | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | formfactor | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gcu | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | geisinger | FAILED: 521 Server Error: <none> for url: https://geisinger.wd5.myworkdayjobs.com/wday/cxs/geisinger/Geising
+workday | georgetown | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | globalfoundries | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | greystar | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | guidehouse | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hcsc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | heidrick | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | Hitachi | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | humana | FAILED: 521 Server Error: <none> for url: https://humana.wd5.myworkdayjobs.com/wday/cxs/humana/centerwell_ex
+workday | ingevity | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ironmountain | FAILED: 521 Server Error: <none> for url: https://ironmountain.wd5.myworkdayjobs.com/wday/cxs/ironmountain/i
+workday | jacksonlewis | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | jj | FAILED: 521 Server Error: <none> for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/NonCompetetiveHiring/
+workday | jupitermed | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | keybank | FAILED: 521 Server Error: <none> for url: https://keybank.wd5.myworkdayjobs.com/wday/cxs/keybank/external_ca
+workday | knitwellgroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | labcorp | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | lowes | FAILED: 521 Server Error: <none> for url: https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_External_CS
+workday | Mastercard | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | medline | FAILED: 521 Server Error: <none> for url: https://medline.wd5.myworkdayjobs.com/wday/cxs/medline/Medline/job
+workday | morningstar | FAILED: 521 Server Error: <none> for url: https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/Mar
+workday | ncr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ngc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | optiv | FAILED: 521 Server Error: <none> for url: https://optiv.wd5.myworkdayjobs.com/wday/cxs/optiv/Optiv_Careers/j
+workday | osu | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pae | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | phreesia | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pnc | FAILED: 521 Server Error: <none> for url: https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/HarrisWilliams/jobs
+workday | priceline | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | proofpoint | FAILED: 521 Server Error: <none> for url: https://proofpoint.wd5.myworkdayjobs.com/wday/cxs/proofpoint/proof
+workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | riministreet | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rogersbh | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ryan | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | shusa | FAILED: 521 Server Error: <none> for url: https://shusa.wd5.myworkdayjobs.com/wday/cxs/shusa/external/jobs
+workday | smithnephew | FAILED: 521 Server Error: <none> for url: https://smithnephew.wd5.myworkdayjobs.com/wday/cxs/smithnephew/Ext
+workday | sonoco | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | specialized | FAILED: 521 Server Error: <none> for url: https://specialized.wd5.myworkdayjobs.com/wday/cxs/specialized/Spe
+workday | srsdistribution | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tcsedsystem | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tencent | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tmobile | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ttc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | umb | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | unisys | FAILED: 521 Server Error: <none> for url: https://unisys.wd5.myworkdayjobs.com/wday/cxs/unisys/External/jobs
+workday | usbank | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vanguard | FAILED: 521 Server Error: <none> for url: https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/contracto
+workday | vermeer | FAILED: 521 Server Error: <none> for url: https://vermeer.wd5.myworkdayjobs.com/wday/cxs/vermeer/externalcar
+workday | vfc | FAILED: 521 Server Error: <none> for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/vans_careers/jobs
+workday | warnerbros | FAILED: 521 Server Error: <none> for url: https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/franc
+workday | wellington | FAILED: 521 Server Error: <none> for url: https://wellington.wd5.myworkdayjobs.com/wday/cxs/wellington/Exter
+workday | wisconsin | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | workday | FAILED: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Ear
+workday | wvumedicine | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | zillow | FAILED: 521 Server Error: <none> for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zillow_Group_
+ashby | 129 employers | 4266
 bamboohr | 8 employers | 87
 breezy | 3 employers | 11
-greenhouse | 156 employers | 12018
-icims | 17 employers | 1638
+greenhouse | 156 employers | 12029
+icims | 17 employers | 1643
 lever | 8 employers | 1044
-oracle | 42 employers | 10791
-personio | 92 employers | 1208
-pinpoint | 5 employers | 61
+oracle | 42 employers | 10766
+personio | 92 employers | 1213
+pinpoint | 5 employers | 53
 recruitee | 34 employers | 1268
-smartrecruiters | 39 employers | 6924
-successfactors | 23 employers | 8461
-taleo | 7 employers | 509
+smartrecruiters | 39 employers | 6910
+successfactors | 23 employers | 5207
+taleo | 7 employers | 359
 teamtailor | 21 employers | 432
-workable | 101 employers | 6095
-workday | 167 employers | 9455
+workable | 101 employers | 6097
+workday | 167 employers | 5104
 remotive | 60
-himalayas | 4
-jobicy | 1
+himalayas | 0
+jobicy | 5
 workingnomads | 13
 arbeitnow | 900
-locations | missing 72 | looked up 40 | found 34
-checks | descriptions opened 90 | {"dropped earlier": 27, "visa ruled out": 1, "visa unclear (no mention)": 78, "visa unclear (ad unreadable)": 10}
---- search runner 3/10 (18.9 min)
-linkedin | New Zealand | data scientist visa sponsorship | 26
-indeed | Pakistan | business analyst | 14
-indeed | Pakistan | business planning | 20
+locations | missing 44 | looked up 40 | found 34
+checks | descriptions opened 90 | {"dropped earlier": 22, "visa unclear (no mention)": 55}
+--- search runner 3/10 (19.4 min)
+linkedin | New Zealand | data scientist visa sponsorship | 21
+indeed | Pakistan | business analyst | 12
+indeed | Pakistan | business planning | 82
 indeed | Pakistan | AI | 100
 indeed | Lahore | data scientist | 1
-indeed | Lahore | sales operations | 53
+indeed | Lahore | sales operations | 46
 indeed | Lahore | trainer | 0
-indeed | Karachi | MIS | 3
-indeed | Karachi | growth | 100
+indeed | Karachi | MIS | 1
+indeed | Karachi | growth | 91
 indeed | Islamabad | power bi | 2
-indeed | Islamabad | business operations | 6
+indeed | Islamabad | business operations | 26
 indeed | Islamabad | lecturer | 0
 indeed | United Arab Emirates | business planning | 100
-indeed | Saudi Arabia | power bi | 9
+indeed | Saudi Arabia | power bi | 7
 indeed | Saudi Arabia | lecturer | 0
-indeed | Qatar | sales operations | 20
-indeed | Bahrain | analytics manager | 0
+indeed | Qatar | sales operations | 18
+indeed | Bahrain | analytics manager | 1
 indeed | Oman | business analyst | 0
 indeed | Oman | AI specialist | 0
 indeed | Kuwait | business planning | 2
-indeed | Egypt | power bi | 3
+indeed | Egypt | power bi | 4
 indeed | Egypt | lecturer | 0
-indeed | Malaysia | business analyst | 42
-indeed | Singapore | data scientist | 21
+indeed | Malaysia | business analyst | 26
+indeed | Singapore | data scientist | 14
 indeed | Japan | strategy visa sponsorship | 2
-indeed | UK | AI product visa sponsorship | 42
+indeed | UK | AI product visa sponsorship | 39
 indeed | Germany | business analyst visa sponsorship | 0
 indeed | Netherlands | data scientist visa sponsorship | 0
 indeed | Poland | strategy visa sponsorship | 0
 indeed | Hungary | AI product visa sponsorship | 0
 indeed | Portugal | business analyst visa sponsorship | 0
 indeed | Canada | data scientist visa sponsorship | 0
-indeed | Australia | strategy visa sponsorship | 26
-indeed | New Zealand | AI product visa sponsorship | 0
-linkedin | Lahore, Pakistan | revenue operations | 14
-linkedin | Lahore, Pakistan | data analytics | 38
-linkedin | Lahore, Pakistan | growth analyst | 25
-linkedin | Karachi, Pakistan | data scientist | 12
+indeed | Australia | strategy visa sponsorship | 21
+indeed | New Zealand | AI product visa sponsorship | 1
+linkedin | Lahore, Pakistan | revenue operations | 10
+linkedin | Lahore, Pakistan | data analytics | 28
+linkedin | Lahore, Pakistan | growth analyst | 16
+linkedin | Karachi, Pakistan | data scientist | 9
 linkedin | Karachi, Pakistan | strategy manager | 36
-linkedin | Islamabad, Pakistan | data analyst | 19
+linkedin | Islamabad, Pakistan | data analyst | 13
 linkedin | Islamabad, Pakistan | power bi | 50
-linkedin | Islamabad, Pakistan | business planning | 33
-linkedin | Dubai, United Arab Emirates | AI product | 60
+linkedin | Islamabad, Pakistan | business planning | 28
+linkedin | Dubai, United Arab Emirates | AI product | 52
 linkedin | Abu Dhabi, United Arab Emirates | sales operations | 100
 linkedin | United Arab Emirates | revenue operations | 100
-linkedin | Riyadh, Saudi Arabia | business intelligence | 20
-linkedin | Jeddah, Saudi Arabia | data analyst | 12
-linkedin | Jeddah, Saudi Arabia | power bi | 57
-linkedin | Saudi Arabia | analytics manager | 31
-linkedin | Qatar | assistant professor | 7
-linkedin | Bahrain | lecturer | 5
+linkedin | Riyadh, Saudi Arabia | business intelligence | 19
+linkedin | Jeddah, Saudi Arabia | data analyst | 10
+linkedin | Jeddah, Saudi Arabia | power bi | 46
+linkedin | Saudi Arabia | analytics manager | 30
+linkedin | Qatar | assistant professor | 4
+linkedin | Bahrain | lecturer | 3
 linkedin | Oman | data scientist | 0
-linkedin | Kuwait | strategy and planning | 24
+linkedin | Kuwait | strategy and planning | 22
 linkedin | Jordan | AI product | 0
 linkedin | Egypt | sales operations | 100
 linkedin | Istanbul, Türkiye | revenue operations | 50
 linkedin | Singapore | data analyst | 50
-linkedin | Tokyo, Japan | AI product manager visa sponsorship | 42
+linkedin | Tokyo, Japan | AI product manager visa sponsorship | 38
 linkedin | United Kingdom | data scientist visa sponsorship | 50
 linkedin | Germany | data analyst visa sponsorship | 50
-linkedin | Netherlands | AI product manager visa sponsorship | 46
-linkedin | Budapest, Hungary | data scientist visa sponsorship | 9
-linkedin | Lisbon, Portugal | data analyst visa sponsorship | 13
+linkedin | Netherlands | AI product manager visa sponsorship | 45
+linkedin | Budapest, Hungary | data scientist visa sponsorship | 11
+linkedin | Lisbon, Portugal | data analyst visa sponsorship | 11
 linkedin | Canada | AI product manager visa sponsorship | 50
 discovered employers | added | 8478
 taleo | iamgold | FAILED: Expecting value: line 2 column 1 (char 2)
-ashby | 129 employers | 4006
-bamboohr | 8 employers | 77
+workday | abbott | FAILED: 521 Server Error: <none> for url: https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/abbottcareers
+workday | aig | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/EarlyTale
+workday | allstate | FAILED: 521 Server Error: <none> for url: https://allstate.wd5.myworkdayjobs.com/wday/cxs/allstate/allstate_
+workday | ameriprise | FAILED: 521 Server Error: <none> for url: https://ameriprise.wd5.myworkdayjobs.com/wday/cxs/ameriprise/Ameri
+workday | aspentech | FAILED: 521 Server Error: <none> for url: https://aspentech.wd5.myworkdayjobs.com/wday/cxs/aspentech/AspenTe
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | beyondmeat | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | blackstone | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bristolmyerssquibb | FAILED: 521 Server Error: <none> for url: https://bristolmyerssquibb.wd5.myworkdayjobs.com/wday/cxs/bristolm
+workday | capri | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cat | FAILED: 521 Server Error: <none> for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/caterpillarcareers/
+workday | ccc | FAILED: 521 Server Error: <none> for url: https://ccc.wd5.myworkdayjobs.com/wday/cxs/ccc/ccc_External/jobs
+workday | chesterfield | FAILED: 521 Server Error: <none> for url: https://chesterfield.wd5.myworkdayjobs.com/wday/cxs/chesterfield/c
+workday | citi | FAILED: 521 Server Error: <none> for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs
+workday | cornell | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cumminggroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | danaher | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | deckers | FAILED: 521 Server Error: <none> for url: https://deckers.wd5.myworkdayjobs.com/wday/cxs/deckers/Deckers/job
+workday | docgo | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | duckcreek | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | elanco | FAILED: 521 Server Error: <none> for url: https://elanco.wd5.myworkdayjobs.com/wday/cxs/elanco/external_care
+workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | firststudent | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | flir | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fortrea | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gcu | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | generac | FAILED: 521 Server Error: <none> for url: https://generac.wd5.myworkdayjobs.com/wday/cxs/generac/External/jo
+workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | globalhr | FAILED: 521 Server Error: <none> for url: https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/Private_P
+workday | goodyear | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hdsupply | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | heidrick | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | horizonmedia | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | icf | FAILED: 521 Server Error: <none> for url: https://icf.wd5.myworkdayjobs.com/wday/cxs/icf/ICFExternal_Career_
+workday | ingrammicro | FAILED: 521 Server Error: <none> for url: https://ingrammicro.wd5.myworkdayjobs.com/wday/cxs/ingrammicro/Ing
+workday | jas | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | jll | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kimberlyclark | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | knitwellgroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | lambweston | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | leidos | FAILED: 521 Server Error: <none> for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/External/jobs
+workday | loyola | FAILED: 521 Server Error: <none> for url: https://loyola.wd5.myworkdayjobs.com/wday/cxs/loyola/External/jobs
+workday | material | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | medtronic | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | morningstar | FAILED: 521 Server Error: <none> for url: https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/mor
+workday | mtb | FAILED: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/MTB/jobs
+workday | ncr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | nghs | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | oceanspray | FAILED: 521 Server Error: <none> for url: https://oceanspray.wd5.myworkdayjobs.com/wday/cxs/oceanspray/Ocean
+workday | pae | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pciservices | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | phreesia | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | poet | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | priceline | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | propharmagroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pvh | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | quickenloans | FAILED: 521 Server Error: <none> for url: https://quickenloans.wd5.myworkdayjobs.com/wday/cxs/quickenloans/r
+workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | republic | FAILED: 521 Server Error: <none> for url: https://republic.wd5.myworkdayjobs.com/wday/cxs/republic/republic/
+workday | ringcentral | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rrhs | FAILED: 521 Server Error: <none> for url: https://rrhs.wd5.myworkdayjobs.com/wday/cxs/rrhs/acm/jobs
+workday | ryansg | FAILED: 521 Server Error: <none> for url: https://ryansg.wd5.myworkdayjobs.com/wday/cxs/ryansg/ryan_specialt
+workday | sedgwick | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | shutterstock | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sonos | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | srsdistribution | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | strayer | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | swinerton | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tencent | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | thermofisher | FAILED: 521 Server Error: <none> for url: https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/thermofisher/t
+workday | tmobile | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tricentis | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tti | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | umb | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | unitytech | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | usbank | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | Vanguard | FAILED: 521 Server Error: <none> for url: https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguard/Vanguard_
+workday | vfc | FAILED: 521 Server Error: <none> for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/vfc_careers/jobs
+workday | warnerbros | FAILED: 521 Server Error: <none> for url: https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warnerbros/globa
+workday | wellsky | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wisconsin | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | workday | FAILED: 521 Server Error: <none> for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/Workday_Job
+workday | wvumedicine | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | xylem | FAILED: 521 Server Error: <none> for url: https://xylem.wd5.myworkdayjobs.com/wday/cxs/xylem/xylem-careers/j
+workday | zoetis | FAILED: 521 Server Error: <none> for url: https://zoetis.wd5.myworkdayjobs.com/wday/cxs/zoetis/broadbean_ext
+ashby | 129 employers | 4002
+bamboohr | 8 employers | 78
 breezy | 3 employers | 29
-greenhouse | 156 employers | 13135
-icims | 17 employers | 1496
+greenhouse | 156 employers | 13139
+icims | 17 employers | 1494
 lever | 8 employers | 229
-oracle | 42 employers | 7725
+oracle | 42 employers | 7690
 personio | 92 employers | 1615
 pinpoint | 5 employers | 27
-recruitee | 34 employers | 1665
-smartrecruiters | 39 employers | 3324
-successfactors | 23 employers | 5963
+recruitee | 34 employers | 1662
+smartrecruiters | 39 employers | 3326
+successfactors | 23 employers | 5545
 taleo | 7 employers | 132
 teamtailor | 20 employers | 437
-workable | 102 employers | 4801
-workday | 167 employers | 12244
-rozee | FAILED: HTTP Error 403: 
+workable | 102 employers | 4854
+workday | 167 employers | 5736
+rozee | sitemap jobs in window 2587 | title matches 37 | opened 37
 gulftalent | FAILED: HTTP Error 403: 
-locations | missing 79 | looked up 40 | found 30
-checks | descriptions opened 90 | {"dropped earlier": 22, "visa unclear (no mention)": 80, "visa unclear (ad unreadable)": 31}
---- search runner 4/10 (17.5 min)
+locations | missing 44 | looked up 40 | found 30
+checks | descriptions opened 90 | {"dropped earlier": 21, "visa unclear (no mention)": 80, "visa unclear (ad unreadable)": 11}
+--- search runner 4/10 (16.8 min)
 indeed | Australia | data analyst relocation | 0
 linkedin | Lahore, Pakistan | sales operations | 50
-linkedin | Lahore, Pakistan | product analyst | 16
+linkedin | Lahore, Pakistan | product analyst | 15
 linkedin | Lahore, Pakistan | MIS | 50
-linkedin | Karachi, Pakistan | lecturer | 2
-linkedin | Karachi, Pakistan | corporate planning | 46
-linkedin | Islamabad, Pakistan | business intelligence | 10
-linkedin | Islamabad, Pakistan | business analyst | 26
-linkedin | Islamabad, Pakistan | pricing analyst | 10
+linkedin | Karachi, Pakistan | lecturer | 1
+linkedin | Karachi, Pakistan | corporate planning | 43
+linkedin | Islamabad, Pakistan | business intelligence | 9
+linkedin | Islamabad, Pakistan | business analyst | 22
+linkedin | Islamabad, Pakistan | pricing analyst | 9
 linkedin | Dubai, United Arab Emirates | strategy and planning | 100
-linkedin | Abu Dhabi, United Arab Emirates | AI product | 68
+linkedin | Abu Dhabi, United Arab Emirates | AI product | 60
 linkedin | United Arab Emirates | sales operations | 100
 linkedin | Riyadh, Saudi Arabia | revenue operations | 22
-linkedin | Jeddah, Saudi Arabia | business intelligence | 6
-linkedin | Saudi Arabia | data analyst | 97
+linkedin | Jeddah, Saudi Arabia | business intelligence | 5
+linkedin | Saudi Arabia | data analyst | 86
 linkedin | Saudi Arabia | power bi | 100
-linkedin | Qatar | analytics manager | 20
-linkedin | Bahrain | assistant professor | 2
-linkedin | Oman | lecturer | 0
-linkedin | Kuwait | data scientist | 0
-linkedin | Jordan | strategy and planning | 42
-linkedin | Egypt | AI product | 30
-linkedin | Istanbul, Türkiye | AI product | 33
+linkedin | Qatar | analytics manager | 15
+linkedin | Bahrain | assistant professor | 0
+linkedin | Oman | lecturer | 2
+linkedin | Kuwait | data scientist | 1
+linkedin | Jordan | strategy and planning | 47
+linkedin | Egypt | AI product | 23
+linkedin | Istanbul, Türkiye | AI product | 27
 linkedin | Singapore | business intelligence | 50
 linkedin | Tokyo, Japan | strategy visa sponsorship | 50
 linkedin | United Kingdom | revenue operations visa sponsorship | 50
 linkedin | Germany | business intelligence visa sponsorship | 50
 linkedin | Netherlands | strategy visa sponsorship | 50
-linkedin | Budapest, Hungary | revenue operations visa sponsorship | 10
-linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 6
+linkedin | Budapest, Hungary | revenue operations visa sponsorship | 9
+linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 5
 linkedin | Canada | strategy visa sponsorship | 50
 linkedin | New Zealand | revenue operations visa sponsorship | 5
-indeed | Pakistan | business intelligence | 31
-indeed | Pakistan | strategy and operations | 19
-indeed | Pakistan | AI product | 65
-indeed | Lahore | machine learning | 7
-indeed | Lahore | salesforce | 11
-indeed | Karachi | data analyst | 3
-indeed | Karachi | strategy | 65
+indeed | Pakistan | business intelligence | 26
+indeed | Pakistan | strategy and operations | 67
+indeed | Pakistan | AI product | 60
+indeed | Lahore | machine learning | 6
+indeed | Lahore | salesforce | 9
+indeed | Karachi | data analyst | 2
+indeed | Karachi | strategy | 54
 indeed | Karachi | operations analyst | 1
-indeed | Islamabad | data analytics | 10
+indeed | Islamabad | data analytics | 9
 indeed | Islamabad | revenue operations | 10
 indeed | Islamabad | assistant professor | 0
-indeed | United Arab Emirates | revenue operations | 55
+indeed | United Arab Emirates | revenue operations | 94
 indeed | Saudi Arabia | data scientist | 0
 indeed | Qatar | data analyst | 1
 indeed | Qatar | AI product | 2
-indeed | Bahrain | strategy | 5
+indeed | Bahrain | strategy | 6
 indeed | Oman | business intelligence | 1
 indeed | Oman | pricing analyst | 0
 indeed | Kuwait | revenue operations | 1
 indeed | Egypt | data scientist | 0
 indeed | Turkey | data analyst visa sponsorship | 0
-indeed | Malaysia | business intelligence | 51
+indeed | Malaysia | business intelligence | 27
 indeed | Singapore | revenue operations | 100
 indeed | Japan | data analyst relocation | 0
 indeed | Ireland | data analyst visa sponsorship | 1
-indeed | Germany | business intelligence visa sponsorship | 1
+indeed | Germany | business intelligence visa sponsorship | 2
 indeed | Netherlands | revenue operations visa sponsorship | 0
 indeed | Poland | data analyst relocation | 0
 indeed | Czech Republic | data analyst visa sponsorship | 0
 indeed | Portugal | business intelligence visa sponsorship | 0
 indeed | Canada | revenue operations visa sponsorship | 0
 discovered employers | added | 8478
+successfactors | careers.southwire.com | FAILED: HTTP Error 503: Service Unavailable
+successfactors | careers.thehersheycompany.com | FAILED: HTTP Error 503: Service Unavailable
 taleo | iamgold | FAILED: Expecting value: line 2 column 1 (char 2)
-ashby | 129 employers | 7911
+workday | 2020companies | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | abcfinancial | FAILED: 521 Server Error: <none> for url: https://abcfinancial.wd5.myworkdayjobs.com/wday/cxs/abcfinancial/A
+workday | acs | FAILED: 521 Server Error: <none> for url: https://acs.wd5.myworkdayjobs.com/wday/cxs/acs/acscareers/jobs
+workday | agilent | FAILED: 521 Server Error: <none> for url: https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Car
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/Interflex
+workday | altera | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | amfam | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | apog | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | assurant | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | aviagen | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bah | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | blackstone | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | boeing | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | brambles | FAILED: 521 Server Error: <none> for url: https://brambles.wd5.myworkdayjobs.com/wday/cxs/brambles/Brambles_
+workday | broadcom | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | canadiansolar | FAILED: 521 Server Error: <none> for url: https://canadiansolar.wd5.myworkdayjobs.com/wday/cxs/canadiansolar
+workday | capri | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cat | FAILED: 521 Server Error: <none> for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/SolarTurbines/jobs
+workday | ccf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cerence | FAILED: 521 Server Error: <none> for url: https://cerence.wd5.myworkdayjobs.com/wday/cxs/cerence/Cerence/job
+workday | chg | FAILED: 521 Server Error: <none> for url: https://chg.wd5.myworkdayjobs.com/wday/cxs/chg/US_External_Career_
+workday | citi | FAILED: 521 Server Error: <none> for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/Citi_Early_Career
+workday | cognex | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | compassion | FAILED: 521 Server Error: <none> for url: https://compassion.wd5.myworkdayjobs.com/wday/cxs/compassion/Compa
+workday | cornell | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | curtisswright | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | deckers | FAILED: 521 Server Error: <none> for url: https://deckers.wd5.myworkdayjobs.com/wday/cxs/deckers/Deckers-Bra
+workday | duckcreek | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | epicorsoftware | FAILED: 521 Server Error: <none> for url: https://epicorsoftware.wd5.myworkdayjobs.com/wday/cxs/epicorsoftwa
+workday | esab | FAILED: 521 Server Error: <none> for url: https://esab.wd5.myworkdayjobs.com/wday/cxs/esab/esabcareers/jobs
+workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fis | FAILED: 521 Server Error: <none> for url: https://fis.wd5.myworkdayjobs.com/wday/cxs/fis/SearchJobs/jobs
+workday | flowserve | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gdit | FAILED: 521 Server Error: <none> for url: https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/external_career_s
+workday | generac | FAILED: 521 Server Error: <none> for url: https://generac.wd5.myworkdayjobs.com/wday/cxs/generac/ExternalCar
+workday | georgia | FAILED: 521 Server Error: <none> for url: https://georgia.wd5.myworkdayjobs.com/wday/cxs/georgia/TGC/jobs
+workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | globalhr | FAILED: 521 Server Error: <none> for url: https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalhr/REC_RTX_E
+workday | goto | FAILED: 521 Server Error: <none> for url: https://goto.wd5.myworkdayjobs.com/wday/cxs/goto/GoToCareers/jobs
+workday | healthcare | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | heinz | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hp | FAILED: 521 Server Error: <none> for url: https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/externalcareersite/jo
+workday | ich | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ingredion | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | interdigital | FAILED: 521 Server Error: <none> for url: https://interdigital.wd5.myworkdayjobs.com/wday/cxs/interdigital/I
+workday | issgovernance | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | jll | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kimberlyclark | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kobrekim | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | lambweston | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | lkqcorp | FAILED: 521 Server Error: <none> for url: https://lkqcorp.wd5.myworkdayjobs.com/wday/cxs/lkqcorp/ExternalCar
+workday | lplfinancial | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | medtronic | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mizuho | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | modernatx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | morningstar | FAILED: 521 Server Error: <none> for url: https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morningstar/Mor
+workday | mtb | FAILED: 521 Server Error: <none> for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/wtexternal/jobs
+workday | mydpr | FAILED: 521 Server Error: <none> for url: https://mydpr.wd5.myworkdayjobs.com/wday/cxs/mydpr/11212017/jobs
+workday | ncr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ngs | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | northeastern | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | onelineage | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | paloaltonetworks | FAILED: 521 Server Error: <none> for url: https://paloaltonetworks.wd5.myworkdayjobs.com/wday/cxs/paloaltone
+workday | peak6group | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pfizer | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pointloma | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | primerica | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pru | FAILED: 521 Server Error: <none> for url: https://pru.wd5.myworkdayjobs.com/wday/cxs/pru/PGIM_Careers/jobs
+workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | reputation | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rrhs | FAILED: 521 Server Error: <none> for url: https://rrhs.wd5.myworkdayjobs.com/wday/cxs/rrhs/RRH/jobs
+workday | ryder | FAILED: 521 Server Error: <none> for url: https://ryder.wd5.myworkdayjobs.com/wday/cxs/ryder/rydercareers/jo
+workday | sarepta | FAILED: 521 Server Error: <none> for url: https://sarepta.wd5.myworkdayjobs.com/wday/cxs/sarepta/sarepta_ext
+workday | sedgwick | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | shakeshack | FAILED: 521 Server Error: <none> for url: https://shakeshack.wd5.myworkdayjobs.com/wday/cxs/shakeshack/Exter
+workday | situsamc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | smucker | FAILED: 521 Server Error: <none> for url: https://smucker.wd5.myworkdayjobs.com/wday/cxs/smucker/Canada_Exte
+workday | sonyglobal | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | srsdistribution | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | statestreet | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | strayer | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tdwilliamson | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | terex | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | transamerica | FAILED: 521 Server Error: <none> for url: https://transamerica.wd5.myworkdayjobs.com/wday/cxs/transamerica/A
+workday | trimble | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | uhaul | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | umiami | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | unum | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vantagedc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vertexinc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wash | FAILED: 521 Server Error: <none> for url: https://wash.wd5.myworkdayjobs.com/wday/cxs/wash/wash/jobs
+workday | welocalize | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | worldvision | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wvumedicine | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | yeticoolers | FAILED: 521 Server Error: <none> for url: https://yeticoolers.wd5.myworkdayjobs.com/wday/cxs/yeticoolers/YET
+workday | zoetis | FAILED: 521 Server Error: <none> for url: https://zoetis.wd5.myworkdayjobs.com/wday/cxs/zoetis/zoetis_intl/j
+ashby | 129 employers | 7927
 bamboohr | 8 employers | 95
-breezy | 3 employers | 284
-greenhouse | 156 employers | 7296
+breezy | 3 employers | 283
+greenhouse | 156 employers | 7301
 icims | 17 employers | 1421
 lever | 8 employers | 363
-oracle | 42 employers | 8495
+oracle | 42 employers | 8468
 personio | 92 employers | 1209
-pinpoint | 5 employers | 218
+pinpoint | 5 employers | 217
 recruitee | 33 employers | 1122
-smartrecruiters | 40 employers | 8725
-successfactors | 23 employers | 30384
-taleo | 7 employers | 507
-teamtailor | 20 employers | 357
+smartrecruiters | 40 employers | 8726
+successfactors | 23 employers | 28396
+taleo | 7 employers | 428
+teamtailor | 20 employers | 352
 workable | 101 employers | 10101
-workday | 168 employers | 9285
+workday | 168 employers | 4298
 careerjet | skipped (no CAREERJET_AFFID secret)
 jooble | skipped (no JOOBLE_KEY secret)
 google_jobs | skipped (no SERPAPI_KEY secret)
-locations | missing 98 | looked up 40 | found 38
-checks | descriptions opened 90 | {"dropped earlier": 55, "visa unclear (no mention)": 83, "visa unclear (ad unreadable)": 170}
---- search runner 5/10 (18.1 min)
-indeed | Australia | AI product visa sponsorship | 5
-linkedin | Lahore, Pakistan | AI product | 12
-linkedin | Lahore, Pakistan | head of data | 14
+locations | missing 60 | looked up 40 | found 39
+checks | descriptions opened 90 | {"dropped earlier": 53, "visa unclear (no mention)": 83, "visa unclear (ad unreadable)": 161}
+--- search runner 5/10 (16.6 min)
+indeed | Australia | AI product visa sponsorship | 6
+linkedin | Lahore, Pakistan | AI product | 14
+linkedin | Lahore, Pakistan | head of data | 11
 linkedin | Lahore, Pakistan | chief of staff | 6
-linkedin | Karachi, Pakistan | assistant professor | 2
-linkedin | Karachi, Pakistan | salesforce | 33
+linkedin | Karachi, Pakistan | assistant professor | 0
+linkedin | Karachi, Pakistan | salesforce | 30
 linkedin | Islamabad, Pakistan | revenue operations | 7
-linkedin | Islamabad, Pakistan | data analytics | 18
-linkedin | Islamabad, Pakistan | growth analyst | 14
-linkedin | Dubai, United Arab Emirates | data scientist | 78
+linkedin | Islamabad, Pakistan | data analytics | 13
+linkedin | Islamabad, Pakistan | growth analyst | 10
+linkedin | Dubai, United Arab Emirates | data scientist | 72
 linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 100
 linkedin | United Arab Emirates | AI product | 100
-linkedin | Riyadh, Saudi Arabia | sales operations | 54
-linkedin | Jeddah, Saudi Arabia | revenue operations | 7
-linkedin | Saudi Arabia | business intelligence | 55
+linkedin | Riyadh, Saudi Arabia | sales operations | 59
+linkedin | Jeddah, Saudi Arabia | revenue operations | 6
+linkedin | Saudi Arabia | business intelligence | 42
 linkedin | Qatar | data analyst | 50
 linkedin | Qatar | power bi | 50
-linkedin | Bahrain | analytics manager | 4
+linkedin | Bahrain | analytics manager | 9
 linkedin | Oman | assistant professor | 0
-linkedin | Kuwait | lecturer | 9
+linkedin | Kuwait | lecturer | 7
 linkedin | Jordan | data scientist | 2
 linkedin | Egypt | strategy and planning | 100
 linkedin | Istanbul, Türkiye | strategy and planning | 50
@@ -389,206 +739,391 @@ linkedin | United Kingdom | AI product manager visa sponsorship | 50
 linkedin | Germany | data scientist visa sponsorship | 50
 linkedin | Poland | data analyst visa sponsorship | 50
 linkedin | Budapest, Hungary | AI product manager visa sponsorship | 3
-linkedin | Lisbon, Portugal | data scientist visa sponsorship | 7
+linkedin | Lisbon, Portugal | data scientist visa sponsorship | 6
 linkedin | Australia | data analyst visa sponsorship | 50
-linkedin | New Zealand | AI product manager visa sponsorship | 11
+linkedin | New Zealand | AI product manager visa sponsorship | 4
 indeed | Pakistan | power bi | 14
-indeed | Pakistan | business operations | 100
+indeed | Pakistan | business operations | 37
 indeed | Pakistan | lecturer | 1
-indeed | Lahore | analytics manager | 15
-indeed | Lahore | CRM | 68
-indeed | Karachi | business analyst | 5
-indeed | Karachi | business planning | 29
-indeed | Karachi | AI | 34
+indeed | Lahore | analytics manager | 13
+indeed | Lahore | CRM | 61
+indeed | Karachi | business analyst | 3
+indeed | Karachi | business planning | 21
+indeed | Karachi | AI | 35
 indeed | Islamabad | data scientist | 0
-indeed | Islamabad | sales operations | 23
+indeed | Islamabad | sales operations | 17
 indeed | Islamabad | trainer | 3
 indeed | United Arab Emirates | sales operations | 100
-indeed | Saudi Arabia | analytics manager | 2
-indeed | Qatar | business analyst | 1
+indeed | Saudi Arabia | analytics manager | 1
+indeed | Qatar | business analyst | 2
 indeed | Qatar | AI specialist | 0
 indeed | Bahrain | business planning | 2
 indeed | Oman | power bi | 0
 indeed | Oman | lecturer | 0
 indeed | Kuwait | sales operations | 3
-indeed | Egypt | analytics manager | 8
+indeed | Egypt | analytics manager | 6
 indeed | Turkey | business analyst visa sponsorship | 0
-indeed | Malaysia | data scientist | 3
+indeed | Malaysia | data scientist | 1
 indeed | Singapore | strategy and operations | 100
 indeed | Japan | AI product visa sponsorship | 0
 indeed | Ireland | business analyst visa sponsorship | 1
 indeed | Germany | data scientist visa sponsorship | 0
-indeed | Netherlands | strategy visa sponsorship | 2
+indeed | Netherlands | strategy visa sponsorship | 1
 indeed | Poland | AI product visa sponsorship | 0
 indeed | Czech Republic | business analyst visa sponsorship | 0
 indeed | Portugal | data scientist visa sponsorship | 0
-indeed | Canada | strategy visa sponsorship | 12
+indeed | Canada | strategy visa sponsorship | 11
 discovered employers | added | 8478
-workday | generalmotors | FAILED: 504 Server Error: Gateway Timeout for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/gene
-workday | jci | FAILED: 502 Server Error: Bad Gateway for url: https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/jci/jobs
-workday | spectrumhealth | FAILED: 500 Server Error: Internal Server Error for url: https://spectrumhealth.wd5.myworkdayjobs.com/wday/c
-ashby | 129 employers | 2833
-bamboohr | 8 employers | 57
-breezy | 3 employers | 42
-greenhouse | 156 employers | 7984
-icims | 17 employers | 2772
+workday | 3m | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | agilent | FAILED: 521 Server Error: <none> for url: https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/Agilent_Stu
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/Manufactu
+workday | amgen | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | assurant | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | Autodesk | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | avisbudget | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | axcelis | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bakerhughes | FAILED: 521 Server Error: <none> for url: https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bakerhughes/Bak
+workday | bbinsurance | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | benchmark | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | biotechne | FAILED: 521 Server Error: <none> for url: https://biotechne.wd5.myworkdayjobs.com/wday/cxs/biotechne/Biotech
+workday | blueorigin | FAILED: 521 Server Error: <none> for url: https://blueorigin.wd5.myworkdayjobs.com/wday/cxs/blueorigin/blueo
+workday | boeing | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | brookfield | FAILED: 521 Server Error: <none> for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/bgre/
+workday | bydeluxe | FAILED: 521 Server Error: <none> for url: https://bydeluxe.wd5.myworkdayjobs.com/wday/cxs/bydeluxe/Deluxe_Ex
+workday | canadiansolar | FAILED: 521 Server Error: <none> for url: https://canadiansolar.wd5.myworkdayjobs.com/wday/cxs/canadiansolar
+workday | cardinalhealth | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ccf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | chghealthcare | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cigna | FAILED: 521 Server Error: <none> for url: https://cigna.wd5.myworkdayjobs.com/wday/cxs/cigna/cignacareers/jo
+workday | cityblockhealth | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cohesity | FAILED: 521 Server Error: <none> for url: https://cohesity.wd5.myworkdayjobs.com/wday/cxs/cohesity/cohesity_
+workday | conagrabrands | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | corpartners | FAILED: 521 Server Error: <none> for url: https://corpartners.wd5.myworkdayjobs.com/wday/cxs/corpartners/Env
+workday | crateandbarrel | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | CVS Health | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dimensional | FAILED: 521 Server Error: <none> for url: https://dimensional.wd5.myworkdayjobs.com/wday/cxs/dimensional/DFA
+workday | dow | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dxctechnology | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | encore | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | evercommerce | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fiserv | FAILED: 521 Server Error: <none> for url: https://fiserv.wd5.myworkdayjobs.com/wday/cxs/fiserv/ext/jobs
+workday | foundationccc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gafsgi | FAILED: 521 Server Error: <none> for url: https://gafsgi.wd5.myworkdayjobs.com/wday/cxs/gafsgi/BMI/jobs
+workday | gdit | FAILED: 521 Server Error: <none> for url: https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/gdit_empl_ref/job
+workday | generalmotors | FAILED: 521 Server Error: <none> for url: https://generalmotors.wd5.myworkdayjobs.com/wday/cxs/generalmotors
+workday | gevernova | FAILED: 521 Server Error: <none> for url: https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/only_co
+workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | globelife | FAILED: 521 Server Error: <none> for url: https://globelife.wd5.myworkdayjobs.com/wday/cxs/globelife/Globe-L
+workday | gphealth | FAILED: 521 Server Error: <none> for url: https://gphealth.wd5.myworkdayjobs.com/wday/cxs/gphealth/GPH/jobs
+workday | gsk | FAILED: 521 Server Error: <none> for url: https://gsk.wd5.myworkdayjobs.com/wday/cxs/gsk/GSKCareers/jobs
+workday | healthfirst | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | heinz | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hp | FAILED: 521 Server Error: <none> for url: https://hp.wd5.myworkdayjobs.com/wday/cxs/hp/exteu-ac-careersite/j
+workday | huntsman | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | inlandimaging | FAILED: 521 Server Error: <none> for url: https://inlandimaging.wd5.myworkdayjobs.com/wday/cxs/inlandimaging
+workday | itron | FAILED: 521 Server Error: <none> for url: https://itron.wd5.myworkdayjobs.com/wday/cxs/itron/Early_Careers/j
+workday | jci | FAILED: 521 Server Error: <none> for url: https://jci.wd5.myworkdayjobs.com/wday/cxs/jci/jci/jobs
+workday | jll | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kindercare | FAILED: 521 Server Error: <none> for url: https://kindercare.wd5.myworkdayjobs.com/wday/cxs/kindercare/exter
+workday | landolakes | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | lmh | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | lplfinancial | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | michaels | FAILED: 521 Server Error: <none> for url: https://michaels.wd5.myworkdayjobs.com/wday/cxs/michaels/External/
+workday | mizuho | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | modsquad | FAILED: 521 Server Error: <none> for url: https://modsquad.wd5.myworkdayjobs.com/wday/cxs/modsquad/ModSquad_
+workday | mpc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | nasdaq | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | neighborlybrands | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | nike | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | oneoncology | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | oreillyauto | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | panerabread | FAILED: 521 Server Error: <none> for url: https://panerabread.wd5.myworkdayjobs.com/wday/cxs/panerabread/pan
+workday | pfizer | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pillsburylaw | FAILED: 521 Server Error: <none> for url: https://pillsburylaw.wd5.myworkdayjobs.com/wday/cxs/pillsburylaw/E
+workday | qvc | FAILED: 521 Server Error: <none> for url: https://qvc.wd5.myworkdayjobs.com/wday/cxs/qvc/QVC-Japan/jobs
+workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | resilience | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rivhs | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sbdinc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | seic | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sharecare | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sifive | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sju | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | smucker | FAILED: 521 Server Error: <none> for url: https://smucker.wd5.myworkdayjobs.com/wday/cxs/smucker/US_External
+workday | sonyglobal | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | spectrumhealth | FAILED: 521 Server Error: <none> for url: https://spectrumhealth.wd5.myworkdayjobs.com/wday/cxs/spectrumheal
+workday | srsdistribution | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | statestreet | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | strongtie | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | teamwass | FAILED: 521 Server Error: <none> for url: https://teamwass.wd5.myworkdayjobs.com/wday/cxs/teamwass/wasserman
+workday | terminix | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | thinkbrg | FAILED: 521 Server Error: <none> for url: https://thinkbrg.wd5.myworkdayjobs.com/wday/cxs/thinkbrg/BRG_Exter
+workday | transamerica | FAILED: 521 Server Error: <none> for url: https://transamerica.wd5.myworkdayjobs.com/wday/cxs/transamerica/U
+workday | umusic | FAILED: 521 Server Error: <none> for url: https://umusic.wd5.myworkdayjobs.com/wday/cxs/umusic/UMGAPAC/jobs
+workday | usfoods | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vcuhealth | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vertexinc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | viatris | FAILED: 521 Server Error: <none> for url: https://viatris.wd5.myworkdayjobs.com/wday/cxs/viatris/External/jo
+workday | vsp | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wattswater | FAILED: 521 Server Error: <none> for url: https://wattswater.wd5.myworkdayjobs.com/wday/cxs/wattswater/Exter
+workday | wmeimg | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | woundedwarriorproject | FAILED: 521 Server Error: <none> for url: https://woundedwarriorproject.wd5.myworkdayjobs.com/wday/cxs/wound
+workday | wwecorp | FAILED: 521 Server Error: <none> for url: https://wwecorp.wd5.myworkdayjobs.com/wday/cxs/wwecorp/IMG/jobs
+workday | youthvillages | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | zoll | FAILED: 521 Server Error: <none> for url: https://zoll.wd5.myworkdayjobs.com/wday/cxs/zoll/zollmedicalcorp/j
+ashby | 129 employers | 2837
+bamboohr | 8 employers | 59
+breezy | 3 employers | 41
+greenhouse | 156 employers | 7973
+icims | 17 employers | 2757
 lever | 8 employers | 994
-oracle | 42 employers | 11838
+oracle | 42 employers | 11812
 personio | 92 employers | 1071
-pinpoint | 5 employers | 421
-recruitee | 33 employers | 948
-smartrecruiters | 40 employers | 10424
-successfactors | 23 employers | 8497
+pinpoint | 5 employers | 422
+recruitee | 33 employers | 946
+smartrecruiters | 40 employers | 10430
+successfactors | 23 employers | 1387
 taleo | 6 employers | 373
 teamtailor | 21 employers | 221
-workable | 101 employers | 8737
-workday | 168 employers | 10864
+workable | 101 employers | 8744
+workday | 168 employers | 5334
 telegram | jobs_sql | 5
-locations | missing 104 | looked up 40 | found 23
-checks | descriptions opened 90 | {"dropped earlier": 36, "visa unclear (no mention)": 62, "visa ruled out": 2}
---- search runner 6/10 (16.6 min)
+locations | missing 56 | looked up 40 | found 25
+checks | descriptions opened 85 | {"dropped earlier": 35, "visa unclear (no mention)": 43}
+--- search runner 6/10 (16.7 min)
 indeed | New Zealand | data analyst visa sponsorship | 0
 linkedin | Lahore, Pakistan | strategy and planning | 50
-linkedin | Lahore, Pakistan | BI developer | 10
-linkedin | Lahore, Pakistan | operations analyst | 29
-linkedin | Karachi, Pakistan | analytics manager | 25
-linkedin | Karachi, Pakistan | AI specialist | 11
-linkedin | Islamabad, Pakistan | sales operations | 33
-linkedin | Islamabad, Pakistan | product analyst | 10
-linkedin | Islamabad, Pakistan | MIS | 24
-linkedin | Dubai, United Arab Emirates | lecturer | 29
-linkedin | Abu Dhabi, United Arab Emirates | data scientist | 90
+linkedin | Lahore, Pakistan | BI developer | 8
+linkedin | Lahore, Pakistan | operations analyst | 25
+linkedin | Karachi, Pakistan | analytics manager | 23
+linkedin | Karachi, Pakistan | AI specialist | 7
+linkedin | Islamabad, Pakistan | sales operations | 32
+linkedin | Islamabad, Pakistan | product analyst | 8
+linkedin | Islamabad, Pakistan | MIS | 20
+linkedin | Dubai, United Arab Emirates | lecturer | 37
+linkedin | Abu Dhabi, United Arab Emirates | data scientist | 86
 linkedin | United Arab Emirates | strategy and planning | 100
 linkedin | Riyadh, Saudi Arabia | AI product | 10
-linkedin | Jeddah, Saudi Arabia | sales operations | 20
-linkedin | Saudi Arabia | revenue operations | 58
-linkedin | Qatar | business intelligence | 47
-linkedin | Bahrain | data analyst | 5
-linkedin | Bahrain | power bi | 27
-linkedin | Oman | analytics manager | 6
-linkedin | Kuwait | assistant professor | 6
+linkedin | Jeddah, Saudi Arabia | sales operations | 15
+linkedin | Saudi Arabia | revenue operations | 47
+linkedin | Qatar | business intelligence | 44
+linkedin | Bahrain | data analyst | 9
+linkedin | Bahrain | power bi | 33
+linkedin | Oman | analytics manager | 7
+linkedin | Kuwait | assistant professor | 5
 linkedin | Jordan | lecturer | 12
-linkedin | Egypt | data scientist | 35
+linkedin | Egypt | data scientist | 32
 linkedin | Istanbul, Türkiye | data scientist | 50
 linkedin | Singapore | AI product | 50
 linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 50
 linkedin | United Kingdom | strategy visa sponsorship | 50
 linkedin | Germany | revenue operations visa sponsorship | 50
 linkedin | Poland | business intelligence visa sponsorship | 50
-linkedin | Budapest, Hungary | strategy visa sponsorship | 43
+linkedin | Budapest, Hungary | strategy visa sponsorship | 40
 linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 3
 linkedin | Australia | business intelligence visa sponsorship | 50
 linkedin | New Zealand | strategy visa sponsorship | 50
-indeed | Pakistan | data analytics | 55
-indeed | Pakistan | revenue operations | 43
+indeed | Pakistan | data analytics | 54
+indeed | Pakistan | revenue operations | 40
 indeed | Pakistan | assistant professor | 0
 indeed | Lahore | product analyst | 1
 indeed | Lahore | pricing analyst | 3
-indeed | Karachi | business intelligence | 7
-indeed | Karachi | strategy and operations | 21
+indeed | Karachi | business intelligence | 6
+indeed | Karachi | strategy and operations | 16
 indeed | Karachi | AI product | 17
 indeed | Islamabad | machine learning | 0
-indeed | Islamabad | salesforce | 9
-indeed | United Arab Emirates | data analyst | 19
-indeed | United Arab Emirates | AI product | 43
+indeed | Islamabad | salesforce | 7
+indeed | United Arab Emirates | data analyst | 16
+indeed | United Arab Emirates | AI product | 41
 indeed | Saudi Arabia | strategy | 41
-indeed | Qatar | business intelligence | 2
+indeed | Qatar | business intelligence | 1
 indeed | Qatar | pricing analyst | 0
 indeed | Bahrain | revenue operations | 0
-indeed | Oman | data scientist | 0
+indeed | Oman | data scientist | 1
 indeed | Kuwait | data analyst | 0
 indeed | Kuwait | AI product | 1
-indeed | Egypt | strategy | 38
+indeed | Egypt | strategy | 32
 indeed | Turkey | business intelligence visa sponsorship | 0
-indeed | Malaysia | revenue operations | 77
+indeed | Malaysia | revenue operations | 48
 indeed | Singapore | AI product | 100
 indeed | UK | data analyst visa sponsorship | 0
-indeed | Ireland | business intelligence visa sponsorship | 3
+indeed | Ireland | business intelligence visa sponsorship | 4
 indeed | Germany | revenue operations visa sponsorship | 0
 indeed | Netherlands | data analyst relocation | 0
 indeed | Hungary | data analyst visa sponsorship | 0
 indeed | Czech Republic | business intelligence visa sponsorship | 0
 indeed | Portugal | revenue operations visa sponsorship | 0
-indeed | Canada | data analyst relocation | 4
+indeed | Canada | data analyst relocation | 5
 discovered employers | added | 8478
-ashby | 128 employers | 3853
+workday | abglobal | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | airproducts | FAILED: 521 Server Error: <none> for url: https://airproducts.wd5.myworkdayjobs.com/wday/cxs/airproducts/AP0
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/SAT/jobs
+workday | amlrightsource | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | automationanywhere | FAILED: 521 Server Error: <none> for url: https://automationanywhere.wd5.myworkdayjobs.com/wday/cxs/automati
+workday | aviva | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bakertilly | FAILED: 521 Server Error: <none> for url: https://bakertilly.wd5.myworkdayjobs.com/wday/cxs/bakertilly/BTCar
+workday | bbinsurance | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | blueowl | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | boeing | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bridgeigp | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | brookfield | FAILED: 521 Server Error: <none> for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brook
+workday | caci | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | careabout | FAILED: 521 Server Error: <none> for url: https://careabout.wd5.myworkdayjobs.com/wday/cxs/careabout/consens
+workday | christianacare | FAILED: 521 Server Error: <none> for url: https://christianacare.wd5.myworkdayjobs.com/wday/cxs/christianaca
+workday | cincinnatichildrens | FAILED: 521 Server Error: <none> for url: https://cincinnatichildrens.wd5.myworkdayjobs.com/wday/cxs/cincinn
+workday | cmegroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | coke | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | creationtech | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cw | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | datarobot | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dowjones | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | earlywarning | FAILED: 521 Server Error: <none> for url: https://earlywarning.wd5.myworkdayjobs.com/wday/cxs/earlywarning/e
+workday | elkay | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | equifax | FAILED: 521 Server Error: <none> for url: https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/External/jo
+workday | essentiahealth | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | flexerasoftware | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gafsgi | FAILED: 521 Server Error: <none> for url: https://gafsgi.wd5.myworkdayjobs.com/wday/cxs/gafsgi/BMIDE/jobs
+workday | gdit | FAILED: 521 Server Error: <none> for url: https://gdit.wd5.myworkdayjobs.com/wday/cxs/gdit/incumbent_career_
+workday | genesiscare | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gevernova | FAILED: 521 Server Error: <none> for url: https://gevernova.wd5.myworkdayjobs.com/wday/cxs/gevernova/Vernova
+workday | ghr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | globusmedical | FAILED: 521 Server Error: <none> for url: https://globusmedical.wd5.myworkdayjobs.com/wday/cxs/globusmedical
+workday | grammy | FAILED: 521 Server Error: <none> for url: https://grammy.wd5.myworkdayjobs.com/wday/cxs/grammy/the_recording
+workday | gsk | FAILED: 521 Server Error: <none> for url: https://gsk.wd5.myworkdayjobs.com/wday/cxs/gsk/ViiV_Careers/jobs
+workday | hpe | FAILED: 521 Server Error: <none> for url: https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/acjobsite/jobs
+workday | huron | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | iff | FAILED: 521 Server Error: <none> for url: https://iff.wd5.myworkdayjobs.com/wday/cxs/iff/IFF_Careers/jobs
+workday | insulet | FAILED: 521 Server Error: <none> for url: https://insulet.wd5.myworkdayjobs.com/wday/cxs/insulet/insuletcare
+workday | interpublic | FAILED: 521 Server Error: <none> for url: https://interpublic.wd5.myworkdayjobs.com/wday/cxs/interpublic/OMC
+workday | itron | FAILED: 521 Server Error: <none> for url: https://itron.wd5.myworkdayjobs.com/wday/cxs/itron/Itron/jobs
+workday | languageline | FAILED: 521 Server Error: <none> for url: https://languageline.wd5.myworkdayjobs.com/wday/cxs/languageline/L
+workday | levistraussandco | FAILED: 521 Server Error: <none> for url: https://levistraussandco.wd5.myworkdayjobs.com/wday/cxs/levistraus
+workday | lnw | FAILED: 521 Server Error: <none> for url: https://lnw.wd5.myworkdayjobs.com/wday/cxs/lnw/LightWonderExternal
+workday | magnitudesoftware | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mavenir | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mksinst | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | momentive | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | myhrabc | FAILED: 521 Server Error: <none> for url: https://myhrabc.wd5.myworkdayjobs.com/wday/cxs/myhrabc/Global/jobs
+workday | nelnet | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | nvent | FAILED: 521 Server Error: <none> for url: https://nvent.wd5.myworkdayjobs.com/wday/cxs/nvent/nVent/jobs
+workday | onetp | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | organon | FAILED: 521 Server Error: <none> for url: https://organon.wd5.myworkdayjobs.com/wday/cxs/organon/SearchJobs/
+workday | overlakemedicalcenter | FAILED: 521 Server Error: <none> for url: https://overlakemedicalcenter.wd5.myworkdayjobs.com/wday/cxs/overl
+workday | parexel | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pg | FAILED: 521 Server Error: <none> for url: https://pg.wd5.myworkdayjobs.com/wday/cxs/pg/1000/jobs
+workday | pimco | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | qvc | FAILED: 521 Server Error: <none> for url: https://qvc.wd5.myworkdayjobs.com/wday/cxs/qvc/QVCEurope/jobs
+workday | rsm | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sabre | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | selinc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | shawinc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | signetjewelers | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | skechers | FAILED: 521 Server Error: <none> for url: https://skechers.wd5.myworkdayjobs.com/wday/cxs/skechers/one-caree
+workday | snapchat | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sonyglobal | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | spgi | FAILED: 521 Server Error: <none> for url: https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs
+workday | srsdistribution | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | stcharles | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | stryker | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | synechron | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | Target | FAILED: 521 Server Error: <none> for url: https://target.wd5.myworkdayjobs.com/wday/cxs/target/targetcareers
+workday | terminix | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tnsi | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | transperfect | FAILED: 521 Server Error: <none> for url: https://transperfect.wd5.myworkdayjobs.com/wday/cxs/transperfect/t
+workday | troweprice | FAILED: 521 Server Error: <none> for url: https://troweprice.wd5.myworkdayjobs.com/wday/cxs/troweprice/TRowe
+workday | umusic | FAILED: 521 Server Error: <none> for url: https://umusic.wd5.myworkdayjobs.com/wday/cxs/umusic/UMGUK/jobs
+workday | uofl | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vfc | FAILED: 521 Server Error: <none> for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/altra_careers/jobs
+workday | victaulic | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vumc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | web | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wework | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wmeimg | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wpengine | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wwecorp | FAILED: 521 Server Error: <none> for url: https://wwecorp.wd5.myworkdayjobs.com/wday/cxs/wwecorp/On_Location
+workday | zoom | FAILED: 521 Server Error: <none> for url: https://zoom.wd5.myworkdayjobs.com/wday/cxs/zoom/Zoom/jobs
+ashby | 128 employers | 3850
 bamboohr | 9 employers | 29
 breezy | 3 employers | 46
-greenhouse | 156 employers | 8305
-icims | 17 employers | 1596
-lever | 8 employers | 129
-oracle | 42 employers | 10087
-personio | 91 employers | 997
+greenhouse | 156 employers | 8303
+icims | 17 employers | 1591
+lever | 8 employers | 131
+oracle | 42 employers | 10075
+personio | 91 employers | 999
 pinpoint | 6 employers | 371
-recruitee | 33 employers | 447
-smartrecruiters | 40 employers | 8506
-successfactors | 22 employers | 5255
-taleo | 7 employers | 1410
+recruitee | 33 employers | 448
+smartrecruiters | 40 employers | 8492
+successfactors | 22 employers | 5222
+taleo | 7 employers | 1254
 teamtailor | 21 employers | 295
-workable | 101 employers | 5414
-workday | 168 employers | 10517
+workable | 101 employers | 5416
+workday | 168 employers | 5161
 google_alerts | skipped (no feeds yet: add GOOGLE_ALERTS_FEEDS secret)
 brave | skipped (no BRAVE_KEY secret)
 signals | pages opened 0 | jobs read 0
-locations | missing 74 | looked up 40 | found 32
-checks | descriptions opened 90 | {"dropped earlier": 17, "visa unclear (no mention)": 58, "visa ruled out": 1}
---- search runner 7/10 (27.8 min)
+locations | missing 44 | looked up 40 | found 32
+checks | descriptions opened 87 | {"dropped earlier": 16, "visa unclear (no mention)": 48}
+--- search runner 7/10 (31.1 min)
 linkedin | Poland | data scientist visa sponsorship | 50
-linkedin | Prague, Czechia | data analyst visa sponsorship | 30
+linkedin | Prague, Czechia | data analyst visa sponsorship | 27
 linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 1
 linkedin | Australia | data scientist visa sponsorship | 50
-indeed | Pakistan | data scientist | 3
+indeed | Pakistan | data scientist | 1
 indeed | Pakistan | sales operations | 100
-indeed | Pakistan | trainer | 9
+indeed | Pakistan | trainer | 8
 indeed | Lahore | MIS | 1
 indeed | Lahore | growth | 100
 indeed | Karachi | power bi | 4
-indeed | Karachi | business operations | 64
+indeed | Karachi | business operations | 51
 indeed | Karachi | lecturer | 1
-indeed | Islamabad | analytics manager | 11
-indeed | Islamabad | CRM | 39
-indeed | United Arab Emirates | business analyst | 21
-indeed | United Arab Emirates | AI specialist | 18
-indeed | Saudi Arabia | business planning | 33
+indeed | Islamabad | analytics manager | 7
+indeed | Islamabad | CRM | 33
+indeed | United Arab Emirates | business analyst | 19
+indeed | United Arab Emirates | AI specialist | 16
+indeed | Saudi Arabia | business planning | 30
 indeed | Qatar | power bi | 2
 indeed | Qatar | lecturer | 0
-indeed | Bahrain | sales operations | 1
+indeed | Bahrain | sales operations | 0
 indeed | Oman | analytics manager | 1
 indeed | Kuwait | business analyst | 0
 indeed | Kuwait | AI specialist | 0
-indeed | Egypt | business planning | 29
+indeed | Egypt | business planning | 25
 indeed | Turkey | data scientist visa sponsorship | 0
 indeed | Malaysia | strategy and operations | 100
 indeed | Singapore | pricing analyst | 6
 indeed | UK | business analyst visa sponsorship | 0
 indeed | Ireland | data scientist visa sponsorship | 0
-indeed | Germany | strategy visa sponsorship | 5
-indeed | Netherlands | AI product visa sponsorship | 4
+indeed | Germany | strategy visa sponsorship | 4
+indeed | Netherlands | AI product visa sponsorship | 3
 indeed | Hungary | business analyst visa sponsorship | 0
 indeed | Czech Republic | data scientist visa sponsorship | 0
 indeed | Portugal | strategy visa sponsorship | 0
-indeed | Canada | AI product visa sponsorship | 6
+indeed | Canada | AI product visa sponsorship | 7
 indeed | New Zealand | business analyst visa sponsorship | 0
-linkedin | Lahore, Pakistan | data scientist | 14
-linkedin | Lahore, Pakistan | strategy manager | 28
-linkedin | Karachi, Pakistan | data analyst | 42
+linkedin | Lahore, Pakistan | data scientist | 10
+linkedin | Lahore, Pakistan | strategy manager | 25
+linkedin | Karachi, Pakistan | data analyst | 39
 linkedin | Karachi, Pakistan | power bi | 50
 linkedin | Karachi, Pakistan | business planning | 50
-linkedin | Islamabad, Pakistan | AI product | 5
+linkedin | Islamabad, Pakistan | AI product | 6
 linkedin | Islamabad, Pakistan | head of data | 5
 linkedin | Islamabad, Pakistan | chief of staff | 8
 linkedin | Dubai, United Arab Emirates | assistant professor | 7
-linkedin | Abu Dhabi, United Arab Emirates | lecturer | 75
+linkedin | Abu Dhabi, United Arab Emirates | lecturer | 68
 linkedin | United Arab Emirates | data scientist | 100
 linkedin | Riyadh, Saudi Arabia | strategy and planning | 100
 linkedin | Jeddah, Saudi Arabia | AI product | 1
 linkedin | Saudi Arabia | sales operations | 100
-linkedin | Qatar | revenue operations | 33
-linkedin | Bahrain | business intelligence | 2
-linkedin | Oman | data analyst | 2
-linkedin | Oman | power bi | 13
+linkedin | Qatar | revenue operations | 30
+linkedin | Bahrain | business intelligence | 8
+linkedin | Oman | data analyst | 4
+linkedin | Oman | power bi | 17
 linkedin | Kuwait | analytics manager | 2
-linkedin | Jordan | assistant professor | 8
+linkedin | Jordan | assistant professor | 7
 linkedin | Egypt | lecturer | 17
 linkedin | Kuala Lumpur, Malaysia | data analyst | 50
 linkedin | Singapore | strategy and planning | 50
@@ -596,23 +1131,97 @@ linkedin | London, England, United Kingdom | data scientist visa sponsorship | 5
 linkedin | Ireland | data analyst visa sponsorship | 48
 linkedin | Germany | AI product manager visa sponsorship | 50
 discovered employers | added | 8478
-ashby | 128 employers | 4127
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/Careers_G
+workday | aptiv | FAILED: 521 Server Error: <none> for url: https://aptiv.wd5.myworkdayjobs.com/wday/cxs/aptiv/APTIV_CAREERS/j
+workday | arkbluecross | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | aviva | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | axiscapital | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | baldwin | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bbinsurance | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bluescopenac | FAILED: 521 Server Error: <none> for url: https://bluescopenac.wd5.myworkdayjobs.com/wday/cxs/bluescopenac/B
+workday | bridgestone | FAILED: 521 Server Error: <none> for url: https://bridgestone.wd5.myworkdayjobs.com/wday/cxs/bridgestone/Can
+workday | brookfield | FAILED: 521 Server Error: <none> for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brookfield/brook
+workday | cadence | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | caresource | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | clarios | FAILED: 521 Server Error: <none> for url: https://clarios.wd5.myworkdayjobs.com/wday/cxs/clarios/clarioscare
+workday | collectorsuniverse | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | conmed | FAILED: 521 Server Error: <none> for url: https://conmed.wd5.myworkdayjobs.com/wday/cxs/conmed/conmed/jobs
+workday | corteva | FAILED: 521 Server Error: <none> for url: https://corteva.wd5.myworkdayjobs.com/wday/cxs/corteva/Corteva/job
+workday | cscc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cwi | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | datasite | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | disney | FAILED: 521 Server Error: <none> for url: https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareer/
+workday | dowjones | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ebi | FAILED: 521 Server Error: <none> for url: https://ebi.wd5.myworkdayjobs.com/wday/cxs/ebi/ebicareers/jobs
+workday | enovis | FAILED: 521 Server Error: <none> for url: https://enovis.wd5.myworkdayjobs.com/wday/cxs/enovis/enovis/jobs
+workday | fedex | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | firstadvantage | FAILED: 521 Server Error: <none> for url: https://firstadvantage.wd5.myworkdayjobs.com/wday/cxs/firstadvanta
+workday | flexerasoftware | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fox | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | frgi | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gaig | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | genesys | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gfs | FAILED: 521 Server Error: <none> for url: https://gfs.wd5.myworkdayjobs.com/wday/cxs/gfs/usjobs-french/jobs
+workday | gi | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | harbourvest | FAILED: 521 Server Error: <none> for url: https://harbourvest.wd5.myworkdayjobs.com/wday/cxs/harbourvest/HVP
+workday | holmanautogroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hpe | FAILED: 521 Server Error: <none> for url: https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/jobsathpe/jobs
+workday | itw | FAILED: 521 Server Error: <none> for url: https://itw.wd5.myworkdayjobs.com/wday/cxs/itw/external/jobs
+workday | languageline | FAILED: 521 Server Error: <none> for url: https://languageline.wd5.myworkdayjobs.com/wday/cxs/languageline/L
+workday | lsu | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | marvell | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | maxar | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | micron | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mksinst | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ms | FAILED: 521 Server Error: <none> for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/external/jobs
+workday | mymvw | FAILED: 521 Server Error: <none> for url: https://mymvw.wd5.myworkdayjobs.com/wday/cxs/mymvw/MVW/jobs
+workday | newbalance | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | noblecorp | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | novanta | FAILED: 521 Server Error: <none> for url: https://novanta.wd5.myworkdayjobs.com/wday/cxs/novanta/Novanta-Car
+workday | Nvidia | FAILED: 521 Server Error: <none> for url: https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExterna
+workday | orthoclinical | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | owensminor | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | Parsons | FAILED: 521 Server Error: <none> for url: https://parsons.wd5.myworkdayjobs.com/wday/cxs/parsons/Search/jobs
+workday | pinnaclegroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | progleasing | FAILED: 521 Server Error: <none> for url: https://progleasing.wd5.myworkdayjobs.com/wday/cxs/progleasing/Pro
+workday | psu | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rackspace | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | regions | FAILED: 521 Server Error: <none> for url: https://regions.wd5.myworkdayjobs.com/wday/cxs/regions/regions_car
+workday | rochester | FAILED: 521 Server Error: <none> for url: https://rochester.wd5.myworkdayjobs.com/wday/cxs/rochester/ur_staf
+workday | scholastic | FAILED: 521 Server Error: <none> for url: https://scholastic.wd5.myworkdayjobs.com/wday/cxs/scholastic/Exter
+workday | semrush | FAILED: 521 Server Error: <none> for url: https://semrush.wd5.myworkdayjobs.com/wday/cxs/semrush/semrushcare
+workday | signetjewelers | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | spgi | FAILED: 521 Server Error: <none> for url: https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/spgi_internal/job
+workday | terminix | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | thomsonreuters | FAILED: 521 Server Error: <none> for url: https://thomsonreuters.wd5.myworkdayjobs.com/wday/cxs/thomsonreute
+workday | transunion | FAILED: 521 Server Error: <none> for url: https://transunion.wd5.myworkdayjobs.com/wday/cxs/transunion/Trans
+workday | tysonfoods | FAILED: 521 Server Error: <none> for url: https://tysonfoods.wd5.myworkdayjobs.com/wday/cxs/tysonfoods/CVT/j
+workday | vfc | FAILED: 521 Server Error: <none> for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/broadbean/jobs
+workday | visa | FAILED: 521 Server Error: <none> for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa/jobs
+workday | vwr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | web | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wexinc | FAILED: 521 Server Error: <none> for url: https://wexinc.wd5.myworkdayjobs.com/wday/cxs/wexinc/WEXInc/jobs
+workday | wmeimg | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wsc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wwecorp | FAILED: 521 Server Error: <none> for url: https://wwecorp.wd5.myworkdayjobs.com/wday/cxs/wwecorp/tko/jobs
+ashby | 128 employers | 4133
 bamboohr | 9 employers | 116
 breezy | 3 employers | 82
-greenhouse | 156 employers | 7348
-icims | 17 employers | 916
-lever | 8 employers | 488
-oracle | 42 employers | 10129
+greenhouse | 156 employers | 7341
+icims | 17 employers | 914
+lever | 8 employers | 489
+oracle | 42 employers | 10090
 personio | 91 employers | 1154
-pinpoint | 6 employers | 267
+pinpoint | 6 employers | 266
 recruitee | 33 employers | 521
-smartrecruiters | 40 employers | 5885
-successfactors | 22 employers | 2454
+smartrecruiters | 40 employers | 5883
+successfactors | 22 employers | 1435
 taleo | 7 employers | 877
 teamtailor | 21 employers | 252
-workable | 101 employers | 4981
-workday | 168 employers | 10067
-university | FAST-NUCES | new links 1 | relevant 1
+workable | 101 employers | 4980
+workday | 168 employers | 5004
+university | FAST-NUCES | new links 0 | relevant 0
 university | LUMS | new links 0 | relevant 0
 university | NUST | new links 0 | relevant 0
 university | COMSATS University | new links 0 | relevant 0
@@ -623,15 +1232,15 @@ university | University of Management and Technology | careers page not found (a
 university | University of the Punjab | new links 0 | relevant 0
 university | Lahore School of Economics | careers page not found (also tried the home page)
 university | Forman Christian College | new links 0 | relevant 0
-university | Beaconhouse National University | FAILED: Failed to perform, curl: (28) Connection timed out after 45001 milliseconds. See
+university | Beaconhouse National University | FAILED: Failed to perform, curl: (28) Connection timed out after 45000 milliseconds. See
 university | Habib University | new links 0 | relevant 0
 university | SZABIST | new links 0 | relevant 0
 university | Air University | FAILED: HTTP Error 403: 
 university | Bahria University | new links 0 | relevant 0
 university | Quaid-i-Azam University | new links 0 | relevant 0
 university | PIEAS | new links 0 | relevant 0
-university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 42395 milliseconds. See
-university | UET Lahore | new links 0 | relevant 0
+university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 43330 milliseconds. See
+university | UET Lahore | careers page not found (also tried the home page)
 university | University of Wollongong in Dubai | new links 0 | relevant 0
 university | Middlesex University Dubai | new links 0 | relevant 0
 university | Heriot-Watt University Dubai | new links 0 | relevant 0
@@ -644,88 +1253,170 @@ university | Alfaisal University | new links 0 | relevant 0
 university | Effat University | new links 0 | relevant 0
 university | Qatar University | FAILED: Failed to perform, curl: (56) Connection closed abruptly. See https://curl.se/li
 university | University of Doha for Science and Technology | new links 0 | relevant 0
-locations | missing 145 | looked up 40 | found 35
-checks | descriptions opened 90 | {"dropped earlier": 31, "visa unclear (no mention)": 78, "visa unclear (ad unreadable)": 14}
---- search runner 8/10 (26.5 min)
+locations | missing 77 | looked up 40 | found 35
+checks | descriptions opened 90 | {"dropped earlier": 27, "visa unclear (no mention)": 69}
+--- search runner 8/10 (22.8 min)
 linkedin | Poland | revenue operations visa sponsorship | 41
-linkedin | Prague, Czechia | business intelligence visa sponsorship | 25
-linkedin | Lisbon, Portugal | strategy visa sponsorship | 15
+linkedin | Prague, Czechia | business intelligence visa sponsorship | 24
+linkedin | Lisbon, Portugal | strategy visa sponsorship | 14
 linkedin | Australia | revenue operations visa sponsorship | 50
-indeed | Pakistan | machine learning | 13
-indeed | Pakistan | salesforce | 22
-indeed | Lahore | data analyst | 5
-indeed | Lahore | strategy | 79
-indeed | Lahore | operations analyst | 1
-indeed | Karachi | data analytics | 14
-indeed | Karachi | revenue operations | 10
+indeed | Pakistan | machine learning | 11
+indeed | Pakistan | salesforce | 17
+indeed | Lahore | data analyst | 7
+indeed | Lahore | strategy | 72
+indeed | Lahore | operations analyst | 3
+indeed | Karachi | data analytics | 15
+indeed | Karachi | revenue operations | 9
 indeed | Karachi | assistant professor | 0
 indeed | Islamabad | product analyst | 3
 indeed | Islamabad | pricing analyst | 1
-indeed | United Arab Emirates | business intelligence | 45
+indeed | United Arab Emirates | business intelligence | 38
 indeed | United Arab Emirates | pricing analyst | 0
-indeed | Saudi Arabia | revenue operations | 11
+indeed | Saudi Arabia | revenue operations | 13
 indeed | Qatar | data scientist | 0
-indeed | Bahrain | data analyst | 1
+indeed | Bahrain | data analyst | 0
 indeed | Bahrain | AI product | 0
-indeed | Oman | strategy | 4
+indeed | Oman | strategy | 7
 indeed | Kuwait | business intelligence | 0
 indeed | Kuwait | pricing analyst | 0
 indeed | Egypt | revenue operations | 9
 indeed | Turkey | revenue operations visa sponsorship | 0
-indeed | Malaysia | AI product | 82
+indeed | Malaysia | AI product | 61
 indeed | Japan | data analyst visa sponsorship | 0
-indeed | UK | business intelligence visa sponsorship | 71
+indeed | UK | business intelligence visa sponsorship | 70
 indeed | Ireland | revenue operations visa sponsorship | 1
 indeed | Germany | data analyst relocation | 5
 indeed | Poland | data analyst visa sponsorship | 0
 indeed | Hungary | business intelligence visa sponsorship | 0
 indeed | Czech Republic | revenue operations visa sponsorship | 0
 indeed | Portugal | data analyst relocation | 0
-indeed | Australia | data analyst visa sponsorship | 1
+indeed | Australia | data analyst visa sponsorship | 0
 indeed | New Zealand | business intelligence visa sponsorship | 0
 linkedin | Lahore, Pakistan | lecturer | 3
-linkedin | Lahore, Pakistan | corporate planning | 32
-linkedin | Karachi, Pakistan | business intelligence | 16
-linkedin | Karachi, Pakistan | business analyst | 50
-linkedin | Karachi, Pakistan | pricing analyst | 26
-linkedin | Islamabad, Pakistan | strategy and planning | 33
-linkedin | Islamabad, Pakistan | BI developer | 6
-linkedin | Islamabad, Pakistan | operations analyst | 18
-linkedin | Dubai, United Arab Emirates | analytics manager | 100
-linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 56
+linkedin | Lahore, Pakistan | corporate planning | 28
+linkedin | Karachi, Pakistan | business intelligence | 13
+linkedin | Karachi, Pakistan | business analyst | 47
+linkedin | Karachi, Pakistan | pricing analyst | 24
+linkedin | Islamabad, Pakistan | strategy and planning | 29
+linkedin | Islamabad, Pakistan | BI developer | 5
+linkedin | Islamabad, Pakistan | operations analyst | 14
+linkedin | Dubai, United Arab Emirates | analytics manager | 87
+linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 50
 linkedin | United Arab Emirates | lecturer | 100
-linkedin | Riyadh, Saudi Arabia | data scientist | 13
-linkedin | Jeddah, Saudi Arabia | strategy and planning | 35
-linkedin | Saudi Arabia | AI product | 22
+linkedin | Riyadh, Saudi Arabia | data scientist | 12
+linkedin | Jeddah, Saudi Arabia | strategy and planning | 28
+linkedin | Saudi Arabia | AI product | 18
 linkedin | Qatar | sales operations | 50
-linkedin | Bahrain | revenue operations | 4
-linkedin | Oman | business intelligence | 2
-linkedin | Kuwait | data analyst | 5
+linkedin | Bahrain | revenue operations | 5
+linkedin | Oman | business intelligence | 4
+linkedin | Kuwait | data analyst | 4
 linkedin | Kuwait | power bi | 50
 linkedin | Jordan | analytics manager | 8
-linkedin | Egypt | assistant professor | 4
+linkedin | Egypt | assistant professor | 5
 linkedin | Kuala Lumpur, Malaysia | business intelligence | 50
 linkedin | Singapore | data scientist | 50
 linkedin | London, England, United Kingdom | revenue operations visa sponsorship | 50
-linkedin | Ireland | business intelligence visa sponsorship | 49
+linkedin | Ireland | business intelligence visa sponsorship | 50
 linkedin | Germany | strategy visa sponsorship | 50
 discovered employers | added | 8478
-ashby | 128 employers | 3282
+successfactors | careers.emaratech.ae | FAILED: Failed to perform, curl: (60) SSL certificate OpenSSL verify result: certificate has expired (10). S
+workday | aaamidatlantic | FAILED: 521 Server Error: <none> for url: https://aaamidatlantic.wd5.myworkdayjobs.com/wday/cxs/aaamidatlant
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/Careers_N
+workday | amat | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | amynta | FAILED: 521 Server Error: <none> for url: https://amynta.wd5.myworkdayjobs.com/wday/cxs/amynta/global/jobs
+workday | arrow | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | astreya | FAILED: 521 Server Error: <none> for url: https://astreya.wd5.myworkdayjobs.com/wday/cxs/astreya/life-at-ast
+workday | avera | FAILED: 521 Server Error: <none> for url: https://avera.wd5.myworkdayjobs.com/wday/cxs/avera/avera-careers/j
+workday | avon | FAILED: 521 Server Error: <none> for url: https://avon.wd5.myworkdayjobs.com/wday/cxs/avon/AvonCareers/jobs
+workday | axiscapital | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | baldwin | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bbinsurance | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bentleysystems | FAILED: 521 Server Error: <none> for url: https://bentleysystems.wd5.myworkdayjobs.com/wday/cxs/bentleysyste
+workday | bmc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | borgwarner | FAILED: 521 Server Error: <none> for url: https://borgwarner.wd5.myworkdayjobs.com/wday/cxs/borgwarner/borgw
+workday | bridgestone | FAILED: 521 Server Error: <none> for url: https://bridgestone.wd5.myworkdayjobs.com/wday/cxs/bridgestone/Ext
+workday | brooksauto | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | calibercollision | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | chrobinson | FAILED: 521 Server Error: <none> for url: https://chrobinson.wd5.myworkdayjobs.com/wday/cxs/chrobinson/CHRob
+workday | cna | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | conocophillips | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | costar | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | csgi | FAILED: 521 Server Error: <none> for url: https://csgi.wd5.myworkdayjobs.com/wday/cxs/csgi/CSGCareers/jobs
+workday | cyrusone | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | disney | FAILED: 521 Server Error: <none> for url: https://disney.wd5.myworkdayjobs.com/wday/cxs/disney/disneycareerd
+workday | draftkings | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ecolab | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | embryriddle | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | entegris | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | equinix | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | firstam | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | flextronics | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fmr | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fox | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gaig | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | geaerospace | FAILED: 521 Server Error: <none> for url: https://geaerospace.wd5.myworkdayjobs.com/wday/cxs/geaerospace/ge_
+workday | genmills | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gfs | FAILED: 521 Server Error: <none> for url: https://gfs.wd5.myworkdayjobs.com/wday/cxs/gfs/usjobs-gen-gfs/jobs
+workday | greenheckgroup | FAILED: 521 Server Error: <none> for url: https://greenheckgroup.wd5.myworkdayjobs.com/wday/cxs/greenheckgro
+workday | homedepot | FAILED: 521 Server Error: <none> for url: https://homedepot.wd5.myworkdayjobs.com/wday/cxs/homedepot/CareerD
+workday | hpe | FAILED: 521 Server Error: <none> for url: https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/wfmathpe/jobs
+workday | invesco | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ivyrehab | FAILED: 521 Server Error: <none> for url: https://ivyrehab.wd5.myworkdayjobs.com/wday/cxs/ivyrehab/Ivy_Rehab
+workday | jda | FAILED: 521 Server Error: <none> for url: https://jda.wd5.myworkdayjobs.com/wday/cxs/jda/jda_careers/jobs
+workday | kyndryl | FAILED: 521 Server Error: <none> for url: https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/ISMCareers/
+workday | logitech | FAILED: 521 Server Error: <none> for url: https://logitech.wd5.myworkdayjobs.com/wday/cxs/logitech/Logitech/
+workday | mallinckrodt | FAILED: 521 Server Error: <none> for url: https://mallinckrodt.wd5.myworkdayjobs.com/wday/cxs/mallinckrodt/M
+workday | marvell | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mercy | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | midtown | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mksinst | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ms | FAILED: 521 Server Error: <none> for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/private/jobs
+workday | nb | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | oshkoshcorporation | FAILED: 521 Server Error: <none> for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/cxs/oshkoshc
+workday | path | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pitneybowes | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | progyny | FAILED: 521 Server Error: <none> for url: https://progyny.wd5.myworkdayjobs.com/wday/cxs/progyny/progyny/job
+workday | psu | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | remitly | FAILED: 521 Server Error: <none> for url: https://remitly.wd5.myworkdayjobs.com/wday/cxs/remitly/Remitly_Car
+workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rocket | FAILED: 521 Server Error: <none> for url: https://rocket.wd5.myworkdayjobs.com/wday/cxs/rocket/rocket_career
+workday | russell | FAILED: 521 Server Error: <none> for url: https://russell.wd5.myworkdayjobs.com/wday/cxs/russell/russellinve
+workday | sci | FAILED: 521 Server Error: <none> for url: https://sci.wd5.myworkdayjobs.com/wday/cxs/sci/SCI/jobs
+workday | semtech | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | silabs | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | solenis | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sunrun | FAILED: 521 Server Error: <none> for url: https://sunrun.wd5.myworkdayjobs.com/wday/cxs/sunrun/Sunrun_Career
+workday | synnex | FAILED: 521 Server Error: <none> for url: https://synnex.wd5.myworkdayjobs.com/wday/cxs/synnex/hyvecareers/j
+workday | thrivent | FAILED: 521 Server Error: <none> for url: https://thrivent.wd5.myworkdayjobs.com/wday/cxs/thrivent/external/
+workday | toryburch | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | travelers | FAILED: 521 Server Error: <none> for url: https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/Externa
+workday | tysonfoods | FAILED: 521 Server Error: <none> for url: https://tysonfoods.wd5.myworkdayjobs.com/wday/cxs/tysonfoods/TSN/j
+workday | uline | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vfc | FAILED: 521 Server Error: <none> for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/kipling_careers/job
+workday | visa | FAILED: 521 Server Error: <none> for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa_Early_Career
+workday | walkerdunlop | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wfscorp | FAILED: 521 Server Error: <none> for url: https://wfscorp.wd5.myworkdayjobs.com/wday/cxs/wfscorp/wfscareers/
+workday | wmg | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wsc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wynd | FAILED: 521 Server Error: <none> for url: https://wynd.wd5.myworkdayjobs.com/wday/cxs/wynd/External/jobs
+workday | zendesk | FAILED: Expecting value: line 1 column 1 (char 0)
+ashby | 128 employers | 3284
 bamboohr | 9 employers | 180
 breezy | 2 employers | 94
-greenhouse | 156 employers | 14381
-icims | 17 employers | 1621
+greenhouse | 156 employers | 14376
+icims | 17 employers | 1618
 lever | 9 employers | 182
-oracle | 42 employers | 12411
+oracle | 42 employers | 12399
 personio | 91 employers | 1009
-pinpoint | 6 employers | 160
+pinpoint | 6 employers | 159
 recruitee | 33 employers | 1392
-smartrecruiters | 40 employers | 8098
-successfactors | 22 employers | 8634
-taleo | 7 employers | 713
-teamtailor | 21 employers | 225
+smartrecruiters | 40 employers | 8088
+successfactors | 22 employers | 8507
+taleo | 7 employers | 598
+teamtailor | 21 employers | 224
 workable | 101 employers | 3539
-workday | 167 employers | 8106
+workday | 167 employers | 3982
 workable search | Lisbon | AI product | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | strategy | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
@@ -785,65 +1476,65 @@ workable search | Auckland | strategy | FAILED: 429 Client Error: Too Many Reque
 workable search | Auckland | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | business analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | lecturer | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | 459 searches | 2750
-locations | missing 89 | looked up 40 | found 35
-checks | descriptions opened 90 | {"dropped earlier": 44, "visa unclear (no mention)": 75, "visa ruled out": 2, "visa unclear (ad unreadable)": 2}
---- search runner 9/10 (18.0 min)
-linkedin | Poland | AI product manager visa sponsorship | 32
-linkedin | Prague, Czechia | data scientist visa sponsorship | 15
+workable search | 459 searches | 2754
+locations | missing 69 | looked up 40 | found 35
+checks | descriptions opened 90 | {"dropped earlier": 44, "visa unclear (no mention)": 46, "visa unclear (ad unreadable)": 2}
+--- search runner 9/10 (16.1 min)
+linkedin | Poland | AI product manager visa sponsorship | 30
+linkedin | Prague, Czechia | data scientist visa sponsorship | 17
 linkedin | Canada | data analyst visa sponsorship | 50
-linkedin | Australia | AI product manager visa sponsorship | 37
-indeed | Pakistan | analytics manager | 49
+linkedin | Australia | AI product manager visa sponsorship | 18
+indeed | Pakistan | analytics manager | 43
 indeed | Pakistan | CRM | 100
-indeed | Lahore | business analyst | 4
-indeed | Lahore | business planning | 34
-indeed | Lahore | AI | 53
+indeed | Lahore | business analyst | 5
+indeed | Lahore | business planning | 26
+indeed | Lahore | AI | 46
 indeed | Karachi | data scientist | 0
-indeed | Karachi | sales operations | 3
+indeed | Karachi | sales operations | 45
 indeed | Karachi | trainer | 3
-indeed | Islamabad | MIS | 1
-indeed | Islamabad | growth | 80
-indeed | United Arab Emirates | power bi | 26
+indeed | Islamabad | MIS | 0
+indeed | Islamabad | growth | 72
+indeed | United Arab Emirates | power bi | 19
 indeed | United Arab Emirates | lecturer | 1
-indeed | Saudi Arabia | sales operations | 15
-indeed | Qatar | analytics manager | 3
-indeed | Bahrain | business analyst | 1
+indeed | Saudi Arabia | sales operations | 14
+indeed | Qatar | analytics manager | 0
+indeed | Bahrain | business analyst | 0
 indeed | Bahrain | AI specialist | 0
-indeed | Oman | business planning | 5
+indeed | Oman | business planning | 6
 indeed | Kuwait | power bi | 1
 indeed | Kuwait | lecturer | 0
-indeed | Egypt | sales operations | 17
+indeed | Egypt | sales operations | 15
 indeed | Turkey | strategy visa sponsorship | 0
-indeed | Malaysia | pricing analyst | 4
+indeed | Malaysia | pricing analyst | 3
 indeed | Japan | business analyst visa sponsorship | 0
 indeed | UK | data scientist visa sponsorship | 0
-indeed | Ireland | strategy visa sponsorship | 7
-indeed | Germany | AI product visa sponsorship | 7
+indeed | Ireland | strategy visa sponsorship | 6
+indeed | Germany | AI product visa sponsorship | 8
 indeed | Poland | business analyst visa sponsorship | 0
 indeed | Hungary | data scientist visa sponsorship | 0
 indeed | Czech Republic | strategy visa sponsorship | 0
 indeed | Portugal | AI product visa sponsorship | 0
-indeed | Australia | business analyst visa sponsorship | 2
+indeed | Australia | business analyst visa sponsorship | 1
 indeed | New Zealand | data scientist visa sponsorship | 0
 linkedin | Lahore, Pakistan | assistant professor | 1
-linkedin | Lahore, Pakistan | salesforce | 43
-linkedin | Karachi, Pakistan | revenue operations | 19
-linkedin | Karachi, Pakistan | data analytics | 0
-linkedin | Karachi, Pakistan | growth analyst | 17
-linkedin | Islamabad, Pakistan | data scientist | 10
+linkedin | Lahore, Pakistan | salesforce | 34
+linkedin | Karachi, Pakistan | revenue operations | 17
+linkedin | Karachi, Pakistan | data analytics | 32
+linkedin | Karachi, Pakistan | growth analyst | 16
+linkedin | Islamabad, Pakistan | data scientist | 7
 linkedin | Islamabad, Pakistan | strategy manager | 13
 linkedin | Dubai, United Arab Emirates | data analyst | 100
 linkedin | Dubai, United Arab Emirates | power bi | 100
-linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 56
-linkedin | United Arab Emirates | assistant professor | 65
+linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 52
+linkedin | United Arab Emirates | assistant professor | 58
 linkedin | Riyadh, Saudi Arabia | lecturer | 2
 linkedin | Jeddah, Saudi Arabia | data scientist | 1
 linkedin | Saudi Arabia | strategy and planning | 100
 linkedin | Qatar | AI product | 3
 linkedin | Bahrain | sales operations | 11
-linkedin | Oman | revenue operations | 2
+linkedin | Oman | revenue operations | 3
 linkedin | Kuwait | business intelligence | 4
-linkedin | Jordan | data analyst | 14
+linkedin | Jordan | data analyst | 15
 linkedin | Jordan | power bi | 50
 linkedin | Egypt | analytics manager | 28
 linkedin | Kuala Lumpur, Malaysia | revenue operations | 50
@@ -852,51 +1543,138 @@ linkedin | London, England, United Kingdom | AI product manager visa sponsorship
 linkedin | Ireland | data scientist visa sponsorship | 39
 linkedin | Netherlands | data analyst visa sponsorship | 50
 discovered employers | added | 8478
-ashby | 128 employers | 3526
-bamboohr | 8 employers | 98
+workday | aaamidatlantic | FAILED: 521 Server Error: <none> for url: https://aaamidatlantic.wd5.myworkdayjobs.com/wday/cxs/aaamidatlant
+workday | Adobe | FAILED: 521 Server Error: <none> for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experi
+workday | akumincorp | FAILED: 521 Server Error: <none> for url: https://akumincorp.wd5.myworkdayjobs.com/wday/cxs/akumincorp/akumi
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/careers_S
+workday | amcn | FAILED: 521 Server Error: <none> for url: https://amcn.wd5.myworkdayjobs.com/wday/cxs/amcn/amcnetworks/jobs
+workday | analogdevices | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | asu | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | axos | FAILED: 521 Server Error: <none> for url: https://axos.wd5.myworkdayjobs.com/wday/cxs/axos/Axos/jobs
+workday | bbinsurance | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | beigene | FAILED: 521 Server Error: <none> for url: https://beigene.wd5.myworkdayjobs.com/wday/cxs/beigene/BeiGene/job
+workday | bentleysystems | FAILED: 521 Server Error: <none> for url: https://bentleysystems.wd5.myworkdayjobs.com/wday/cxs/bentleysyste
+workday | bitsight | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | brighthorizons | FAILED: 521 Server Error: <none> for url: https://brighthorizons.wd5.myworkdayjobs.com/wday/cxs/brighthorizo
+workday | calix | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | capgroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | carlyle | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | churchdwight | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | circle | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | clearesult | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cna | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | columbiasportswearcompany | FAILED: 521 Server Error: <none> for url: https://columbiasportswearcompany.wd5.myworkdayjobs.com/wday/cxs/c
+workday | costar | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | csl | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | daveandbusters | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dealertire | FAILED: 521 Server Error: <none> for url: https://dealertire.wd5.myworkdayjobs.com/wday/cxs/dealertire/4710/
+workday | djeholdings | FAILED: 521 Server Error: <none> for url: https://djeholdings.wd5.myworkdayjobs.com/wday/cxs/djeholdings/ede
+workday | draftkings | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | edwards | FAILED: 521 Server Error: <none> for url: https://edwards.wd5.myworkdayjobs.com/wday/cxs/edwards/EdwardsCare
+workday | embryriddle | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | entrust | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | faithtechnologies | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ferguson | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | firstam | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | flextronics | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fox | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gaig | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gapinc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | geha | FAILED: 521 Server Error: <none> for url: https://geha.wd5.myworkdayjobs.com/wday/cxs/geha/GEHACareers/jobs
+workday | gilead | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | goddardenterprisesltd | FAILED: 521 Server Error: <none> for url: https://goddardenterprisesltd.wd5.myworkdayjobs.com/wday/cxs/godda
+workday | greif | FAILED: 521 Server Error: <none> for url: https://greif.wd5.myworkdayjobs.com/wday/cxs/greif/Greif/jobs
+workday | gtlaw | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | henryschein | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ilitch | FAILED: 521 Server Error: <none> for url: https://ilitch.wd5.myworkdayjobs.com/wday/cxs/ilitch/LC/jobs
+workday | intapp | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ipas | FAILED: 521 Server Error: <none> for url: https://ipas.wd5.myworkdayjobs.com/wday/cxs/ipas/Ipas/jobs
+workday | jabil | FAILED: 521 Server Error: <none> for url: https://jabil.wd5.myworkdayjobs.com/wday/cxs/jabil/Jabil_Careers/j
+workday | jdgroupnam | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | jsrglobal | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kbr | FAILED: 521 Server Error: <none> for url: https://kbr.wd5.myworkdayjobs.com/wday/cxs/kbr/KBR_Careers/jobs
+workday | kith | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kyndryl | FAILED: 521 Server Error: <none> for url: https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/KyndrylEarl
+workday | massgeneralbrigham | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mksinst | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | monotype | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | msd | FAILED: 521 Server Error: <none> for url: https://msd.wd5.myworkdayjobs.com/wday/cxs/msd/SearchJobs/jobs
+workday | onterris | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pacificlife | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | plains | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | prologis | FAILED: 521 Server Error: <none> for url: https://prologis.wd5.myworkdayjobs.com/wday/cxs/prologis/Prologis_
+workday | ptc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | q2ebanking | FAILED: 521 Server Error: <none> for url: https://q2ebanking.wd5.myworkdayjobs.com/wday/cxs/q2ebanking/Q2/jo
+workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rhahealthservices | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rockwellautomation | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sailpoint | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | semtech | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | silgancontainers | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | solera | FAILED: 521 Server Error: <none> for url: https://solera.wd5.myworkdayjobs.com/wday/cxs/solera/Global_Career
+workday | standardbiotools | FAILED: 521 Server Error: <none> for url: https://standardbiotools.wd5.myworkdayjobs.com/wday/cxs/standardbi
+workday | sunbeltrentals | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | synnex | FAILED: 521 Server Error: <none> for url: https://synnex.wd5.myworkdayjobs.com/wday/cxs/synnex/tdsynnexcaree
+workday | tcsedsystem | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | thedacare | FAILED: 521 Server Error: <none> for url: https://thedacare.wd5.myworkdayjobs.com/wday/cxs/thedacare/ThedaCa
+workday | tiaa | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | totalwine | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | travelers | FAILED: 521 Server Error: <none> for url: https://travelers.wd5.myworkdayjobs.com/wday/cxs/travelers/SimplyB
+workday | tysonfoods | FAILED: 521 Server Error: <none> for url: https://tysonfoods.wd5.myworkdayjobs.com/wday/cxs/tysonfoods/TSN5/
+workday | ulse | FAILED: 521 Server Error: <none> for url: https://ulse.wd5.myworkdayjobs.com/wday/cxs/ulse/ulricareers/jobs
+workday | vfc | FAILED: 521 Server Error: <none> for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/napapijri_careers/j
+workday | wegmans | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wgl | FAILED: 521 Server Error: <none> for url: https://wgl.wd5.myworkdayjobs.com/wday/cxs/wgl/AltaGas/jobs
+workday | wmg | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | wsu | FAILED: 521 Server Error: <none> for url: https://wsu.wd5.myworkdayjobs.com/wday/cxs/wsu/wsu_jobs/jobs
+workday | xboxgaming | FAILED: Expecting value: line 1 column 1 (char 0)
+ashby | 128 employers | 3533
+bamboohr | 8 employers | 97
 breezy | 3 employers | 19
-greenhouse | 156 employers | 6326
-icims | 17 employers | 1107
+greenhouse | 156 employers | 6349
+icims | 17 employers | 1109
 lever | 9 employers | 144
-oracle | 42 employers | 13569
+oracle | 42 employers | 13541
 personio | 91 employers | 1065
 pinpoint | 6 employers | 150
 recruitee | 33 employers | 706
-smartrecruiters | 40 employers | 5220
-successfactors | 22 employers | 9200
-taleo | 7 employers | 917
-teamtailor | 21 employers | 535
-workable | 101 employers | 6712
-workday | 167 employers | 8197
-locations | missing 65 | looked up 40 | found 37
-checks | descriptions opened 90 | {"dropped earlier": 28, "visa unclear (no mention)": 58, "visa ruled out": 1}
---- search runner 10/10 (20.7 min)
+smartrecruiters | 40 employers | 5201
+successfactors | 22 employers | 8969
+taleo | 7 employers | 765
+teamtailor | 21 employers | 532
+workable | 101 employers | 6711
+workday | 167 employers | 3768
+locations | missing 39 | looked up 39 | found 37
+checks | descriptions opened 87 | {"dropped earlier": 26, "visa unclear (no mention)": 61}
+--- search runner 10/10 (20.8 min)
 linkedin | Poland | strategy visa sponsorship | 50
-linkedin | Prague, Czechia | revenue operations visa sponsorship | 9
+linkedin | Prague, Czechia | revenue operations visa sponsorship | 6
 linkedin | Canada | business intelligence visa sponsorship | 50
 linkedin | Australia | strategy visa sponsorship | 50
-indeed | Pakistan | product analyst | 4
+indeed | Pakistan | product analyst | 3
 indeed | Pakistan | pricing analyst | 3
-indeed | Lahore | business intelligence | 10
-indeed | Lahore | strategy and operations | 26
+indeed | Lahore | business intelligence | 5
+indeed | Lahore | strategy and operations | 23
 indeed | Lahore | AI product | 21
 indeed | Karachi | machine learning | 2
 indeed | Karachi | salesforce | 3
 indeed | Islamabad | data analyst | 6
-indeed | Islamabad | strategy | 43
+indeed | Islamabad | strategy | 39
 indeed | Islamabad | operations analyst | 1
-indeed | United Arab Emirates | data scientist | 7
+indeed | United Arab Emirates | data scientist | 6
 indeed | Saudi Arabia | data analyst | 3
-indeed | Saudi Arabia | AI product | 6
-indeed | Qatar | strategy | 26
-indeed | Bahrain | business intelligence | 1
-indeed | Bahrain | pricing analyst | 1
+indeed | Saudi Arabia | AI product | 5
+indeed | Qatar | strategy | 23
+indeed | Bahrain | business intelligence | 0
+indeed | Bahrain | pricing analyst | 0
 indeed | Oman | revenue operations | 3
 indeed | Kuwait | data scientist | 0
-indeed | Egypt | data analyst | 3
+indeed | Egypt | data analyst | 2
 indeed | Egypt | AI product | 18
 indeed | Turkey | data analyst relocation | 0
-indeed | Singapore | data analyst | 41
+indeed | Singapore | data analyst | 39
 indeed | Japan | business intelligence visa sponsorship | 0
 indeed | UK | revenue operations visa sponsorship | 5
 indeed | Ireland | data analyst relocation | 3
@@ -905,28 +1683,28 @@ indeed | Poland | business intelligence visa sponsorship | 0
 indeed | Hungary | revenue operations visa sponsorship | 0
 indeed | Czech Republic | data analyst relocation | 0
 indeed | Canada | data analyst visa sponsorship | 0
-indeed | Australia | business intelligence visa sponsorship | 2
+indeed | Australia | business intelligence visa sponsorship | 1
 indeed | New Zealand | revenue operations visa sponsorship | 0
-linkedin | Lahore, Pakistan | analytics manager | 14
+linkedin | Lahore, Pakistan | analytics manager | 12
 linkedin | Lahore, Pakistan | AI specialist | 22
 linkedin | Karachi, Pakistan | sales operations | 50
-linkedin | Karachi, Pakistan | product analyst | 13
+linkedin | Karachi, Pakistan | product analyst | 12
 linkedin | Karachi, Pakistan | MIS | 50
-linkedin | Islamabad, Pakistan | lecturer | 6
-linkedin | Islamabad, Pakistan | corporate planning | 20
+linkedin | Islamabad, Pakistan | lecturer | 7
+linkedin | Islamabad, Pakistan | corporate planning | 16
 linkedin | Dubai, United Arab Emirates | business intelligence | 100
 linkedin | Abu Dhabi, United Arab Emirates | data analyst | 100
 linkedin | Abu Dhabi, United Arab Emirates | power bi | 100
 linkedin | United Arab Emirates | analytics manager | 100
 linkedin | Riyadh, Saudi Arabia | assistant professor | 1
 linkedin | Jeddah, Saudi Arabia | lecturer | 0
-linkedin | Saudi Arabia | data scientist | 27
+linkedin | Saudi Arabia | data scientist | 22
 linkedin | Qatar | strategy and planning | 50
 linkedin | Bahrain | AI product | 0
-linkedin | Oman | sales operations | 12
+linkedin | Oman | sales operations | 11
 linkedin | Kuwait | revenue operations | 2
-linkedin | Jordan | business intelligence | 10
-linkedin | Egypt | data analyst | 90
+linkedin | Jordan | business intelligence | 13
+linkedin | Egypt | data analyst | 79
 linkedin | Egypt | power bi | 100
 linkedin | Kuala Lumpur, Malaysia | AI product | 50
 linkedin | Tokyo, Japan | business intelligence visa sponsorship | 50
@@ -934,35 +1712,118 @@ linkedin | London, England, United Kingdom | strategy visa sponsorship | 50
 linkedin | Ireland | revenue operations visa sponsorship | 22
 linkedin | Netherlands | business intelligence visa sponsorship | 50
 discovered employers | added | 8478
-workday | aah | FAILED: 410 Client Error: Gone for url: https://aah.wd5.myworkdayjobs.com/wday/cxs/aah/External/jobs
-workday | jj | FAILED: 500 Server Error: Internal Server Error for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/displa
-ashby | 128 employers | 2982
+workday | aah | FAILED: 521 Server Error: <none> for url: https://aah.wd5.myworkdayjobs.com/wday/cxs/aah/External/jobs
+workday | acelero | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | allegion | FAILED: 521 Server Error: <none> for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegion/careers_S
+workday | amcor | FAILED: 521 Server Error: <none> for url: https://amcor.wd5.myworkdayjobs.com/wday/cxs/amcor/amcor_external_
+workday | arcticwolf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | athene | FAILED: 521 Server Error: <none> for url: https://athene.wd5.myworkdayjobs.com/wday/cxs/athene/Apollo_Career
+workday | barrywehmiller | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | bdx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | belkin | FAILED: 521 Server Error: <none> for url: https://belkin.wd5.myworkdayjobs.com/wday/cxs/belkin/Belkin_Career
+workday | blackbaud | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | boydgroup | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | brinks | FAILED: 521 Server Error: <none> for url: https://brinks.wd5.myworkdayjobs.com/wday/cxs/brinks/BrinksCareers
+workday | brunswick | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | calyx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | carmax | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cboe | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | cengage | FAILED: 521 Server Error: <none> for url: https://cengage.wd5.myworkdayjobs.com/wday/cxs/cengage/CengageEMEA
+workday | championx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | churchdwight | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | clearwateranalytics | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | columbiasportswearcompany | FAILED: 521 Server Error: <none> for url: https://columbiasportswearcompany.wd5.myworkdayjobs.com/wday/cxs/c
+workday | copeland | FAILED: 521 Server Error: <none> for url: https://copeland.wd5.myworkdayjobs.com/wday/cxs/copeland/Copeland_
+workday | costar | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | crosscountrymortgage | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | csl | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | daikinapplied | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | dealertire | FAILED: 521 Server Error: <none> for url: https://dealertire.wd5.myworkdayjobs.com/wday/cxs/dealertire/Deale
+workday | djeholdings | FAILED: 521 Server Error: <none> for url: https://djeholdings.wd5.myworkdayjobs.com/wday/cxs/djeholdings/Zen
+workday | emcins | FAILED: 521 Server Error: <none> for url: https://emcins.wd5.myworkdayjobs.com/wday/cxs/emcins/EMC_Careers/j
+workday | envista | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ferguson | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | firstam | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | fox | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gaig | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | gehc | FAILED: 521 Server Error: <none> for url: https://gehc.wd5.myworkdayjobs.com/wday/cxs/gehc/gehc_externalsite
+workday | ghc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | goddardenterprisesltd | FAILED: 521 Server Error: <none> for url: https://goddardenterprisesltd.wd5.myworkdayjobs.com/wday/cxs/godda
+workday | haemonetics | FAILED: 521 Server Error: <none> for url: https://haemonetics.wd5.myworkdayjobs.com/wday/cxs/haemonetics/Hae
+workday | hcmportal | FAILED: 521 Server Error: <none> for url: https://hcmportal.wd5.myworkdayjobs.com/wday/cxs/hcmportal/Search/
+workday | highmarkhealth | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hshs | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | hyvee | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | illumina | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | integralads | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | jacksonhealthcare | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | jj | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kcura | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kla | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | kyndryl | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | littelfuse | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | mastercard | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | millerknoll | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | moog | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | musc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | nextgen | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | o9solutions | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pacificlife | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | pewtrusts | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | plugpower | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ppg | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ptcbio | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rakuten | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | roberthalf | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | rockwellautomation | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ryan | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | saintlukes | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sanford | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | scottsmiraclegro | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sensata | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | sluhn | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | som | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | stewart | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | suncor | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tcsedsystem | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tempus | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | thehartford | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tjx | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | trekbikes | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | tsys | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | ur | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | vfc | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | walmart | FAILED: 502 Server Error: Bad Gateway for url: https://walmart.wd504.myworkdayjobs.com/wday/cxs/walmart/Walm
+workday | wiley | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | woodward | FAILED: Expecting value: line 1 column 1 (char 0)
+workday | xboxgaming | FAILED: Expecting value: line 1 column 1 (char 0)
+ashby | 128 employers | 2975
 bamboohr | 8 employers | 79
 breezy | 3 employers | 48
-greenhouse | 156 employers | 7233
+greenhouse | 156 employers | 7241
 icims | 17 employers | 889
 lever | 8 employers | 176
-oracle | 43 employers | 11020
+oracle | 43 employers | 10992
 personio | 91 employers | 838
-pinpoint | 6 employers | 499
-recruitee | 33 employers | 644
-smartrecruiters | 40 employers | 9340
-successfactors | 22 employers | 2792
-taleo | 7 employers | 603
-teamtailor | 21 employers | 686
+pinpoint | 6 employers | 493
+recruitee | 33 employers | 645
+smartrecruiters | 40 employers | 9343
+successfactors | 22 employers | 2677
+taleo | 7 employers | 470
+teamtailor | 21 employers | 685
 workable | 101 employers | 10903
-workday | 167 employers | 9625
-locations | missing 72 | looked up 40 | found 40
-checks | descriptions opened 90 | {"dropped earlier": 23, "visa unclear (no mention)": 53}
---- sites runner 1/4 (1.1 min)
-company sites | {"read": 110, "unchanged": 630, "failed": 10, "jobs": 3}
+workday | 167 employers | 5189
+locations | missing 35 | looked up 35 | found 35
+checks | descriptions opened 90 | {"dropped earlier": 24, "visa unclear (no mention)": 43}
+--- sites runner 1/4 (2.4 min)
+company sites | {"read": 88, "unchanged": 636, "failed": 26, "jobs": 8}
 checks | descriptions opened 0 | {}
---- sites runner 2/4 (2.5 min)
-company sites | {"read": 92, "unchanged": 647, "failed": 11, "jobs": 18}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 1}
---- sites runner 3/4 (1.9 min)
-company sites | {"read": 102, "unchanged": 636, "failed": 12, "jobs": 24}
-checks | descriptions opened 0 | {}
---- sites runner 4/4 (2.3 min)
-company sites | {"read": 104, "unchanged": 638, "failed": 8, "jobs": 16}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 1}
+--- sites runner 2/4 (1.3 min)
+company sites | {"read": 92, "unchanged": 642, "failed": 16, "jobs": 27}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 6}
+--- sites runner 3/4 (2.3 min)
+company sites | {"read": 96, "unchanged": 633, "failed": 21, "jobs": 26}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 2}
+--- sites runner 4/4 (1.8 min)
+company sites | {"read": 98, "unchanged": 632, "failed": 20, "jobs": 40}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 9}
