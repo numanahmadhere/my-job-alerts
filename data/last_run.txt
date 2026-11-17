@@ -1,67 +1,66 @@
-Run at 2026-11-17 15:19 PKT (daily, 14 runners)
-raw=532963  matching=888  new=121  total=22503  coverage=100%
+Run at 2026-11-18 03:35 PKT (daily, 14 runners)
+raw=541685  matching=1111  new=320  total=22823  coverage=100%
 Searches: 628/628 done, 0 failed, 0 blocked, 0 skipped
-New by city: {'Singapore': 12, 'London': 11, 'Kuala Lumpur': 8, 'Melbourne': 8, 'Cairo': 7, 'UAE (city not stated)': 6, 'Dubai': 5, 'Karachi': 4, 'Lahore': 4, 'Auckland': 4, 'Remote': 4, 'Abu Dhabi': 3, 'Doha': 3, 'Dublin': 3, 'Warsaw': 3, 'Germany (city not stated)': 3, 'Munich': 3, 'Ireland (city not stated)': 3, 'Canada (city not stated)': 3, 'Islamabad': 2, 'Tokyo': 2, 'Netherlands (city not stated)': 2, 'Sydney': 2, 'UK (city not stated)': 2, 'Amsterdam': 1, 'Manchester': 1, 'Muscat': 1, 'Birmingham': 1, 'Frankfurt': 1, 'Jeddah': 1, 'Istanbul': 1, 'Hamburg': 1, 'Poland (city not stated)': 1, 'Prague': 1, 'Toronto': 1, 'Manama': 1, 'Lisbon': 1, 'Budapest': 1}
-New by role group: {'Data & BI': 58, 'Strategy & Ops': 19, 'Data Science': 17, 'AI Product / Applied AI': 15, 'RevOps': 9, 'Teaching & Faculty': 3}
-Cities with matching jobs today: Abu Dhabi, Amsterdam, Auckland, Australia (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Jeddah, Karachi, Kraków, Kuala Lumpur, Kuwait City, Lahore, Lisbon, London, Malaysia (city not stated), Manama, Manchester, Mecca, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Saudi Arabia (city not stated), Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
+New by city: {'Dubai': 44, 'London': 42, 'Singapore': 25, 'UK (city not stated)': 17, 'Kuala Lumpur': 16, 'Toronto': 14, 'Abu Dhabi': 8, 'Lahore': 8, 'Islamabad': 8, 'Remote': 8, 'Netherlands (city not stated)': 8, 'Doha': 7, 'Cairo': 7, 'Berlin': 7, 'Amsterdam': 6, 'Sydney': 6, 'Warsaw': 6, 'Melbourne': 6, 'Istanbul': 5, 'Tokyo': 5, 'Hamburg': 5, 'Dublin': 5, 'Riyadh': 5, 'Egypt (city not stated)': 4, 'Munich': 4, 'Karachi': 3, 'Canada (city not stated)': 3, 'Montreal': 3, 'Auckland': 3, 'Lisbon': 3, 'Kraków': 3, 'Giza': 2, 'Vancouver': 2, 'Manama': 2, 'Frankfurt': 2, 'Manchester': 2, 'Germany (city not stated)': 2, 'Poland (city not stated)': 2, 'Bahrain (city not stated)': 1, 'Rotterdam': 1, 'Prague': 1, 'Jeddah': 1, 'Budapest': 1, 'New Zealand (city not stated)': 1, 'Sharjah': 1, 'The Hague': 1, 'Kuwait (city not stated)': 1, 'UAE (city not stated)': 1, 'Dammam': 1, 'Saudi Arabia (city not stated)': 1}
+New by role group: {'Data & BI': 105, 'Strategy & Ops': 65, 'AI Product / Applied AI': 64, 'Data Science': 48, 'RevOps': 29, 'Teaching & Faculty': 9}
+Cities with matching jobs today: Abu Dhabi, Ajman, Amsterdam, Auckland, Australia (city not stated), Bahrain (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Dammam, Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Giza, Hamburg, Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Jeddah, Karachi, Kraków, Kuala Lumpur, Kuwait (city not stated), Kuwait City, Lahore, Lisbon, London, Malaysia (city not stated), Manama, Manchester, Mecca, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Sharjah, Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
 
-Matching titles dropped for location (top 25): {"San Francisco": 212, "World Wide - Remote": 191, "United States": 153, "United States of America": 126, "United States | United States": 123, "New York City": 95, "San Francisco, CA": 92, "New York, NY": 86, "New York": 71, "India": 61, "New York, NY, United States | US": 55, "San Francisco | California | United States | San Francisco |": 52, "Spain": 51, "Paris | IDF | fr | Paris, IDF, France": 50, "Paris": 49, "Madrid": 46, "United States | US": 44, "New York | New York | United States | New York | New York | ": 43, "Thailand": 42, "Indonesia": 40, "Philippines": 37, "Remote - United States": 36, "Taipei, Taiwan": 36, "Costa Mesa, California, United States": 36, "India | India": 35}
+Matching titles dropped for location (top 25): {"San Francisco": 211, "World Wide - Remote": 191, "United States": 146, "United States of America": 126, "United States | United States": 121, "San Francisco, CA": 93, "New York City": 91, "New York, NY": 88, "New York": 70, "India": 62, "New York, NY, United States | US": 54, "San Francisco | California | United States | San Francisco |": 52, "Paris | IDF | fr | Paris, IDF, France": 51, "Spain": 50, "Paris": 48, "Madrid": 47, "United States | US": 45, "Thailand": 42, "New York | New York | United States | New York | New York | ": 42, "Indonesia": 40, "Remote - United States": 37, "Philippines": 37, "India | India": 37, "Taipei, Taiwan": 36, "Costa Mesa, California, United States": 35}
 
---- search runner 1/10 (12.6 min)
-linkedin | Lahore, Pakistan | business planning | 0
-linkedin | Karachi, Pakistan | AI product | 0
-linkedin | Karachi, Pakistan | head of data | 10
-linkedin | Karachi, Pakistan | chief of staff | 13
-linkedin | Islamabad, Pakistan | assistant professor | 0
-linkedin | Islamabad, Pakistan | salesforce | 22
-linkedin | Dubai, United Arab Emirates | revenue operations | 0
-linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 20
-linkedin | United Arab Emirates | data analyst | 70
-linkedin | United Arab Emirates | power bi | 0
-linkedin | Riyadh, Saudi Arabia | analytics manager | 30
-linkedin | Jeddah, Saudi Arabia | assistant professor | 0
-linkedin | Saudi Arabia | lecturer | 16
-linkedin | Qatar | data scientist | 15
-linkedin | Bahrain | strategy and planning | 22
+--- search runner 1/10 (18.1 min)
+linkedin | Karachi, Pakistan | AI product | 10
+linkedin | Karachi, Pakistan | head of data | 6
+linkedin | Karachi, Pakistan | chief of staff | 11
+linkedin | Islamabad, Pakistan | assistant professor | 1
+linkedin | Islamabad, Pakistan | salesforce | 28
+linkedin | Dubai, United Arab Emirates | revenue operations | 100
+linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 85
+linkedin | United Arab Emirates | data analyst | 100
+linkedin | United Arab Emirates | power bi | 100
+linkedin | Riyadh, Saudi Arabia | analytics manager | 40
+linkedin | Jeddah, Saudi Arabia | assistant professor | 1
+linkedin | Saudi Arabia | lecturer | 31
+linkedin | Qatar | data scientist | 22
+linkedin | Bahrain | strategy and planning | 29
 linkedin | Oman | AI product | 0
-linkedin | Kuwait | sales operations | 9
-linkedin | Jordan | revenue operations | 1
-linkedin | Egypt | business intelligence | 100
+linkedin | Kuwait | sales operations | 13
+linkedin | Jordan | revenue operations | 3
+linkedin | Egypt | business intelligence | 95
 linkedin | Istanbul, Türkiye | data analyst | 50
-linkedin | Kuala Lumpur, Malaysia | strategy and planning | 0
-linkedin | Tokyo, Japan | data scientist visa sponsorship | 10
-linkedin | United Kingdom | data analyst visa sponsorship | 0
-linkedin | Ireland | AI product manager visa sponsorship | 24
-linkedin | Netherlands | data scientist visa sponsorship | 30
-linkedin | Budapest, Hungary | data analyst visa sponsorship | 14
-linkedin | Prague, Czechia | AI product manager visa sponsorship | 0
-linkedin | Canada | data scientist visa sponsorship | 0
-linkedin | New Zealand | data analyst visa sponsorship | 0
-indeed | Pakistan | MIS | 1
+linkedin | Kuala Lumpur, Malaysia | strategy and planning | 50
+linkedin | Tokyo, Japan | data scientist visa sponsorship | 44
+linkedin | United Kingdom | data analyst visa sponsorship | 50
+linkedin | Ireland | AI product manager visa sponsorship | 25
+linkedin | Netherlands | data scientist visa sponsorship | 50
+linkedin | Budapest, Hungary | data analyst visa sponsorship | 23
+linkedin | Prague, Czechia | AI product manager visa sponsorship | 3
+linkedin | Canada | data scientist visa sponsorship | 50
+linkedin | New Zealand | data analyst visa sponsorship | 35
+indeed | Pakistan | MIS | 5
 indeed | Pakistan | growth | 100
-indeed | Lahore | power bi | 2
-indeed | Lahore | business operations | 49
+indeed | Lahore | power bi | 4
+indeed | Lahore | business operations | 74
 indeed | Lahore | lecturer | 0
 indeed | Karachi | analytics manager | 9
-indeed | Karachi | CRM | 25
+indeed | Karachi | CRM | 33
 indeed | Islamabad | business analyst | 1
-indeed | Islamabad | business planning | 17
-indeed | Islamabad | AI | 15
-indeed | United Arab Emirates | analytics manager | 24
+indeed | Islamabad | business planning | 26
+indeed | Islamabad | AI | 22
+indeed | United Arab Emirates | analytics manager | 34
 indeed | Saudi Arabia | business analyst | 14
-indeed | Saudi Arabia | AI specialist | 4
-indeed | Qatar | business planning | 26
+indeed | Saudi Arabia | AI specialist | 6
+indeed | Qatar | business planning | 31
 indeed | Bahrain | power bi | 0
 indeed | Bahrain | lecturer | 0
 indeed | Oman | sales operations | 8
-indeed | Kuwait | analytics manager | 1
-indeed | Egypt | business analyst | 9
-indeed | Egypt | AI specialist | 5
+indeed | Kuwait | analytics manager | 0
+indeed | Egypt | business analyst | 14
+indeed | Egypt | AI specialist | 10
 indeed | Turkey | AI product visa sponsorship | 0
-indeed | Singapore | business analyst | 12
+indeed | Singapore | business analyst | 24
 indeed | Japan | data scientist visa sponsorship | 0
 indeed | UK | strategy visa sponsorship | 100
-indeed | Ireland | AI product visa sponsorship | 0
+indeed | Ireland | AI product visa sponsorship | 1
 indeed | Netherlands | business analyst visa sponsorship | 0
 indeed | Poland | data scientist visa sponsorship | 0
 indeed | Hungary | strategy visa sponsorship | 0
@@ -69,8 +68,9 @@ indeed | Czech Republic | AI product visa sponsorship | 0
 indeed | Canada | business analyst visa sponsorship | 0
 indeed | Australia | data scientist visa sponsorship | 0
 indeed | New Zealand | strategy visa sponsorship | 1
-linkedin | Lahore, Pakistan | data analyst | 10
-linkedin | Lahore, Pakistan | power bi | 0
+linkedin | Lahore, Pakistan | data analyst | 44
+linkedin | Lahore, Pakistan | power bi | 50
+linkedin | Lahore, Pakistan | business planning | 50
 discovered employers | added | 8463
 successfactors | careers.emaratech.ae | FAILED: Failed to perform, curl: (60) SSL certificate OpenSSL verify result: certificate has expired (10). S
 taleo | iamgold | FAILED: Expecting value: line 2 column 1 (char 2)
@@ -81,16 +81,10 @@ workday | agilent | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | airliquidehr | FAILED: 429 Client Error: Too Many Requests for url: https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/air
 workday | aliaxis | FAILED: 429 Client Error: Too Many Requests for url: https://aliaxis.wd3.myworkdayjobs.com/wday/cxs/aliaxis/
 workday | allegion | FAILED: 429 Client Error: Too Many Requests for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegio
-workday | alteryx | FAILED: 429 Client Error: Too Many Requests for url: https://alteryx.wd108.myworkdayjobs.com/wday/cxs/altery
-workday | amgen | FAILED: 429 Client Error: Too Many Requests for url: https://amgen.wd1.myworkdayjobs.com/wday/cxs/amgen/agen
-workday | applied | FAILED: 429 Client Error: Too Many Requests for url: https://applied.wd501.myworkdayjobs.com/wday/cxs/applie
 workday | aristocrat | FAILED: 429 Client Error: Too Many Requests for url: https://aristocrat.wd3.myworkdayjobs.com/wday/cxs/arist
-workday | assurant | FAILED: 429 Client Error: Too Many Requests for url: https://assurant.wd1.myworkdayjobs.com/wday/cxs/assuran
-workday | Autodesk | FAILED: 429 Client Error: Too Many Requests for url: https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodes
 workday | avisbudget | FAILED: 429 Client Error: Too Many Requests for url: https://avisbudget.wd1.myworkdayjobs.com/wday/cxs/avisb
 workday | axcelis | FAILED: 429 Client Error: Too Many Requests for url: https://axcelis.wd1.myworkdayjobs.com/wday/cxs/axcelis/
 workday | bakerhughes | FAILED: 429 Client Error: Too Many Requests for url: https://bakerhughes.wd5.myworkdayjobs.com/wday/cxs/bake
-workday | bbinsurance | FAILED: 429 Client Error: Too Many Requests for url: https://bbinsurance.wd1.myworkdayjobs.com/wday/cxs/bbin
 workday | bdoau | FAILED: 429 Client Error: Too Many Requests for url: https://bdoau.wd105.myworkdayjobs.com/wday/cxs/bdoau/BD
 workday | bdx | FAILED: 429 Client Error: Too Many Requests for url: https://bdx.wd1.myworkdayjobs.com/wday/cxs/bdx/external
 workday | benchmark | FAILED: 429 Client Error: Too Many Requests for url: https://benchmark.wd1.myworkdayjobs.com/wday/cxs/benchm
@@ -177,11 +171,11 @@ workday | myhr | FAILED: 429 Client Error: Too Many Requests for url: https://my
 workday | nasdaq | FAILED: 429 Client Error: Too Many Requests for url: https://nasdaq.wd1.myworkdayjobs.com/wday/cxs/nasdaq/Gl
 workday | neighborlybrands | FAILED: 429 Client Error: Too Many Requests for url: https://neighborlybrands.wd1.myworkdayjobs.com/wday/cxs
 workday | nike | FAILED: 429 Client Error: Too Many Requests for url: https://nike.wd1.myworkdayjobs.com/wday/cxs/nike/nke/jo
+workday | northmark | FAILED: 429 Client Error: Too Many Requests for url: https://northmark.wd108.myworkdayjobs.com/wday/cxs/nort
 workday | nutreco | FAILED: 429 Client Error: Too Many Requests for url: https://nutreco.wd3.myworkdayjobs.com/wday/cxs/nutreco/
 workday | oh | FAILED: 429 Client Error: Too Many Requests for url: https://oh.wd3.myworkdayjobs.com/wday/cxs/oh/OH/jobs
 workday | oneoncology | FAILED: 429 Client Error: Too Many Requests for url: https://oneoncology.wd1.myworkdayjobs.com/wday/cxs/oneo
 workday | oreillyauto | FAILED: 429 Client Error: Too Many Requests for url: https://oreillyauto.wd1.myworkdayjobs.com/wday/cxs/orei
-workday | outsystems | FAILED: 429 Client Error: Too Many Requests for url: https://outsystems.wd503.myworkdayjobs.com/wday/cxs/out
 workday | panerabread | FAILED: 429 Client Error: Too Many Requests for url: https://panerabread.wd5.myworkdayjobs.com/wday/cxs/pane
 workday | peoplecorporation | FAILED: 429 Client Error: Too Many Requests for url: https://peoplecorporation.wd10.myworkdayjobs.com/wday/c
 workday | pfizer | FAILED: 429 Client Error: Too Many Requests for url: https://pfizer.wd1.myworkdayjobs.com/wday/cxs/pfizer/Pf
@@ -191,14 +185,13 @@ workday | probegroup | FAILED: 429 Client Error: Too Many Requests for url: http
 workday | prudential | FAILED: 429 Client Error: Too Many Requests for url: https://prudential.wd3.myworkdayjobs.com/wday/cxs/prude
 workday | pwc | FAILED: 429 Client Error: Too Many Requests for url: https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/global_c
 workday | qvc | FAILED: 429 Client Error: Too Many Requests for url: https://qvc.wd5.myworkdayjobs.com/wday/cxs/qvc/QVC-Japa
-workday | rakuten | FAILED: 429 Client Error: Too Many Requests for url: https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/
 workday | reed | FAILED: 429 Client Error: Too Many Requests for url: https://reed.wd3.myworkdayjobs.com/wday/cxs/reed/reed_i
 workday | relx | FAILED: 429 Client Error: Too Many Requests for url: https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/ReedTe
-workday | resilience | FAILED: 429 Client Error: Too Many Requests for url: https://resilience.wd1.myworkdayjobs.com/wday/cxs/resil
 workday | rivhs | FAILED: 429 Client Error: Too Many Requests for url: https://rivhs.wd1.myworkdayjobs.com/wday/cxs/rivhs/Non-
 workday | roche | FAILED: 429 Client Error: Too Many Requests for url: https://roche.wd3.myworkdayjobs.com/wday/cxs/roche/roch
 workday | rollsroyce | FAILED: 429 Client Error: Too Many Requests for url: https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rolls
 workday | rsllc | FAILED: 429 Client Error: Too Many Requests for url: https://rsllc.wd3.myworkdayjobs.com/wday/cxs/rsllc/rsll
+workday | saabgroup | FAILED: 429 Client Error: Too Many Requests for url: https://saabgroup.wd116.myworkdayjobs.com/wday/cxs/saab
 workday | sandvik | FAILED: 429 Client Error: Too Many Requests for url: https://sandvik.wd3.myworkdayjobs.com/wday/cxs/sandvik/
 workday | sbdinc | FAILED: 429 Client Error: Too Many Requests for url: https://sbdinc.wd1.myworkdayjobs.com/wday/cxs/sbdinc/St
 workday | seic | FAILED: 429 Client Error: Too Many Requests for url: https://seic.wd1.myworkdayjobs.com/wday/cxs/seic/SEI_Gl
@@ -220,11 +213,11 @@ workday | terminix | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | thisisglobal | FAILED: 429 Client Error: Too Many Requests for url: https://thisisglobal.wd3.myworkdayjobs.com/wday/cxs/thi
 workday | tnsi | FAILED: 429 Client Error: Too Many Requests for url: https://tnsi.wd1.myworkdayjobs.com/wday/cxs/tnsi/Search
 workday | transperfect | FAILED: 429 Client Error: Too Many Requests for url: https://transperfect.wd5.myworkdayjobs.com/wday/cxs/tra
-workday | troweprice | FAILED: 429 Client Error: Too Many Requests for url: https://troweprice.wd5.myworkdayjobs.com/wday/cxs/trowe
 workday | tvh | FAILED: 429 Client Error: Too Many Requests for url: https://tvh.wd3.myworkdayjobs.com/wday/cxs/tvh/JobsatTV
 workday | ukgrantt | FAILED: 429 Client Error: Too Many Requests for url: https://ukgrantt.wd3.myworkdayjobs.com/wday/cxs/ukgrant
 workday | umusic | FAILED: 429 Client Error: Too Many Requests for url: https://umusic.wd5.myworkdayjobs.com/wday/cxs/umusic/UM
 workday | uofl | FAILED: 429 Client Error: Too Many Requests for url: https://uofl.wd1.myworkdayjobs.com/wday/cxs/uofl/UofLCa
+workday | usyd | FAILED: 429 Client Error: Too Many Requests for url: https://usyd.wd105.myworkdayjobs.com/wday/cxs/usyd/USYD
 workday | velux | FAILED: 429 Client Error: Too Many Requests for url: https://velux.wd3.myworkdayjobs.com/wday/cxs/velux/Velu
 workday | vfc | FAILED: 429 Client Error: Too Many Requests for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/altra_ca
 workday | victaulic | FAILED: 429 Client Error: Too Many Requests for url: https://victaulic.wd1.myworkdayjobs.com/wday/cxs/victau
@@ -234,52 +227,50 @@ workday | wework | FAILED: 429 Client Error: Too Many Requests for url: https://
 workday | wmeimg | FAILED: 429 Client Error: Too Many Requests for url: https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/WM
 workday | wpengine | FAILED: 429 Client Error: Too Many Requests for url: https://wpengine.wd1.myworkdayjobs.com/wday/cxs/wpengin
 workday | wwecorp | FAILED: 429 Client Error: Too Many Requests for url: https://wwecorp.wd5.myworkdayjobs.com/wday/cxs/wwecorp/
-workday | zebra | FAILED: 429 Client Error: Too Many Requests for url: https://zebra.wd501.myworkdayjobs.com/wday/cxs/zebra/ze
 workday | zoom | FAILED: 429 Client Error: Too Many Requests for url: https://zoom.wd5.myworkdayjobs.com/wday/cxs/zoom/Zoom/j
-ashby | 129 employers | 2867
-bamboohr | 8 employers | 50
+ashby | 129 employers | 2873
+bamboohr | 8 employers | 51
 breezy | 3 employers | 11
-greenhouse | 156 employers | 11922
-icims | 17 employers | 1345
+greenhouse | 156 employers | 11844
+icims | 17 employers | 1344
 lever | 8 employers | 320
-oracle | 42 employers | 10300
+oracle | 42 employers | 10306
 personio | 91 employers | 1002
-pinpoint | 6 employers | 143
-recruitee | 33 employers | 1406
-smartrecruiters | 40 employers | 8110
-successfactors | 22 employers | 7730
-taleo | 7 employers | 132
-teamtailor | 20 employers | 244
-workable | 101 employers | 10119
-workday | 168 employers | 244
+pinpoint | 6 employers | 141
+recruitee | 33 employers | 1416
+smartrecruiters | 40 employers | 8111
+successfactors | 22 employers | 7692
+taleo | 7 employers | 131
+teamtailor | 20 employers | 249
+workable | 101 employers | 10544
+workday | 168 employers | 197
 remoteok | 4
-weworkremotely | 57
-locations | missing 6 | looked up 6 | found 0
-checks | descriptions opened 90 | {"dropped earlier": 16, "visa unclear (no mention)": 42, "visa unclear (ad unreadable)": 2}
---- search runner 2/10 (11.2 min)
-indeed | Pakistan | operations analyst | 4
-indeed | Lahore | data analytics | 13
-indeed | Lahore | revenue operations | 14
+weworkremotely | 52
+locations | missing 7 | looked up 7 | found 1
+checks | descriptions opened 90 | {"dropped earlier": 20, "visa unclear (no mention)": 61, "visa unclear (ad unreadable)": 2}
+--- search runner 2/10 (18.2 min)
+indeed | Lahore | data analytics | 17
+indeed | Lahore | revenue operations | 21
 indeed | Lahore | assistant professor | 0
-indeed | Karachi | product analyst | 2
+indeed | Karachi | product analyst | 3
 indeed | Karachi | pricing analyst | 1
-indeed | Islamabad | business intelligence | 2
-indeed | Islamabad | strategy and operations | 13
-indeed | Islamabad | AI product | 10
+indeed | Islamabad | business intelligence | 6
+indeed | Islamabad | strategy and operations | 14
+indeed | Islamabad | AI product | 12
 indeed | United Arab Emirates | strategy | 100
-indeed | Saudi Arabia | business intelligence | 15
-indeed | Saudi Arabia | pricing analyst | 1
-indeed | Qatar | revenue operations | 11
+indeed | Saudi Arabia | business intelligence | 13
+indeed | Saudi Arabia | pricing analyst | 0
+indeed | Qatar | revenue operations | 12
 indeed | Bahrain | data scientist | 0
 indeed | Oman | data analyst | 0
 indeed | Oman | AI product | 0
-indeed | Kuwait | strategy | 4
-indeed | Egypt | business intelligence | 9
-indeed | Egypt | pricing analyst | 1
-indeed | Malaysia | data analyst | 35
-indeed | Singapore | business intelligence | 95
+indeed | Kuwait | strategy | 2
+indeed | Egypt | business intelligence | 14
+indeed | Egypt | pricing analyst | 0
+indeed | Malaysia | data analyst | 46
+indeed | Singapore | business intelligence | 100
 indeed | Japan | revenue operations visa sponsorship | 0
-indeed | UK | data analyst relocation | 4
+indeed | UK | data analyst relocation | 3
 indeed | Germany | data analyst visa sponsorship | 0
 indeed | Netherlands | business intelligence visa sponsorship | 0
 indeed | Poland | revenue operations visa sponsorship | 0
@@ -288,40 +279,42 @@ indeed | Portugal | data analyst visa sponsorship | 0
 indeed | Canada | business intelligence visa sponsorship | 1
 indeed | Australia | revenue operations visa sponsorship | 1
 indeed | New Zealand | data analyst relocation | 0
-linkedin | Lahore, Pakistan | business intelligence | 20
-linkedin | Lahore, Pakistan | business analyst | 36
-linkedin | Lahore, Pakistan | pricing analyst | 11
-linkedin | Karachi, Pakistan | strategy and planning | 20
-linkedin | Karachi, Pakistan | BI developer | 5
-linkedin | Karachi, Pakistan | operations analyst | 30
-linkedin | Islamabad, Pakistan | analytics manager | 8
-linkedin | Islamabad, Pakistan | AI specialist | 14
-linkedin | Dubai, United Arab Emirates | sales operations | 0
-linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 0
-linkedin | United Arab Emirates | business intelligence | 0
-linkedin | Riyadh, Saudi Arabia | data analyst | 0
-linkedin | Riyadh, Saudi Arabia | power bi | 0
-linkedin | Jeddah, Saudi Arabia | analytics manager | 7
-linkedin | Saudi Arabia | assistant professor | 10
-linkedin | Qatar | lecturer | 0
-linkedin | Bahrain | data scientist | 2
-linkedin | Oman | strategy and planning | 40
-linkedin | Kuwait | AI product | 0
-linkedin | Jordan | sales operations | 14
-linkedin | Egypt | revenue operations | 20
-linkedin | Istanbul, Türkiye | business intelligence | 0
-linkedin | Kuala Lumpur, Malaysia | data scientist | 0
-linkedin | Tokyo, Japan | revenue operations visa sponsorship | 20
-linkedin | United Kingdom | business intelligence visa sponsorship | 30
-linkedin | Ireland | strategy visa sponsorship | 0
-linkedin | Netherlands | revenue operations visa sponsorship | 0
-linkedin | Budapest, Hungary | business intelligence visa sponsorship | 10
-linkedin | Prague, Czechia | strategy visa sponsorship | 0
-linkedin | Canada | revenue operations visa sponsorship | 0
-linkedin | New Zealand | business intelligence visa sponsorship | 50
-indeed | Pakistan | data analyst | 7
+linkedin | Lahore, Pakistan | business intelligence | 22
+linkedin | Lahore, Pakistan | business analyst | 46
+linkedin | Lahore, Pakistan | pricing analyst | 13
+linkedin | Karachi, Pakistan | strategy and planning | 49
+linkedin | Karachi, Pakistan | BI developer | 8
+linkedin | Karachi, Pakistan | operations analyst | 34
+linkedin | Islamabad, Pakistan | analytics manager | 9
+linkedin | Islamabad, Pakistan | AI specialist | 20
+linkedin | Dubai, United Arab Emirates | sales operations | 100
+linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 43
+linkedin | United Arab Emirates | business intelligence | 100
+linkedin | Riyadh, Saudi Arabia | data analyst | 74
+linkedin | Riyadh, Saudi Arabia | power bi | 100
+linkedin | Jeddah, Saudi Arabia | analytics manager | 9
+linkedin | Saudi Arabia | assistant professor | 12
+linkedin | Qatar | lecturer | 4
+linkedin | Bahrain | data scientist | 4
+linkedin | Oman | strategy and planning | 47
+linkedin | Kuwait | AI product | 1
+linkedin | Jordan | sales operations | 22
+linkedin | Egypt | revenue operations | 75
+linkedin | Istanbul, Türkiye | business intelligence | 50
+linkedin | Kuala Lumpur, Malaysia | data scientist | 50
+linkedin | Tokyo, Japan | revenue operations visa sponsorship | 50
+linkedin | United Kingdom | business intelligence visa sponsorship | 50
+linkedin | Ireland | strategy visa sponsorship | 50
+linkedin | Netherlands | revenue operations visa sponsorship | 50
+linkedin | Budapest, Hungary | business intelligence visa sponsorship | 25
+linkedin | Prague, Czechia | strategy visa sponsorship | 38
+linkedin | Canada | revenue operations visa sponsorship | 50
+linkedin | New Zealand | business intelligence visa sponsorship | 35
+indeed | Pakistan | data analyst | 16
 indeed | Pakistan | strategy | 100
+indeed | Pakistan | operations analyst | 10
 discovered employers | added | 8463
+successfactors | jobs.mycareerfinder.ca | FAILED: Failed to perform, curl: (60) SSL certificate OpenSSL verify result: unable to get local issuer cert
 taleo | iamgold | FAILED: Expecting value: line 2 column 1 (char 2)
 workday | 7eleven | FAILED: 429 Client Error: Too Many Requests for url: https://7eleven.wd3.myworkdayjobs.com/wday/cxs/7eleven/
 workday | abglobal | FAILED: 429 Client Error: Too Many Requests for url: https://abglobal.wd1.myworkdayjobs.com/wday/cxs/abgloba
@@ -338,6 +331,7 @@ workday | astrazeneca | FAILED: 429 Client Error: Too Many Requests for url: htt
 workday | automationanywhere | FAILED: 429 Client Error: Too Many Requests for url: https://automationanywhere.wd5.myworkdayjobs.com/wday/c
 workday | aviva | FAILED: 429 Client Error: Too Many Requests for url: https://aviva.wd1.myworkdayjobs.com/wday/cxs/aviva/Aviv
 workday | axis | FAILED: 429 Client Error: Too Many Requests for url: https://axis.wd3.myworkdayjobs.com/wday/cxs/axis/extern
+workday | bakertilly | FAILED: 429 Client Error: Too Many Requests for url: https://bakertilly.wd5.myworkdayjobs.com/wday/cxs/baker
 workday | bbinsurance | FAILED: 429 Client Error: Too Many Requests for url: https://bbinsurance.wd1.myworkdayjobs.com/wday/cxs/bbin
 workday | bdoau | FAILED: 429 Client Error: Too Many Requests for url: https://bdoau.wd105.myworkdayjobs.com/wday/cxs/bdoau/BD
 workday | bdx | FAILED: 429 Client Error: Too Many Requests for url: https://bdx.wd1.myworkdayjobs.com/wday/cxs/bdx/external
@@ -355,7 +349,6 @@ workday | cdpq | FAILED: 429 Client Error: Too Many Requests for url: https://cd
 workday | cewe | FAILED: 429 Client Error: Too Many Requests for url: https://cewe.wd3.myworkdayjobs.com/wday/cxs/cewe/Jobs_a
 workday | christianacare | FAILED: 429 Client Error: Too Many Requests for url: https://christianacare.wd5.myworkdayjobs.com/wday/cxs/c
 workday | cincinnatichildrens | FAILED: 429 Client Error: Too Many Requests for url: https://cincinnatichildrens.wd5.myworkdayjobs.com/wday/
-workday | clarionhg | FAILED: 429 Client Error: Too Many Requests for url: https://clarionhg.wd3.myworkdayjobs.com/wday/cxs/clario
 workday | cmegroup | FAILED: 429 Client Error: Too Many Requests for url: https://cmegroup.wd1.myworkdayjobs.com/wday/cxs/cmegrou
 workday | coke | FAILED: 429 Client Error: Too Many Requests for url: https://coke.wd1.myworkdayjobs.com/wday/cxs/coke/coca-c
 workday | corpay | FAILED: 429 Client Error: Too Many Requests for url: https://corpay.wd103.myworkdayjobs.com/wday/cxs/corpay/
@@ -378,7 +371,6 @@ workday | fastretailing | FAILED: 429 Client Error: Too Many Requests for url: h
 workday | fedex | FAILED: 429 Client Error: Too Many Requests for url: https://fedex.wd1.myworkdayjobs.com/wday/cxs/fedex/FXE-
 workday | finning | FAILED: 429 Client Error: Too Many Requests for url: https://finning.wd3.myworkdayjobs.com/wday/cxs/finning/
 workday | flexerasoftware | FAILED: 429 Client Error: Too Many Requests for url: https://flexerasoftware.wd1.myworkdayjobs.com/wday/cxs/
-workday | fluenceenergy | FAILED: 429 Client Error: Too Many Requests for url: https://fluenceenergy.wd12.myworkdayjobs.com/wday/cxs/f
 workday | fourseasons | FAILED: 429 Client Error: Too Many Requests for url: https://fourseasons.wd3.myworkdayjobs.com/wday/cxs/four
 workday | freudenberg | FAILED: 429 Client Error: Too Many Requests for url: https://freudenberg.wd3.myworkdayjobs.com/wday/cxs/freu
 workday | gafsgi | FAILED: 429 Client Error: Too Many Requests for url: https://gafsgi.wd5.myworkdayjobs.com/wday/cxs/gafsgi/BM
@@ -391,10 +383,7 @@ workday | globusmedical | FAILED: 429 Client Error: Too Many Requests for url: h
 workday | grammy | FAILED: 429 Client Error: Too Many Requests for url: https://grammy.wd5.myworkdayjobs.com/wday/cxs/grammy/th
 workday | gsk | FAILED: 429 Client Error: Too Many Requests for url: https://gsk.wd5.myworkdayjobs.com/wday/cxs/gsk/ViiV_Car
 workday | guillevin | FAILED: 429 Client Error: Too Many Requests for url: https://guillevin.wd3.myworkdayjobs.com/wday/cxs/guille
-workday | hammondcare | FAILED: 429 Client Error: Too Many Requests for url: https://hammondcare.wd105.myworkdayjobs.com/wday/cxs/ha
 workday | harriscomputer | FAILED: 429 Client Error: Too Many Requests for url: https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/h
-workday | heidelberg | FAILED: 429 Client Error: Too Many Requests for url: https://heidelberg.wd502.myworkdayjobs.com/wday/cxs/hei
-workday | hengeler | FAILED: 429 Client Error: Too Many Requests for url: https://hengeler.wd502.myworkdayjobs.com/wday/cxs/henge
 workday | hoganlovells | FAILED: 429 Client Error: Too Many Requests for url: https://hoganlovells.wd3.myworkdayjobs.com/wday/cxs/hog
 workday | hpe | FAILED: 429 Client Error: Too Many Requests for url: https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/acjobsit
 workday | huron | FAILED: 429 Client Error: Too Many Requests for url: https://huron.wd1.myworkdayjobs.com/wday/cxs/huron/huro
@@ -415,17 +404,14 @@ workday | lnw | FAILED: 429 Client Error: Too Many Requests for url: https://lnw
 workday | lseg | FAILED: 429 Client Error: Too Many Requests for url: https://lseg.wd3.myworkdayjobs.com/wday/cxs/lseg/Gradua
 workday | magnitudesoftware | FAILED: 429 Client Error: Too Many Requests for url: https://magnitudesoftware.wd1.myworkdayjobs.com/wday/cx
 workday | mars | FAILED: 429 Client Error: Too Many Requests for url: https://mars.wd3.myworkdayjobs.com/wday/cxs/mars/extern
-workday | mavenir | FAILED: 429 Client Error: Too Many Requests for url: https://mavenir.wd1.myworkdayjobs.com/wday/cxs/mavenir/
 workday | mdlz | FAILED: 429 Client Error: Too Many Requests for url: https://mdlz.wd3.myworkdayjobs.com/wday/cxs/mdlz/extern
 workday | menarini | FAILED: 429 Client Error: Too Many Requests for url: https://menarini.wd103.myworkdayjobs.com/wday/cxs/menar
 workday | michelinhr | FAILED: 429 Client Error: Too Many Requests for url: https://michelinhr.wd3.myworkdayjobs.com/wday/cxs/miche
 workday | mksinst | FAILED: 429 Client Error: Too Many Requests for url: https://mksinst.wd1.myworkdayjobs.com/wday/cxs/mksinst/
 workday | momentive | FAILED: 429 Client Error: Too Many Requests for url: https://momentive.wd1.myworkdayjobs.com/wday/cxs/moment
-workday | mrisoftware | FAILED: 429 Client Error: Too Many Requests for url: https://mrisoftware.wd501.myworkdayjobs.com/wday/cxs/mr
 workday | mufgub | FAILED: 429 Client Error: Too Many Requests for url: https://mufgub.wd3.myworkdayjobs.com/wday/cxs/mufgub/MU
 workday | myhrabc | FAILED: 429 Client Error: Too Many Requests for url: https://myhrabc.wd5.myworkdayjobs.com/wday/cxs/myhrabc/
 workday | nature | FAILED: 429 Client Error: Too Many Requests for url: https://nature.wd108.myworkdayjobs.com/wday/cxs/nature/
-workday | nelnet | FAILED: 429 Client Error: Too Many Requests for url: https://nelnet.wd1.myworkdayjobs.com/wday/cxs/nelnet/My
 workday | nngroup | FAILED: 429 Client Error: Too Many Requests for url: https://nngroup.wd3.myworkdayjobs.com/wday/cxs/nngroup/
 workday | northmark | FAILED: 429 Client Error: Too Many Requests for url: https://northmark.wd108.myworkdayjobs.com/wday/cxs/nort
 workday | nvent | FAILED: 429 Client Error: Too Many Requests for url: https://nvent.wd5.myworkdayjobs.com/wday/cxs/nvent/nVen
@@ -462,6 +448,7 @@ workday | sonyglobal | FAILED: 429 Client Error: Too Many Requests for url: http
 workday | spgi | FAILED: 429 Client Error: Too Many Requests for url: https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_C
 workday | srsdistribution | FAILED: 429 Client Error: Too Many Requests for url: https://srsdistribution.wd1.myworkdayjobs.com/wday/cxs/
 workday | stcharles | FAILED: 429 Client Error: Too Many Requests for url: https://stcharles.wd1.myworkdayjobs.com/wday/cxs/stchar
+workday | sulzer | FAILED: 429 Client Error: Too Many Requests for url: https://sulzer.wd502.myworkdayjobs.com/wday/cxs/sulzer/
 workday | sunriseseniorliving | FAILED: 429 Client Error: Too Many Requests for url: https://sunriseseniorliving.wd12.myworkdayjobs.com/wday
 workday | syneoshealth | FAILED: 429 Client Error: Too Many Requests for url: https://syneoshealth.wd12.myworkdayjobs.com/wday/cxs/sy
 workday | talentmanagementsolution | FAILED: 429 Client Error: Too Many Requests for url: https://talentmanagementsolution.wd3.myworkdayjobs.com/
@@ -473,6 +460,7 @@ workday | transunion | FAILED: 429 Client Error: Too Many Requests for url: http
 workday | trumpf | FAILED: 429 Client Error: Too Many Requests for url: https://trumpf.wd3.myworkdayjobs.com/wday/cxs/trumpf/TR
 workday | tysonfoods | FAILED: 429 Client Error: Too Many Requests for url: https://tysonfoods.wd5.myworkdayjobs.com/wday/cxs/tyson
 workday | ukgrantt | FAILED: 429 Client Error: Too Many Requests for url: https://ukgrantt.wd3.myworkdayjobs.com/wday/cxs/ukgrant
+workday | unhcr | FAILED: 429 Client Error: Too Many Requests for url: https://unhcr.wd3.myworkdayjobs.com/wday/cxs/unhcr/Exte
 workday | uq | FAILED: 429 Client Error: Too Many Requests for url: https://uq.wd3.myworkdayjobs.com/wday/cxs/uq/uqaborigin
 workday | uwaterloo | FAILED: 429 Client Error: Too Many Requests for url: https://uwaterloo.wd3.myworkdayjobs.com/wday/cxs/uwater
 workday | velux | FAILED: 429 Client Error: Too Many Requests for url: https://velux.wd3.myworkdayjobs.com/wday/cxs/velux/Velu
@@ -486,94 +474,94 @@ workday | wsc | FAILED: 429 Client Error: Too Many Requests for url: https://wsc
 workday | wwecorp | FAILED: 429 Client Error: Too Many Requests for url: https://wwecorp.wd5.myworkdayjobs.com/wday/cxs/wwecorp/
 workday | zeissgroup | FAILED: 429 Client Error: Too Many Requests for url: https://zeissgroup.wd3.myworkdayjobs.com/wday/cxs/zeiss
 workday | zuehlke | FAILED: 429 Client Error: Too Many Requests for url: https://zuehlke.wd3.myworkdayjobs.com/wday/cxs/zuehlke/
-ashby | 129 employers | 4249
+ashby | 129 employers | 4239
 bamboohr | 8 employers | 98
-breezy | 3 employers | 28
+breezy | 3 employers | 27
 greenhouse | 156 employers | 13117
-icims | 17 employers | 1317
+icims | 17 employers | 1331
 lever | 8 employers | 482
-oracle | 42 employers | 8394
-personio | 91 employers | 1074
-pinpoint | 6 employers | 147
-recruitee | 33 employers | 709
+oracle | 42 employers | 8451
+personio | 91 employers | 1068
+pinpoint | 6 employers | 150
+recruitee | 33 employers | 708
 smartrecruiters | 40 employers | 5180
-successfactors | 22 employers | 8133
-taleo | 7 employers | 434
-teamtailor | 20 employers | 318
-workable | 101 employers | 7177
-workday | 168 employers | 168
-remotive | 60
-himalayas | 8
-jobicy | 6
+successfactors | 22 employers | 8164
+taleo | 7 employers | 447
+teamtailor | 20 employers | 307
+workable | 101 employers | 7175
+workday | 168 employers | 241
+remotive | 55
+himalayas | 1
+jobicy | 3
 workingnomads | 12
 arbeitnow | 900
-locations | missing 11 | looked up 11 | found 0
-checks | descriptions opened 90 | {"dropped earlier": 28, "visa unclear (no mention)": 53, "visa ruled out": 6}
---- search runner 3/10 (13.3 min)
-indeed | Pakistan | AI | 100
+locations | missing 13 | looked up 13 | found 2
+checks | descriptions opened 90 | {"dropped earlier": 24, "visa unclear (no mention)": 97, "visa ruled out": 4}
+--- search runner 3/10 (21.7 min)
 indeed | Lahore | data scientist | 0
-indeed | Lahore | sales operations | 32
+indeed | Lahore | sales operations | 46
 indeed | Lahore | trainer | 2
-indeed | Karachi | MIS | 1
-indeed | Karachi | growth | 10
+indeed | Karachi | MIS | 4
+indeed | Karachi | growth | 100
 indeed | Islamabad | power bi | 0
-indeed | Islamabad | business operations | 30
-indeed | Islamabad | lecturer | 0
+indeed | Islamabad | business operations | 45
+indeed | Islamabad | lecturer | 1
 indeed | United Arab Emirates | business planning | 100
-indeed | Saudi Arabia | power bi | 13
+indeed | Saudi Arabia | power bi | 16
 indeed | Saudi Arabia | lecturer | 0
-indeed | Qatar | sales operations | 31
+indeed | Qatar | sales operations | 25
 indeed | Bahrain | analytics manager | 1
 indeed | Oman | business analyst | 0
-indeed | Oman | AI specialist | 1
-indeed | Kuwait | business planning | 0
-indeed | Egypt | power bi | 6
-indeed | Egypt | lecturer | 1
-indeed | Malaysia | business analyst | 49
-indeed | Singapore | data scientist | 11
+indeed | Oman | AI specialist | 0
+indeed | Kuwait | business planning | 2
+indeed | Egypt | power bi | 9
+indeed | Egypt | lecturer | 0
+indeed | Malaysia | business analyst | 65
+indeed | Singapore | data scientist | 18
 indeed | Japan | strategy visa sponsorship | 1
-indeed | UK | AI product visa sponsorship | 25
+indeed | UK | AI product visa sponsorship | 47
 indeed | Germany | business analyst visa sponsorship | 0
-indeed | Netherlands | data scientist visa sponsorship | 0
+indeed | Netherlands | data scientist visa sponsorship | 3
 indeed | Poland | strategy visa sponsorship | 0
 indeed | Hungary | AI product visa sponsorship | 0
 indeed | Portugal | business analyst visa sponsorship | 0
 indeed | Canada | data scientist visa sponsorship | 0
-indeed | Australia | strategy visa sponsorship | 22
+indeed | Australia | strategy visa sponsorship | 24
 indeed | New Zealand | AI product visa sponsorship | 0
-linkedin | Lahore, Pakistan | revenue operations | 9
-linkedin | Lahore, Pakistan | data analytics | 33
-linkedin | Lahore, Pakistan | growth analyst | 20
-linkedin | Karachi, Pakistan | data scientist | 0
-linkedin | Karachi, Pakistan | strategy manager | 20
-linkedin | Islamabad, Pakistan | data analyst | 22
-linkedin | Islamabad, Pakistan | power bi | 10
-linkedin | Islamabad, Pakistan | business planning | 43
-linkedin | Dubai, United Arab Emirates | AI product | 40
-linkedin | Abu Dhabi, United Arab Emirates | sales operations | 30
-linkedin | United Arab Emirates | revenue operations | 10
-linkedin | Riyadh, Saudi Arabia | business intelligence | 30
-linkedin | Jeddah, Saudi Arabia | data analyst | 19
-linkedin | Jeddah, Saudi Arabia | power bi | 10
-linkedin | Saudi Arabia | analytics manager | 62
-linkedin | Qatar | assistant professor | 1
-linkedin | Bahrain | lecturer | 1
+linkedin | Lahore, Pakistan | revenue operations | 12
+linkedin | Lahore, Pakistan | data analytics | 42
+linkedin | Lahore, Pakistan | growth analyst | 25
+linkedin | Karachi, Pakistan | data scientist | 14
+linkedin | Karachi, Pakistan | strategy manager | 21
+linkedin | Islamabad, Pakistan | data analyst | 26
+linkedin | Islamabad, Pakistan | power bi | 50
+linkedin | Islamabad, Pakistan | business planning | 49
+linkedin | Dubai, United Arab Emirates | AI product | 75
+linkedin | Abu Dhabi, United Arab Emirates | sales operations | 100
+linkedin | United Arab Emirates | revenue operations | 100
+linkedin | Riyadh, Saudi Arabia | business intelligence | 46
+linkedin | Jeddah, Saudi Arabia | data analyst | 20
+linkedin | Jeddah, Saudi Arabia | power bi | 92
+linkedin | Saudi Arabia | analytics manager | 74
+linkedin | Qatar | assistant professor | 2
+linkedin | Bahrain | lecturer | 2
 linkedin | Oman | data scientist | 2
-linkedin | Kuwait | strategy and planning | 0
-linkedin | Jordan | AI product | 0
-linkedin | Egypt | sales operations | 10
+linkedin | Kuwait | strategy and planning | 22
+linkedin | Jordan | AI product | 1
+linkedin | Egypt | sales operations | 100
 linkedin | Istanbul, Türkiye | revenue operations | 50
-linkedin | Singapore | data analyst | 10
-linkedin | Tokyo, Japan | AI product manager visa sponsorship | 0
-linkedin | United Kingdom | data scientist visa sponsorship | 40
+linkedin | Singapore | data analyst | 50
+linkedin | Tokyo, Japan | AI product manager visa sponsorship | 38
+linkedin | United Kingdom | data scientist visa sponsorship | 50
 linkedin | Germany | data analyst visa sponsorship | 50
-linkedin | Netherlands | AI product manager visa sponsorship | 21
-linkedin | Budapest, Hungary | data scientist visa sponsorship | 7
-linkedin | Lisbon, Portugal | data analyst visa sponsorship | 0
-linkedin | Canada | AI product manager visa sponsorship | 0
-linkedin | New Zealand | data scientist visa sponsorship | 0
-indeed | Pakistan | business analyst | 9
-indeed | Pakistan | business planning | 81
+linkedin | Netherlands | AI product manager visa sponsorship | 32
+linkedin | Budapest, Hungary | data scientist visa sponsorship | 9
+linkedin | Lisbon, Portugal | data analyst visa sponsorship | 22
+linkedin | Canada | AI product manager visa sponsorship | 50
+linkedin | New Zealand | data scientist visa sponsorship | 26
+indeed | Pakistan | business analyst | 19
+indeed | Pakistan | business planning | 24
+indeed | Pakistan | AI | 100
 discovered employers | added | 8463
 workday | 7eleven | FAILED: 429 Client Error: Too Many Requests for url: https://7eleven.wd3.myworkdayjobs.com/wday/cxs/7eleven/
 workday | accenture | FAILED: 429 Client Error: Too Many Requests for url: https://accenture.wd103.myworkdayjobs.com/wday/cxs/acce
@@ -593,12 +581,14 @@ workday | baldwin | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | bbinsurance | FAILED: 429 Client Error: Too Many Requests for url: https://bbinsurance.wd1.myworkdayjobs.com/wday/cxs/bbin
 workday | bdrthermea | FAILED: 429 Client Error: Too Many Requests for url: https://bdrthermea.wd103.myworkdayjobs.com/wday/cxs/bdr
 workday | bdx | FAILED: 429 Client Error: Too Many Requests for url: https://bdx.wd1.myworkdayjobs.com/wday/cxs/bdx/EXTERNAL
+workday | beneva | FAILED: 429 Client Error: Too Many Requests for url: https://beneva.wd10.myworkdayjobs.com/wday/cxs/beneva/U
 workday | bird | FAILED: 429 Client Error: Too Many Requests for url: https://bird.wd3.myworkdayjobs.com/wday/cxs/bird/CanemC
 workday | bluescopenac | FAILED: 429 Client Error: Too Many Requests for url: https://bluescopenac.wd5.myworkdayjobs.com/wday/cxs/blu
 workday | boliden | FAILED: 429 Client Error: Too Many Requests for url: https://boliden.wd3.myworkdayjobs.com/wday/cxs/boliden/
 workday | bridgestone | FAILED: 429 Client Error: Too Many Requests for url: https://bridgestone.wd5.myworkdayjobs.com/wday/cxs/brid
 workday | brookfield | FAILED: 429 Client Error: Too Many Requests for url: https://brookfield.wd5.myworkdayjobs.com/wday/cxs/brook
 workday | cadence | FAILED: 429 Client Error: Too Many Requests for url: https://cadence.wd1.myworkdayjobs.com/wday/cxs/cadence/
+workday | canassurance | FAILED: 429 Client Error: Too Many Requests for url: https://canassurance.wd10.myworkdayjobs.com/wday/cxs/ca
 workday | caresource | FAILED: 429 Client Error: Too Many Requests for url: https://caresource.wd1.myworkdayjobs.com/wday/cxs/cares
 workday | cba | FAILED: 429 Client Error: Too Many Requests for url: https://cba.wd3.myworkdayjobs.com/wday/cxs/cba/x15_Care
 workday | cdpq | FAILED: 429 Client Error: Too Many Requests for url: https://cdpq.wd10.myworkdayjobs.com/wday/cxs/cdpq/cdpq-
@@ -666,13 +656,13 @@ workday | lsu | FAILED: 429 Client Error: Too Many Requests for url: https://lsu
 workday | maisonsdumonde | FAILED: 429 Client Error: Too Many Requests for url: https://maisonsdumonde.wd3.myworkdayjobs.com/wday/cxs/m
 workday | marvell | FAILED: 429 Client Error: Too Many Requests for url: https://marvell.wd1.myworkdayjobs.com/wday/cxs/marvell/
 workday | maxar | FAILED: 429 Client Error: Too Many Requests for url: https://maxar.wd1.myworkdayjobs.com/wday/cxs/maxar/vant
-workday | mdtkangaroo | FAILED: 429 Client Error: Too Many Requests for url: https://mdtkangaroo.wd108.myworkdayjobs.com/wday/cxs/md
 workday | merative | FAILED: 429 Client Error: Too Many Requests for url: https://merative.wd12.myworkdayjobs.com/wday/cxs/merati
 workday | micron | FAILED: 429 Client Error: Too Many Requests for url: https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/ex
 workday | mksinst | FAILED: 429 Client Error: Too Many Requests for url: https://mksinst.wd1.myworkdayjobs.com/wday/cxs/mksinst/
 workday | moneris | FAILED: 429 Client Error: Too Many Requests for url: https://moneris.wd3.myworkdayjobs.com/wday/cxs/moneris/
 workday | ms | FAILED: 429 Client Error: Too Many Requests for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/external/j
 workday | multimatic | FAILED: 429 Client Error: Too Many Requests for url: https://multimatic.wd10.myworkdayjobs.com/wday/cxs/mult
+workday | mymvw | FAILED: 429 Client Error: Too Many Requests for url: https://mymvw.wd5.myworkdayjobs.com/wday/cxs/mymvw/MVW/
 workday | navcanada | FAILED: 429 Client Error: Too Many Requests for url: https://navcanada.wd10.myworkdayjobs.com/wday/cxs/navca
 workday | newbalance | FAILED: 429 Client Error: Too Many Requests for url: https://newbalance.wd1.myworkdayjobs.com/wday/cxs/newba
 workday | noblecorp | FAILED: 429 Client Error: Too Many Requests for url: https://noblecorp.wd1.myworkdayjobs.com/wday/cxs/noblec
@@ -686,19 +676,16 @@ workday | Parsons | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | perpetual | FAILED: 429 Client Error: Too Many Requests for url: https://perpetual.wd3.myworkdayjobs.com/wday/cxs/perpet
 workday | phcgroup | FAILED: 429 Client Error: Too Many Requests for url: https://phcgroup.wd3.myworkdayjobs.com/wday/cxs/phcgrou
 workday | pinnaclegroup | FAILED: 429 Client Error: Too Many Requests for url: https://pinnaclegroup.wd1.myworkdayjobs.com/wday/cxs/pi
-workday | politico | FAILED: 429 Client Error: Too Many Requests for url: https://politico.wd108.myworkdayjobs.com/wday/cxs/polit
 workday | progleasing | FAILED: 429 Client Error: Too Many Requests for url: https://progleasing.wd5.myworkdayjobs.com/wday/cxs/prog
 workday | psu | FAILED: 429 Client Error: Too Many Requests for url: https://psu.wd1.myworkdayjobs.com/wday/cxs/psu/PSU_Acad
 workday | pwc | FAILED: 429 Client Error: Too Many Requests for url: https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/nonpubli
 workday | rackspace | FAILED: 429 Client Error: Too Many Requests for url: https://rackspace.wd1.myworkdayjobs.com/wday/cxs/racksp
-workday | rba | FAILED: 429 Client Error: Too Many Requests for url: https://rba.wd105.myworkdayjobs.com/wday/cxs/rba/rba_ca
 workday | regions | FAILED: 429 Client Error: Too Many Requests for url: https://regions.wd5.myworkdayjobs.com/wday/cxs/regions/
 workday | relx | FAILED: 429 Client Error: Too Many Requests for url: https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/RiskSo
 workday | revera | FAILED: 429 Client Error: Too Many Requests for url: https://revera.wd3.myworkdayjobs.com/wday/cxs/revera/ta
 workday | robeco | FAILED: 429 Client Error: Too Many Requests for url: https://robeco.wd3.myworkdayjobs.com/wday/cxs/robeco/ro
 workday | rochester | FAILED: 429 Client Error: Too Many Requests for url: https://rochester.wd5.myworkdayjobs.com/wday/cxs/roches
 workday | rollsroyce | FAILED: 429 Client Error: Too Many Requests for url: https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rolls
-workday | rsmaus | FAILED: 429 Client Error: Too Many Requests for url: https://rsmaus.wd105.myworkdayjobs.com/wday/cxs/rsmaus/
 workday | safeguardglobal | FAILED: 429 Client Error: Too Many Requests for url: https://safeguardglobal.wd3.myworkdayjobs.com/wday/cxs/
 workday | sandvik | FAILED: 429 Client Error: Too Many Requests for url: https://sandvik.wd3.myworkdayjobs.com/wday/cxs/sandvik/
 workday | scholastic | FAILED: 429 Client Error: Too Many Requests for url: https://scholastic.wd5.myworkdayjobs.com/wday/cxs/schol
@@ -716,6 +703,7 @@ workday | sunrun | FAILED: 429 Client Error: Too Many Requests for url: https://
 workday | synnex | FAILED: 429 Client Error: Too Many Requests for url: https://synnex.wd5.myworkdayjobs.com/wday/cxs/synnex/hy
 workday | talentmanagementsolution | FAILED: 429 Client Error: Too Many Requests for url: https://talentmanagementsolution.wd3.myworkdayjobs.com/
 workday | tcenergy | FAILED: 429 Client Error: Too Many Requests for url: https://tcenergy.wd3.myworkdayjobs.com/wday/cxs/tcenerg
+workday | teladoc | FAILED: 429 Client Error: Too Many Requests for url: https://teladoc.wd503.myworkdayjobs.com/wday/cxs/telado
 workday | theapexgroup | FAILED: 429 Client Error: Too Many Requests for url: https://theapexgroup.wd3.myworkdayjobs.com/wday/cxs/the
 workday | thrivent | FAILED: 429 Client Error: Too Many Requests for url: https://thrivent.wd5.myworkdayjobs.com/wday/cxs/thriven
 workday | toryburch | FAILED: 429 Client Error: Too Many Requests for url: https://toryburch.wd1.myworkdayjobs.com/wday/cxs/torybu
@@ -735,79 +723,82 @@ workday | wmg | FAILED: 429 Client Error: Too Many Requests for url: https://wmg
 workday | wsc | FAILED: 429 Client Error: Too Many Requests for url: https://wsc.wd1.myworkdayjobs.com/wday/cxs/wsc/WCH/jobs
 workday | wynd | FAILED: 429 Client Error: Too Many Requests for url: https://wynd.wd5.myworkdayjobs.com/wday/cxs/wynd/Extern
 workday | zendesk | FAILED: 429 Client Error: Too Many Requests for url: https://zendesk.wd1.myworkdayjobs.com/wday/cxs/zendesk/
-ashby | 129 employers | 3977
-bamboohr | 8 employers | 75
-breezy | 3 employers | 283
-greenhouse | 156 employers | 7280
-icims | 17 employers | 1182
-lever | 8 employers | 841
-oracle | 42 employers | 12843
-personio | 91 employers | 831
+ashby | 129 employers | 3933
+bamboohr | 8 employers | 74
+breezy | 3 employers | 286
+greenhouse | 156 employers | 7268
+icims | 17 employers | 1184
+lever | 8 employers | 837
+oracle | 42 employers | 12852
+personio | 91 employers | 834
 pinpoint | 6 employers | 491
-recruitee | 33 employers | 648
-smartrecruiters | 40 employers | 9205
-successfactors | 22 employers | 9168
+recruitee | 33 employers | 650
+smartrecruiters | 40 employers | 9182
+successfactors | 22 employers | 9176
 taleo | 6 employers | 423
-teamtailor | 21 employers | 185
-workable | 101 employers | 5360
-workday | 167 employers | 67
+teamtailor | 21 employers | 181
+workable | 101 employers | 5366
+workday | 167 employers | 129
 rozee | FAILED: HTTP Error 403: 
-gulftalent | FAILED: HTTP Error 403: 
-locations | missing 2 | looked up 2 | found 1
-checks | descriptions opened 90 | {"dropped earlier": 46, "visa ruled out": 1, "visa unclear (no mention)": 37}
---- search runner 4/10 (11.3 min)
-linkedin | Lahore, Pakistan | MIS | 0
-linkedin | Karachi, Pakistan | lecturer | 0
+gulftalent | detail FAILED sician-md-do-freelance-ai-trainer-657589: HTTP Error 403: 
+gulftalent | detail FAILED m/egypt/jobs/salesforce-developer-655361: HTTP Error 403: 
+gulftalent | detail FAILED cation-consultant-pricing-manager-655375: HTTP Error 403: 
+gulftalent | detail FAILED obs/head-of-growth-and-operations-655127: HTTP Error 403: 
+gulftalent | sitemap jobs in window 9242 | title matches 315 | opened 56
+locations | missing 3 | looked up 3 | found 2
+checks | descriptions opened 90 | {"dropped earlier": 46, "visa unclear (no mention)": 42, "visa unclear (ad unreadable)": 9}
+--- search runner 4/10 (18.3 min)
+linkedin | Karachi, Pakistan | lecturer | 5
 linkedin | Karachi, Pakistan | corporate planning | 29
-linkedin | Islamabad, Pakistan | business intelligence | 15
-linkedin | Islamabad, Pakistan | business analyst | 30
-linkedin | Islamabad, Pakistan | pricing analyst | 7
-linkedin | Dubai, United Arab Emirates | strategy and planning | 30
-linkedin | Abu Dhabi, United Arab Emirates | AI product | 40
-linkedin | United Arab Emirates | sales operations | 50
-linkedin | Riyadh, Saudi Arabia | revenue operations | 20
-linkedin | Jeddah, Saudi Arabia | business intelligence | 11
-linkedin | Saudi Arabia | data analyst | 0
-linkedin | Saudi Arabia | power bi | 10
-linkedin | Qatar | analytics manager | 0
+linkedin | Islamabad, Pakistan | business intelligence | 17
+linkedin | Islamabad, Pakistan | business analyst | 42
+linkedin | Islamabad, Pakistan | pricing analyst | 13
+linkedin | Dubai, United Arab Emirates | strategy and planning | 100
+linkedin | Abu Dhabi, United Arab Emirates | AI product | 48
+linkedin | United Arab Emirates | sales operations | 100
+linkedin | Riyadh, Saudi Arabia | revenue operations | 43
+linkedin | Jeddah, Saudi Arabia | business intelligence | 12
+linkedin | Saudi Arabia | data analyst | 100
+linkedin | Saudi Arabia | power bi | 100
+linkedin | Qatar | analytics manager | 16
 linkedin | Bahrain | assistant professor | 0
-linkedin | Oman | lecturer | 2
-linkedin | Kuwait | data scientist | 3
-linkedin | Jordan | strategy and planning | 0
-linkedin | Egypt | AI product | 10
-linkedin | Istanbul, Türkiye | AI product | 10
-linkedin | Singapore | business intelligence | 0
-linkedin | Tokyo, Japan | strategy visa sponsorship | 10
+linkedin | Oman | lecturer | 3
+linkedin | Kuwait | data scientist | 2
+linkedin | Jordan | strategy and planning | 46
+linkedin | Egypt | AI product | 28
+linkedin | Istanbul, Türkiye | AI product | 43
+linkedin | Singapore | business intelligence | 50
+linkedin | Tokyo, Japan | strategy visa sponsorship | 50
 linkedin | United Kingdom | revenue operations visa sponsorship | 50
-linkedin | Germany | business intelligence visa sponsorship | 0
-linkedin | Netherlands | strategy visa sponsorship | 0
-linkedin | Budapest, Hungary | revenue operations visa sponsorship | 6
-linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 14
-linkedin | Canada | strategy visa sponsorship | 0
-linkedin | New Zealand | revenue operations visa sponsorship | 9
-indeed | Pakistan | business intelligence | 20
-indeed | Pakistan | strategy and operations | 56
-indeed | Pakistan | AI product | 47
-indeed | Lahore | machine learning | 0
-indeed | Lahore | salesforce | 5
-indeed | Karachi | data analyst | 3
-indeed | Karachi | strategy | 9
-indeed | Karachi | operations analyst | 3
+linkedin | Germany | business intelligence visa sponsorship | 50
+linkedin | Netherlands | strategy visa sponsorship | 50
+linkedin | Budapest, Hungary | revenue operations visa sponsorship | 10
+linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 18
+linkedin | Canada | strategy visa sponsorship | 50
+linkedin | New Zealand | revenue operations visa sponsorship | 10
+indeed | Pakistan | business intelligence | 8
+indeed | Pakistan | strategy and operations | 71
+indeed | Pakistan | AI product | 56
+indeed | Lahore | machine learning | 2
+indeed | Lahore | salesforce | 7
+indeed | Karachi | data analyst | 5
+indeed | Karachi | strategy | 92
+indeed | Karachi | operations analyst | 5
 indeed | Islamabad | data analytics | 5
-indeed | Islamabad | revenue operations | 8
-indeed | Islamabad | assistant professor | 1
-indeed | United Arab Emirates | revenue operations | 78
-indeed | Saudi Arabia | data scientist | 6
-indeed | Qatar | data analyst | 13
-indeed | Qatar | AI product | 4
-indeed | Bahrain | strategy | 5
+indeed | Islamabad | revenue operations | 18
+indeed | Islamabad | assistant professor | 5
+indeed | United Arab Emirates | revenue operations | 99
+indeed | Saudi Arabia | data scientist | 10
+indeed | Qatar | data analyst | 14
+indeed | Qatar | AI product | 6
+indeed | Bahrain | strategy | 8
 indeed | Oman | business intelligence | 3
 indeed | Oman | pricing analyst | 0
 indeed | Kuwait | revenue operations | 2
-indeed | Egypt | data scientist | 1
+indeed | Egypt | data scientist | 2
 indeed | Turkey | data analyst visa sponsorship | 0
-indeed | Malaysia | business intelligence | 42
-indeed | Singapore | revenue operations | 73
+indeed | Malaysia | business intelligence | 62
+indeed | Singapore | revenue operations | 100
 indeed | Japan | data analyst relocation | 0
 indeed | Ireland | data analyst visa sponsorship | 0
 indeed | Germany | business intelligence visa sponsorship | 0
@@ -816,9 +807,10 @@ indeed | Poland | data analyst relocation | 0
 indeed | Czech Republic | data analyst visa sponsorship | 0
 indeed | Portugal | business intelligence visa sponsorship | 0
 indeed | Canada | revenue operations visa sponsorship | 2
-indeed | Australia | data analyst relocation | 1
-linkedin | Lahore, Pakistan | sales operations | 30
-linkedin | Lahore, Pakistan | product analyst | 10
+indeed | Australia | data analyst relocation | 2
+linkedin | Lahore, Pakistan | sales operations | 50
+linkedin | Lahore, Pakistan | product analyst | 13
+linkedin | Lahore, Pakistan | MIS | 50
 discovered employers | added | 8463
 workday | aaamidatlantic | FAILED: 429 Client Error: Too Many Requests for url: https://aaamidatlantic.wd5.myworkdayjobs.com/wday/cxs/a
 workday | accenture | FAILED: 429 Client Error: Too Many Requests for url: https://accenture.wd103.myworkdayjobs.com/wday/cxs/acce
@@ -836,8 +828,8 @@ workday | avon | FAILED: 429 Client Error: Too Many Requests for url: https://av
 workday | axiscapital | FAILED: 429 Client Error: Too Many Requests for url: https://axiscapital.wd1.myworkdayjobs.com/wday/cxs/axis
 workday | baldwin | FAILED: 429 Client Error: Too Many Requests for url: https://baldwin.wd1.myworkdayjobs.com/wday/cxs/baldwin/
 workday | bbinsurance | FAILED: 429 Client Error: Too Many Requests for url: https://bbinsurance.wd1.myworkdayjobs.com/wday/cxs/bbin
+workday | bdx | FAILED: 429 Client Error: Too Many Requests for url: https://bdx.wd1.myworkdayjobs.com/wday/cxs/bdx/EXTERNAL
 workday | begacheese | FAILED: 429 Client Error: Too Many Requests for url: https://begacheese.wd3.myworkdayjobs.com/wday/cxs/begac
-workday | bentleysystems | FAILED: 429 Client Error: Too Many Requests for url: https://bentleysystems.wd5.myworkdayjobs.com/wday/cxs/b
 workday | bishopfleming | FAILED: 429 Client Error: Too Many Requests for url: https://bishopfleming.wd3.myworkdayjobs.com/wday/cxs/bi
 workday | bmc | FAILED: 429 Client Error: Too Many Requests for url: https://bmc.wd1.myworkdayjobs.com/wday/cxs/bmc/bmc/jobs
 workday | borgwarner | FAILED: 429 Client Error: Too Many Requests for url: https://borgwarner.wd5.myworkdayjobs.com/wday/cxs/borgw
@@ -855,7 +847,6 @@ workday | clarivate | FAILED: 429 Client Error: Too Many Requests for url: https
 workday | cna | FAILED: 429 Client Error: Too Many Requests for url: https://cna.wd1.myworkdayjobs.com/wday/cxs/cna/CNA_Care
 workday | colliers | FAILED: 429 Client Error: Too Many Requests for url: https://colliers.wd3.myworkdayjobs.com/wday/cxs/collier
 workday | conocophillips | FAILED: 429 Client Error: Too Many Requests for url: https://conocophillips.wd1.myworkdayjobs.com/wday/cxs/c
-workday | costar | FAILED: 429 Client Error: Too Many Requests for url: https://costar.wd1.myworkdayjobs.com/wday/cxs/costar/br
 workday | criteo | FAILED: 429 Client Error: Too Many Requests for url: https://criteo.wd3.myworkdayjobs.com/wday/cxs/criteo/Cr
 workday | csgi | FAILED: 429 Client Error: Too Many Requests for url: https://csgi.wd5.myworkdayjobs.com/wday/cxs/csgi/CSGCar
 workday | cyrusone | FAILED: 429 Client Error: Too Many Requests for url: https://cyrusone.wd1.myworkdayjobs.com/wday/cxs/cyruson
@@ -872,7 +863,6 @@ workday | essity | FAILED: 429 Client Error: Too Many Requests for url: https://
 workday | evotecgroup | FAILED: 429 Client Error: Too Many Requests for url: https://evotecgroup.wd3.myworkdayjobs.com/wday/cxs/evot
 workday | fairstone | FAILED: 429 Client Error: Too Many Requests for url: https://fairstone.wd3.myworkdayjobs.com/wday/cxs/fairst
 workday | fastretailing | FAILED: 429 Client Error: Too Many Requests for url: https://fastretailing.wd3.myworkdayjobs.com/wday/cxs/fa
-workday | fengate | FAILED: 429 Client Error: Too Many Requests for url: https://fengate.wd10.myworkdayjobs.com/wday/cxs/fengate
 workday | firstam | FAILED: 429 Client Error: Too Many Requests for url: https://firstam.wd1.myworkdayjobs.com/wday/cxs/firstam/
 workday | flextronics | FAILED: 429 Client Error: Too Many Requests for url: https://flextronics.wd1.myworkdayjobs.com/wday/cxs/flex
 workday | fmr | FAILED: 429 Client Error: Too Many Requests for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/fidelity
@@ -887,6 +877,7 @@ workday | gianttiger | FAILED: 429 Client Error: Too Many Requests for url: http
 workday | gn | FAILED: 429 Client Error: Too Many Requests for url: https://gn.wd3.myworkdayjobs.com/wday/cxs/gn/resoundCar
 workday | greenheckgroup | FAILED: 429 Client Error: Too Many Requests for url: https://greenheckgroup.wd5.myworkdayjobs.com/wday/cxs/g
 workday | gsma | FAILED: 429 Client Error: Too Many Requests for url: https://gsma.wd3.myworkdayjobs.com/wday/cxs/gsma/Extern
+workday | gvmh | FAILED: 429 Client Error: Too Many Requests for url: https://gvmh.wd504.myworkdayjobs.com/wday/cxs/gvmh/GVMH
 workday | hargreaveslansdown | FAILED: 429 Client Error: Too Many Requests for url: https://hargreaveslansdown.wd3.myworkdayjobs.com/wday/c
 workday | harriscomputer | FAILED: 429 Client Error: Too Many Requests for url: https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/h
 workday | heidelbergmaterials | FAILED: 429 Client Error: Too Many Requests for url: https://heidelbergmaterials.wd3.myworkdayjobs.com/wday/
@@ -918,7 +909,6 @@ workday | mksinst | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | monolithicpower | FAILED: 429 Client Error: Too Many Requests for url: https://monolithicpower.wd12.myworkdayjobs.com/wday/cxs
 workday | ms | FAILED: 429 Client Error: Too Many Requests for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/private/jo
 workday | murdoch | FAILED: 429 Client Error: Too Many Requests for url: https://murdoch.wd3.myworkdayjobs.com/wday/cxs/murdoch/
-workday | mypath | FAILED: 429 Client Error: Too Many Requests for url: https://mypath.wd115.myworkdayjobs.com/wday/cxs/mypath/
 workday | nb | FAILED: 429 Client Error: Too Many Requests for url: https://nb.wd1.myworkdayjobs.com/wday/cxs/nb/NBCareers/
 workday | newday | FAILED: 429 Client Error: Too Many Requests for url: https://newday.wd3.myworkdayjobs.com/wday/cxs/newday/Ne
 workday | noerr | FAILED: 429 Client Error: Too Many Requests for url: https://noerr.wd3.myworkdayjobs.com/wday/cxs/noerr/Care
@@ -929,6 +919,7 @@ workday | onni | FAILED: 429 Client Error: Too Many Requests for url: https://on
 workday | oshkoshcorporation | FAILED: 429 Client Error: Too Many Requests for url: https://oshkoshcorporation.wd5.myworkdayjobs.com/wday/c
 workday | oxfordcorp | FAILED: 429 Client Error: Too Many Requests for url: https://oxfordcorp.wd108.myworkdayjobs.com/wday/cxs/oxf
 workday | path | FAILED: 429 Client Error: Too Many Requests for url: https://path.wd1.myworkdayjobs.com/wday/cxs/path/Extern
+workday | petco | FAILED: 429 Client Error: Too Many Requests for url: https://petco.wd504.myworkdayjobs.com/wday/cxs/petco/Ex
 workday | phcgroup | FAILED: 429 Client Error: Too Many Requests for url: https://phcgroup.wd3.myworkdayjobs.com/wday/cxs/phcgrou
 workday | pitneybowes | FAILED: 429 Client Error: Too Many Requests for url: https://pitneybowes.wd1.myworkdayjobs.com/wday/cxs/pitn
 workday | polpharma | FAILED: 429 Client Error: Too Many Requests for url: https://polpharma.wd3.myworkdayjobs.com/wday/cxs/polpha
@@ -939,7 +930,6 @@ workday | railpool | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | rbc | FAILED: 429 Client Error: Too Many Requests for url: https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/external
 workday | rehlko | FAILED: 429 Client Error: Too Many Requests for url: https://rehlko.wd12.myworkdayjobs.com/wday/cxs/rehlko/R
 workday | remitly | FAILED: 429 Client Error: Too Many Requests for url: https://remitly.wd5.myworkdayjobs.com/wday/cxs/remitly/
-workday | revvity | FAILED: 429 Client Error: Too Many Requests for url: https://revvity.wd103.myworkdayjobs.com/wday/cxs/revvit
 workday | roberthalf | FAILED: 429 Client Error: Too Many Requests for url: https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/rober
 workday | rollsroyce | FAILED: 429 Client Error: Too Many Requests for url: https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rolls
 workday | russell | FAILED: 429 Client Error: Too Many Requests for url: https://russell.wd5.myworkdayjobs.com/wday/cxs/russell/
@@ -951,8 +941,9 @@ workday | shell | FAILED: 429 Client Error: Too Many Requests for url: https://s
 workday | silabs | FAILED: 429 Client Error: Too Many Requests for url: https://silabs.wd1.myworkdayjobs.com/wday/cxs/silabs/Si
 workday | slihrms | FAILED: 429 Client Error: Too Many Requests for url: https://slihrms.wd3.myworkdayjobs.com/wday/cxs/slihrms/
 workday | solenis | FAILED: 429 Client Error: Too Many Requests for url: https://solenis.wd1.myworkdayjobs.com/wday/cxs/solenis/
+workday | soti | FAILED: 429 Client Error: Too Many Requests for url: https://soti.wd3.myworkdayjobs.com/wday/cxs/soti/SOTI-N
+workday | spinmaster | FAILED: 429 Client Error: Too Many Requests for url: https://spinmaster.wd3.myworkdayjobs.com/wday/cxs/spinm
 workday | stageentertainment | FAILED: 429 Client Error: Too Many Requests for url: https://stageentertainment.wd3.myworkdayjobs.com/wday/c
-workday | stem | FAILED: 429 Client Error: Too Many Requests for url: https://stem.wd12.myworkdayjobs.com/wday/cxs/stem/StemI
 workday | sunbeltrentals | FAILED: 429 Client Error: Too Many Requests for url: https://sunbeltrentals.wd1.myworkdayjobs.com/wday/cxs/s
 workday | suse | FAILED: 429 Client Error: Too Many Requests for url: https://suse.wd3.myworkdayjobs.com/wday/cxs/suse/Jobsat
 workday | synnex | FAILED: 429 Client Error: Too Many Requests for url: https://synnex.wd5.myworkdayjobs.com/wday/cxs/synnex/td
@@ -972,97 +963,95 @@ workday | valleyhealth | FAILED: 429 Client Error: Too Many Requests for url: ht
 workday | veoliauki | FAILED: 429 Client Error: Too Many Requests for url: https://veoliauki.wd3.myworkdayjobs.com/wday/cxs/veolia
 workday | vfc | FAILED: 429 Client Error: Too Many Requests for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/napapijr
 workday | vishay | FAILED: 429 Client Error: Too Many Requests for url: https://vishay.wd3.myworkdayjobs.com/wday/cxs/vishay/Vi
-workday | wegmans | FAILED: 429 Client Error: Too Many Requests for url: https://wegmans.wd1.myworkdayjobs.com/wday/cxs/wegmans/
 workday | wgl | FAILED: 429 Client Error: Too Many Requests for url: https://wgl.wd5.myworkdayjobs.com/wday/cxs/wgl/AltaGas/
-workday | wmg | FAILED: 429 Client Error: Too Many Requests for url: https://wmg.wd1.myworkdayjobs.com/wday/cxs/wmg/WMGGLOBA
 workday | wsu | FAILED: 429 Client Error: Too Many Requests for url: https://wsu.wd5.myworkdayjobs.com/wday/cxs/wsu/wsu_jobs
 workday | xboxgaming | FAILED: 429 Client Error: Too Many Requests for url: https://xboxgaming.wd1.myworkdayjobs.com/wday/cxs/xboxg
 workday | zentiva | FAILED: 429 Client Error: Too Many Requests for url: https://zentiva.wd3.myworkdayjobs.com/wday/cxs/zentiva/
-ashby | 129 employers | 6357
-bamboohr | 8 employers | 91
-breezy | 3 employers | 41
-greenhouse | 156 employers | 7953
-icims | 17 employers | 2831
-lever | 8 employers | 91
-oracle | 41 employers | 14163
-personio | 92 employers | 1445
-pinpoint | 5 employers | 72
-recruitee | 34 employers | 1274
-smartrecruiters | 39 employers | 11677
-successfactors | 22 employers | 7064
-taleo | 7 employers | 1258
-teamtailor | 21 employers | 381
-workable | 101 employers | 3853
-workday | 167 employers | 73
+ashby | 129 employers | 6384
+bamboohr | 8 employers | 85
+breezy | 3 employers | 42
+greenhouse | 156 employers | 7960
+icims | 17 employers | 2834
+lever | 8 employers | 90
+oracle | 41 employers | 14217
+personio | 92 employers | 1439
+pinpoint | 5 employers | 69
+recruitee | 34 employers | 1280
+smartrecruiters | 39 employers | 11708
+successfactors | 22 employers | 7091
+taleo | 7 employers | 1037
+teamtailor | 21 employers | 383
+workable | 101 employers | 3881
+workday | 167 employers | 117
 careerjet | skipped (no CAREERJET_AFFID secret)
 jooble | skipped (no JOOBLE_KEY secret)
 google_jobs | skipped (no SERPAPI_KEY secret)
-locations | missing 14 | looked up 14 | found 2
-checks | descriptions opened 90 | {"dropped earlier": 22, "visa unclear (no mention)": 82, "visa ruled out": 1, "visa unclear (ad unreadable)": 20}
---- search runner 5/10 (11.8 min)
-linkedin | Lahore, Pakistan | chief of staff | 9
-linkedin | Karachi, Pakistan | assistant professor | 3
-linkedin | Karachi, Pakistan | salesforce | 18
+locations | missing 15 | looked up 15 | found 2
+checks | descriptions opened 90 | {"dropped earlier": 27, "visa unclear (no mention)": 80, "visa unclear (ad unreadable)": 41}
+--- search runner 5/10 (18.2 min)
+linkedin | Karachi, Pakistan | assistant professor | 2
+linkedin | Karachi, Pakistan | salesforce | 21
 linkedin | Islamabad, Pakistan | revenue operations | 10
-linkedin | Islamabad, Pakistan | data analytics | 0
-linkedin | Islamabad, Pakistan | growth analyst | 11
-linkedin | Dubai, United Arab Emirates | data scientist | 30
-linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 20
-linkedin | United Arab Emirates | AI product | 0
-linkedin | Riyadh, Saudi Arabia | sales operations | 70
-linkedin | Jeddah, Saudi Arabia | revenue operations | 10
-linkedin | Saudi Arabia | business intelligence | 80
-linkedin | Qatar | data analyst | 0
+linkedin | Islamabad, Pakistan | data analytics | 26
+linkedin | Islamabad, Pakistan | growth analyst | 10
+linkedin | Dubai, United Arab Emirates | data scientist | 89
+linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 100
+linkedin | United Arab Emirates | AI product | 100
+linkedin | Riyadh, Saudi Arabia | sales operations | 97
+linkedin | Jeddah, Saudi Arabia | revenue operations | 12
+linkedin | Saudi Arabia | business intelligence | 100
+linkedin | Qatar | data analyst | 50
 linkedin | Qatar | power bi | 50
-linkedin | Bahrain | analytics manager | 2
+linkedin | Bahrain | analytics manager | 3
 linkedin | Oman | assistant professor | 0
-linkedin | Kuwait | lecturer | 0
+linkedin | Kuwait | lecturer | 6
 linkedin | Jordan | data scientist | 2
-linkedin | Egypt | strategy and planning | 20
-linkedin | Istanbul, Türkiye | strategy and planning | 0
-linkedin | Singapore | revenue operations | 0
+linkedin | Egypt | strategy and planning | 100
+linkedin | Istanbul, Türkiye | strategy and planning | 50
+linkedin | Singapore | revenue operations | 50
 linkedin | London, England, United Kingdom | data analyst visa sponsorship | 50
-linkedin | United Kingdom | AI product manager visa sponsorship | 20
-linkedin | Germany | data scientist visa sponsorship | 0
-linkedin | Poland | data analyst visa sponsorship | 10
-linkedin | Budapest, Hungary | AI product manager visa sponsorship | 0
-linkedin | Lisbon, Portugal | data scientist visa sponsorship | 5
-linkedin | Australia | data analyst visa sponsorship | 30
-linkedin | New Zealand | AI product manager visa sponsorship | 0
-indeed | Pakistan | power bi | 6
+linkedin | United Kingdom | AI product manager visa sponsorship | 50
+linkedin | Germany | data scientist visa sponsorship | 50
+linkedin | Poland | data analyst visa sponsorship | 50
+linkedin | Budapest, Hungary | AI product manager visa sponsorship | 1
+linkedin | Lisbon, Portugal | data scientist visa sponsorship | 7
+linkedin | Australia | data analyst visa sponsorship | 50
+linkedin | New Zealand | AI product manager visa sponsorship | 11
+indeed | Pakistan | power bi | 12
 indeed | Pakistan | business operations | 100
-indeed | Pakistan | lecturer | 1
+indeed | Pakistan | lecturer | 2
 indeed | Lahore | analytics manager | 8
-indeed | Lahore | CRM | 38
-indeed | Karachi | business analyst | 4
-indeed | Karachi | business planning | 32
-indeed | Karachi | AI | 35
+indeed | Lahore | CRM | 52
+indeed | Karachi | business analyst | 7
+indeed | Karachi | business planning | 7
+indeed | Karachi | AI | 48
 indeed | Islamabad | data scientist | 0
-indeed | Islamabad | sales operations | 17
+indeed | Islamabad | sales operations | 25
 indeed | Islamabad | trainer | 0
 indeed | United Arab Emirates | sales operations | 100
-indeed | Saudi Arabia | analytics manager | 21
+indeed | Saudi Arabia | analytics manager | 19
 indeed | Qatar | business analyst | 9
-indeed | Qatar | AI specialist | 5
-indeed | Bahrain | business planning | 4
+indeed | Qatar | AI specialist | 4
+indeed | Bahrain | business planning | 6
 indeed | Oman | power bi | 0
 indeed | Oman | lecturer | 0
-indeed | Kuwait | sales operations | 3
-indeed | Egypt | analytics manager | 9
+indeed | Kuwait | sales operations | 5
+indeed | Egypt | analytics manager | 13
 indeed | Turkey | business analyst visa sponsorship | 0
 indeed | Malaysia | data scientist | 9
 indeed | Singapore | strategy and operations | 100
 indeed | Japan | AI product visa sponsorship | 1
 indeed | Ireland | business analyst visa sponsorship | 1
 indeed | Germany | data scientist visa sponsorship | 0
-indeed | Netherlands | strategy visa sponsorship | 2
+indeed | Netherlands | strategy visa sponsorship | 4
 indeed | Poland | AI product visa sponsorship | 0
 indeed | Czech Republic | business analyst visa sponsorship | 0
 indeed | Portugal | data scientist visa sponsorship | 0
-indeed | Canada | strategy visa sponsorship | 9
+indeed | Canada | strategy visa sponsorship | 12
 indeed | Australia | AI product visa sponsorship | 1
-linkedin | Lahore, Pakistan | AI product | 0
-linkedin | Lahore, Pakistan | head of data | 7
+linkedin | Lahore, Pakistan | AI product | 14
+linkedin | Lahore, Pakistan | head of data | 8
+linkedin | Lahore, Pakistan | chief of staff | 10
 discovered employers | added | 8463
 workday | aaamidatlantic | FAILED: 429 Client Error: Too Many Requests for url: https://aaamidatlantic.wd5.myworkdayjobs.com/wday/cxs/a
 workday | acciona | FAILED: 429 Client Error: Too Many Requests for url: https://acciona.wd3.myworkdayjobs.com/wday/cxs/acciona/
@@ -1073,6 +1062,7 @@ workday | allegion | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | alliance | FAILED: 429 Client Error: Too Many Requests for url: https://alliance.wd3.myworkdayjobs.com/wday/cxs/allianc
 workday | amcn | FAILED: 429 Client Error: Too Many Requests for url: https://amcn.wd5.myworkdayjobs.com/wday/cxs/amcn/amcnet
 workday | analogdevices | FAILED: 429 Client Error: Too Many Requests for url: https://analogdevices.wd1.myworkdayjobs.com/wday/cxs/an
+workday | aqa | FAILED: 429 Client Error: Too Many Requests for url: https://aqa.wd3.myworkdayjobs.com/wday/cxs/aqa/AQA/jobs
 workday | asda | FAILED: 429 Client Error: Too Many Requests for url: https://asda.wd103.myworkdayjobs.com/wday/cxs/asda/Asda
 workday | asu | FAILED: 429 Client Error: Too Many Requests for url: https://asu.wd1.myworkdayjobs.com/wday/cxs/asu/asustaff
 workday | averis | FAILED: 429 Client Error: Too Many Requests for url: https://averis.wd3.myworkdayjobs.com/wday/cxs/averis/Av
@@ -1084,6 +1074,8 @@ workday | bdx | FAILED: 429 Client Error: Too Many Requests for url: https://bdx
 workday | beigene | FAILED: 429 Client Error: Too Many Requests for url: https://beigene.wd5.myworkdayjobs.com/wday/cxs/beigene/
 workday | bentleysystems | FAILED: 429 Client Error: Too Many Requests for url: https://bentleysystems.wd5.myworkdayjobs.com/wday/cxs/b
 workday | bitsight | FAILED: 429 Client Error: Too Many Requests for url: https://bitsight.wd1.myworkdayjobs.com/wday/cxs/bitsigh
+workday | bmo | FAILED: 429 Client Error: Too Many Requests for url: https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/Campus/j
+workday | boseallaboutme | FAILED: 429 Client Error: Too Many Requests for url: https://boseallaboutme.wd503.myworkdayjobs.com/wday/cxs
 workday | brighthorizons | FAILED: 429 Client Error: Too Many Requests for url: https://brighthorizons.wd5.myworkdayjobs.com/wday/cxs/b
 workday | brownhealth | FAILED: 429 Client Error: Too Many Requests for url: https://brownhealth.wd12.myworkdayjobs.com/wday/cxs/bro
 workday | calix | FAILED: 429 Client Error: Too Many Requests for url: https://calix.wd1.myworkdayjobs.com/wday/cxs/calix/Exte
@@ -1102,6 +1094,7 @@ workday | croesus | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | csl | FAILED: 429 Client Error: Too Many Requests for url: https://csl.wd1.myworkdayjobs.com/wday/cxs/csl/CSL_Exte
 workday | dacgroup | FAILED: 429 Client Error: Too Many Requests for url: https://dacgroup.wd10.myworkdayjobs.com/wday/cxs/dacgro
 workday | daveandbusters | FAILED: 429 Client Error: Too Many Requests for url: https://daveandbusters.wd1.myworkdayjobs.com/wday/cxs/d
+workday | dealertire | FAILED: 429 Client Error: Too Many Requests for url: https://dealertire.wd5.myworkdayjobs.com/wday/cxs/deale
 workday | desjardins | FAILED: 429 Client Error: Too Many Requests for url: https://desjardins.wd10.myworkdayjobs.com/wday/cxs/desj
 workday | djeholdings | FAILED: 429 Client Error: Too Many Requests for url: https://djeholdings.wd5.myworkdayjobs.com/wday/cxs/djeh
 workday | draftkings | FAILED: 429 Client Error: Too Many Requests for url: https://draftkings.wd1.myworkdayjobs.com/wday/cxs/draft
@@ -1121,6 +1114,7 @@ workday | fticonsulting | FAILED: 429 Client Error: Too Many Requests for url: h
 workday | gaig | FAILED: 429 Client Error: Too Many Requests for url: https://gaig.wd1.myworkdayjobs.com/wday/cxs/gaig/Nation
 workday | gapinc | FAILED: 429 Client Error: Too Many Requests for url: https://gapinc.wd1.myworkdayjobs.com/wday/cxs/gapinc/GA
 workday | geha | FAILED: 429 Client Error: Too Many Requests for url: https://geha.wd5.myworkdayjobs.com/wday/cxs/geha/GEHACa
+workday | genpact | FAILED: 429 Client Error: Too Many Requests for url: https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpac
 workday | ggwgroup | FAILED: 429 Client Error: Too Many Requests for url: https://ggwgroup.wd103.myworkdayjobs.com/wday/cxs/ggwgr
 workday | gilead | FAILED: 429 Client Error: Too Many Requests for url: https://gilead.wd1.myworkdayjobs.com/wday/cxs/gilead/gi
 workday | goddardenterprisesltd | FAILED: 429 Client Error: Too Many Requests for url: https://goddardenterprisesltd.wd5.myworkdayjobs.com/wda
@@ -1131,6 +1125,7 @@ workday | hargreaveslansdown | FAILED: 429 Client Error: Too Many Requests for u
 workday | hastingsdirect | FAILED: 429 Client Error: Too Many Requests for url: https://hastingsdirect.wd3.myworkdayjobs.com/wday/cxs/h
 workday | heidelbergmaterials | FAILED: 429 Client Error: Too Many Requests for url: https://heidelbergmaterials.wd3.myworkdayjobs.com/wday/
 workday | henryschein | FAILED: 429 Client Error: Too Many Requests for url: https://henryschein.wd1.myworkdayjobs.com/wday/cxs/henr
+workday | homeequitybank | FAILED: 429 Client Error: Too Many Requests for url: https://homeequitybank.wd10.myworkdayjobs.com/wday/cxs/
 workday | hrhub | FAILED: 429 Client Error: Too Many Requests for url: https://hrhub.wd3.myworkdayjobs.com/wday/cxs/hrhub/Euro
 workday | hyperiongrp | FAILED: 429 Client Error: Too Many Requests for url: https://hyperiongrp.wd3.myworkdayjobs.com/wday/cxs/hype
 workday | ilitch | FAILED: 429 Client Error: Too Many Requests for url: https://ilitch.wd5.myworkdayjobs.com/wday/cxs/ilitch/LC
@@ -1145,11 +1140,13 @@ workday | kith | FAILED: 429 Client Error: Too Many Requests for url: https://ki
 workday | kyndryl | FAILED: 429 Client Error: Too Many Requests for url: https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/
 workday | lbg | FAILED: 429 Client Error: Too Many Requests for url: https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/lbg_care
 workday | libertyglobal | FAILED: 429 Client Error: Too Many Requests for url: https://libertyglobal.wd3.myworkdayjobs.com/wday/cxs/li
+workday | lithia | FAILED: 429 Client Error: Too Many Requests for url: https://lithia.wd504.myworkdayjobs.com/wday/cxs/lithia/
 workday | lombardodier | FAILED: 429 Client Error: Too Many Requests for url: https://lombardodier.wd3.myworkdayjobs.com/wday/cxs/lom
 workday | luminegrp | FAILED: 429 Client Error: Too Many Requests for url: https://luminegrp.wd3.myworkdayjobs.com/wday/cxs/lumine
 workday | mango | FAILED: 429 Client Error: Too Many Requests for url: https://mango.wd3.myworkdayjobs.com/wday/cxs/mango/Mang
 workday | massgeneralbrigham | FAILED: 429 Client Error: Too Many Requests for url: https://massgeneralbrigham.wd1.myworkdayjobs.com/wday/c
 workday | mbda | FAILED: 429 Client Error: Too Many Requests for url: https://mbda.wd3.myworkdayjobs.com/wday/cxs/mbda/MBDA-D
+workday | medaviehs | FAILED: 429 Client Error: Too Many Requests for url: https://medaviehs.wd10.myworkdayjobs.com/wday/cxs/medav
 workday | mercyagedcare | FAILED: 429 Client Error: Too Many Requests for url: https://mercyagedcare.wd105.myworkdayjobs.com/wday/cxs/
 workday | miele | FAILED: 429 Client Error: Too Many Requests for url: https://miele.wd3.myworkdayjobs.com/wday/cxs/miele/miel
 workday | mksinst | FAILED: 429 Client Error: Too Many Requests for url: https://mksinst.wd1.myworkdayjobs.com/wday/cxs/mksinst/
@@ -1166,7 +1163,7 @@ workday | omya | FAILED: 429 Client Error: Too Many Requests for url: https://om
 workday | onterris | FAILED: 429 Client Error: Too Many Requests for url: https://onterris.wd1.myworkdayjobs.com/wday/cxs/onterri
 workday | ossur | FAILED: 429 Client Error: Too Many Requests for url: https://ossur.wd3.myworkdayjobs.com/wday/cxs/ossur/Care
 workday | pacificlife | FAILED: 429 Client Error: Too Many Requests for url: https://pacificlife.wd1.myworkdayjobs.com/wday/cxs/paci
-workday | petstock | FAILED: 429 Client Error: Too Many Requests for url: https://petstock.wd105.myworkdayjobs.com/wday/cxs/petst
+workday | pattersoncompanies | FAILED: 429 Client Error: Too Many Requests for url: https://pattersoncompanies.wd501.myworkdayjobs.com/wday
 workday | phcgroup | FAILED: 429 Client Error: Too Many Requests for url: https://phcgroup.wd3.myworkdayjobs.com/wday/cxs/phcgrou
 workday | plains | FAILED: 429 Client Error: Too Many Requests for url: https://plains.wd1.myworkdayjobs.com/wday/cxs/plains/pl
 workday | ponsse | FAILED: 429 Client Error: Too Many Requests for url: https://ponsse.wd3.myworkdayjobs.com/wday/cxs/ponsse/Po
@@ -1189,11 +1186,13 @@ workday | shi | FAILED: 429 Client Error: Too Many Requests for url: https://shi
 workday | silgancontainers | FAILED: 429 Client Error: Too Many Requests for url: https://silgancontainers.wd1.myworkdayjobs.com/wday/cxs
 workday | slrconsulting | FAILED: 429 Client Error: Too Many Requests for url: https://slrconsulting.wd103.myworkdayjobs.com/wday/cxs/
 workday | solera | FAILED: 429 Client Error: Too Many Requests for url: https://solera.wd5.myworkdayjobs.com/wday/cxs/solera/Gl
+workday | southerncross | FAILED: 429 Client Error: Too Many Requests for url: https://southerncross.wd105.myworkdayjobs.com/wday/cxs/
 workday | springernature | FAILED: 429 Client Error: Too Many Requests for url: https://springernature.wd3.myworkdayjobs.com/wday/cxs/s
 workday | standardbiotools | FAILED: 429 Client Error: Too Many Requests for url: https://standardbiotools.wd5.myworkdayjobs.com/wday/cxs
 workday | stewart | FAILED: 429 Client Error: Too Many Requests for url: https://stewart.wd1.myworkdayjobs.com/wday/cxs/stewart/
 workday | suncor | FAILED: 429 Client Error: Too Many Requests for url: https://suncor.wd1.myworkdayjobs.com/wday/cxs/suncor/Su
 workday | svha | FAILED: 429 Client Error: Too Many Requests for url: https://svha.wd3.myworkdayjobs.com/wday/cxs/svha/SVHA_S
+workday | taitcommunications | FAILED: 429 Client Error: Too Many Requests for url: https://taitcommunications.wd105.myworkdayjobs.com/wday
 workday | talentmanagementsolution | FAILED: 429 Client Error: Too Many Requests for url: https://talentmanagementsolution.wd3.myworkdayjobs.com/
 workday | tcsedsystem | FAILED: 429 Client Error: Too Many Requests for url: https://tcsedsystem.wd1.myworkdayjobs.com/wday/cxs/tcse
 workday | tempus | FAILED: 429 Client Error: Too Many Requests for url: https://tempus.wd5.myworkdayjobs.com/wday/cxs/tempus/Am
@@ -1202,7 +1201,6 @@ workday | tjx | FAILED: 429 Client Error: Too Many Requests for url: https://tjx
 workday | trafigura | FAILED: 429 Client Error: Too Many Requests for url: https://trafigura.wd3.myworkdayjobs.com/wday/cxs/trafig
 workday | trekbikes | FAILED: 429 Client Error: Too Many Requests for url: https://trekbikes.wd1.myworkdayjobs.com/wday/cxs/trekbi
 workday | tsys | FAILED: 429 Client Error: Too Many Requests for url: https://tsys.wd1.myworkdayjobs.com/wday/cxs/tsys/tsys/j
-workday | ubc | FAILED: 429 Client Error: Too Many Requests for url: https://ubc.wd10.myworkdayjobs.com/wday/cxs/ubc/ubcfacu
 workday | ultra | FAILED: 429 Client Error: Too Many Requests for url: https://ultra.wd3.myworkdayjobs.com/wday/cxs/ultra/ultr
 workday | uniphar | FAILED: 429 Client Error: Too Many Requests for url: https://uniphar.wd3.myworkdayjobs.com/wday/cxs/uniphar/
 workday | ur | FAILED: 429 Client Error: Too Many Requests for url: https://ur.wd1.myworkdayjobs.com/wday/cxs/ur/URcareers/
@@ -1217,89 +1215,89 @@ workday | woodward | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | wts | FAILED: 429 Client Error: Too Many Requests for url: https://wts.wd3.myworkdayjobs.com/wday/cxs/wts/wts/jobs
 workday | xboxgaming | FAILED: 429 Client Error: Too Many Requests for url: https://xboxgaming.wd1.myworkdayjobs.com/wday/cxs/xboxg
 workday | zeppelin | FAILED: 429 Client Error: Too Many Requests for url: https://zeppelin.wd3.myworkdayjobs.com/wday/cxs/zeppeli
-ashby | 129 employers | 2870
-bamboohr | 8 employers | 54
+ashby | 129 employers | 2859
+bamboohr | 8 employers | 53
 breezy | 3 employers | 46
-greenhouse | 156 employers | 8181
-icims | 17 employers | 1727
+greenhouse | 156 employers | 8147
+icims | 17 employers | 1731
 lever | 7 employers | 108
-oracle | 42 employers | 10674
-personio | 92 employers | 1211
-pinpoint | 5 employers | 51
-recruitee | 34 employers | 1268
-smartrecruiters | 39 employers | 6779
-successfactors | 22 employers | 6995
-taleo | 7 employers | 943
-teamtailor | 21 employers | 134
-workable | 101 employers | 7252
-workday | 167 employers | 90
-telegram | jobs_sql | 6
-locations | missing 10 | looked up 10 | found 4
-checks | descriptions opened 57 | {"dropped earlier": 13, "visa unclear (no mention)": 27}
---- search runner 6/10 (13.9 min)
-linkedin | Lahore, Pakistan | operations analyst | 0
-linkedin | Karachi, Pakistan | analytics manager | 0
-linkedin | Karachi, Pakistan | AI specialist | 13
-linkedin | Islamabad, Pakistan | sales operations | 30
-linkedin | Islamabad, Pakistan | product analyst | 10
-linkedin | Islamabad, Pakistan | MIS | 10
-linkedin | Dubai, United Arab Emirates | lecturer | 26
-linkedin | Abu Dhabi, United Arab Emirates | data scientist | 40
-linkedin | United Arab Emirates | strategy and planning | 10
-linkedin | Riyadh, Saudi Arabia | AI product | 0
-linkedin | Jeddah, Saudi Arabia | sales operations | 20
-linkedin | Saudi Arabia | revenue operations | 70
-linkedin | Qatar | business intelligence | 20
-linkedin | Bahrain | data analyst | 9
-linkedin | Bahrain | power bi | 10
-linkedin | Oman | analytics manager | 1
-linkedin | Kuwait | assistant professor | 7
-linkedin | Jordan | lecturer | 0
-linkedin | Egypt | data scientist | 0
-linkedin | Istanbul, Türkiye | data scientist | 48
+oracle | 42 employers | 10583
+personio | 92 employers | 1212
+pinpoint | 5 employers | 55
+recruitee | 34 employers | 1264
+smartrecruiters | 39 employers | 6739
+successfactors | 22 employers | 7018
+taleo | 7 employers | 934
+teamtailor | 21 employers | 132
+workable | 101 employers | 7281
+workday | 167 employers | 88
+telegram | jobs_sql | 5
+locations | missing 11 | looked up 11 | found 4
+checks | descriptions opened 90 | {"dropped earlier": 17, "visa unclear (no mention)": 38}
+--- search runner 6/10 (18.9 min)
+linkedin | Karachi, Pakistan | analytics manager | 14
+linkedin | Karachi, Pakistan | AI specialist | 15
+linkedin | Islamabad, Pakistan | sales operations | 44
+linkedin | Islamabad, Pakistan | product analyst | 12
+linkedin | Islamabad, Pakistan | MIS | 48
+linkedin | Dubai, United Arab Emirates | lecturer | 38
+linkedin | Abu Dhabi, United Arab Emirates | data scientist | 71
+linkedin | United Arab Emirates | strategy and planning | 100
+linkedin | Riyadh, Saudi Arabia | AI product | 20
+linkedin | Jeddah, Saudi Arabia | sales operations | 31
+linkedin | Saudi Arabia | revenue operations | 94
+linkedin | Qatar | business intelligence | 39
+linkedin | Bahrain | data analyst | 15
+linkedin | Bahrain | power bi | 34
+linkedin | Oman | analytics manager | 2
+linkedin | Kuwait | assistant professor | 5
+linkedin | Jordan | lecturer | 6
+linkedin | Egypt | data scientist | 41
+linkedin | Istanbul, Türkiye | data scientist | 50
 linkedin | Singapore | AI product | 50
-linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 10
+linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 50
 linkedin | United Kingdom | strategy visa sponsorship | 50
-linkedin | Germany | revenue operations visa sponsorship | 10
-linkedin | Poland | business intelligence visa sponsorship | 20
-linkedin | Budapest, Hungary | strategy visa sponsorship | 10
-linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 2
-linkedin | Australia | business intelligence visa sponsorship | 30
+linkedin | Germany | revenue operations visa sponsorship | 50
+linkedin | Poland | business intelligence visa sponsorship | 50
+linkedin | Budapest, Hungary | strategy visa sponsorship | 38
+linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 3
+linkedin | Australia | business intelligence visa sponsorship | 50
 linkedin | New Zealand | strategy visa sponsorship | 50
-indeed | Pakistan | data analytics | 39
-indeed | Pakistan | revenue operations | 41
-indeed | Pakistan | assistant professor | 1
-indeed | Lahore | product analyst | 0
-indeed | Lahore | pricing analyst | 0
-indeed | Karachi | business intelligence | 7
-indeed | Karachi | strategy and operations | 18
-indeed | Karachi | AI product | 18
-indeed | Islamabad | machine learning | 0
-indeed | Islamabad | salesforce | 2
-indeed | United Arab Emirates | data analyst | 14
-indeed | United Arab Emirates | AI product | 40
-indeed | Saudi Arabia | strategy | 97
-indeed | Qatar | business intelligence | 10
+indeed | Pakistan | data analytics | 58
+indeed | Pakistan | revenue operations | 64
+indeed | Pakistan | assistant professor | 5
+indeed | Lahore | product analyst | 1
+indeed | Lahore | pricing analyst | 2
+indeed | Karachi | business intelligence | 10
+indeed | Karachi | strategy and operations | 26
+indeed | Karachi | AI product | 20
+indeed | Islamabad | machine learning | 1
+indeed | Islamabad | salesforce | 1
+indeed | United Arab Emirates | data analyst | 17
+indeed | United Arab Emirates | AI product | 58
+indeed | Saudi Arabia | strategy | 100
+indeed | Qatar | business intelligence | 9
 indeed | Qatar | pricing analyst | 0
-indeed | Bahrain | revenue operations | 4
+indeed | Bahrain | revenue operations | 3
 indeed | Oman | data scientist | 0
-indeed | Kuwait | data analyst | 1
+indeed | Kuwait | data analyst | 0
 indeed | Kuwait | AI product | 0
-indeed | Egypt | strategy | 45
+indeed | Egypt | strategy | 62
 indeed | Turkey | business intelligence visa sponsorship | 0
-indeed | Malaysia | revenue operations | 69
+indeed | Malaysia | revenue operations | 75
 indeed | Singapore | AI product | 100
 indeed | UK | data analyst visa sponsorship | 0
 indeed | Ireland | business intelligence visa sponsorship | 0
 indeed | Germany | revenue operations visa sponsorship | 0
-indeed | Netherlands | data analyst relocation | 1
+indeed | Netherlands | data analyst relocation | 0
 indeed | Hungary | data analyst visa sponsorship | 0
 indeed | Czech Republic | business intelligence visa sponsorship | 0
 indeed | Portugal | revenue operations visa sponsorship | 0
-indeed | Canada | data analyst relocation | 3
+indeed | Canada | data analyst relocation | 5
 indeed | New Zealand | data analyst visa sponsorship | 1
-linkedin | Lahore, Pakistan | strategy and planning | 0
-linkedin | Lahore, Pakistan | BI developer | 9
+linkedin | Lahore, Pakistan | strategy and planning | 50
+linkedin | Lahore, Pakistan | BI developer | 11
+linkedin | Lahore, Pakistan | operations analyst | 27
 discovered employers | added | 8463
 workday | aah | FAILED: 429 Client Error: Too Many Requests for url: https://aah.wd5.myworkdayjobs.com/wday/cxs/aah/External
 workday | acelero | FAILED: 429 Client Error: Too Many Requests for url: https://acelero.wd1.myworkdayjobs.com/wday/cxs/acelero/
@@ -1352,12 +1350,10 @@ workday | emcins | FAILED: 429 Client Error: Too Many Requests for url: https://
 workday | envista | FAILED: 429 Client Error: Too Many Requests for url: https://envista.wd1.myworkdayjobs.com/wday/cxs/envista/
 workday | erm | FAILED: 429 Client Error: Too Many Requests for url: https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/ERM_Care
 workday | estrel | FAILED: 429 Client Error: Too Many Requests for url: https://estrel.wd103.myworkdayjobs.com/wday/cxs/estrel/
-workday | exclusivenetworks | FAILED: 429 Client Error: Too Many Requests for url: https://exclusivenetworks.wd103.myworkdayjobs.com/wday/
 workday | fastretailing | FAILED: 429 Client Error: Too Many Requests for url: https://fastretailing.wd3.myworkdayjobs.com/wday/cxs/fa
 workday | fca | FAILED: 429 Client Error: Too Many Requests for url: https://fca.wd3.myworkdayjobs.com/wday/cxs/fca/FCA_earl
 workday | ferguson | FAILED: 429 Client Error: Too Many Requests for url: https://ferguson.wd1.myworkdayjobs.com/wday/cxs/ferguso
 workday | firstam | FAILED: 429 Client Error: Too Many Requests for url: https://firstam.wd1.myworkdayjobs.com/wday/cxs/firstam/
-workday | flg | FAILED: 429 Client Error: Too Many Requests for url: https://flg.wd105.myworkdayjobs.com/wday/cxs/flg/FF/job
 workday | fnz | FAILED: 429 Client Error: Too Many Requests for url: https://fnz.wd3.myworkdayjobs.com/wday/cxs/fnz/fnz_care
 workday | fox | FAILED: 429 Client Error: Too Many Requests for url: https://fox.wd1.myworkdayjobs.com/wday/cxs/fox/FOXTVST_
 workday | fticonsulting | FAILED: 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkdayjobs.com/wday/cxs/
@@ -1375,7 +1371,6 @@ workday | harriscomputer | FAILED: 429 Client Error: Too Many Requests for url: 
 workday | hcmportal | FAILED: 429 Client Error: Too Many Requests for url: https://hcmportal.wd5.myworkdayjobs.com/wday/cxs/hcmpor
 workday | heidelbergmaterials | FAILED: 429 Client Error: Too Many Requests for url: https://heidelbergmaterials.wd3.myworkdayjobs.com/wday/
 workday | highmarkhealth | FAILED: 429 Client Error: Too Many Requests for url: https://highmarkhealth.wd1.myworkdayjobs.com/wday/cxs/h
-workday | honesthealth | FAILED: 429 Client Error: Too Many Requests for url: https://honesthealth.wd503.myworkdayjobs.com/wday/cxs/h
 workday | hshs | FAILED: 429 Client Error: Too Many Requests for url: https://hshs.wd1.myworkdayjobs.com/wday/cxs/hshs/hshsca
 workday | hyvee | FAILED: 429 Client Error: Too Many Requests for url: https://hyvee.wd1.myworkdayjobs.com/wday/cxs/hyvee/HyVe
 workday | illumina | FAILED: 429 Client Error: Too Many Requests for url: https://illumina.wd1.myworkdayjobs.com/wday/cxs/illumin
@@ -1390,12 +1385,13 @@ workday | kla | FAILED: 429 Client Error: Too Many Requests for url: https://kla
 workday | kyndryl | FAILED: 429 Client Error: Too Many Requests for url: https://kyndryl.wd5.myworkdayjobs.com/wday/cxs/kyndryl/
 workday | lbg | FAILED: 429 Client Error: Too Many Requests for url: https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/LBG_High
 workday | lifeworks | FAILED: 429 Client Error: Too Many Requests for url: https://lifeworks.wd3.myworkdayjobs.com/wday/cxs/lifewo
+workday | littelfuse | FAILED: 429 Client Error: Too Many Requests for url: https://littelfuse.wd1.myworkdayjobs.com/wday/cxs/litte
 workday | lonza | FAILED: 429 Client Error: Too Many Requests for url: https://lonza.wd3.myworkdayjobs.com/wday/cxs/lonza/Lonz
 workday | luminegrp | FAILED: 429 Client Error: Too Many Requests for url: https://luminegrp.wd3.myworkdayjobs.com/wday/cxs/lumine
 workday | manulife | FAILED: 429 Client Error: Too Many Requests for url: https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulif
 workday | mastercard | FAILED: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/maste
 workday | mbda | FAILED: 429 Client Error: Too Many Requests for url: https://mbda.wd3.myworkdayjobs.com/wday/cxs/mbda/MBDA-U
-workday | merit | FAILED: 429 Client Error: Too Many Requests for url: https://merit.wd503.myworkdayjobs.com/wday/cxs/merit/Me
+workday | medaviehs | FAILED: 429 Client Error: Too Many Requests for url: https://medaviehs.wd10.myworkdayjobs.com/wday/cxs/medav
 workday | millerknoll | FAILED: 429 Client Error: Too Many Requests for url: https://millerknoll.wd1.myworkdayjobs.com/wday/cxs/mill
 workday | mlse | FAILED: 429 Client Error: Too Many Requests for url: https://mlse.wd3.myworkdayjobs.com/wday/cxs/mlse/MLSE/j
 workday | moog | FAILED: 429 Client Error: Too Many Requests for url: https://moog.wd5.myworkdayjobs.com/wday/cxs/moog/moog_e
@@ -1406,6 +1402,8 @@ workday | nc | FAILED: 429 Client Error: Too Many Requests for url: https://nc.w
 workday | nextgen | FAILED: 429 Client Error: Too Many Requests for url: https://nextgen.wd5.myworkdayjobs.com/wday/cxs/nextgen/
 workday | norconsult | FAILED: 429 Client Error: Too Many Requests for url: https://norconsult.wd3.myworkdayjobs.com/wday/cxs/norco
 workday | nrf | FAILED: 429 Client Error: Too Many Requests for url: https://nrf.wd3.myworkdayjobs.com/wday/cxs/nrf/External
+workday | o9solutions | FAILED: 429 Client Error: Too Many Requests for url: https://o9solutions.wd5.myworkdayjobs.com/wday/cxs/o9so
+workday | onedigital | FAILED: 429 Client Error: Too Many Requests for url: https://onedigital.wd504.myworkdayjobs.com/wday/cxs/one
 workday | opteon | FAILED: 429 Client Error: Too Many Requests for url: https://opteon.wd3.myworkdayjobs.com/wday/cxs/opteon/Op
 workday | ossur | FAILED: 429 Client Error: Too Many Requests for url: https://ossur.wd3.myworkdayjobs.com/wday/cxs/ossur/Embl
 workday | pacificlife | FAILED: 429 Client Error: Too Many Requests for url: https://pacificlife.wd1.myworkdayjobs.com/wday/cxs/paci
@@ -1416,17 +1414,16 @@ workday | plugpower | FAILED: 429 Client Error: Too Many Requests for url: https
 workday | ppg | FAILED: 429 Client Error: Too Many Requests for url: https://ppg.wd5.myworkdayjobs.com/wday/cxs/ppg/ppg_care
 workday | promedica | FAILED: 429 Client Error: Too Many Requests for url: https://promedica.wd12.myworkdayjobs.com/wday/cxs/prome
 workday | ptcbio | FAILED: 429 Client Error: Too Many Requests for url: https://ptcbio.wd5.myworkdayjobs.com/wday/cxs/ptcbio/PT
+workday | qiagen | FAILED: 429 Client Error: Too Many Requests for url: https://qiagen.wd502.myworkdayjobs.com/wday/cxs/qiagen/
 workday | rakuten | FAILED: 429 Client Error: Too Many Requests for url: https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/
 workday | rbc | FAILED: 429 Client Error: Too Many Requests for url: https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/RBCGLOBA
 workday | relx | FAILED: 429 Client Error: Too Many Requests for url: https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/elsevi
-workday | repligen | FAILED: 429 Client Error: Too Many Requests for url: https://repligen.wd108.myworkdayjobs.com/wday/cxs/repli
 workday | rhe | FAILED: 429 Client Error: Too Many Requests for url: https://rhe.wd3.myworkdayjobs.com/wday/cxs/rhe/R1111/jo
 workday | roberthalf | FAILED: 429 Client Error: Too Many Requests for url: https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/rober
 workday | rockwellautomation | FAILED: 429 Client Error: Too Many Requests for url: https://rockwellautomation.wd1.myworkdayjobs.com/wday/c
 workday | rollsroycesmr | FAILED: 429 Client Error: Too Many Requests for url: https://rollsroycesmr.wd103.myworkdayjobs.com/wday/cxs/
 workday | ryan | FAILED: 429 Client Error: Too Many Requests for url: https://ryan.wd1.myworkdayjobs.com/wday/cxs/ryan/experi
 workday | saintlukes | FAILED: 429 Client Error: Too Many Requests for url: https://saintlukes.wd1.myworkdayjobs.com/wday/cxs/saint
-workday | sanford | FAILED: 429 Client Error: Too Many Requests for url: https://sanford.wd5.myworkdayjobs.com/wday/cxs/sanford/
 workday | scottsmiraclegro | FAILED: 429 Client Error: Too Many Requests for url: https://scottsmiraclegro.wd5.myworkdayjobs.com/wday/cxs
 workday | sensata | FAILED: 429 Client Error: Too Many Requests for url: https://sensata.wd1.myworkdayjobs.com/wday/cxs/sensata/
 workday | shift4payments | FAILED: 429 Client Error: Too Many Requests for url: https://shift4payments.wd108.myworkdayjobs.com/wday/cxs
@@ -1436,6 +1433,7 @@ workday | som | FAILED: 429 Client Error: Too Many Requests for url: https://som
 workday | sparke | FAILED: 429 Client Error: Too Many Requests for url: https://sparke.wd3.myworkdayjobs.com/wday/cxs/sparke/SH
 workday | spscommerce | FAILED: 429 Client Error: Too Many Requests for url: https://spscommerce.wd108.myworkdayjobs.com/wday/cxs/sp
 workday | stark | FAILED: 429 Client Error: Too Many Requests for url: https://stark.wd3.myworkdayjobs.com/wday/cxs/stark/broa
+workday | storaenso | FAILED: 429 Client Error: Too Many Requests for url: https://storaenso.wd502.myworkdayjobs.com/wday/cxs/stor
 workday | sundayriley | FAILED: 429 Client Error: Too Many Requests for url: https://sundayriley.wd1.myworkdayjobs.com/wday/cxs/sund
 workday | swarovski | FAILED: 429 Client Error: Too Many Requests for url: https://swarovski.wd3.myworkdayjobs.com/wday/cxs/swarov
 workday | takeda | FAILED: 429 Client Error: Too Many Requests for url: https://takeda.wd502.myworkdayjobs.com/wday/cxs/takeda/
@@ -1443,15 +1441,14 @@ workday | talentmanagementsolution | FAILED: 429 Client Error: Too Many Requests
 workday | tcsedsystem | FAILED: 429 Client Error: Too Many Requests for url: https://tcsedsystem.wd1.myworkdayjobs.com/wday/cxs/tcse
 workday | tempus | FAILED: 429 Client Error: Too Many Requests for url: https://tempus.wd5.myworkdayjobs.com/wday/cxs/tempus/te
 workday | theirc | FAILED: 429 Client Error: Too Many Requests for url: https://theirc.wd1.myworkdayjobs.com/wday/cxs/theirc/ex
-workday | tmicc | FAILED: 429 Client Error: Too Many Requests for url: https://tmicc.wd502.myworkdayjobs.com/wday/cxs/tmicc/Ma
 workday | trafigura | FAILED: 429 Client Error: Too Many Requests for url: https://trafigura.wd3.myworkdayjobs.com/wday/cxs/trafig
 workday | trellix | FAILED: 429 Client Error: Too Many Requests for url: https://trellix.wd1.myworkdayjobs.com/wday/cxs/trellix/
 workday | ttc | FAILED: 429 Client Error: Too Many Requests for url: https://ttc.wd1.myworkdayjobs.com/wday/cxs/ttc/AUS1/job
 workday | ubc | FAILED: 429 Client Error: Too Many Requests for url: https://ubc.wd10.myworkdayjobs.com/wday/cxs/ubc/ubcstaf
 workday | ultra | FAILED: 429 Client Error: Too Many Requests for url: https://ultra.wd3.myworkdayjobs.com/wday/cxs/ultra/um-c
+workday | uniphore | FAILED: 429 Client Error: Too Many Requests for url: https://uniphore.wd503.myworkdayjobs.com/wday/cxs/uniph
 workday | us | FAILED: 429 Client Error: Too Many Requests for url: https://us.wd103.myworkdayjobs.com/wday/cxs/us/tobii_dy
 workday | vanderlande | FAILED: 429 Client Error: Too Many Requests for url: https://vanderlande.wd3.myworkdayjobs.com/wday/cxs/vand
-workday | verily | FAILED: 429 Client Error: Too Many Requests for url: https://verily.wd1.myworkdayjobs.com/wday/cxs/verily/Ve
 workday | vfc | FAILED: 429 Client Error: Too Many Requests for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/timberla
 workday | volarisgroup | FAILED: 429 Client Error: Too Many Requests for url: https://volarisgroup.wd3.myworkdayjobs.com/wday/cxs/vol
 workday | walwil | FAILED: 429 Client Error: Too Many Requests for url: https://walwil.wd3.myworkdayjobs.com/wday/cxs/walwil/Wa
@@ -1461,106 +1458,111 @@ workday | Workday Inc | FAILED: 429 Client Error: Too Many Requests for url: htt
 workday | wustl | FAILED: 429 Client Error: Too Many Requests for url: https://wustl.wd1.myworkdayjobs.com/wday/cxs/wustl/exte
 workday | xpel | FAILED: 429 Client Error: Too Many Requests for url: https://xpel.wd5.myworkdayjobs.com/wday/cxs/xpel/XPEL_C
 workday | zillow | FAILED: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/re
-ashby | 128 employers | 3851
-bamboohr | 9 employers | 43
+ashby | 128 employers | 3869
+bamboohr | 9 employers | 44
 breezy | 3 employers | 82
-greenhouse | 156 employers | 7288
-icims | 16 employers | 995
-lever | 8 employers | 140
-oracle | 42 employers | 9963
-personio | 92 employers | 1636
-pinpoint | 5 employers | 30
-recruitee | 34 employers | 1658
-smartrecruiters | 39 employers | 3292
-successfactors | 22 employers | 25959
-taleo | 7 employers | 587
-teamtailor | 21 employers | 389
-workable | 101 employers | 4729
-workday | 167 employers | 134
+greenhouse | 156 employers | 7287
+icims | 16 employers | 989
+lever | 8 employers | 133
+oracle | 42 employers | 9988
+personio | 92 employers | 1611
+pinpoint | 5 employers | 35
+recruitee | 34 employers | 1657
+smartrecruiters | 39 employers | 3280
+successfactors | 22 employers | 25956
+taleo | 7 employers | 597
+teamtailor | 21 employers | 394
+workable | 101 employers | 4751
+workday | 167 employers | 138
 google_alerts | skipped (no feeds yet: add GOOGLE_ALERTS_FEEDS secret)
 brave | skipped (no BRAVE_KEY secret)
 signals | pages opened 0 | jobs read 0
-locations | missing 10 | looked up 10 | found 3
-checks | descriptions opened 75 | {"dropped earlier": 26, "visa unclear (no mention)": 46, "visa ruled out": 1}
---- search runner 7/10 (28.4 min)
-linkedin | Australia | data scientist visa sponsorship | 20
+locations | missing 9 | looked up 9 | found 2
+checks | descriptions opened 90 | {"dropped earlier": 24, "visa unclear (no mention)": 60}
+--- search runner 7/10 (33.3 min)
 indeed | Pakistan | data scientist | 1
 indeed | Pakistan | sales operations | 100
-indeed | Pakistan | trainer | 4
-indeed | Lahore | MIS | 0
-indeed | Lahore | growth | 7
-indeed | Karachi | power bi | 1
-indeed | Karachi | business operations | 48
-indeed | Karachi | lecturer | 0
-indeed | Islamabad | analytics manager | 3
-indeed | Islamabad | CRM | 37
-indeed | United Arab Emirates | business analyst | 20
-indeed | United Arab Emirates | AI specialist | 18
-indeed | Saudi Arabia | business planning | 90
-indeed | Qatar | power bi | 12
+indeed | Pakistan | trainer | 6
+indeed | Lahore | MIS | 1
+indeed | Lahore | growth | 100
+indeed | Karachi | power bi | 2
+indeed | Karachi | business operations | 75
+indeed | Karachi | lecturer | 1
+indeed | Islamabad | analytics manager | 2
+indeed | Islamabad | CRM | 45
+indeed | United Arab Emirates | business analyst | 23
+indeed | United Arab Emirates | AI specialist | 27
+indeed | Saudi Arabia | business planning | 100
+indeed | Qatar | power bi | 10
 indeed | Qatar | lecturer | 0
-indeed | Bahrain | sales operations | 8
-indeed | Oman | analytics manager | 2
+indeed | Bahrain | sales operations | 1
+indeed | Oman | analytics manager | 1
 indeed | Kuwait | business analyst | 0
 indeed | Kuwait | AI specialist | 0
-indeed | Egypt | business planning | 36
+indeed | Egypt | business planning | 53
 indeed | Turkey | data scientist visa sponsorship | 0
 indeed | Malaysia | strategy and operations | 100
-indeed | Singapore | pricing analyst | 1
+indeed | Singapore | pricing analyst | 12
 indeed | UK | business analyst visa sponsorship | 0
 indeed | Ireland | data scientist visa sponsorship | 0
-indeed | Germany | strategy visa sponsorship | 13
-indeed | Netherlands | AI product visa sponsorship | 3
+indeed | Germany | strategy visa sponsorship | 11
+indeed | Netherlands | AI product visa sponsorship | 5
 indeed | Hungary | business analyst visa sponsorship | 0
 indeed | Czech Republic | data scientist visa sponsorship | 0
 indeed | Portugal | strategy visa sponsorship | 0
-indeed | Canada | AI product visa sponsorship | 9
+indeed | Canada | AI product visa sponsorship | 13
 indeed | New Zealand | business analyst visa sponsorship | 1
-linkedin | Lahore, Pakistan | data scientist | 16
-linkedin | Lahore, Pakistan | strategy manager | 19
-linkedin | Karachi, Pakistan | data analyst | 30
-linkedin | Karachi, Pakistan | power bi | 10
-linkedin | Karachi, Pakistan | business planning | 38
-linkedin | Islamabad, Pakistan | AI product | 8
-linkedin | Islamabad, Pakistan | head of data | 0
-linkedin | Islamabad, Pakistan | chief of staff | 10
-linkedin | Dubai, United Arab Emirates | assistant professor | 0
-linkedin | Abu Dhabi, United Arab Emirates | lecturer | 27
-linkedin | United Arab Emirates | data scientist | 10
-linkedin | Riyadh, Saudi Arabia | strategy and planning | 20
-linkedin | Jeddah, Saudi Arabia | AI product | 1
-linkedin | Saudi Arabia | sales operations | 20
-linkedin | Qatar | revenue operations | 0
-linkedin | Bahrain | business intelligence | 4
-linkedin | Oman | data analyst | 8
-linkedin | Oman | power bi | 32
-linkedin | Kuwait | analytics manager | 7
+linkedin | Lahore, Pakistan | data scientist | 19
+linkedin | Lahore, Pakistan | strategy manager | 26
+linkedin | Karachi, Pakistan | data analyst | 29
+linkedin | Karachi, Pakistan | power bi | 50
+linkedin | Karachi, Pakistan | business planning | 41
+linkedin | Islamabad, Pakistan | AI product | 11
+linkedin | Islamabad, Pakistan | head of data | 7
+linkedin | Islamabad, Pakistan | chief of staff | 12
+linkedin | Dubai, United Arab Emirates | assistant professor | 15
+linkedin | Abu Dhabi, United Arab Emirates | lecturer | 51
+linkedin | United Arab Emirates | data scientist | 100
+linkedin | Riyadh, Saudi Arabia | strategy and planning | 100
+linkedin | Jeddah, Saudi Arabia | AI product | 2
+linkedin | Saudi Arabia | sales operations | 100
+linkedin | Qatar | revenue operations | 16
+linkedin | Bahrain | business intelligence | 6
+linkedin | Oman | data analyst | 13
+linkedin | Oman | power bi | 47
+linkedin | Kuwait | analytics manager | 5
 linkedin | Jordan | assistant professor | 3
-linkedin | Egypt | lecturer | 0
-linkedin | Kuala Lumpur, Malaysia | data analyst | 10
-linkedin | Singapore | strategy and planning | 0
-linkedin | London, England, United Kingdom | data scientist visa sponsorship | 20
-linkedin | Ireland | data analyst visa sponsorship | 20
+linkedin | Egypt | lecturer | 39
+linkedin | Kuala Lumpur, Malaysia | data analyst | 50
+linkedin | Singapore | strategy and planning | 50
+linkedin | London, England, United Kingdom | data scientist visa sponsorship | 50
+linkedin | Ireland | data analyst visa sponsorship | 50
 linkedin | Germany | AI product manager visa sponsorship | 50
-linkedin | Poland | data scientist visa sponsorship | 10
-linkedin | Prague, Czechia | data analyst visa sponsorship | 21
-linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 3
+linkedin | Poland | data scientist visa sponsorship | 50
+linkedin | Prague, Czechia | data analyst visa sponsorship | 19
+linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 4
+linkedin | Australia | data scientist visa sponsorship | 50
 discovered employers | added | 8463
 workday | aampower | FAILED: 429 Client Error: Too Many Requests for url: https://aampower.wd1.myworkdayjobs.com/wday/cxs/aampowe
 workday | acelero | FAILED: 429 Client Error: Too Many Requests for url: https://acelero.wd1.myworkdayjobs.com/wday/cxs/acelero/
 workday | adventisthealthcare | FAILED: 429 Client Error: Too Many Requests for url: https://adventisthealthcare.wd1.myworkdayjobs.com/wday/
 workday | aig | FAILED: 429 Client Error: Too Many Requests for url: https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/aig/jobs
+workday | alation | FAILED: 429 Client Error: Too Many Requests for url: https://alation.wd503.myworkdayjobs.com/wday/cxs/alatio
 workday | allegion | FAILED: 429 Client Error: Too Many Requests for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegio
+workday | alliancewd | FAILED: 429 Client Error: Too Many Requests for url: https://alliancewd.wd3.myworkdayjobs.com/wday/cxs/allia
 workday | ameresco | FAILED: 429 Client Error: Too Many Requests for url: https://ameresco.wd5.myworkdayjobs.com/wday/cxs/ameresc
 workday | anglicare | FAILED: 429 Client Error: Too Many Requests for url: https://anglicare.wd105.myworkdayjobs.com/wday/cxs/angl
+workday | aresmgmt | FAILED: 429 Client Error: Too Many Requests for url: https://aresmgmt.wd1.myworkdayjobs.com/wday/cxs/aresmgm
 workday | aspca | FAILED: 429 Client Error: Too Many Requests for url: https://aspca.wd1.myworkdayjobs.com/wday/cxs/aspca/aspc
+workday | atriumhospitality | FAILED: 429 Client Error: Too Many Requests for url: https://atriumhospitality.wd5.myworkdayjobs.com/wday/cx
 workday | aveva | FAILED: 429 Client Error: Too Many Requests for url: https://aveva.wd3.myworkdayjobs.com/wday/cxs/aveva/AVEV
+workday | awg | FAILED: 429 Client Error: Too Many Requests for url: https://awg.wd3.myworkdayjobs.com/wday/cxs/awg/A1/jobs
 workday | ayvens | FAILED: 429 Client Error: Too Many Requests for url: https://ayvens.wd3.myworkdayjobs.com/wday/cxs/ayvens/SG
 workday | barrywehmiller | FAILED: 429 Client Error: Too Many Requests for url: https://barrywehmiller.wd1.myworkdayjobs.com/wday/cxs/b
-workday | bcf | FAILED: 429 Client Error: Too Many Requests for url: https://bcf.wd10.myworkdayjobs.com/wday/cxs/bcf/BCF_CAR
 workday | bdx | FAILED: 429 Client Error: Too Many Requests for url: https://bdx.wd1.myworkdayjobs.com/wday/cxs/bdx/EXTERNAL
 workday | belron | FAILED: 429 Client Error: Too Many Requests for url: https://belron.wd3.myworkdayjobs.com/wday/cxs/belron/Be
 workday | bestbuycanada | FAILED: 429 Client Error: Too Many Requests for url: https://bestbuycanada.wd3.myworkdayjobs.com/wday/cxs/be
+workday | blackline | FAILED: 429 Client Error: Too Many Requests for url: https://blackline.wd108.myworkdayjobs.com/wday/cxs/blac
 workday | bmo | FAILED: 429 Client Error: Too Many Requests for url: https://bmo.wd3.myworkdayjobs.com/wday/cxs/bmo/privileg
 workday | bpinternational | FAILED: 429 Client Error: Too Many Requests for url: https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/
 workday | brinks | FAILED: 429 Client Error: Too Many Requests for url: https://brinks.wd5.myworkdayjobs.com/wday/cxs/brinks/Br
@@ -1580,7 +1582,6 @@ workday | covestro | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | crossroadstreatmentcenters | FAILED: 429 Client Error: Too Many Requests for url: https://crossroadstreatmentcenters.wd1.myworkdayjobs.co
 workday | csusystem | FAILED: 429 Client Error: Too Many Requests for url: https://csusystem.wd12.myworkdayjobs.com/wday/cxs/csusy
 workday | dalcourmaclaren | FAILED: 429 Client Error: Too Many Requests for url: https://dalcourmaclaren.wd3.myworkdayjobs.com/wday/cxs/
-workday | davita | FAILED: 429 Client Error: Too Many Requests for url: https://davita.wd1.myworkdayjobs.com/wday/cxs/davita/DK
 workday | dealertire | FAILED: 429 Client Error: Too Many Requests for url: https://dealertire.wd5.myworkdayjobs.com/wday/cxs/deale
 workday | dexcom | FAILED: 429 Client Error: Too Many Requests for url: https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/de
 workday | dlapiper | FAILED: 429 Client Error: Too Many Requests for url: https://dlapiper.wd1.myworkdayjobs.com/wday/cxs/dlapipe
@@ -1591,16 +1592,20 @@ workday | enzazaden | FAILED: 429 Client Error: Too Many Requests for url: https
 workday | erm | FAILED: 429 Client Error: Too Many Requests for url: https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/ERM_Earl
 workday | etsy | FAILED: 429 Client Error: Too Many Requests for url: https://etsy.wd5.myworkdayjobs.com/wday/cxs/etsy/Depop_
 workday | exclusivenetworks | FAILED: 429 Client Error: Too Many Requests for url: https://exclusivenetworks.wd103.myworkdayjobs.com/wday/
+workday | fastretailing | FAILED: 429 Client Error: Too Many Requests for url: https://fastretailing.wd3.myworkdayjobs.com/wday/cxs/fa
 workday | fccfac | FAILED: 429 Client Error: Too Many Requests for url: https://fccfac.wd3.myworkdayjobs.com/wday/cxs/fccfac/ca
 workday | ffive | FAILED: 429 Client Error: Too Many Requests for url: https://ffive.wd5.myworkdayjobs.com/wday/cxs/ffive/f5jo
 workday | firstquality | FAILED: 429 Client Error: Too Many Requests for url: https://firstquality.wd5.myworkdayjobs.com/wday/cxs/fir
+workday | flg | FAILED: 429 Client Error: Too Many Requests for url: https://flg.wd105.myworkdayjobs.com/wday/cxs/flg/JNZ/jo
 workday | fondsftq | FAILED: 429 Client Error: Too Many Requests for url: https://fondsftq.wd10.myworkdayjobs.com/wday/cxs/fondsf
 workday | freddiemac | FAILED: 429 Client Error: Too Many Requests for url: https://freddiemac.wd5.myworkdayjobs.com/wday/cxs/fredd
 workday | fticonsulting | FAILED: 429 Client Error: Too Many Requests for url: https://fticonsulting.wd108.myworkdayjobs.com/wday/cxs/
 workday | galderma | FAILED: 429 Client Error: Too Many Requests for url: https://galderma.wd3.myworkdayjobs.com/wday/cxs/galderm
 workday | gartner | FAILED: 429 Client Error: Too Many Requests for url: https://gartner.wd5.myworkdayjobs.com/wday/cxs/gartner/
 workday | geico | FAILED: 429 Client Error: Too Many Requests for url: https://geico.wd1.myworkdayjobs.com/wday/cxs/geico/exte
+workday | georgetown | FAILED: 429 Client Error: Too Many Requests for url: https://georgetown.wd1.myworkdayjobs.com/wday/cxs/georg
 workday | ghc | FAILED: 429 Client Error: Too Many Requests for url: https://ghc.wd1.myworkdayjobs.com/wday/cxs/ghc/Kaplan_I
+workday | global | FAILED: 429 Client Error: Too Many Requests for url: https://global.wd1.myworkdayjobs.com/wday/cxs/global/gl
 workday | gohealthuc | FAILED: 429 Client Error: Too Many Requests for url: https://gohealthuc.wd12.myworkdayjobs.com/wday/cxs/gohe
 workday | greystar | FAILED: 429 Client Error: Too Many Requests for url: https://greystar.wd1.myworkdayjobs.com/wday/cxs/greysta
 workday | guggenheim | FAILED: 429 Client Error: Too Many Requests for url: https://guggenheim.wd1.myworkdayjobs.com/wday/cxs/gugge
@@ -1612,16 +1617,18 @@ workday | hima | FAILED: 429 Client Error: Too Many Requests for url: https://hi
 workday | honorhealth | FAILED: 429 Client Error: Too Many Requests for url: https://honorhealth.wd12.myworkdayjobs.com/wday/cxs/hon
 workday | hubinternational | FAILED: 429 Client Error: Too Many Requests for url: https://hubinternational.wd1.myworkdayjobs.com/wday/cxs
 workday | ia | FAILED: 429 Client Error: Too Many Requests for url: https://ia.wd3.myworkdayjobs.com/wday/cxs/ia/Profession
+workday | imax | FAILED: 429 Client Error: Too Many Requests for url: https://imax.wd10.myworkdayjobs.com/wday/cxs/imax/imax-
 workday | ingenovishealth | FAILED: 429 Client Error: Too Many Requests for url: https://ingenovishealth.wd1.myworkdayjobs.com/wday/cxs/
 workday | Intel | FAILED: 429 Client Error: Too Many Requests for url: https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/Exte
 workday | iqvia | FAILED: 429 Client Error: Too Many Requests for url: https://iqvia.wd1.myworkdayjobs.com/wday/cxs/iqvia/IQVI
 workday | jacksonhealthcare | FAILED: 429 Client Error: Too Many Requests for url: https://jacksonhealthcare.wd1.myworkdayjobs.com/wday/cx
 workday | jj | FAILED: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/JJ/jobs
 workday | juliusbaer | FAILED: 429 Client Error: Too Many Requests for url: https://juliusbaer.wd3.myworkdayjobs.com/wday/cxs/juliu
+workday | kellyservices | FAILED: 429 Client Error: Too Many Requests for url: https://kellyservices.wd503.myworkdayjobs.com/wday/cxs/
 workday | knightfrank | FAILED: 429 Client Error: Too Many Requests for url: https://knightfrank.wd103.myworkdayjobs.com/wday/cxs/kn
 workday | kyriba | FAILED: 429 Client Error: Too Many Requests for url: https://kyriba.wd5.myworkdayjobs.com/wday/cxs/kyriba/Ky
-workday | lbg | FAILED: 429 Client Error: Too Many Requests for url: https://lbg.wd3.myworkdayjobs.com/wday/cxs/lbg/Undergra
 workday | lifung | FAILED: 429 Client Error: Too Many Requests for url: https://lifung.wd3.myworkdayjobs.com/wday/cxs/lifung/Fu
+workday | livenation | FAILED: 429 Client Error: Too Many Requests for url: https://livenation.wd503.myworkdayjobs.com/wday/cxs/liv
 workday | lowell | FAILED: 429 Client Error: Too Many Requests for url: https://lowell.wd3.myworkdayjobs.com/wday/cxs/lowell/Lo
 workday | luxexperience | FAILED: 429 Client Error: Too Many Requests for url: https://luxexperience.wd103.myworkdayjobs.com/wday/cxs/
 workday | manulife | FAILED: 429 Client Error: Too Many Requests for url: https://manulife.wd3.myworkdayjobs.com/wday/cxs/manulif
@@ -1634,10 +1641,8 @@ workday | mmc | FAILED: 429 Client Error: Too Many Requests for url: https://mmc
 workday | morningstar | FAILED: 429 Client Error: Too Many Requests for url: https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morn
 workday | msk | FAILED: 429 Client Error: Too Many Requests for url: https://msk.wd108.myworkdayjobs.com/wday/cxs/msk/mskcc_
 workday | myview | FAILED: 429 Client Error: Too Many Requests for url: https://myview.wd3.myworkdayjobs.com/wday/cxs/myview/ge
-workday | nclh | FAILED: 429 Client Error: Too Many Requests for url: https://nclh.wd108.myworkdayjobs.com/wday/cxs/nclh/NCL_
 workday | nextracker | FAILED: 429 Client Error: Too Many Requests for url: https://nextracker.wd5.myworkdayjobs.com/wday/cxs/nextr
 workday | ntrs | FAILED: 429 Client Error: Too Many Requests for url: https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northe
-workday | oanda | FAILED: 429 Client Error: Too Many Requests for url: https://oanda.wd10.myworkdayjobs.com/wday/cxs/oanda/Ext
 workday | onedigital | FAILED: 429 Client Error: Too Many Requests for url: https://onedigital.wd504.myworkdayjobs.com/wday/cxs/one
 workday | optioncare | FAILED: 429 Client Error: Too Many Requests for url: https://optioncare.wd1.myworkdayjobs.com/wday/cxs/optio
 workday | ossur | FAILED: 429 Client Error: Too Many Requests for url: https://ossur.wd3.myworkdayjobs.com/wday/cxs/ossur/ossu
@@ -1649,6 +1654,7 @@ workday | pluxee | FAILED: 429 Client Error: Too Many Requests for url: https://
 workday | premierinc | FAILED: 429 Client Error: Too Many Requests for url: https://premierinc.wd1.myworkdayjobs.com/wday/cxs/premi
 workday | promutuel | FAILED: 429 Client Error: Too Many Requests for url: https://promutuel.wd3.myworkdayjobs.com/wday/cxs/promut
 workday | puma | FAILED: 429 Client Error: Too Many Requests for url: https://puma.wd502.myworkdayjobs.com/wday/cxs/puma/Jobs
+workday | quadient | FAILED: 429 Client Error: Too Many Requests for url: https://quadient.wd3.myworkdayjobs.com/wday/cxs/quadien
 workday | rakuten | FAILED: 429 Client Error: Too Many Requests for url: https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/
 workday | rbi | FAILED: 429 Client Error: Too Many Requests for url: https://rbi.wd3.myworkdayjobs.com/wday/cxs/rbi/RBI_Exte
 workday | relx | FAILED: 429 Client Error: Too Many Requests for url: https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/Knowab
@@ -1675,7 +1681,6 @@ workday | takkt | FAILED: 429 Client Error: Too Many Requests for url: https://t
 workday | talentmanagementsolution | FAILED: 429 Client Error: Too Many Requests for url: https://talentmanagementsolution.wd3.myworkdayjobs.com/
 workday | tcsedsystem | FAILED: 429 Client Error: Too Many Requests for url: https://tcsedsystem.wd1.myworkdayjobs.com/wday/cxs/tcse
 workday | tencent | FAILED: 429 Client Error: Too Many Requests for url: https://tencent.wd1.myworkdayjobs.com/wday/cxs/tencent/
-workday | thejacksonlaboratory | FAILED: 429 Client Error: Too Many Requests for url: https://thejacksonlaboratory.wd503.myworkdayjobs.com/wd
 workday | tmobile | FAILED: 429 Client Error: Too Many Requests for url: https://tmobile.wd1.myworkdayjobs.com/wday/cxs/tmobile/
 workday | trafigura | FAILED: 429 Client Error: Too Many Requests for url: https://trafigura.wd3.myworkdayjobs.com/wday/cxs/trafig
 workday | trendmicro | FAILED: 429 Client Error: Too Many Requests for url: https://trendmicro.wd3.myworkdayjobs.com/wday/cxs/trend
@@ -1691,24 +1696,26 @@ workday | volarisgroup | FAILED: 429 Client Error: Too Many Requests for url: ht
 workday | warnerbros | FAILED: 429 Client Error: Too Many Requests for url: https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warne
 workday | wellington | FAILED: 429 Client Error: Too Many Requests for url: https://wellington.wd5.myworkdayjobs.com/wday/cxs/welli
 workday | wisconsin | FAILED: 429 Client Error: Too Many Requests for url: https://wisconsin.wd1.myworkdayjobs.com/wday/cxs/wiscon
+workday | workday | FAILED: 429 Client Error: Too Many Requests for url: https://workday.wd5.myworkdayjobs.com/wday/cxs/workday/
 workday | wvumedicine | FAILED: 429 Client Error: Too Many Requests for url: https://wvumedicine.wd1.myworkdayjobs.com/wday/cxs/wvum
-ashby | 128 employers | 4134
-bamboohr | 9 employers | 108
+workday | zillow | FAILED: 429 Client Error: Too Many Requests for url: https://zillow.wd5.myworkdayjobs.com/wday/cxs/zillow/Zi
+ashby | 128 employers | 4136
+bamboohr | 9 employers | 109
 breezy | 2 employers | 95
-greenhouse | 156 employers | 14323
-icims | 17 employers | 1261
-lever | 8 employers | 1055
-oracle | 42 employers | 11097
-personio | 92 employers | 1206
-pinpoint | 5 employers | 210
-recruitee | 33 employers | 1117
-smartrecruiters | 40 employers | 8684
-successfactors | 22 employers | 2958
-taleo | 7 employers | 990
+greenhouse | 156 employers | 14303
+icims | 17 employers | 1263
+lever | 8 employers | 1054
+oracle | 42 employers | 11146
+personio | 92 employers | 1203
+pinpoint | 5 employers | 209
+recruitee | 33 employers | 1114
+smartrecruiters | 40 employers | 8681
+successfactors | 22 employers | 2969
+taleo | 7 employers | 1002
 teamtailor | 21 employers | 578
-workable | 101 employers | 9492
-workday | 167 employers | 268
-university | FAST-NUCES | new links 0 | relevant 0
+workable | 101 employers | 9476
+workday | 167 employers | 178
+university | FAST-NUCES | new links 1 | relevant 1
 university | LUMS | new links 0 | relevant 0
 university | NUST | new links 0 | relevant 0
 university | COMSATS University | new links 0 | relevant 0
@@ -1726,7 +1733,7 @@ university | Air University | FAILED: HTTP Error 403:
 university | Bahria University | new links 0 | relevant 0
 university | Quaid-i-Azam University | new links 0 | relevant 0
 university | PIEAS | new links 0 | relevant 0
-university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 43528 milliseconds. See
+university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 42791 milliseconds. See
 university | UET Lahore | careers page not found (also tried the home page)
 university | University of Wollongong in Dubai | new links 0 | relevant 0
 university | Middlesex University Dubai | new links 0 | relevant 0
@@ -1740,82 +1747,83 @@ university | Alfaisal University | new links 0 | relevant 0
 university | Effat University | new links 0 | relevant 0
 university | Qatar University | FAILED: Failed to perform, curl: (56) Connection closed abruptly. See https://curl.se/li
 university | University of Doha for Science and Technology | new links 0 | relevant 0
-locations | missing 6 | looked up 6 | found 4
-checks | descriptions opened 90 | {"dropped earlier": 26, "visa unclear (no mention)": 67}
---- search runner 8/10 (19.2 min)
-linkedin | Australia | revenue operations visa sponsorship | 0
-indeed | Pakistan | machine learning | 2
-indeed | Pakistan | salesforce | 7
-indeed | Lahore | data analyst | 2
-indeed | Lahore | strategy | 67
+locations | missing 4 | looked up 4 | found 2
+checks | descriptions opened 90 | {"dropped earlier": 32, "visa ruled out": 2, "visa unclear (no mention)": 72, "visa unclear (ad unreadable)": 5}
+--- search runner 8/10 (23.7 min)
+indeed | Pakistan | machine learning | 7
+indeed | Pakistan | salesforce | 3
+indeed | Lahore | data analyst | 1
+indeed | Lahore | strategy | 80
 indeed | Lahore | operations analyst | 0
-indeed | Karachi | data analytics | 13
-indeed | Karachi | revenue operations | 12
+indeed | Karachi | data analytics | 17
+indeed | Karachi | revenue operations | 18
 indeed | Karachi | assistant professor | 0
 indeed | Islamabad | product analyst | 0
 indeed | Islamabad | pricing analyst | 0
-indeed | United Arab Emirates | business intelligence | 42
+indeed | United Arab Emirates | business intelligence | 55
 indeed | United Arab Emirates | pricing analyst | 1
-indeed | Saudi Arabia | revenue operations | 19
-indeed | Qatar | data scientist | 1
-indeed | Bahrain | data analyst | 0
-indeed | Bahrain | AI product | 1
-indeed | Oman | strategy | 14
-indeed | Kuwait | business intelligence | 1
+indeed | Saudi Arabia | revenue operations | 25
+indeed | Qatar | data scientist | 2
+indeed | Bahrain | data analyst | 2
+indeed | Bahrain | AI product | 2
+indeed | Oman | strategy | 20
+indeed | Kuwait | business intelligence | 0
 indeed | Kuwait | pricing analyst | 0
-indeed | Egypt | revenue operations | 11
+indeed | Egypt | revenue operations | 12
 indeed | Turkey | revenue operations visa sponsorship | 0
-indeed | Malaysia | AI product | 47
+indeed | Malaysia | AI product | 66
 indeed | Japan | data analyst visa sponsorship | 0
-indeed | UK | business intelligence visa sponsorship | 59
+indeed | UK | business intelligence visa sponsorship | 100
 indeed | Ireland | revenue operations visa sponsorship | 0
 indeed | Germany | data analyst relocation | 1
 indeed | Poland | data analyst visa sponsorship | 0
 indeed | Hungary | business intelligence visa sponsorship | 0
 indeed | Czech Republic | revenue operations visa sponsorship | 0
 indeed | Portugal | data analyst relocation | 0
-indeed | Australia | data analyst visa sponsorship | 1
+indeed | Australia | data analyst visa sponsorship | 0
 indeed | New Zealand | business intelligence visa sponsorship | 0
-linkedin | Lahore, Pakistan | lecturer | 3
-linkedin | Lahore, Pakistan | corporate planning | 27
-linkedin | Karachi, Pakistan | business intelligence | 0
-linkedin | Karachi, Pakistan | business analyst | 0
+linkedin | Lahore, Pakistan | lecturer | 6
+linkedin | Lahore, Pakistan | corporate planning | 37
+linkedin | Karachi, Pakistan | business intelligence | 15
+linkedin | Karachi, Pakistan | business analyst | 50
 linkedin | Karachi, Pakistan | pricing analyst | 10
-linkedin | Islamabad, Pakistan | strategy and planning | 0
-linkedin | Islamabad, Pakistan | BI developer | 0
-linkedin | Islamabad, Pakistan | operations analyst | 0
-linkedin | Dubai, United Arab Emirates | analytics manager | 20
-linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 10
-linkedin | United Arab Emirates | lecturer | 0
-linkedin | Riyadh, Saudi Arabia | data scientist | 16
-linkedin | Jeddah, Saudi Arabia | strategy and planning | 0
-linkedin | Saudi Arabia | AI product | 0
+linkedin | Islamabad, Pakistan | strategy and planning | 50
+linkedin | Islamabad, Pakistan | BI developer | 7
+linkedin | Islamabad, Pakistan | operations analyst | 29
+linkedin | Dubai, United Arab Emirates | analytics manager | 100
+linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 18
+linkedin | United Arab Emirates | lecturer | 90
+linkedin | Riyadh, Saudi Arabia | data scientist | 22
+linkedin | Jeddah, Saudi Arabia | strategy and planning | 62
+linkedin | Saudi Arabia | AI product | 36
 linkedin | Qatar | sales operations | 50
-linkedin | Bahrain | revenue operations | 3
-linkedin | Oman | business intelligence | 0
-linkedin | Kuwait | data analyst | 0
-linkedin | Kuwait | power bi | 0
-linkedin | Jordan | analytics manager | 6
+linkedin | Bahrain | revenue operations | 4
+linkedin | Oman | business intelligence | 8
+linkedin | Kuwait | data analyst | 6
+linkedin | Kuwait | power bi | 44
+linkedin | Jordan | analytics manager | 8
 linkedin | Egypt | assistant professor | 11
-linkedin | Kuala Lumpur, Malaysia | business intelligence | 30
-linkedin | Singapore | data scientist | 0
+linkedin | Kuala Lumpur, Malaysia | business intelligence | 50
+linkedin | Singapore | data scientist | 50
 linkedin | London, England, United Kingdom | revenue operations visa sponsorship | 50
 linkedin | Ireland | business intelligence visa sponsorship | 50
-linkedin | Germany | strategy visa sponsorship | 40
-linkedin | Poland | revenue operations visa sponsorship | 15
-linkedin | Prague, Czechia | business intelligence visa sponsorship | 20
-linkedin | Lisbon, Portugal | strategy visa sponsorship | 0
+linkedin | Germany | strategy visa sponsorship | 50
+linkedin | Poland | revenue operations visa sponsorship | 28
+linkedin | Prague, Czechia | business intelligence visa sponsorship | 14
+linkedin | Lisbon, Portugal | strategy visa sponsorship | 15
+linkedin | Australia | revenue operations visa sponsorship | 50
 discovered employers | added | 8463
 workday | abb | FAILED: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/external
 workday | acrisure | FAILED: 429 Client Error: Too Many Requests for url: https://acrisure.wd1.myworkdayjobs.com/wday/cxs/acrisur
 workday | ag | FAILED: 429 Client Error: Too Many Requests for url: https://ag.wd3.myworkdayjobs.com/wday/cxs/ag/Airbus/job
 workday | aig | FAILED: 429 Client Error: Too Many Requests for url: https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/japan/jo
 workday | alcon | FAILED: 429 Client Error: Too Many Requests for url: https://alcon.wd5.myworkdayjobs.com/wday/cxs/alcon/care
-workday | allegion | FAILED: 429 Client Error: Too Many Requests for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegio
 workday | allina | FAILED: 429 Client Error: Too Many Requests for url: https://allina.wd5.myworkdayjobs.com/wday/cxs/allina/Ex
 workday | americanredcross | FAILED: 429 Client Error: Too Many Requests for url: https://americanredcross.wd1.myworkdayjobs.com/wday/cxs
 workday | apa | FAILED: 429 Client Error: Too Many Requests for url: https://apa.wd105.myworkdayjobs.com/wday/cxs/apa/APA-Ca
+workday | argenx | FAILED: 429 Client Error: Too Many Requests for url: https://argenx.wd3.myworkdayjobs.com/wday/cxs/argenx/Ex
 workday | aspca | FAILED: 429 Client Error: Too Many Requests for url: https://aspca.wd1.myworkdayjobs.com/wday/cxs/aspca/Cont
+workday | auchanportugal | FAILED: 429 Client Error: Too Many Requests for url: https://auchanportugal.wd3.myworkdayjobs.com/wday/cxs/a
 workday | aveva | FAILED: 429 Client Error: Too Many Requests for url: https://aveva.wd3.myworkdayjobs.com/wday/cxs/aveva/ETAP
 workday | awg | FAILED: 429 Client Error: Too Many Requests for url: https://awg.wd3.myworkdayjobs.com/wday/cxs/awg/AW/jobs
 workday | azenta | FAILED: 429 Client Error: Too Many Requests for url: https://azenta.wd1.myworkdayjobs.com/wday/cxs/azenta/Az
@@ -1834,18 +1842,25 @@ workday | capitalone | FAILED: 429 Client Error: Too Many Requests for url: http
 workday | carters | FAILED: 429 Client Error: Too Many Requests for url: https://carters.wd1.myworkdayjobs.com/wday/cxs/carters/
 workday | cc | FAILED: 429 Client Error: Too Many Requests for url: https://cc.wd3.myworkdayjobs.com/wday/cxs/cc/ChanelCare
 workday | centrica | FAILED: 429 Client Error: Too Many Requests for url: https://centrica.wd3.myworkdayjobs.com/wday/cxs/centric
+workday | chemours | FAILED: 429 Client Error: Too Many Requests for url: https://chemours.wd103.myworkdayjobs.com/wday/cxs/chemo
 workday | ci | FAILED: 429 Client Error: Too Many Requests for url: https://ci.wd3.myworkdayjobs.com/wday/cxs/ci/ci_financi
 workday | cisecurity | FAILED: 429 Client Error: Too Many Requests for url: https://cisecurity.wd1.myworkdayjobs.com/wday/cxs/cisec
 workday | cloudera | FAILED: 429 Client Error: Too Many Requests for url: https://cloudera.wd5.myworkdayjobs.com/wday/cxs/clouder
 workday | cochlear | FAILED: 429 Client Error: Too Many Requests for url: https://cochlear.wd3.myworkdayjobs.com/wday/cxs/cochlea
-workday | corelab | FAILED: 429 Client Error: Too Many Requests for url: https://corelab.wd12.myworkdayjobs.com/wday/cxs/corelab
+workday | comade | FAILED: 429 Client Error: Too Many Requests for url: https://comade.wd103.myworkdayjobs.com/wday/cxs/comade/
+workday | covetrus | FAILED: 429 Client Error: Too Many Requests for url: https://covetrus.wd5.myworkdayjobs.com/wday/cxs/covetru
 workday | crowdstrike | FAILED: 429 Client Error: Too Many Requests for url: https://crowdstrike.wd5.myworkdayjobs.com/wday/cxs/crow
 workday | cubic | FAILED: 429 Client Error: Too Many Requests for url: https://cubic.wd1.myworkdayjobs.com/wday/cxs/cubic/cubi
 workday | damen | FAILED: 429 Client Error: Too Many Requests for url: https://damen.wd3.myworkdayjobs.com/wday/cxs/damen/Dame
 workday | debeka | FAILED: 429 Client Error: Too Many Requests for url: https://debeka.wd3.myworkdayjobs.com/wday/cxs/debeka/Ka
 workday | diageo | FAILED: 429 Client Error: Too Many Requests for url: https://diageo.wd3.myworkdayjobs.com/wday/cxs/diageo/Di
+workday | dmainc | FAILED: 429 Client Error: Too Many Requests for url: https://dmainc.wd5.myworkdayjobs.com/wday/cxs/dmainc/DM
+workday | dtna | FAILED: 429 Client Error: Too Many Requests for url: https://dtna.wd5.myworkdayjobs.com/wday/cxs/dtna/DTNA_a
 workday | eisneramper | FAILED: 429 Client Error: Too Many Requests for url: https://eisneramper.wd1.myworkdayjobs.com/wday/cxs/eisn
+workday | employeeownedbrands | FAILED: 429 Client Error: Too Many Requests for url: https://employeeownedbrands.wd501.myworkdayjobs.com/wda
+workday | enzazaden | FAILED: 429 Client Error: Too Many Requests for url: https://enzazaden.wd103.myworkdayjobs.com/wday/cxs/enza
 workday | erm | FAILED: 429 Client Error: Too Many Requests for url: https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/erm_expe
+workday | etsy | FAILED: 429 Client Error: Too Many Requests for url: https://etsy.wd5.myworkdayjobs.com/wday/cxs/etsy/Etsy_C
 workday | exfo | FAILED: 429 Client Error: Too Many Requests for url: https://exfo.wd10.myworkdayjobs.com/wday/cxs/exfo/EXFO_
 workday | fastretailing | FAILED: 429 Client Error: Too Many Requests for url: https://fastretailing.wd3.myworkdayjobs.com/wday/cxs/fa
 workday | fedex | FAILED: 429 Client Error: Too Many Requests for url: https://fedex.wd1.myworkdayjobs.com/wday/cxs/fedex/FTN_
@@ -1869,31 +1884,35 @@ workday | harriscomputer | FAILED: 429 Client Error: Too Many Requests for url: 
 workday | hcsc | FAILED: 429 Client Error: Too Many Requests for url: https://hcsc.wd1.myworkdayjobs.com/wday/cxs/hcsc/hcsc_l
 workday | heidrick | FAILED: 429 Client Error: Too Many Requests for url: https://heidrick.wd1.myworkdayjobs.com/wday/cxs/heidric
 workday | Hitachi | FAILED: 429 Client Error: Too Many Requests for url: https://hitachi.wd1.myworkdayjobs.com/wday/cxs/hitachi/
+workday | hoopp | FAILED: 429 Client Error: Too Many Requests for url: https://hoopp.wd10.myworkdayjobs.com/wday/cxs/hoopp/HOO
 workday | humana | FAILED: 429 Client Error: Too Many Requests for url: https://humana.wd5.myworkdayjobs.com/wday/cxs/humana/ce
 workday | iberdrola | FAILED: 429 Client Error: Too Many Requests for url: https://iberdrola.wd3.myworkdayjobs.com/wday/cxs/iberdr
 workday | imerys | FAILED: 429 Client Error: Too Many Requests for url: https://imerys.wd3.myworkdayjobs.com/wday/cxs/imerys/IM
 workday | ingevity | FAILED: 429 Client Error: Too Many Requests for url: https://ingevity.wd1.myworkdayjobs.com/wday/cxs/ingevit
-workday | intelcomgroup | FAILED: 429 Client Error: Too Many Requests for url: https://intelcomgroup.wd3.myworkdayjobs.com/wday/cxs/in
 workday | ironmountain | FAILED: 429 Client Error: Too Many Requests for url: https://ironmountain.wd5.myworkdayjobs.com/wday/cxs/iro
 workday | jacksonlewis | FAILED: 429 Client Error: Too Many Requests for url: https://jacksonlewis.wd1.myworkdayjobs.com/wday/cxs/jac
 workday | jj | FAILED: 429 Client Error: Too Many Requests for url: https://jj.wd5.myworkdayjobs.com/wday/cxs/jj/NonCompete
 workday | jupitermed | FAILED: 429 Client Error: Too Many Requests for url: https://jupitermed.wd1.myworkdayjobs.com/wday/cxs/jupit
 workday | keybank | FAILED: 429 Client Error: Too Many Requests for url: https://keybank.wd5.myworkdayjobs.com/wday/cxs/keybank/
+workday | knitwellgroup | FAILED: 429 Client Error: Too Many Requests for url: https://knitwellgroup.wd1.myworkdayjobs.com/wday/cxs/kn
 workday | labcorp | FAILED: 429 Client Error: Too Many Requests for url: https://labcorp.wd1.myworkdayjobs.com/wday/cxs/labcorp/
 workday | lego | FAILED: 429 Client Error: Too Many Requests for url: https://lego.wd103.myworkdayjobs.com/wday/cxs/lego/lego
 workday | lighting | FAILED: 429 Client Error: Too Many Requests for url: https://lighting.wd3.myworkdayjobs.com/wday/cxs/lightin
 workday | lowes | FAILED: 429 Client Error: Too Many Requests for url: https://lowes.wd5.myworkdayjobs.com/wday/cxs/lowes/LWS_
-workday | mabanaft | FAILED: 429 Client Error: Too Many Requests for url: https://mabanaft.wd3.myworkdayjobs.com/wday/cxs/mabanaf
+workday | marathonhealth | FAILED: 429 Client Error: Too Many Requests for url: https://marathonhealth.wd501.myworkdayjobs.com/wday/cxs
 workday | Mastercard | FAILED: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/maste
 workday | mckesson | FAILED: 429 Client Error: Too Many Requests for url: https://mckesson.wd3.myworkdayjobs.com/wday/cxs/mckesso
 workday | medline | FAILED: 429 Client Error: Too Many Requests for url: https://medline.wd5.myworkdayjobs.com/wday/cxs/medline/
-workday | metabo | FAILED: 429 Client Error: Too Many Requests for url: https://metabo.wd3.myworkdayjobs.com/wday/cxs/metabo/ko
+workday | minnstate | FAILED: 429 Client Error: Too Many Requests for url: https://minnstate.wd115.myworkdayjobs.com/wday/cxs/minn
 workday | mmsg | FAILED: 429 Client Error: Too Many Requests for url: https://mmsg.wd3.myworkdayjobs.com/wday/cxs/mmsg/MMSG-C
 workday | morningstar | FAILED: 429 Client Error: Too Many Requests for url: https://morningstar.wd5.myworkdayjobs.com/wday/cxs/morn
 workday | msk | FAILED: 429 Client Error: Too Many Requests for url: https://msk.wd108.myworkdayjobs.com/wday/cxs/msk/MSKCC_
+workday | mvh | FAILED: 429 Client Error: Too Many Requests for url: https://mvh.wd115.myworkdayjobs.com/wday/cxs/mvh/bfcare
 workday | myview | FAILED: 429 Client Error: Too Many Requests for url: https://myview.wd3.myworkdayjobs.com/wday/cxs/myview/ho
 workday | ncr | FAILED: 429 Client Error: Too Many Requests for url: https://ncr.wd1.myworkdayjobs.com/wday/cxs/ncr/ext_apac
 workday | ngc | FAILED: 429 Client Error: Too Many Requests for url: https://ngc.wd1.myworkdayjobs.com/wday/cxs/ngc/Northrop
+workday | nordstrom | FAILED: 429 Client Error: Too Many Requests for url: https://nordstrom.wd501.myworkdayjobs.com/wday/cxs/nord
+workday | nttglobaldatacenters | FAILED: 429 Client Error: Too Many Requests for url: https://nttglobaldatacenters.wd501.myworkdayjobs.com/wd
 workday | onehealthineers | FAILED: 429 Client Error: Too Many Requests for url: https://onehealthineers.wd3.myworkdayjobs.com/wday/cxs/
 workday | optiv | FAILED: 429 Client Error: Too Many Requests for url: https://optiv.wd5.myworkdayjobs.com/wday/cxs/optiv/Opti
 workday | osu | FAILED: 429 Client Error: Too Many Requests for url: https://osu.wd1.myworkdayjobs.com/wday/cxs/osu/osucaree
@@ -1903,7 +1922,6 @@ workday | phreesia | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | pnc | FAILED: 429 Client Error: Too Many Requests for url: https://pnc.wd5.myworkdayjobs.com/wday/cxs/pnc/HarrisWi
 workday | priceline | FAILED: 429 Client Error: Too Many Requests for url: https://priceline.wd1.myworkdayjobs.com/wday/cxs/pricel
 workday | proofpoint | FAILED: 429 Client Error: Too Many Requests for url: https://proofpoint.wd5.myworkdayjobs.com/wday/cxs/proof
-workday | puma | FAILED: 429 Client Error: Too Many Requests for url: https://puma.wd502.myworkdayjobs.com/wday/cxs/puma/Work
 workday | quadreal | FAILED: 429 Client Error: Too Many Requests for url: https://quadreal.wd10.myworkdayjobs.com/wday/cxs/quadre
 workday | rakuten | FAILED: 429 Client Error: Too Many Requests for url: https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/
 workday | reagroup | FAILED: 429 Client Error: Too Many Requests for url: https://reagroup.wd3.myworkdayjobs.com/wday/cxs/reagrou
@@ -1914,6 +1932,7 @@ workday | roberthalf | FAILED: 429 Client Error: Too Many Requests for url: http
 workday | rogersbh | FAILED: 429 Client Error: Too Many Requests for url: https://rogersbh.wd1.myworkdayjobs.com/wday/cxs/rogersb
 workday | rothschildandco | FAILED: 429 Client Error: Too Many Requests for url: https://rothschildandco.wd3.myworkdayjobs.com/wday/cxs/
 workday | ryan | FAILED: 429 Client Error: Too Many Requests for url: https://ryan.wd1.myworkdayjobs.com/wday/cxs/ryan/Studen
+workday | salesforce | FAILED: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/sale
 workday | sanoma | FAILED: 429 Client Error: Too Many Requests for url: https://sanoma.wd3.myworkdayjobs.com/wday/cxs/sanoma/Sa
 workday | sec | FAILED: 429 Client Error: Too Many Requests for url: https://sec.wd3.myworkdayjobs.com/wday/cxs/sec/Samsung_
 workday | sevenwestmedia | FAILED: 429 Client Error: Too Many Requests for url: https://sevenwestmedia.wd105.myworkdayjobs.com/wday/cxs
@@ -1936,10 +1955,12 @@ workday | tmobile | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | tranetechnologies | FAILED: 429 Client Error: Too Many Requests for url: https://tranetechnologies.wd12.myworkdayjobs.com/wday/c
 workday | tricentis | FAILED: 429 Client Error: Too Many Requests for url: https://tricentis.wd1.myworkdayjobs.com/wday/cxs/tricen
 workday | tti | FAILED: 429 Client Error: Too Many Requests for url: https://tti.wd1.myworkdayjobs.com/wday/cxs/tti/CDA/jobs
+workday | ufpi | FAILED: 429 Client Error: Too Many Requests for url: https://ufpi.wd503.myworkdayjobs.com/wday/cxs/ufpi/ufpi
 workday | umb | FAILED: 429 Client Error: Too Many Requests for url: https://umb.wd1.myworkdayjobs.com/wday/cxs/umb/umbexter
 workday | unitytech | FAILED: 429 Client Error: Too Many Requests for url: https://unitytech.wd1.myworkdayjobs.com/wday/cxs/unityt
 workday | usbank | FAILED: 429 Client Error: Too Many Requests for url: https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/us
 workday | Vanguard | FAILED: 429 Client Error: Too Many Requests for url: https://vanguard.wd5.myworkdayjobs.com/wday/cxs/vanguar
+workday | vermilionenergy | FAILED: 429 Client Error: Too Many Requests for url: https://vermilionenergy.wd10.myworkdayjobs.com/wday/cxs
 workday | vfc | FAILED: 429 Client Error: Too Many Requests for url: https://vfc.wd5.myworkdayjobs.com/wday/cxs/vfc/vfc_care
 workday | vontobel | FAILED: 429 Client Error: Too Many Requests for url: https://vontobel.wd3.myworkdayjobs.com/wday/cxs/vontobe
 workday | warnerbros | FAILED: 429 Client Error: Too Many Requests for url: https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warne
@@ -1949,29 +1970,28 @@ workday | workday | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | wvumedicine | FAILED: 429 Client Error: Too Many Requests for url: https://wvumedicine.wd1.myworkdayjobs.com/wday/cxs/wvum
 workday | xylem | FAILED: 429 Client Error: Too Many Requests for url: https://xylem.wd5.myworkdayjobs.com/wday/cxs/xylem/xyle
 workday | zoetis | FAILED: 429 Client Error: Too Many Requests for url: https://zoetis.wd5.myworkdayjobs.com/wday/cxs/zoetis/br
-ashby | 128 employers | 3298
-bamboohr | 8 employers | 164
+ashby | 128 employers | 3277
+bamboohr | 8 employers | 166
 breezy | 3 employers | 19
-greenhouse | 156 employers | 6235
-icims | 17 employers | 1102
+greenhouse | 156 employers | 6264
+icims | 17 employers | 1101
 lever | 8 employers | 121
-oracle | 42 employers | 8013
-personio | 92 employers | 1069
-pinpoint | 5 employers | 423
+oracle | 42 employers | 8109
+personio | 92 employers | 1070
+pinpoint | 5 employers | 428
 recruitee | 33 employers | 950
-smartrecruiters | 40 employers | 10371
-successfactors | 22 employers | 3755
-taleo | 7 employers | 474
-teamtailor | 21 employers | 469
-workable | 101 employers | 8120
-workday | 167 employers | 790
+smartrecruiters | 40 employers | 10389
+successfactors | 22 employers | 3731
+taleo | 7 employers | 486
+teamtailor | 21 employers | 470
+workable | 101 employers | 8138
+workday | 167 employers | 662
 workable search | Lisbon | AI product | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | strategy | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | business analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Lisbon | lecturer | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Toronto | data analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | Toronto | business intelligence | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Toronto | revenue operations | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Toronto | sales operations | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Toronto | AI product | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
@@ -2003,17 +2023,12 @@ workable search | Sydney | revenue operations | FAILED: 429 Client Error: Too Ma
 workable search | Sydney | sales operations | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Sydney | AI product | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Sydney | strategy | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | Sydney | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Sydney | business analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Sydney | lecturer | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Melbourne | data analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | Melbourne | business intelligence | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | Melbourne | revenue operations | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | Melbourne | sales operations | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Melbourne | AI product | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Melbourne | strategy | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Melbourne | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | Melbourne | business analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Melbourne | lecturer | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | data analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | business intelligence | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
@@ -2024,75 +2039,74 @@ workable search | Auckland | strategy | FAILED: 429 Client Error: Too Many Reque
 workable search | Auckland | data scientist | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | business analyst | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
 workable search | Auckland | lecturer | FAILED: 429 Client Error: Too Many Requests for url: https://jobs.wo
-workable search | 459 searches | 2769
-locations | missing 7 | looked up 7 | found 3
-checks | descriptions opened 90 | {"dropped earlier": 26, "visa ruled out": 1, "visa unclear (no mention)": 50}
---- search runner 9/10 (12.2 min)
-linkedin | Australia | AI product manager visa sponsorship | 0
-indeed | Pakistan | analytics manager | 24
+workable search | 459 searches | 2812
+locations | missing 2 | looked up 2 | found 0
+checks | descriptions opened 90 | {"dropped earlier": 30, "visa ruled out": 3, "visa unclear (no mention)": 58}
+--- search runner 9/10 (16.2 min)
+indeed | Pakistan | analytics manager | 27
 indeed | Pakistan | CRM | 100
-indeed | Lahore | business analyst | 2
-indeed | Lahore | business planning | 24
-indeed | Lahore | AI | 35
+indeed | Lahore | business analyst | 5
+indeed | Lahore | business planning | 35
+indeed | Lahore | AI | 40
 indeed | Karachi | data scientist | 0
-indeed | Karachi | sales operations | 39
+indeed | Karachi | sales operations | 48
 indeed | Karachi | trainer | 2
 indeed | Islamabad | MIS | 0
-indeed | Islamabad | growth | 59
-indeed | United Arab Emirates | power bi | 16
+indeed | Islamabad | growth | 64
+indeed | United Arab Emirates | power bi | 23
 indeed | United Arab Emirates | lecturer | 0
-indeed | Saudi Arabia | sales operations | 21
-indeed | Qatar | analytics manager | 4
-indeed | Bahrain | business analyst | 0
-indeed | Bahrain | AI specialist | 1
-indeed | Oman | business planning | 7
+indeed | Saudi Arabia | sales operations | 29
+indeed | Qatar | analytics manager | 3
+indeed | Bahrain | business analyst | 2
+indeed | Bahrain | AI specialist | 0
+indeed | Oman | business planning | 4
 indeed | Kuwait | power bi | 0
 indeed | Kuwait | lecturer | 0
-indeed | Egypt | sales operations | 24
+indeed | Egypt | sales operations | 20
 indeed | Turkey | strategy visa sponsorship | 0
 indeed | Malaysia | pricing analyst | 5
 indeed | Japan | business analyst visa sponsorship | 0
 indeed | UK | data scientist visa sponsorship | 0
 indeed | Ireland | strategy visa sponsorship | 2
-indeed | Germany | AI product visa sponsorship | 18
+indeed | Germany | AI product visa sponsorship | 13
 indeed | Poland | business analyst visa sponsorship | 0
 indeed | Hungary | data scientist visa sponsorship | 0
 indeed | Czech Republic | strategy visa sponsorship | 0
 indeed | Portugal | AI product visa sponsorship | 0
-indeed | Australia | business analyst visa sponsorship | 2
+indeed | Australia | business analyst visa sponsorship | 1
 indeed | New Zealand | data scientist visa sponsorship | 0
-linkedin | Lahore, Pakistan | assistant professor | 2
-linkedin | Lahore, Pakistan | salesforce | 28
-linkedin | Karachi, Pakistan | revenue operations | 2
-linkedin | Karachi, Pakistan | data analytics | 34
-linkedin | Karachi, Pakistan | growth analyst | 15
-linkedin | Islamabad, Pakistan | data scientist | 0
-linkedin | Islamabad, Pakistan | strategy manager | 15
-linkedin | Dubai, United Arab Emirates | data analyst | 0
-linkedin | Dubai, United Arab Emirates | power bi | 0
-linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 10
-linkedin | United Arab Emirates | assistant professor | 20
-linkedin | Riyadh, Saudi Arabia | lecturer | 3
-linkedin | Jeddah, Saudi Arabia | data scientist | 3
-linkedin | Saudi Arabia | strategy and planning | 10
-linkedin | Qatar | AI product | 8
-linkedin | Bahrain | sales operations | 10
-linkedin | Oman | revenue operations | 0
-linkedin | Kuwait | business intelligence | 0
-linkedin | Jordan | data analyst | 5
-linkedin | Jordan | power bi | 40
-linkedin | Egypt | analytics manager | 40
-linkedin | Kuala Lumpur, Malaysia | revenue operations | 0
-linkedin | Tokyo, Japan | data analyst visa sponsorship | 20
-linkedin | London, England, United Kingdom | AI product manager visa sponsorship | 0
-linkedin | Ireland | data scientist visa sponsorship | 36
-linkedin | Netherlands | data analyst visa sponsorship | 30
-linkedin | Poland | AI product manager visa sponsorship | 10
-linkedin | Prague, Czechia | data scientist visa sponsorship | 10
+linkedin | Lahore, Pakistan | assistant professor | 3
+linkedin | Lahore, Pakistan | salesforce | 34
+linkedin | Karachi, Pakistan | revenue operations | 4
+linkedin | Karachi, Pakistan | data analytics | 27
+linkedin | Karachi, Pakistan | growth analyst | 10
+linkedin | Islamabad, Pakistan | data scientist | 12
+linkedin | Islamabad, Pakistan | strategy manager | 19
+linkedin | Dubai, United Arab Emirates | data analyst | 100
+linkedin | Dubai, United Arab Emirates | power bi | 10
+linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 58
+linkedin | United Arab Emirates | assistant professor | 34
+linkedin | Riyadh, Saudi Arabia | lecturer | 10
+linkedin | Jeddah, Saudi Arabia | data scientist | 5
+linkedin | Saudi Arabia | strategy and planning | 100
+linkedin | Qatar | AI product | 14
+linkedin | Bahrain | sales operations | 15
+linkedin | Oman | revenue operations | 9
+linkedin | Kuwait | business intelligence | 6
+linkedin | Jordan | data analyst | 10
+linkedin | Jordan | power bi | 50
+linkedin | Egypt | analytics manager | 45
+linkedin | Kuala Lumpur, Malaysia | revenue operations | 50
+linkedin | Tokyo, Japan | data analyst visa sponsorship | 50
+linkedin | London, England, United Kingdom | AI product manager visa sponsorship | 50
+linkedin | Ireland | data scientist visa sponsorship | 46
+linkedin | Netherlands | data analyst visa sponsorship | 50
+linkedin | Poland | AI product manager visa sponsorship | 25
+linkedin | Prague, Czechia | data scientist visa sponsorship | 11
 linkedin | Canada | data analyst visa sponsorship | 50
+linkedin | Australia | AI product manager visa sponsorship | 30
 discovered employers | added | 8463
 workday | abbott | FAILED: 429 Client Error: Too Many Requests for url: https://abbott.wd5.myworkdayjobs.com/wday/cxs/abbott/ab
-workday | acronis | FAILED: 429 Client Error: Too Many Requests for url: https://acronis.wd502.myworkdayjobs.com/wday/cxs/acroni
 workday | agecare | FAILED: 429 Client Error: Too Many Requests for url: https://agecare.wd10.myworkdayjobs.com/wday/cxs/agecare
 workday | aig | FAILED: 429 Client Error: Too Many Requests for url: https://aig.wd1.myworkdayjobs.com/wday/cxs/aig/PrivateJ
 workday | alfalaval | FAILED: 429 Client Error: Too Many Requests for url: https://alfalaval.wd3.myworkdayjobs.com/wday/cxs/alfala
@@ -2120,7 +2134,6 @@ workday | canadagoose | FAILED: 429 Client Error: Too Many Requests for url: htt
 workday | capri | FAILED: 429 Client Error: Too Many Requests for url: https://capri.wd1.myworkdayjobs.com/wday/cxs/capri/Jimm
 workday | cat | FAILED: 429 Client Error: Too Many Requests for url: https://cat.wd5.myworkdayjobs.com/wday/cxs/cat/caterpil
 workday | ccc | FAILED: 429 Client Error: Too Many Requests for url: https://ccc.wd5.myworkdayjobs.com/wday/cxs/ccc/ccc_Exte
-workday | centricsoftware | FAILED: 429 Client Error: Too Many Requests for url: https://centricsoftware.wd501.myworkdayjobs.com/wday/cx
 workday | chesterfield | FAILED: 429 Client Error: Too Many Requests for url: https://chesterfield.wd5.myworkdayjobs.com/wday/cxs/che
 workday | cibc | FAILED: 429 Client Error: Too Many Requests for url: https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/campus
 workday | citi | FAILED: 429 Client Error: Too Many Requests for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/2/jobs
@@ -2139,18 +2152,17 @@ workday | duckcreek | FAILED: 429 Client Error: Too Many Requests for url: https
 workday | elanco | FAILED: 429 Client Error: Too Many Requests for url: https://elanco.wd5.myworkdayjobs.com/wday/cxs/elanco/ex
 workday | empower | FAILED: 429 Client Error: Too Many Requests for url: https://empower.wd12.myworkdayjobs.com/wday/cxs/empower
 workday | eosgroup | FAILED: 429 Client Error: Too Many Requests for url: https://eosgroup.wd3.myworkdayjobs.com/wday/cxs/eosgrou
-workday | erstebp | FAILED: 429 Client Error: Too Many Requests for url: https://erstebp.wd502.myworkdayjobs.com/wday/cxs/ersteb
-workday | euroapi | FAILED: 429 Client Error: Too Many Requests for url: https://euroapi.wd502.myworkdayjobs.com/wday/cxs/euroap
-workday | expedia | FAILED: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedi
 workday | fastretailing | FAILED: 429 Client Error: Too Many Requests for url: https://fastretailing.wd3.myworkdayjobs.com/wday/cxs/fa
 workday | fedex | FAILED: 429 Client Error: Too Many Requests for url: https://fedex.wd1.myworkdayjobs.com/wday/cxs/fedex/FTN_
 workday | fil | FAILED: 429 Client Error: Too Many Requests for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/001/jobs
 workday | firststudent | FAILED: 429 Client Error: Too Many Requests for url: https://firststudent.wd1.myworkdayjobs.com/wday/cxs/fir
+workday | flir | FAILED: 429 Client Error: Too Many Requests for url: https://flir.wd1.myworkdayjobs.com/wday/cxs/flir/flirco
 workday | fortrea | FAILED: 429 Client Error: Too Many Requests for url: https://fortrea.wd1.myworkdayjobs.com/wday/cxs/fortrea/
 workday | freseniusglobal | FAILED: 429 Client Error: Too Many Requests for url: https://freseniusglobal.wd3.myworkdayjobs.com/wday/cxs/
 workday | fultonhogan | FAILED: 429 Client Error: Too Many Requests for url: https://fultonhogan.wd3.myworkdayjobs.com/wday/cxs/fult
 workday | Galileo | FAILED: 429 Client Error: Too Many Requests for url: https://galileo.wd3.myworkdayjobs.com/wday/cxs/galileo/
 workday | gcu | FAILED: 429 Client Error: Too Many Requests for url: https://gcu.wd1.myworkdayjobs.com/wday/cxs/gcu/Orbis/jo
+workday | generac | FAILED: 429 Client Error: Too Many Requests for url: https://generac.wd5.myworkdayjobs.com/wday/cxs/generac/
 workday | georgfischer | FAILED: 429 Client Error: Too Many Requests for url: https://georgfischer.wd103.myworkdayjobs.com/wday/cxs/g
 workday | ghr | FAILED: 429 Client Error: Too Many Requests for url: https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/lateral-
 workday | globalhr | FAILED: 429 Client Error: Too Many Requests for url: https://globalhr.wd5.myworkdayjobs.com/wday/cxs/globalh
@@ -2158,6 +2170,7 @@ workday | goodyear | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | grpr | FAILED: 429 Client Error: Too Many Requests for url: https://grpr.wd3.myworkdayjobs.com/wday/cxs/grpr/palace
 workday | guillevin | FAILED: 429 Client Error: Too Many Requests for url: https://guillevin.wd3.myworkdayjobs.com/wday/cxs/guille
 workday | haier | FAILED: 429 Client Error: Too Many Requests for url: https://haier.wd3.myworkdayjobs.com/wday/cxs/haier/Haie
+workday | harriscomputer | FAILED: 429 Client Error: Too Many Requests for url: https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/h
 workday | hdsupply | FAILED: 429 Client Error: Too Many Requests for url: https://hdsupply.wd1.myworkdayjobs.com/wday/cxs/hdsuppl
 workday | heidrick | FAILED: 429 Client Error: Too Many Requests for url: https://heidrick.wd1.myworkdayjobs.com/wday/cxs/heidric
 workday | hlb | FAILED: 429 Client Error: Too Many Requests for url: https://hlb.wd3.myworkdayjobs.com/wday/cxs/hlb/HLBCaree
@@ -2170,8 +2183,7 @@ workday | intelcomgroup | FAILED: 429 Client Error: Too Many Requests for url: h
 workday | isc | FAILED: 429 Client Error: Too Many Requests for url: https://isc.wd10.myworkdayjobs.com/wday/cxs/isc/isc/job
 workday | jas | FAILED: 429 Client Error: Too Many Requests for url: https://jas.wd1.myworkdayjobs.com/wday/cxs/jas/jascaree
 workday | jll | FAILED: 429 Client Error: Too Many Requests for url: https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/JLLCaree
-workday | kimberlyclark | FAILED: 429 Client Error: Too Many Requests for url: https://kimberlyclark.wd1.myworkdayjobs.com/wday/cxs/ki
-workday | knitwellgroup | FAILED: 429 Client Error: Too Many Requests for url: https://knitwellgroup.wd1.myworkdayjobs.com/wday/cxs/kn
+workday | kaleris | FAILED: 429 Client Error: Too Many Requests for url: https://kaleris.wd501.myworkdayjobs.com/wday/cxs/kaleri
 workday | lambweston | FAILED: 429 Client Error: Too Many Requests for url: https://lambweston.wd1.myworkdayjobs.com/wday/cxs/lambw
 workday | leidos | FAILED: 429 Client Error: Too Many Requests for url: https://leidos.wd5.myworkdayjobs.com/wday/cxs/leidos/Ex
 workday | lilly | FAILED: 429 Client Error: Too Many Requests for url: https://lilly.wd115.myworkdayjobs.com/wday/cxs/lilly/LL
@@ -2206,6 +2218,7 @@ workday | propharmagroup | FAILED: 429 Client Error: Too Many Requests for url: 
 workday | pvh | FAILED: 429 Client Error: Too Many Requests for url: https://pvh.wd1.myworkdayjobs.com/wday/cxs/pvh/PVH_Care
 workday | quickenloans | FAILED: 429 Client Error: Too Many Requests for url: https://quickenloans.wd5.myworkdayjobs.com/wday/cxs/qui
 workday | rakuten | FAILED: 429 Client Error: Too Many Requests for url: https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/
+workday | recar | FAILED: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SL
 workday | relx | FAILED: 429 Client Error: Too Many Requests for url: https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/LexisN
 workday | republic | FAILED: 429 Client Error: Too Many Requests for url: https://republic.wd5.myworkdayjobs.com/wday/cxs/republi
 workday | ringcentral | FAILED: 429 Client Error: Too Many Requests for url: https://ringcentral.wd1.myworkdayjobs.com/wday/cxs/ring
@@ -2218,14 +2231,15 @@ workday | santander | FAILED: 429 Client Error: Too Many Requests for url: https
 workday | sedgwick | FAILED: 429 Client Error: Too Many Requests for url: https://sedgwick.wd1.myworkdayjobs.com/wday/cxs/sedgwic
 workday | shutterstock | FAILED: 429 Client Error: Too Many Requests for url: https://shutterstock.wd1.myworkdayjobs.com/wday/cxs/shu
 workday | simpro | FAILED: 429 Client Error: Too Many Requests for url: https://simpro.wd3.myworkdayjobs.com/wday/cxs/simpro/Si
+workday | smithweb | FAILED: 429 Client Error: Too Many Requests for url: https://smithweb.wd108.myworkdayjobs.com/wday/cxs/smith
 workday | sonos | FAILED: 429 Client Error: Too Many Requests for url: https://sonos.wd1.myworkdayjobs.com/wday/cxs/sonos/Sono
 workday | spectris | FAILED: 429 Client Error: Too Many Requests for url: https://spectris.wd3.myworkdayjobs.com/wday/cxs/spectri
 workday | srsdistribution | FAILED: 429 Client Error: Too Many Requests for url: https://srsdistribution.wd1.myworkdayjobs.com/wday/cxs/
+workday | starlight | FAILED: 429 Client Error: Too Many Requests for url: https://starlight.wd105.myworkdayjobs.com/wday/cxs/star
 workday | strayer | FAILED: 429 Client Error: Too Many Requests for url: https://strayer.wd1.myworkdayjobs.com/wday/cxs/strayer/
 workday | sunlife | FAILED: 429 Client Error: Too Many Requests for url: https://sunlife.wd3.myworkdayjobs.com/wday/cxs/sunlife/
 workday | swisslife | FAILED: 429 Client Error: Too Many Requests for url: https://swisslife.wd3.myworkdayjobs.com/wday/cxs/swissl
 workday | talentmanagementsolution | FAILED: 429 Client Error: Too Many Requests for url: https://talentmanagementsolution.wd3.myworkdayjobs.com/
-workday | tandemdiabetes | FAILED: 429 Client Error: Too Many Requests for url: https://tandemdiabetes.wd12.myworkdayjobs.com/wday/cxs/
 workday | tdwilliamson | FAILED: 429 Client Error: Too Many Requests for url: https://tdwilliamson.wd1.myworkdayjobs.com/wday/cxs/tdw
 workday | terex | FAILED: 429 Client Error: Too Many Requests for url: https://terex.wd1.myworkdayjobs.com/wday/cxs/terex/tere
 workday | thgrp | FAILED: 429 Client Error: Too Many Requests for url: https://thgrp.wd12.myworkdayjobs.com/wday/cxs/thgrp/Env
@@ -2240,52 +2254,56 @@ workday | usertesting | FAILED: 429 Client Error: Too Many Requests for url: htt
 workday | vantagedc | FAILED: 429 Client Error: Too Many Requests for url: https://vantagedc.wd1.myworkdayjobs.com/wday/cxs/vantag
 workday | vertexinc | FAILED: 429 Client Error: Too Many Requests for url: https://vertexinc.wd1.myworkdayjobs.com/wday/cxs/vertex
 workday | vhaca | FAILED: 429 Client Error: Too Many Requests for url: https://vhaca.wd10.myworkdayjobs.com/wday/cxs/vhaca/VHA
+workday | wash | FAILED: 429 Client Error: Too Many Requests for url: https://wash.wd5.myworkdayjobs.com/wday/cxs/wash/wash/j
+workday | welocalize | FAILED: 429 Client Error: Too Many Requests for url: https://welocalize.wd1.myworkdayjobs.com/wday/cxs/weloc
 workday | wk | FAILED: 429 Client Error: Too Many Requests for url: https://wk.wd3.myworkdayjobs.com/wday/cxs/wk/External/j
+workday | worldvision | FAILED: 429 Client Error: Too Many Requests for url: https://worldvision.wd1.myworkdayjobs.com/wday/cxs/worl
 workday | wvumedicine | FAILED: 429 Client Error: Too Many Requests for url: https://wvumedicine.wd1.myworkdayjobs.com/wday/cxs/wvum
-ashby | 128 employers | 3520
+workday | yeticoolers | FAILED: 429 Client Error: Too Many Requests for url: https://yeticoolers.wd5.myworkdayjobs.com/wday/cxs/yeti
+workday | zoetis | FAILED: 429 Client Error: Too Many Requests for url: https://zoetis.wd5.myworkdayjobs.com/wday/cxs/zoetis/zo
+ashby | 128 employers | 3518
 bamboohr | 8 employers | 95
 breezy | 3 employers | 48
-greenhouse | 156 employers | 7278
-icims | 17 employers | 1051
-lever | 8 employers | 94
-oracle | 42 employers | 9490
-personio | 91 employers | 1001
-pinpoint | 6 employers | 370
-recruitee | 33 employers | 443
-smartrecruiters | 40 employers | 8510
-successfactors | 22 employers | 3050
-taleo | 7 employers | 1073
-teamtailor | 21 employers | 461
-workable | 101 employers | 5357
-workday | 167 employers | 728
-locations | missing 4 | looked up 4 | found 3
-checks | descriptions opened 63 | {"dropped earlier": 59, "visa unclear (no mention)": 51}
---- search runner 10/10 (12.8 min)
-linkedin | Australia | strategy visa sponsorship | 20
-indeed | Pakistan | product analyst | 4
-indeed | Pakistan | pricing analyst | 1
-indeed | Lahore | business intelligence | 8
-indeed | Lahore | strategy and operations | 19
+greenhouse | 156 employers | 7251
+icims | 17 employers | 1016
+lever | 8 employers | 96
+oracle | 42 employers | 9601
+personio | 91 employers | 1000
+pinpoint | 6 employers | 289
+recruitee | 33 employers | 444
+smartrecruiters | 40 employers | 8525
+successfactors | 22 employers | 3066
+taleo | 7 employers | 1068
+teamtailor | 21 employers | 462
+workable | 101 employers | 5386
+workday | 167 employers | 823
+locations | missing 7 | looked up 7 | found 5
+checks | descriptions opened 86 | {"dropped earlier": 60, "visa unclear (no mention)": 57, "visa ruled out": 1}
+--- search runner 10/10 (19.8 min)
+indeed | Pakistan | product analyst | 9
+indeed | Pakistan | pricing analyst | 4
+indeed | Lahore | business intelligence | 11
+indeed | Lahore | strategy and operations | 2
 indeed | Lahore | AI product | 13
-indeed | Karachi | machine learning | 0
-indeed | Karachi | salesforce | 0
-indeed | Islamabad | data analyst | 0
-indeed | Islamabad | strategy | 26
-indeed | Islamabad | operations analyst | 0
-indeed | United Arab Emirates | data scientist | 0
-indeed | Saudi Arabia | data analyst | 8
-indeed | Saudi Arabia | AI product | 11
-indeed | Qatar | strategy | 18
-indeed | Bahrain | business intelligence | 1
+indeed | Karachi | machine learning | 1
+indeed | Karachi | salesforce | 4
+indeed | Islamabad | data analyst | 1
+indeed | Islamabad | strategy | 30
+indeed | Islamabad | operations analyst | 1
+indeed | United Arab Emirates | data scientist | 2
+indeed | Saudi Arabia | data analyst | 9
+indeed | Saudi Arabia | AI product | 9
+indeed | Qatar | strategy | 37
+indeed | Bahrain | business intelligence | 0
 indeed | Bahrain | pricing analyst | 0
-indeed | Oman | revenue operations | 8
+indeed | Oman | revenue operations | 9
 indeed | Kuwait | data scientist | 0
-indeed | Egypt | data analyst | 6
-indeed | Egypt | AI product | 7
+indeed | Egypt | data analyst | 11
+indeed | Egypt | AI product | 13
 indeed | Turkey | data analyst relocation | 0
-indeed | Singapore | data analyst | 22
+indeed | Singapore | data analyst | 40
 indeed | Japan | business intelligence visa sponsorship | 0
-indeed | UK | revenue operations visa sponsorship | 16
+indeed | UK | revenue operations visa sponsorship | 19
 indeed | Ireland | data analyst relocation | 1
 indeed | Netherlands | data analyst visa sponsorship | 0
 indeed | Poland | business intelligence visa sponsorship | 0
@@ -2293,43 +2311,50 @@ indeed | Hungary | revenue operations visa sponsorship | 0
 indeed | Czech Republic | data analyst relocation | 0
 indeed | Canada | data analyst visa sponsorship | 0
 indeed | Australia | business intelligence visa sponsorship | 1
-indeed | New Zealand | revenue operations visa sponsorship | 0
-linkedin | Lahore, Pakistan | analytics manager | 13
-linkedin | Lahore, Pakistan | AI specialist | 21
-linkedin | Karachi, Pakistan | sales operations | 0
-linkedin | Karachi, Pakistan | product analyst | 15
-linkedin | Karachi, Pakistan | MIS | 10
-linkedin | Islamabad, Pakistan | lecturer | 0
-linkedin | Islamabad, Pakistan | corporate planning | 25
-linkedin | Dubai, United Arab Emirates | business intelligence | 30
-linkedin | Abu Dhabi, United Arab Emirates | data analyst | 10
-linkedin | Abu Dhabi, United Arab Emirates | power bi | 0
+indeed | New Zealand | revenue operations visa sponsorship | 1
+linkedin | Lahore, Pakistan | analytics manager | 19
+linkedin | Lahore, Pakistan | AI specialist | 26
+linkedin | Karachi, Pakistan | sales operations | 29
+linkedin | Karachi, Pakistan | product analyst | 12
+linkedin | Karachi, Pakistan | MIS | 50
+linkedin | Islamabad, Pakistan | lecturer | 2
+linkedin | Islamabad, Pakistan | corporate planning | 27
+linkedin | Dubai, United Arab Emirates | business intelligence | 100
+linkedin | Abu Dhabi, United Arab Emirates | data analyst | 100
+linkedin | Abu Dhabi, United Arab Emirates | power bi | 100
 linkedin | United Arab Emirates | analytics manager | 100
-linkedin | Riyadh, Saudi Arabia | assistant professor | 3
-linkedin | Jeddah, Saudi Arabia | lecturer | 3
-linkedin | Saudi Arabia | data scientist | 0
-linkedin | Qatar | strategy and planning | 0
-linkedin | Bahrain | AI product | 5
-linkedin | Oman | sales operations | 10
-linkedin | Kuwait | revenue operations | 3
-linkedin | Jordan | business intelligence | 3
-linkedin | Egypt | data analyst | 10
-linkedin | Egypt | power bi | 0
-linkedin | Kuala Lumpur, Malaysia | AI product | 0
-linkedin | Tokyo, Japan | business intelligence visa sponsorship | 0
-linkedin | London, England, United Kingdom | strategy visa sponsorship | 30
-linkedin | Ireland | revenue operations visa sponsorship | 27
+linkedin | Riyadh, Saudi Arabia | assistant professor | 4
+linkedin | Jeddah, Saudi Arabia | lecturer | 6
+linkedin | Saudi Arabia | data scientist | 47
+linkedin | Qatar | strategy and planning | 50
+linkedin | Bahrain | AI product | 4
+linkedin | Oman | sales operations | 34
+linkedin | Kuwait | revenue operations | 5
+linkedin | Jordan | business intelligence | 7
+linkedin | Egypt | data analyst | 100
+linkedin | Egypt | power bi | 100
+linkedin | Kuala Lumpur, Malaysia | AI product | 50
+linkedin | Tokyo, Japan | business intelligence visa sponsorship | 50
+linkedin | London, England, United Kingdom | strategy visa sponsorship | 50
+linkedin | Ireland | revenue operations visa sponsorship | 26
 linkedin | Netherlands | business intelligence visa sponsorship | 50
-linkedin | Poland | strategy visa sponsorship | 0
-linkedin | Prague, Czechia | revenue operations visa sponsorship | 0
-linkedin | Canada | business intelligence visa sponsorship | 20
+linkedin | Poland | strategy visa sponsorship | 50
+linkedin | Prague, Czechia | revenue operations visa sponsorship | 8
+linkedin | Canada | business intelligence visa sponsorship | 50
+linkedin | Australia | strategy visa sponsorship | 50
 discovered employers | added | 8463
+workday | 2020companies | FAILED: 429 Client Error: Too Many Requests for url: https://2020companies.wd1.myworkdayjobs.com/wday/cxs/20
+workday | abcfinancial | FAILED: 429 Client Error: Too Many Requests for url: https://abcfinancial.wd5.myworkdayjobs.com/wday/cxs/abc
 workday | acs | FAILED: 429 Client Error: Too Many Requests for url: https://acs.wd5.myworkdayjobs.com/wday/cxs/acs/acscaree
 workday | agilent | FAILED: 429 Client Error: Too Many Requests for url: https://agilent.wd5.myworkdayjobs.com/wday/cxs/agilent/
 workday | airliquidehr | FAILED: 429 Client Error: Too Many Requests for url: https://airliquidehr.wd3.myworkdayjobs.com/wday/cxs/air
 workday | alfalaval | FAILED: 429 Client Error: Too Many Requests for url: https://alfalaval.wd3.myworkdayjobs.com/wday/cxs/alfala
 workday | allegion | FAILED: 429 Client Error: Too Many Requests for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegio
+workday | altera | FAILED: 429 Client Error: Too Many Requests for url: https://altera.wd1.myworkdayjobs.com/wday/cxs/altera/Al
+workday | amfam | FAILED: 429 Client Error: Too Many Requests for url: https://amfam.wd1.myworkdayjobs.com/wday/cxs/amfam/Agen
+workday | apog | FAILED: 429 Client Error: Too Many Requests for url: https://apog.wd1.myworkdayjobs.com/wday/cxs/apog/apogee
 workday | arianegroup | FAILED: 429 Client Error: Too Many Requests for url: https://arianegroup.wd3.myworkdayjobs.com/wday/cxs/aria
+workday | assurant | FAILED: 429 Client Error: Too Many Requests for url: https://assurant.wd1.myworkdayjobs.com/wday/cxs/assuran
 workday | ausvenueco | FAILED: 429 Client Error: Too Many Requests for url: https://ausvenueco.wd105.myworkdayjobs.com/wday/cxs/aus
 workday | aviagen | FAILED: 429 Client Error: Too Many Requests for url: https://aviagen.wd1.myworkdayjobs.com/wday/cxs/aviagen/
 workday | awg | FAILED: 429 Client Error: Too Many Requests for url: https://awg.wd3.myworkdayjobs.com/wday/cxs/awg/Spa/jobs
@@ -2351,13 +2376,16 @@ workday | ccf | FAILED: 429 Client Error: Too Many Requests for url: https://ccf
 workday | cerence | FAILED: 429 Client Error: Too Many Requests for url: https://cerence.wd5.myworkdayjobs.com/wday/cxs/cerence/
 workday | chg | FAILED: 429 Client Error: Too Many Requests for url: https://chg.wd5.myworkdayjobs.com/wday/cxs/chg/US_Exter
 workday | cibc | FAILED: 429 Client Error: Too Many Requests for url: https://cibc.wd3.myworkdayjobs.com/wday/cxs/cibc/search
+workday | citi | FAILED: 429 Client Error: Too Many Requests for url: https://citi.wd5.myworkdayjobs.com/wday/cxs/citi/Citi_E
+workday | cloudrock | FAILED: 429 Client Error: Too Many Requests for url: https://cloudrock.wd103.myworkdayjobs.com/wday/cxs/clou
 workday | cognex | FAILED: 429 Client Error: Too Many Requests for url: https://cognex.wd1.myworkdayjobs.com/wday/cxs/cognex/Ex
+workday | compassion | FAILED: 429 Client Error: Too Many Requests for url: https://compassion.wd5.myworkdayjobs.com/wday/cxs/compa
 workday | cornell | FAILED: 429 Client Error: Too Many Requests for url: https://cornell.wd1.myworkdayjobs.com/wday/cxs/cornell/
-workday | cppib | FAILED: 429 Client Error: Too Many Requests for url: https://cppib.wd10.myworkdayjobs.com/wday/cxs/cppib/cpp
 workday | crownresorts | FAILED: 429 Client Error: Too Many Requests for url: https://crownresorts.wd3.myworkdayjobs.com/wday/cxs/cro
 workday | curtisswright | FAILED: 429 Client Error: Too Many Requests for url: https://curtisswright.wd1.myworkdayjobs.com/wday/cxs/cu
 workday | darktrace | FAILED: 429 Client Error: Too Many Requests for url: https://darktrace.wd3.myworkdayjobs.com/wday/cxs/darktr
 workday | db | FAILED: 429 Client Error: Too Many Requests for url: https://db.wd3.myworkdayjobs.com/wday/cxs/db/DWSWebsite
+workday | deckers | FAILED: 429 Client Error: Too Many Requests for url: https://deckers.wd5.myworkdayjobs.com/wday/cxs/deckers/
 workday | dover | FAILED: 429 Client Error: Too Many Requests for url: https://dover.wd103.myworkdayjobs.com/wday/cxs/dover/Do
 workday | duckcreek | FAILED: 429 Client Error: Too Many Requests for url: https://duckcreek.wd1.myworkdayjobs.com/wday/cxs/duckcr
 workday | electrolux | FAILED: 429 Client Error: Too Many Requests for url: https://electrolux.wd3.myworkdayjobs.com/wday/cxs/elect
@@ -2365,6 +2393,7 @@ workday | enbridge | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | epicorsoftware | FAILED: 429 Client Error: Too Many Requests for url: https://epicorsoftware.wd5.myworkdayjobs.com/wday/cxs/e
 workday | esab | FAILED: 429 Client Error: Too Many Requests for url: https://esab.wd5.myworkdayjobs.com/wday/cxs/esab/esabca
 workday | europcar | FAILED: 429 Client Error: Too Many Requests for url: https://europcar.wd103.myworkdayjobs.com/wday/cxs/europ
+workday | expedia | FAILED: 429 Client Error: Too Many Requests for url: https://expedia.wd108.myworkdayjobs.com/wday/cxs/expedi
 workday | fastretailing | FAILED: 429 Client Error: Too Many Requests for url: https://fastretailing.wd3.myworkdayjobs.com/wday/cxs/fa
 workday | fedex | FAILED: 429 Client Error: Too Many Requests for url: https://fedex.wd1.myworkdayjobs.com/wday/cxs/fedex/FXE-
 workday | fil | FAILED: 429 Client Error: Too Many Requests for url: https://fil.wd3.myworkdayjobs.com/wday/cxs/fil/fidelity
@@ -2402,7 +2431,9 @@ workday | lambweston | FAILED: 429 Client Error: Too Many Requests for url: http
 workday | lendlease | FAILED: 429 Client Error: Too Many Requests for url: https://lendlease.wd3.myworkdayjobs.com/wday/cxs/lendle
 workday | lindtspruengli | FAILED: 429 Client Error: Too Many Requests for url: https://lindtspruengli.wd103.myworkdayjobs.com/wday/cxs
 workday | lkqcorp | FAILED: 429 Client Error: Too Many Requests for url: https://lkqcorp.wd5.myworkdayjobs.com/wday/cxs/lkqcorp/
+workday | lplfinancial | FAILED: 429 Client Error: Too Many Requests for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lpl
 workday | maersk | FAILED: 429 Client Error: Too Many Requests for url: https://maersk.wd3.myworkdayjobs.com/wday/cxs/maersk/ma
+workday | marmon | FAILED: 429 Client Error: Too Many Requests for url: https://marmon.wd501.myworkdayjobs.com/wday/cxs/marmon/
 workday | materialise | FAILED: 429 Client Error: Too Many Requests for url: https://materialise.wd103.myworkdayjobs.com/wday/cxs/ma
 workday | mckesson | FAILED: 429 Client Error: Too Many Requests for url: https://mckesson.wd3.myworkdayjobs.com/wday/cxs/mckesso
 workday | medtronic | FAILED: 429 Client Error: Too Many Requests for url: https://medtronic.wd1.myworkdayjobs.com/wday/cxs/medtro
@@ -2434,6 +2465,7 @@ workday | rakuten | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | recoveryfocus | FAILED: 429 Client Error: Too Many Requests for url: https://recoveryfocus.wd3.myworkdayjobs.com/wday/cxs/re
 workday | relx | FAILED: 429 Client Error: Too Many Requests for url: https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/ReedEx
 workday | reputation | FAILED: 429 Client Error: Too Many Requests for url: https://reputation.wd1.myworkdayjobs.com/wday/cxs/reput
+workday | risepoint | FAILED: 429 Client Error: Too Many Requests for url: https://risepoint.wd503.myworkdayjobs.com/wday/cxs/rise
 workday | roberthalf | FAILED: 429 Client Error: Too Many Requests for url: https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/rober
 workday | rollsroyce | FAILED: 429 Client Error: Too Many Requests for url: https://rollsroyce.wd3.myworkdayjobs.com/wday/cxs/rolls
 workday | rrhs | FAILED: 429 Client Error: Too Many Requests for url: https://rrhs.wd5.myworkdayjobs.com/wday/cxs/rrhs/RRH/jo
@@ -2458,6 +2490,7 @@ workday | teamwass | FAILED: 429 Client Error: Too Many Requests for url: https:
 workday | terminix | FAILED: 429 Client Error: Too Many Requests for url: https://terminix.wd1.myworkdayjobs.com/wday/cxs/termini
 workday | thinkbrg | FAILED: 429 Client Error: Too Many Requests for url: https://thinkbrg.wd5.myworkdayjobs.com/wday/cxs/thinkbr
 workday | tmx | FAILED: 429 Client Error: Too Many Requests for url: https://tmx.wd3.myworkdayjobs.com/wday/cxs/tmx/Trayport
+workday | transamerica | FAILED: 429 Client Error: Too Many Requests for url: https://transamerica.wd5.myworkdayjobs.com/wday/cxs/tra
 workday | trinitylifesciences | FAILED: 429 Client Error: Too Many Requests for url: https://trinitylifesciences.wd108.myworkdayjobs.com/wda
 workday | turo | FAILED: 429 Client Error: Too Many Requests for url: https://turo.wd12.myworkdayjobs.com/wday/cxs/turo/Turo_
 workday | uhyus | FAILED: 429 Client Error: Too Many Requests for url: https://uhyus.wd12.myworkdayjobs.com/wday/cxs/uhyus/uhy
@@ -2468,39 +2501,39 @@ workday | vcuhealth | FAILED: 429 Client Error: Too Many Requests for url: https
 workday | vertexinc | FAILED: 429 Client Error: Too Many Requests for url: https://vertexinc.wd1.myworkdayjobs.com/wday/cxs/vertex
 workday | viatris | FAILED: 429 Client Error: Too Many Requests for url: https://viatris.wd5.myworkdayjobs.com/wday/cxs/viatris/
 workday | vsp | FAILED: 429 Client Error: Too Many Requests for url: https://vsp.wd1.myworkdayjobs.com/wday/cxs/vsp/VSPVisio
-workday | westpacnz | FAILED: 429 Client Error: Too Many Requests for url: https://westpacnz.wd105.myworkdayjobs.com/wday/cxs/west
+workday | wattswater | FAILED: 429 Client Error: Too Many Requests for url: https://wattswater.wd5.myworkdayjobs.com/wday/cxs/watts
 workday | wmeimg | FAILED: 429 Client Error: Too Many Requests for url: https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/pr
 workday | woundedwarriorproject | FAILED: 429 Client Error: Too Many Requests for url: https://woundedwarriorproject.wd5.myworkdayjobs.com/wda
 workday | wwecorp | FAILED: 429 Client Error: Too Many Requests for url: https://wwecorp.wd5.myworkdayjobs.com/wday/cxs/wwecorp/
 workday | youthvillages | FAILED: 429 Client Error: Too Many Requests for url: https://youthvillages.wd1.myworkdayjobs.com/wday/cxs/yo
 workday | zoll | FAILED: 429 Client Error: Too Many Requests for url: https://zoll.wd5.myworkdayjobs.com/wday/cxs/zoll/zollme
-ashby | 128 employers | 2932
+ashby | 128 employers | 2908
 bamboohr | 8 employers | 99
-breezy | 3 employers | 15
-greenhouse | 156 employers | 6403
-icims | 17 employers | 1616
-lever | 8 employers | 549
-oracle | 42 employers | 10578
-personio | 91 employers | 1110
-pinpoint | 6 employers | 256
+breezy | 3 employers | 11
+greenhouse | 156 employers | 6389
+icims | 17 employers | 1619
+lever | 8 employers | 559
+oracle | 42 employers | 10659
+personio | 91 employers | 1105
+pinpoint | 6 employers | 264
 recruitee | 33 employers | 519
-smartrecruiters | 40 employers | 5847
-successfactors | 22 employers | 11431
+smartrecruiters | 40 employers | 5865
+successfactors | 22 employers | 11459
 taleo | 7 employers | 356
-teamtailor | 20 employers | 548
-workable | 101 employers | 5087
-workday | 168 employers | 268
-locations | missing 5 | looked up 5 | found 3
-checks | descriptions opened 84 | {"dropped earlier": 53, "visa unclear (no mention)": 35, "visa ruled out": 1}
---- sites runner 1/4 (2.8 min)
-company sites | {"read": 103, "unchanged": 633, "failed": 14, "jobs": 11}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 2}
---- sites runner 2/4 (1.0 min)
-company sites | {"read": 112, "unchanged": 632, "failed": 6, "jobs": 6}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 2, "visa ruled out": 1}
---- sites runner 3/4 (1.3 min)
-company sites | {"read": 103, "unchanged": 640, "failed": 7, "jobs": 16}
+teamtailor | 20 employers | 553
+workable | 101 employers | 5094
+workday | 168 employers | 151
+locations | missing 3 | looked up 3 | found 2
+checks | descriptions opened 90 | {"dropped earlier": 56, "visa unclear (no mention)": 46}
+--- sites runner 1/4 (2.5 min)
+company sites | {"read": 119, "unchanged": 622, "failed": 9, "jobs": 3}
+checks | descriptions opened 0 | {}
+--- sites runner 2/4 (2.3 min)
+company sites | {"read": 115, "unchanged": 632, "failed": 3, "jobs": 8}
 checks | descriptions opened 0 | {"visa unclear (no mention)": 1}
---- sites runner 4/4 (3.1 min)
-company sites | {"read": 108, "unchanged": 625, "failed": 17, "jobs": 5}
-checks | descriptions opened 0 | {"dropped earlier": 1}
+--- sites runner 3/4 (2.1 min)
+company sites | {"read": 123, "unchanged": 621, "failed": 6, "jobs": 12}
+checks | descriptions opened 0 | {}
+--- sites runner 4/4 (2.3 min)
+company sites | {"read": 228, "unchanged": 493, "failed": 29, "jobs": 12}
+checks | descriptions opened 0 | {"nationals only": 1}
