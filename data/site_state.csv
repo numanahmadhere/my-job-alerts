@@ -1,7 +1,7 @@
 host,etag,last_modified,hash,last_checked,last_found,fails,zeros
 jobz.pk,,,80e849f844eb5900,2026-11-18,0,,5
 dubaicareers.ae,,,9f31e05f835af5da,2026-11-15,0,,8
-berlinstartupjobs.com,"""4d1fc33028070fa584fdb9321aeb56cc""","Wed, 18 Nov 2026 11:26:49 GMT",7b81eace921b0e4e,2026-11-18,0,,1
+berlinstartupjobs.com,"""cb1e3e7af8dfffde77e9517af382be19""","Fri, 20 Nov 2026 08:49:21 GMT",c68592a32c72bfc6,2026-11-20,0,,2
 jang.com.pk,,"Sun, 15 Nov 2026 19:32:39 GMT",e97e804452334bb3,2026-11-15,0,,7
 chiken-t.jp,,,4f0b6a91e8d701be,2026-11-03,0,1,
 chemnitz-zieht-an.de,,,ae282132ed53ea97,2026-11-03,166,,0
@@ -445,7 +445,7 @@ abaccos-steakhouse.de,,,c26e0124e2a4f48d,2026-11-02,0,,1
 32fit.de,,,578e5a8ad544d9bd,2026-11-03,0,,1
 3d-coatings.de,"""fc259172870dafad7165501b6c6eac10""","Wed, 07 Oct 2026 07:20:30 GMT",f6c95426bfd43551,2026-10-10,0,,
 1klick.nl,"""acd44079046da84008c7f6dfb9361d6e""","Thu, 01 Oct 2026 07:06:00 GMT",89005bfd0bb893f4,2026-11-03,0,1,
-jobs.ac.uk,"""0350af39dd1aedccf896d1fffbebc51f""","Thu, 19 Nov 2026 01:00:25 GMT",085ada0398502003,2026-11-19,2438,,0
+jobs.ac.uk,"""a09fe3b8153888a87f5271b09afeaabe""","Fri, 20 Nov 2026 01:00:25 GMT",eb90a525703fd46f,2026-11-20,2484,,0
 0kyo.jp,,,26e6475783e88128,2026-11-03,0,,1
 113.nl,,"Mon, 02 Nov 2026 11:43:15 GMT",83b4c32fe177d2fd,2026-11-02,0,,1
 123recruiters.nl,,,4b2487f4e374a097,2026-10-10,0,,
@@ -890,9 +890,9 @@ jobify.pk,"""90cc2a637ed49fb8686a6b7ee6c90b34""","Sun, 20 Sep 2026 06:47:55 GMT"
 sapac.com.sa,,,2f274d7f4c50b799,2026-10-10,0,,
 sitara.com.pk,"""a9552957e83771386c6dde7e33af2875""","Mon, 12 Oct 2026 04:35:30 GMT",cabe1cb1306e8887,2026-10-17,0,5,1
 staffconnect.ae,,,9c37c89f8353728c,2026-10-31,0,2,
-todayjobs.pk,"""79de9e9371b046f5c1203fa9add7f720-gzip""","Thu, 19 Nov 2026 21:58:57 GMT",5840391fa0f6a0cf,2026-11-08,0,,1
+todayjobs.pk,"""79de9e9371b046f5c1203fa9add7f720-gzip""","Fri, 20 Nov 2026 09:20:01 GMT",5840391fa0f6a0cf,2026-11-08,0,,1
 drk-herne.de,,,3a874a0195e3a70f,2026-10-10,0,,
-jobs92.pk,,"Thu, 19 Nov 2026 21:59:10 GMT",a857727d56378150,2026-11-19,0,,1
+jobs92.pk,,"Fri, 20 Nov 2026 08:44:04 GMT",97facccb21393b65,2026-11-20,0,,2
 kargal.ae,"W/""8a528eb0050197c583ba5b3d570992b4""","Sat, 14 Nov 2026 20:43:37 GMT",cedc4e5e6c9a72cf,2026-11-15,0,,3
 luckyone.com.pk,"""2bdbad45af609a7d90650b9efc92f44f""","Wed, 11 Nov 2026 12:13:50 GMT",0f0478c8f9d562bd,2026-11-15,0,3,3
 nbf.ae,,,d41c21912a16d05d,2026-11-15,0,,8
@@ -2218,7 +2218,7 @@ drk-mosbach.de,"""a5e314f0ed33a3fdc2690f458fefb849-gzip""",,68413e4d4da27ad0,202
 drk-rv.de,,,0d98d510077cbb63,2026-11-03,0,,1
 drk-stormarn.de,"""fae2436cb20ba12eee5c11810102c957-gzip""",,9c3bebda105175bb,2026-11-03,0,,1
 jobbox.com.pk,,,a776aa38a7948862,2026-10-10,0,,
-recruiter.com.pk,,"Thu, 19 Nov 2026 21:59:12 GMT",2ef0cd25028cd816,2026-11-19,11,,0
+recruiter.com.pk,,"Fri, 20 Nov 2026 09:20:13 GMT",8981b211474b6222,2026-11-20,11,,0
 shapewear.pk,,,9d42560b651a4647,2026-11-15,0,,8
 sksh.ae,"""e2821b3f8b06a361b6d3e490a4d90e19""","Tue, 10 Nov 2026 07:45:07 GMT",85277979086b6fe5,2026-11-10,0,,3
 tf.edu.pk,,,a85b96b5f0ae3941,2026-10-10,0,,
@@ -5666,7 +5666,7 @@ m-tt.jp,"""e63a126848f764324429e87ad665269b""","Thu, 10 Sep 2026 05:06:04 GMT",b
 ma-tsu-ya.jp,,,22b47bedd617f772,2026-10-12,0,,
 lund-sylt.de,"""8fe16d2db61f8e767752b7f9fed886a2-gzip""","Thu, 08 Oct 2026 08:39:12 GMT",1fef34c2bdd95847,2026-10-12,0,,
 ludwig-hausverwaltung.de,,,586e04113daf84ca,2026-10-12,0,,
-accenture.com,"""6aac6ebe00254a94ef28b41a2ab842d8""","Thu, 19 Nov 2026 06:00:52 GMT",96e48e00320da538,2026-11-19,14,,0
+accenture.com,"""cd2f9ce21814a6071062595c84d932f4""","Fri, 20 Nov 2026 06:00:52 GMT",f0f64d148cd05b6d,2026-11-20,14,,0
 deloitte.com,"W/""46fb1-66055bbe3e7de-gzip""","Sun, 15 Nov 2026 19:33:21 GMT",d8c544f7efdceaa2,2026-11-15,0,,6
 kpmg.com,"""2a782-66055684405b6-gzip""","Sun, 15 Nov 2026 19:09:58 GMT",b9b84a602802c800,2026-11-15,0,,8
 sabic.com,,,5a6ffb9e90df6436,2026-11-12,0,,3
@@ -5681,15 +5681,15 @@ eand.com,"""d56b-6605d69a475e9-gzip""","Mon, 16 Nov 2026 04:43:00 GMT",6fee85a28
 lulugroupinternational.com,,,c7a88ba53b649fe2,2026-11-15,0,,8
 dubaiholding.com,,"Wed, 18 Nov 2026 13:44:30 GMT",60c94efaaff22455,2026-11-09,0,,6
 careem.com,"W/""a5a2fb56dfb9c3590795979a14fb0dcd""","Tue, 03 Nov 2026 05:17:19 GMT",6ac2ab4e627534c8,2026-11-05,7,5,0
-mobily.com.sa,,,cd073e372a955339,2026-10-25,0,4,1
+mobily.com.sa,,,5647454b0a500adc,2026-11-20,0,,2
 pif.gov.sa,,,60ad22d3adf6c4e2,2026-11-15,0,,6
 leantech.me,"""4887akvqx34eib""",,26f81957597be9a4,2026-11-15,0,,8
-ooredoo.qa,,,56df2c985773d400,2026-11-12,0,,5
+ooredoo.qa,,,5cc37e80127af054,2026-11-20,0,,6
 qf.org.qa,"""0x8DF43174C7FC961""","Sun, 15 Nov 2026 12:52:25 GMT",84c222e148f1eaf9,2026-11-15,0,,8
-kfh.com,,,626a539935547a0d,2026-11-19,6,,0
+kfh.com,,,6ef6dba35d5fa088,2026-11-20,6,,0
 orange.jo,"""1794741623""","Sun, 15 Nov 2026 11:20:23 GMT",54365fcefe8c3a70,2026-11-15,0,,8
-drjobs.ae,,,fa0727e38904242b,2026-11-19,1141,,0
-newjobs.ae,,,2e958e3ca9051d6c,2026-11-19,9,,0
+drjobs.ae,,,bc1ade80960e97c1,2026-11-20,1941,,0
+newjobs.ae,,,ed583115103606db,2026-11-20,0,,1
 www.uaejobsdubai.ae,"""af551f7c9006782d49acc861028b00ba""","Tue, 12 Aug 2025 15:50:34 GMT",a76b7666487c46b5,2026-10-12,0,,1
 bitechme.ae,,,00432ee6e457de8a,2026-11-18,4,2,0
 careers.m42.ae,"W/""49d2-htjvo5e+/rVffEJfVvCp9Z2jUcw""",,86d8efa397befeb5,2026-11-19,32,,0
@@ -5697,7 +5697,7 @@ walkininterview.ae,"""3be8cfb7b8fb28a8834cf665ca5c47eb""","Tue, 17 Nov 2026 12:4
 careers.beam.co.ae,,,39bb860b2461803f,2026-11-15,0,,8
 careers.dubaiairports.ae,,,a8abe722ba970c29,2026-11-13,0,,3
 jobs.kinetic.ae,"W/""3a915fc9aa545342e628fb7d66ad729f""","Thu, 05 Nov 2026 14:29:58 GMT",a1dbb22565eb8a8d,2026-11-10,0,,6
-careers.astratech.ae,"W/""c44e35c2aed9d6960de95da959776c0c""",,b4a4d1e68028daac,2026-11-19,5,,0
+careers.astratech.ae,"W/""1250ce62d842665ce1c93616c47fd95f""",,06b7b86d0f43c7b1,2026-11-20,0,,1
 curtindubai.ac.ae,,,7f89c3ef73f16300,2026-11-08,1,,0
 www.statglobal.ae,,"Sun, 15 Nov 2026 19:34:11 GMT",67e01042c4bd80f9,2026-11-15,0,,8
 careers.pristinegroup.ae,,,da460dcf3bea8a54,2026-11-15,0,,8
@@ -5717,10 +5717,10 @@ isto.ae,,,6baa02da24e2082b,2026-11-15,0,,7
 careers.grantthornton.ae,,,0b3c8436c28535f9,2026-11-15,0,,8
 phillipcapitaldifc.ae,,,bae141a1deb6050f,2026-11-15,0,,8
 www.yeppley.ae,"W/""2df-9xzAJrRkjDcqBH/LG1JpgNPI9Cs""",,f71cc026b4648c37,2026-10-12,0,,1
-efalp.ae,,,5c6d5420cf7d03d1,2026-11-18,0,,2
+efalp.ae,,,5c6d5420cf7d03d1,2026-11-20,0,1,2
 www.spjain.ae,"W/""a8b9b95c120105197bc680335cad6ad1""","Thu, 12 Nov 2026 06:06:52 GMT",28d08aebd81e06eb,2026-11-15,0,,6
-eurotrs.ae,"""108-1795091629;br""",,9a36e9744a80ed6d,2026-10-24,1,,0
-lawhouse.ae,,,f8b3faf6a84d91ea,2026-11-03,0,1,1
+eurotrs.ae,"""247-1795166371;br""",,9a36e9744a80ed6d,2026-10-24,1,,0
+lawhouse.ae,,,4a4330d2108c5f3c,2026-11-20,0,,2
 www.dib.ae,""":dtagent10349261020121938A+AV:dtagent10349261020121938A+AV""",,7588270df34c69cf,2026-11-15,0,,8
 hamdangroup.ae,"""97-1795038191;br""",,341846df3dd9c353,2026-10-12,0,,1
 careers.etisalat.ae,"""13f04-6605e6f960f7a-gzip""","Mon, 16 Nov 2026 05:56:15 GMT",0706be3facacff3a,2026-11-16,0,,6
@@ -5778,7 +5778,7 @@ teamreactivate.ae,,,26c6c2c6c67f34fe,2026-10-12,0,,1
 www.healthtrip.ae,,,78fd5b874cbb1ce5,2026-11-15,0,,8
 omegainsurance.ae,,"Thu, 19 Nov 2026 00:28:59 GMT",76f35fb2e2209e30,2026-11-19,0,,6
 careers.mag.ae,,,d9d8f339a71d7b24,2026-11-15,0,,8
-www.bestpractice.ae,,"Thu, 19 Nov 2026 21:58:29 GMT",33ccc65a4f0c9d4d,2026-10-12,0,,1
+www.bestpractice.ae,,"Fri, 20 Nov 2026 09:19:22 GMT",33ccc65a4f0c9d4d,2026-10-12,0,,1
 shkhamdaninvestment.ae,"""8ba836119b75001980f8b4c68df1109a-gzip""","Wed, 11 Nov 2026 08:57:43 GMT",2e607857c590989d,2026-11-19,0,1,4
 taibaengineering.ae,"""9f0d68f64a98b1beabb87a1692ae33f7""","Wed, 30 Dec 2020 12:28:43 GMT",7b53834c0d0cb170,2026-10-12,0,,1
 adamallysdubai.ae,"""4867-40882fdd1d300""","Thu, 22 Dec 2005 13:36:44 GMT",2669000bb6f3cd25,2026-10-12,0,,1
@@ -5840,7 +5840,7 @@ synnect.ae,,,e8666512d2c9ff41,2026-10-12,0,,1
 www.ejot.ae,,,29886db78a2b40e9,2026-11-15,0,,8
 autofix.ae,,,02791ae90339dba0,2026-11-19,0,,5
 tbhf.ae,,,0b81e3da3680fc7c,2026-10-15,0,5,1
-freshnow.ae,"""8cf469484127aa261072ae8fc685345a""","Wed, 08 Oct 2025 07:33:26 GMT",e35a35f8b83d89a5,2026-11-19,0,2,1
+freshnow.ae,"""8cf469484127aa261072ae8fc685345a""","Wed, 08 Oct 2025 07:33:26 GMT",e35a35f8b83d89a5,2026-11-20,0,3,1
 adec.ae,,,c0090533fe5dd4bd,2026-11-15,0,1,6
 urbangrid.ae,"W/""2841-wIXBE+m2ILCWlE38VVqvdm0HfP0""",,c085c113e9b620b0,2026-11-17,0,,5
 www.axisinsurance.ae,,,7eb2767c850b84bc,2026-11-15,0,,7
@@ -5869,7 +5869,7 @@ rpm.ae,"""e617c62bc88e26fa0c08d74993b527ea""","Tue, 13 Oct 2026 09:07:51 GMT",37
 gkglobal.ae,"""5e806195495a603a8cb4cd54256ec6a2""","Thu, 03 Sep 2026 06:02:08 GMT",c528b6a28ea3f5df,2026-10-12,0,,1
 skdesigno.ae,"W/""182zqbn5shy1rvb""",,79b8ff57b1dcb493,2026-11-15,0,,8
 www.dubaiitservices.ae,"W/""152-IpxkIR1WX82r/Ip6nleOLi004vg""",,229c64211d565fcd,2026-10-12,0,,1
-www.rakproperties.ae,,"Thu, 19 Nov 2026 21:58:28 GMT",fdd7d6039114c6fe,2026-10-12,0,,1
+www.rakproperties.ae,,"Fri, 20 Nov 2026 09:19:26 GMT",fdd7d6039114c6fe,2026-10-12,0,,1
 www.ra.ac.ae,,,e63076eef5993be3,2026-11-15,0,,8
 alifnoon.ae,"""ef63edc83305601e22ec033172fa16ed""","Wed, 18 Nov 2026 11:09:09 GMT",459315c37e66ebe7,2026-11-18,0,,4
 www.mvagusta.ae,"W/""24dab670399673df23f59eb770d35e09""",,da624527a81f9657,2026-11-15,0,,8
@@ -5967,7 +5967,7 @@ arkis.edu.bh,,,5647665aa5f5e3db,2026-11-18,3,,0
 ucb.edu.bh,"""193e7f82db8ae6d07d89d964f0b3ca64-gzip""","Tue, 17 Nov 2026 08:27:28 GMT",04440eb456582a58,2026-11-17,0,,6
 omc.mc.edu.eg,,,aac0253dac8f2541,2026-11-18,12,,0
 www.orkin.com.eg,,,7e355055f062e422,2026-11-17,30,,0
-careers.beyti.eg,,,f17de3bce697a892,2026-11-19,4,,0
+careers.beyti.eg,,,299b44943bf9c971,2026-11-20,0,,1
 expertapps.com.eg,,,8138d5c3371ba499,2026-10-12,0,,1
 www.egic.com.eg,"""d460adaec2d3d2491822cab578a324be-gzip""","Tue, 13 Oct 2026 06:36:48 GMT",f03442c661310840,2026-11-18,0,,3
 www.geely.com.eg,"W/""9d22089a3308bb6f4c79d3bef6c92b0a""",,373b3ad1b4af8fef,2026-11-15,2,,0
@@ -6014,7 +6014,7 @@ nmb.com.jo,,,a44bca5049f4c10c,2026-11-15,0,,8
 ecoconsult.jo,,"Sat, 31 Oct 2026 07:39:10 GMT",833abbfc2f4f4fa8,2026-10-31,0,,3
 www.bdo.com.jo,,,71d39193e5df8c2b,2026-11-15,0,,4
 yw.com.jo,,,9ea808d338ce36f1,2026-11-15,0,,8
-www.shell.com.kw,,"Thu, 19 Nov 2026 21:59:11 GMT",ddef5f7b0409f253,2026-11-19,0,1,1
+www.shell.com.kw,,"Fri, 20 Nov 2026 09:20:03 GMT",ddef5f7b0409f253,2026-11-19,0,1,1
 www.bakertilly.com.kw,,,d10df5e2445cbe89,2026-11-15,0,,8
 www.openware.com.kw,,,2342bb7fdc404f24,2026-10-12,23,,0
 albabtaingroup.com.kw,"""c9ae57b9b6f0d8d7c3f573675d7c5879""","Thu, 24 Sep 2026 10:51:22 GMT",d766a4b85264114e,2026-11-03,0,5,1
@@ -6104,7 +6104,7 @@ ylinx.pk,,"Wed, 18 Nov 2026 12:21:06 GMT",959e3ef9207450be,2026-11-18,0,,2
 saddiquefatimafoundation.org.pk,,,beda0ad860a71cc5,2026-11-16,0,,8
 www.lges.edu.pk,,"Tue, 30 Jun 2026 12:31:12 GMT",e8bd95ee4fcdf82a,2026-10-12,0,,1
 www.hse.org.pk,,,5a72091a57e59662,2026-11-18,0,4,1
-dhanoteitpark.pk,"""a11cb1f9e15412d446a5d3f933ea2d75""","Mon, 16 Nov 2026 18:35:23 GMT",5cc06c64f25977b6,2026-11-11,0,,5
+dhanoteitpark.pk,"""2db5bd320db4e5838477a00cdbc023ad""","Fri, 20 Nov 2026 05:59:01 GMT",55ee32784b0050f8,2026-11-20,0,,6
 fps.edu.pk,"""bb8d82e7516c1fa528b3a4f90b537c95""","Sat, 14 Nov 2026 08:09:48 GMT",ece732995dd9730b,2026-11-14,0,,4
 pitaa.org.pk,"""5d9e7a10fff575cccaa7865d19a37e9a""","Wed, 09 Jul 2025 10:26:05 GMT",3465b4a6635482fd,2026-10-12,0,,1
 www.gfi.com.pk,"""ab9e32b1fa0f40558798b222e1afeca6""","Sun, 05 Aug 2018 10:41:27 GMT",b277f1d32d5a417d,2026-10-12,0,,1
@@ -6141,7 +6141,7 @@ rextech.pk,"""e2fe4c7a8451910f105109d2a1dee0ca""","Thu, 15 Oct 2026 10:44:37 GMT
 miniapp.healthwire.pk,,,7c8ea0585ece7bbc,2026-11-16,0,,8
 leverage.pk,"""816539e285ab1a9ce295abf094081221""","Tue, 16 Sep 2025 08:24:31 GMT",5a0b502e96619d43,2026-11-02,0,1,1
 puhcbf.edu.pk,"""8af3e7b654cb634e5d726b837ecb6559""","Tue, 17 Nov 2026 05:59:50 GMT",006d4350da97f9e9,2026-11-17,0,,2
-kparchaeology.gkp.pk,"""615c9828fcceb81e5a90ed5f84611225""","Tue, 15 Sep 2026 07:59:39 GMT",2629fc7d6b672bb8,2026-10-12,0,,1
+kparchaeology.gkp.pk,"""a8e8c367a7eea14ecb5cb83434667be5""","Fri, 20 Nov 2026 09:08:23 GMT",2629fc7d6b672bb8,2026-10-12,0,,1
 tajarat.com.pk,,,45eb0fbba2e7a8e7,2026-11-16,0,,5
 alghani.com.pk,,,64c09b0e9321eebf,2026-11-18,0,,3
 startools.pk,"""884-1794818630;br""",,18325233d1de0735,2026-11-16,0,,7
@@ -6168,7 +6168,7 @@ psp.org.pk,"""19aa1c03c6e7b886e91a382375345942""","Sun, 07 Nov 2021 16:42:10 GMT
 uhf.com.pk,,,1b14a5002697bb94,2026-11-19,0,,3
 enfoque.com.pk,"""efa0baf3bed686c28516cc9bc727e1e5-gzip""","Fri, 04 Sep 2026 11:40:40 GMT",7c0eb8d81b40acf1,2026-11-19,0,3,5
 www.sulata.com.pk,,,2c8ec71540ceee98,2026-11-16,0,,8
-szmc.edu.pk,"""8ebe5e63a5eb9c337616e9b7c59f5a10""","Thu, 19 Nov 2026 04:37:34 GMT",287d3aab78a6c9da,2026-10-21,0,1,1
+szmc.edu.pk,"""6c4738eeb49f5cd1009114ec4081f5eb""","Fri, 20 Nov 2026 07:34:41 GMT",287d3aab78a6c9da,2026-10-21,0,1,1
 peaksolutions.edu.pk,,"Sat, 07 Nov 2026 09:58:07 GMT",b9b6973581a833c0,2026-11-11,0,5,2
 www.bdocareers.com.pk,,,bc47ea33e31d37da,2026-11-16,0,5,3
 isl.com.pk,"""ad13ad115f709d6de3b589db70b98bdb""","Tue, 10 Nov 2026 11:30:43 GMT",f49d0faff4c3b6d3,2026-11-16,0,5,2
@@ -6197,7 +6197,7 @@ saifeehospital.com.pk,,,3c5c932708748ad7,2026-11-17,0,,3
 hairtransplantlahore.com.pk,"""da3e63aaa4c4516d5ac7e1f589f9ca11""","Tue, 08 Sep 2026 06:20:06 GMT",5494d3b29f7d285c,2026-10-12,0,,1
 careers.rlk.com.pk,,"Tue, 17 Nov 2026 07:48:43 GMT",e55b4296dbf1cc48,2026-11-17,0,,2
 gbrsp.org.pk,"""3f7a271ecfb6d485ac188823c97eb0a7""","Fri, 02 Oct 2026 05:17:37 GMT",9c718d8df62b169c,2026-10-12,0,,1
-www.ledgermax.pk,,"Thu, 19 Nov 2026 20:19:03 GMT",fbfa9a5bdf4b027e,2026-10-12,0,,1
+www.ledgermax.pk,,"Fri, 20 Nov 2026 09:19:29 GMT",fbfa9a5bdf4b027e,2026-10-12,0,,1
 sms.edu.pk,"""fc56f4d2f74b7a56318001971479ef08""","Mon, 02 Nov 2026 09:19:04 GMT",690860682ddcf466,2026-11-02,0,,3
 www.jobvisa.pk,,,9d4691b6040ab5c0,2026-11-16,0,,8
 shedev.pk,,,8855c4ef2646eb50,2026-11-16,0,,8
@@ -6207,7 +6207,7 @@ www.sapphiretextiles.com.pk,,,f00bd25dda56b9af,2026-11-16,0,,8
 kasmy.com.pk,"""24363f524d12f5473c4fcbbe2c454066""","Fri, 13 Nov 2026 06:29:11 GMT",8d2db90801679a1f,2026-11-16,0,,8
 childaidassociation.pk,"""0c507006c5acde8422373ceff45019e4-gzip""","Tue, 13 Oct 2026 11:39:34 GMT",38e557de95444fd9,2026-11-18,0,2,3
 islah.edu.pk,,,fff08aff0017d5c2,2026-10-21,0,,2
-nicl.com.pk,,,1a1d2b464f12e97a,2026-11-18,1,3,0
+nicl.com.pk,,,1a1d2b464f12e97a,2026-11-20,1,4,0
 aust.edu.pk,"""23d81511bfce0819d8853c4ae61d4708""","Wed, 18 Nov 2026 03:53:44 GMT",ff2f47fc748546a6,2026-11-18,0,,5
 hadielectronics.com.pk,,"Sat, 14 Nov 2026 16:23:57 GMT",45704789ec7c99aa,2026-11-14,0,,3
 landscape.com.pk,"""0f0cb6fc2c48fe42dd6cfd06c79d5615""","Sun, 06 Sep 2026 14:10:56 GMT",3d2837e5e2068cda,2026-10-12,0,,1
@@ -6223,12 +6223,12 @@ nip.com.pk,,,72d1b130a479197e,2026-11-08,2,5,0
 www.thecybersolution.pk,,"Thu, 29 Oct 2026 16:25:36 GMT",29a983bf5303087d,2026-10-29,0,,3
 oveel.pk,"""e9bf7e47e01aa05fcd5a88bb69bcbdd8""",,e861af866cc837dd,2026-10-12,0,,1
 careers.fmm.qa,,,093a0030799152a1,2026-11-15,0,,3
-careers.qatarenergylng.qa,,,948fa824f387edff,2026-11-19,0,,2
+careers.qatarenergylng.qa,,,ccbcf3364ce4ef1d,2026-11-20,0,,3
 www.almeera.com.qa,"""47390733""","Sun, 27 Sep 2026 06:14:16 GMT",d376c9abe7eb6169,2026-10-12,0,,1
 www.noc.qa,,,1b484d79603bf407,2026-11-16,0,,8
 www.hamad.qa,,"Mon, 16 Nov 2026 08:43:45 GMT",ba963726eeb9fad8,2026-11-16,0,,8
 adlqatar.qa,,,abebd3665dd3e87a,2026-11-19,0,,3
-my.inspire.qa,,,16eeb4dfd5334da3,2026-11-19,5,,0
+my.inspire.qa,,,1ff856549aea78dc,2026-11-20,5,,0
 www.bakertilly.qa,,,9b42279591ef911a,2026-11-16,0,,8
 www.akis.sch.qa,"W/""d0ee39bc441e0fbefa48c1c4ac08a50f""",,7081e5d4dd0cd428,2026-11-16,0,,8
 purplerose.qa,,,76fafe8c72a693a7,2026-11-18,0,1,1
@@ -6278,9 +6278,9 @@ careers.clsr.gov.sa,,,4904bc70c79d0586,2026-11-16,0,2,6
 albatin.sa,,,b490cd24a4a27f4d,2026-10-21,0,1,1
 ajel.sa,,"Mon, 16 Nov 2026 08:43:57 GMT",f5451511434d3b69,2026-11-16,0,,8
 goldenmeat.com.sa,,,5e6f8f5e8119c63b,2026-10-12,4,,0
-khubaraa.nasaq.modeem.org.sa,,,1149602df4091804,2026-11-19,4,,0
+khubaraa.nasaq.modeem.org.sa,,,c8f5bc8f0346bdca,2026-11-20,4,,0
 www.sbm.com.sa,"""1794812237-0""","Mon, 16 Nov 2026 06:57:17 GMT",17c0a40267bdf1f4,2026-11-16,0,,8
-www.allamaa.sa,,,68e3c4c9efd3f65f,2026-11-18,21,,0
+www.allamaa.sa,,,bd3dec95403b4e49,2026-11-20,21,,0
 taifcci.org.sa,,,73bd28006ad72c7c,2026-11-16,0,,8
 jobs.kfupm.edu.sa,,,a86cd8c2de6560ec,2026-10-12,0,,1
 electron.sa,,,147bd2fa82063fe9,2026-11-16,0,,8
@@ -6291,7 +6291,7 @@ cm.sa,,,e67361d451c5a1cf,2026-11-16,0,,8
 www.itqanpro.sa,,,7d192af174175365,2026-11-17,0,,7
 coe.com.sa,,,8db2a81ac5ebdb72,2026-11-15,0,,3
 run-x.sa,,,e1536178cdb236a1,2026-11-16,0,,8
-www.odex.sa,,,8c8fca1a7cfba341,2026-11-19,6,,0
+www.odex.sa,,,28382d0c0242b104,2026-11-20,6,,0
 www.eastgas.com.sa,,,cbcce76e073c7df3,2026-11-16,0,,8
 www.schindler.sa,"W/""2b55d-66093e85a0744-gzip""","Wed, 18 Nov 2026 21:43:54 GMT",64d078c664077c28,2026-11-18,0,,5
 www.albilad.com.sa,,,ea1a69e0cabd5bf7,2026-11-16,0,,8
@@ -6302,7 +6302,7 @@ www.hasib.com.sa,,,cd382f5e6c306123,2026-11-19,0,1,2
 darmamar.com.sa,"""a45c1036dc0a6562a408abdd6271a5fd""","Thu, 29 Oct 2026 06:08:32 GMT",96b32dc2bd269547,2026-11-03,0,2,2
 www.aertssen.sa,,,717061a284a35df7,2026-11-16,0,,8
 www.dah.edu.sa,,"Mon, 16 Nov 2026 08:35:38 GMT",6f00f04c560d9b17,2026-11-16,0,,8
-nca.gov.sa,"W/""29779-1a1f3273ef6""","Thu, 19 Nov 2026 09:33:17 GMT",1c2e2aa742e6c745,2026-11-19,0,,1
+nca.gov.sa,"W/""3eeaf-1a1f641fa37""","Fri, 20 Nov 2026 00:01:21 GMT",a94fd111ab1ab938,2026-11-20,2,,0
 csh.sa,"W/""54d0-4BVmdPcda/hCmbRgOri9Fw2kXzc""",,e0156674f71d6bf8,2026-11-12,0,,7
 ihcc.sa,,,b0a4581e1dd39c59,2026-11-16,0,,8
 career.aljazirabank.com.sa,,,935ffe2ff77021e2,2026-11-16,0,,8
@@ -6338,7 +6338,7 @@ kingdomschools.edu.sa,"""9d06906f080d9f87e5b3d0a6fe9ae0bb""","Wed, 04 Nov 2026 0
 recruit.silah.com.sa,,,166b320dbed7eaa1,2026-11-16,0,,8
 www.mbuzz.com.sa,,,e263a2861f47527c,2026-11-16,0,,8
 erp.palmate.sa,,,3d382628bf427c43,2026-10-31,3,5,0
-mgd.sa,"""36-1795080989;br""",,ae9487db47346f58,2026-10-12,0,,1
+mgd.sa,"""52-1795166373;br""",,ae9487db47346f58,2026-10-12,0,,1
 asasco.com.sa,,,38f8e213ceda4449,2026-11-16,0,,8
 rsb.alkamal.sa,,,18a0559d9e5b8ede,2026-11-16,0,,8
 www.bena-jazan.sa,,,cb3a21f4f214ba44,2026-11-16,0,,8
@@ -6348,7 +6348,7 @@ afkarconsult.sa,"""5b97c962210d4e7e025fe388bec6a219""","Mon, 04 Dec 2023 19:25:0
 www.giggles.com.sa,"W/""0e8fc8d611107c7181e8a47b09fdb924""",,bbe2862cdb5bc67b,2026-11-16,0,,8
 nap.com.sa,"W/""b2cacf20b2db63f80d3a6953427605b3""","Mon, 12 Oct 2026 22:08:12 GMT",7f6525f1f9f8ffe0,2026-10-12,0,,1
 concorde.com.sa,"""93280e5de88ccd2975770fa1a8d16f83""","Tue, 29 Sep 2026 08:08:45 GMT",0473946c7b5f593f,2026-10-27,0,5,1
-roadgulf.sa,"""6b417a8e44da2d044801db7a63753f12""","Tue, 25 Feb 2025 18:49:18 GMT",18501f4bb7d0e639,2026-11-03,0,3,1
+roadgulf.sa,"""6b417a8e44da2d044801db7a63753f12""","Tue, 25 Feb 2025 18:49:18 GMT",18501f4bb7d0e639,2026-11-20,0,4,1
 academy.sidf.gov.sa,49f78c80a40943599a2d210be26bc339,"Wed, 14 Oct 2026 09:10:24 GMT",26a7c6e7fc62392d,2026-11-08,0,5,2
 taaheel.com.sa,1fc3a5eb9f491c0c34c1fd94bb569498,,b0c1afbde34048a4,2026-10-12,0,,1
 mefic.com.sa,,,dc28e586649a3d0e,2026-11-16,0,,8
@@ -6427,7 +6427,7 @@ lucky-cement.com,,,29b92ec13c4803c3,2026-11-16,4,,0
 bankfab.com,,,e63a7ccacb9e4cd0,2026-11-15,0,,8
 emiratesgroupcareers.com,,,342a149d3ff2f220,2026-11-15,0,,8
 alghurair.com,,,8a65da0ed134ed9c,2026-11-15,0,,8
-dpworld.com,,,f2bc19ae28a08f50,2026-11-19,98,,0
+dpworld.com,,,5fbbc7a1d5c92e39,2026-11-20,107,,0
 talabat.com,,,0d80663cc73f0fbd,2026-11-15,0,,4
 sa.zain.com,"""ab22edfabb8552da33834d66e049100c""","Mon, 14 Apr 2025 11:03:30 GMT",4d5bad6baae6c595,2026-10-28,0,5,1
 redseaglobal.com,,"Mon, 12 Oct 2026 14:15:06 GMT",1267244bb712b18a,2026-10-15,0,5,1
@@ -6439,22 +6439,22 @@ kearney.com,,"Sat, 14 Nov 2026 18:57:01 GMT",1f21c5cdcbea55fa,2026-11-14,0,,3
 career.ud.ac.ae,,,73b7e67ed2366ff7,2026-11-15,0,,8
 www.dubaivacancy.ae,,,67a56448b5400395,2026-11-15,0,,7
 seller.ae,"""6adaf9ae9f75dd1:0""","Mon, 16 Nov 2026 07:54:18 GMT",2065f591f6623bb9,2026-11-16,41,,0
-www.agileconsultants.ae,"""6f83-660a6cbee1f8b-gzip""","Thu, 19 Nov 2026 20:16:02 GMT",56ed358e14ff93ba,2026-11-19,187,,0
-www.discovered.ae,"W/""c4454590f38fd7b0214d04b6406add14""",,28084fce2a4c2d1a,2026-11-17,1,,0
+www.agileconsultants.ae,"""6f83-660a6cbedd284-gzip""","Thu, 19 Nov 2026 20:16:02 GMT",56ed358e14ff93ba,2026-11-19,187,,0
+www.discovered.ae,"W/""41b1c938fb1194fb55e5fece90042c39""",,4c57db3e45160d39,2026-11-20,0,,1
 www.heilbronn.ae,,,948e2f5a9be22370,2026-11-19,2,,0
 careers.nationalambulance.ae,,,f7283d90f6d6517f,2026-11-15,0,,8
-careers.ega.ae,,,31830dc6225cec6e,2026-11-19,0,,2
-www.talentshark.ae,"W/""5711-SltPnvZWeINCxF0p6vkJVb+YMOc""",,4a5b4f9ef6567883,2026-11-19,18,,0
-careers.albacars.ae,"W/""12111362d1239b25e457b871f3dc9fa5""",,9d3318ae84e0a996,2026-11-16,3,,0
+careers.ega.ae,,,3dec6e16e99fba83,2026-11-20,0,,3
+www.talentshark.ae,"W/""5836-v0ag0P0G4TcWv5YZT/5N/ntwtw8""",,bf46a0d0fd06e137,2026-11-20,14,,0
+careers.albacars.ae,"W/""98158ba560c7bec54fca52a58a2b15d4""",,f759de724ca84c24,2026-11-20,2,,0
 careers.velora.ae,,,68736014682d064d,2026-11-18,0,,3
 careers.crescent.ae,,,64abb74f9481b3d7,2026-11-19,0,,5
 career.maan.gov.ae,,,b3f560b6380d8917,2026-11-15,0,,8
 careeremirates.ae,,,b71a460fddd8ea27,2026-11-15,0,,8
-careers.tii.ae,,,91e4e7ec657beef9,2026-11-19,2,,0
+careers.tii.ae,,,ada04d1da3411d26,2026-11-20,2,,0
 dhafirtech.ae,,,49fe87316aa13187,2026-11-15,0,,8
 stellartechnologies.ae,,,71ea3d865b74736e,2026-11-02,2,,0
 careers.sam.ae,,,abbb6aee0b4bcfa2,2026-11-15,0,,7
-www.myself.ae,,,120873c4d2f0c988,2026-11-19,34,,0
+www.myself.ae,,,495d15ab6b94d090,2026-11-20,38,,0
 nelcosoft.ae,,,f5a0cf2db6c6f465,2026-11-15,0,,8
 www.al-jawad.ae,,,a79f2cb188536555,2026-11-09,2,,0
 recruit.hct.ac.ae,,,0bdf3afa763855ca,2026-11-15,0,2,6
@@ -6466,7 +6466,7 @@ nexauto.ae,,,380fd5a7ffcdc3a5,2026-10-12,0,,1
 www.selected.ae,"W/""685-W+LR6OILt3IWhqYiZUD8g3A+GLQ""",,5be2d1e8e20bb772,2026-10-12,0,,1
 recruitment.fngcorporate.ae,,,4a670cddca77cbc7,2026-11-15,0,,8
 www.mcmaster.ae,,,5ff4f49b990451d2,2026-11-15,0,,8
-careers.yosh.ae,"W/""a676e50fbbdfc7efb5c71aa6d28e314d""",,72ce3f83fa6dbf77,2026-11-19,12,,0
+careers.yosh.ae,"W/""feaf3989e20c36ce46bc086488a7cacc""",,1c2eff2b1817a200,2026-11-20,11,,0
 www.novonordisk.ae,,,97d135f3520db700,2026-10-12,11,,0
 www.brandstory.ae,,,334aef542adc6e64,2026-11-15,0,,8
 regalrealestate.ae,,,9efc76e588da4303,2026-10-12,0,,1
@@ -6475,7 +6475,7 @@ jobs.gulfeducation.ae,"""2e01620624919008ad71856e1ff32420""",,4afa5b917c26f4eb,2
 www.nationalbonds.ae,,,267aee12ec743a5d,2026-11-04,0,5,1
 alsafadi.ae,,"Sun, 15 Nov 2026 18:55:37 GMT",5c81403e25d8b36c,2026-11-15,0,,8
 imkan.ae,,,3ba4eddc17276867,2026-11-15,0,,8
-www.dubaiequine.ae,"""8df27dd512dddf454e9bbdad0c751c38""","Thu, 25 Jun 2026 08:45:57 GMT",a70d34dd5403c944,2026-11-19,0,2,1
+www.dubaiequine.ae,"""05993fd3089dc1:0""","Mon, 19 Jan 2026 10:47:22 GMT",a70d34dd5403c944,2026-11-19,0,2,1
 katgroup.ae,,,7c03bfd37dc911f7,2026-11-15,0,,8
 craftinteractive.ae,,,6c738b15b98acfa4,2026-11-15,0,,8
 trimax.ae,,,b31fc99d8fa1ee4f,2026-11-04,0,5,1
@@ -6486,7 +6486,7 @@ alsharqhealthcare.ae,,,3159abbcded26436,2026-11-15,0,,8
 tripdo.ae,,,8503cc329b489612,2026-11-15,0,,8
 www.alwazan.ae,,"Tue, 19 Nov 2024 14:18:42 GMT",91a6631e5d7d440a,2026-10-21,0,4,1
 career.bmevents.ae,,,91a3392f7451182d,2026-10-12,0,,1
-www.studioaurora.ae,,"Thu, 19 Nov 2026 21:58:32 GMT",1518a988bad7212b,2026-10-12,6,,0
+www.studioaurora.ae,,"Fri, 20 Nov 2026 09:19:26 GMT",1518a988bad7212b,2026-10-12,6,,0
 www.aba.ae,,,65655fd8fc6dde7d,2026-11-15,0,,8
 abccargo.ae,,,cbd9bc05fe1f26e3,2026-11-18,0,,2
 exxeella.ae,,,a79ae87cafd9dcba,2026-11-19,0,4,1
@@ -6498,12 +6498,12 @@ edc.ae,"W/""177ac611b0da3649c61e44ba59e714ae""","Fri, 30 Oct 2026 08:00:07 GMT",
 careers.pinkcamel.ae,,,afc028568d0d8dcf,2026-11-15,0,,8
 appolonia.ae,,,1c69dd8e1bd2ec39,2026-10-29,0,,3
 www.isi.ae,"W/""f6854df2e4e7067723cdbf7c23bd6b9b""",,c785b9c447c17c29,2026-11-15,0,,8
-www.furry.ae,,"Thu, 19 Nov 2026 12:49:21 GMT",9bca482a4d5621fc,2026-11-18,3,,0
+www.furry.ae,,"Fri, 20 Nov 2026 09:20:09 GMT",9bca482a4d5621fc,2026-11-18,3,,0
 sparkleandshine.ae,"""1e310ff782688f034511dae74bde40c3""","Wed, 11 Nov 2026 12:25:39 GMT",3d039c924b525ef9,2026-10-29,0,,3
 www.gulfcement.ae,,,a00fa3e65164c538,2026-11-15,0,,8
 securepoint.ae,"""67f34f610532167963818a199dcc28b0""","Fri, 16 Aug 2024 18:08:42 GMT",d9292fbca9623631,2026-10-12,0,,1
 risservices.ae,,,05543e0a076ff84f,2026-11-18,0,,7
-alainforestry.ae,"""1-1795080994;br""",,ee09e55263e002b7,2026-11-02,0,2,1
+alainforestry.ae,"""2-1795166376;br""",,ee09e55263e002b7,2026-11-02,0,2,1
 www.nalan.ae,,,c17339d883536600,2026-11-15,0,,8
 www.teknoware.ae,"W/""40996a346c6ef4e44ba639a350b49178""",,5e6a0effb1ca103a,2026-11-15,0,,8
 sweepz.ae,,,,2026-10-14,,5,
@@ -6553,7 +6553,7 @@ www.thinkhuman.ae,"W/""baaa9ffe5132c69f2f4cfd842191fdec""","Mon, 12 Oct 2026 22:
 facerecognition.ae,"""2202ad0c14a1fdadc25d052c9abb34fa""","Wed, 12 Aug 2026 18:03:16 GMT",7ec708d2f549f402,2026-11-03,0,2,1
 www.idrotec.ae,,"Thu, 02 Jan 2020 17:19:07 GMT",4416949ea1fa4d79,2026-10-13,0,,3
 www.exploreeducation.ae,,,7039f82f5520d5ce,2026-11-15,0,,8
-www.spcfz.ae,"""8e7bfe40445b6a32c3bb3757436b85aa-gzip""","Wed, 18 Nov 2026 09:04:42 GMT",7a98cdd0af6691a1,2026-10-12,0,,1
+www.spcfz.ae,"""a5e0014fd79dd2ca20ae4d4a7743e293-gzip""","Fri, 20 Nov 2026 06:03:55 GMT",7a98cdd0af6691a1,2026-10-12,0,,1
 freshstartdubai.ae,"""29ed702ca35acf1cd88f85779771272b""","Wed, 17 Dec 2025 11:06:28 GMT",a97db7e16b04ffc5,2026-11-15,0,,7
 egybuild.ae,,,38993f16ae50cc7e,2026-11-15,0,,8
 zenerom.ae,,,2465191283361036,2026-11-15,0,,8
@@ -6636,7 +6636,7 @@ www.labax.ae,,,6640dafc09a6536e,2026-11-15,0,,8
 globalit.co.ae,"""0991eb3575cf0efc3fb71c2d67de242d-gzip""","Tue, 09 Sep 2025 12:39:53 GMT",a795f40d177a9e49,2026-11-18,0,,3
 www.reemmall.ae,,"Sun, 15 Nov 2026 17:40:49 GMT",6d8907bfca938eec,2026-11-15,0,,8
 svec.ae,,,a874cce866664660,2026-11-15,0,,8
-digimarketerz.ae,"""14eb88fc5961a510deb9d6d2f57e7727""","Sat, 17 Oct 2026 09:25:12 GMT",c114cfc1443149a4,2026-10-21,0,1,1
+digimarketerz.ae,"""d3cf29e9dfa657e24b4b48c913d4c98b""","Fri, 20 Nov 2026 07:02:13 GMT",c114cfc1443149a4,2026-10-21,0,1,1
 www.egi.ae,,,fa7fd6b889de0d9b,2026-10-12,0,,1
 www.valuemanage.ae,"W/""94ba3989238df4f762fe184d9149c24d""",,5a94fe03176eb9c2,2026-11-15,0,,8
 www.ezhire.ae,,"Mon, 02 Nov 2026 11:52:26 GMT",44c4b7ed959d2550,2026-11-09,0,,6
@@ -6697,7 +6697,7 @@ exaltrealestate.ae,,,8e3f8ba91cb341f0,2026-11-15,0,,8
 comexnational.ae,,,17cf8936aa0e9df5,2026-11-15,0,,8
 www.sproutmedia.ae,"""1dd4-65bcd031-b2313348d2ac739d;br""","Fri, 02 Feb 2024 11:21:21 GMT",30b26fe843533aed,2026-10-12,5,,0
 tankline.ae,,,8e42d0a9adee2844,2026-11-17,0,,6
-www.bso.ae,,"Thu, 19 Nov 2026 09:36:53 GMT",10d044a91e5bb011,2026-11-07,0,,5
+www.bso.ae,,"Fri, 20 Nov 2026 06:29:39 GMT",10d044a91e5bb011,2026-11-07,0,,5
 dsp.ae,,"Tue, 17 Nov 2026 09:51:14 GMT",6d00ad1966fa2820,2026-11-17,0,,4
 www.travelex.ae,"""a648bcce0c881cdfab5a8f7b5a778fac""","Tue, 07 Apr 2026 16:03:16 GMT",10cdb06d5e5389cf,2026-10-12,0,,1
 itc.ae,"""c28cf6f976482faffcbf8c0965ad8ad8-gzip""","Mon, 18 Mar 2024 07:56:11 GMT",200bd4156e8297f1,2026-10-13,0,,3
@@ -6713,7 +6713,7 @@ showaiter.bh,,,46862d89da93c81f,2026-11-18,0,,5
 www.bemco.com.bh,"""2a83c74ce1dcfad86d013543b9a4c5dd""","Wed, 26 Mar 2025 11:39:45 GMT",40127e000866a1c4,2026-11-13,0,2,3
 troof.bh,"""76340b834836d404f6900fc4b939dbea""","Sun, 15 Nov 2026 06:43:51 GMT",740aa64a59e604d5,2026-11-15,0,,7
 www.still.com.bh,"W/""6ae3530c-ae641""","Thu, 29 Oct 2026 14:07:08 GMT",0a8d345296befa5a,2026-11-16,0,3,3
-careers.almansour.com.eg,,,1d7f4aedb31b414d,2026-11-19,0,,2
+careers.almansour.com.eg,,,6ddf1c3ec9c4ec21,2026-11-20,0,,3
 careers.tmg.com.eg,,,65cc3743abf836d5,2026-11-15,0,1,7
 www.allianz.com.eg,,"Tue, 17 Nov 2026 22:02:48 GMT",cb1b2647609003d3,2026-11-17,0,,6
 careers.froneri.eg,,,d4659c387ae86c9a,2026-11-15,0,,8
@@ -6721,7 +6721,7 @@ tameer.com.eg,,,45e79e0880628931,2026-10-13,0,1,1
 superpark.com.eg,,,a9d5ea0e4aceab70,2026-11-18,0,,7
 www.gasc.gov.eg,,,bd0fa0bdc1c1935f,2026-11-15,0,4,4
 careers.grantthornton.eg,"W/""f0a147694821072f8fdbdf189a2c077b""",,d6e086483f6604ca,2026-11-17,1,,0
-www.emiratesnbd.com.eg,prod-294a52394d7841e5a643bc062fdbcfa7-ar-639306552964265732,"Thu, 19 Nov 2026 03:21:36 GMT",4a4204a04f45b740,2026-11-03,0,,6
+www.emiratesnbd.com.eg,prod-294a52394d7841e5a643bc062fdbcfa7-ar-639307631764917408,"Fri, 20 Nov 2026 09:19:36 GMT",4a4204a04f45b740,2026-11-03,0,,6
 www.aumining.com.eg,,,ec16175473fef980,2026-11-17,0,,6
 fld.eg,,,ab62d6cf293ee2a2,2026-11-15,0,,8
 sue.edu.eg,"""5a63499ab491a831daa25829524b4463""","Sat, 14 Nov 2026 04:46:53 GMT",45195aef194f8651,2026-11-15,0,,6
@@ -6768,7 +6768,7 @@ mustinvest.com.kw,,,ffb895df2966b2ec,2026-11-03,0,2,1
 www.krcs.org.kw,,"Sun, 15 Nov 2026 19:34:43 GMT",b8cb50bbaca90848,2026-11-15,0,,8
 careers.auk.edu.kw,,,99023db8a959f542,2026-11-15,0,,8
 www.fiveguys.com.kw,"W/""62619556a0d05f8bc2b86fa3b3c9fdde""","Tue, 03 Nov 2026 11:31:11 GMT",dfc474c238f7967e,2026-11-03,0,,4
-7d.com.kw,,,935a460346662963,2026-11-19,2,,0
+7d.com.kw,,,db91716e427de721,2026-11-20,2,,0
 kbe.com.kw,,,8a7b9f134d047e23,2026-10-12,0,,1
 royal.com.kw,,,f71310c00fcbbec5,2026-11-15,0,,8
 ilg.com.kw,,,fc1b1cf5857af3bb,2026-11-16,0,,8
@@ -6836,11 +6836,11 @@ airfalcon.com.pk,,"Fri, 13 Nov 2026 14:46:48 GMT",5f860ee617a5e133,2026-11-17,0,
 jullundur.com.pk,,,2b15b757c336054d,2026-11-06,0,,2
 www.apsacfortroad.edu.pk,,,4fdd8737e0ee5af5,2026-11-15,0,1,7
 iesco.com.pk,,,ee0d63d2f3cf6ed1,2026-11-15,0,,8
-skans.edu.pk,,"Mon, 02 Nov 2026 06:57:28 GMT",e548a111336220ab,2026-11-04,0,,5
+skans.edu.pk,,"Fri, 20 Nov 2026 06:32:50 GMT",ebfa6135145683d3,2026-11-20,0,,6
 nyccc.pk,,,6a1234d63037206b,2026-11-18,0,2,1
 profoundlogistics.com.pk,,,eba89972969ae7e4,2026-11-02,0,2,1
 www.pieas.edu.pk,,,437d165a748390a9,2026-10-12,0,,1
-viper.pk,"""5e253307992cf5da059799e1b7b95a0c""","Thu, 19 Nov 2026 08:59:54 GMT",022d56fd0be03461,2026-10-12,0,,1
+viper.pk,"""36519e5cb68a9c0749c09f098bfdc922""","Fri, 20 Nov 2026 05:54:50 GMT",35f701adea07c2a3,2026-11-20,1,,0
 nutech.edu.pk,,,e0a34ce59cd5816a,2026-11-15,0,1,7
 ht-alloywheels.pk,,,892d238fdcc3db36,2026-11-18,0,,3
 safedrive.pk,,,1ae4505c33f47e10,2026-11-15,0,,8
@@ -6858,7 +6858,7 @@ ppscc.pk,"""42b6a5451cb8d722d8f02ed50fd25629""","Mon, 17 Aug 2026 10:34:26 GMT",
 cctvwala.pk,"""4b2204a0e77ada630081adab2951e52f""","Tue, 29 Sep 2026 13:31:52 GMT",09e11a8b2ea634d6,2026-11-18,0,,3
 inara.pk,,,cac929ed2af55366,2026-11-16,0,,8
 ccps.umt.edu.pk,,,7cbfb8586ccc3391,2026-10-17,0,,2
-www.luawms.edu.pk,,"Thu, 19 Nov 2026 21:58:39 GMT",61ea94746d9c13d6,2026-10-27,0,1,3
+www.luawms.edu.pk,,"Fri, 20 Nov 2026 09:19:35 GMT",61ea94746d9c13d6,2026-10-27,0,1,3
 acx.com.pk,,,0976efd7fdeaa641,2026-11-18,0,,3
 www.sahe.org.pk,"""6e4a7370dc43ae51eccac71999bba27d""","Tue, 21 Jan 2025 07:09:54 GMT",ae68ab52bedb9c2b,2026-11-15,0,,6
 crew.com.pk,"""8f5514c78711f6fc50a34f0e83fc448b-gzip""","Thu, 20 Aug 2026 09:31:23 GMT",71e9c17b4ac21335,2026-11-18,0,,3
@@ -6884,7 +6884,7 @@ wit.lums.edu.pk,"""1794818630-gzip""","Mon, 16 Nov 2026 08:43:50 GMT",2c403bd672
 careers.helloworld.pk,"""f6fcc7d36c91da1:0""","Thu, 18 Apr 2024 08:45:55 GMT",705c78b1d7985ac3,2026-10-16,0,1,1
 tll.edu.pk,"""d04f60b30e74947b3c58d83eb13f8adc-gzip""","Wed, 23 Sep 2026 05:29:47 GMT",e037424fdfa46667,2026-11-18,0,5,2
 abcpk.org.pk,"""6fcb2685af8b884a8fd7f31dacf32322""","Tue, 27 Oct 2026 06:57:01 GMT",c15607c5ac7cf312,2026-11-15,0,,7
-amcconsultants.com.pk,,,30f460fd79a8da2a,2026-11-19,1,,0
+amcconsultants.com.pk,,,748d99a37f629e42,2026-11-20,1,,0
 itcompany.com.pk,,,e7fb630176abfdae,2026-11-18,0,,6
 cissajk.org.pk,,,58e0c0a2d312763b,2026-11-16,0,,8
 www.duet.edu.pk,,,dbcdb8caa5e840fb,2026-11-17,0,,3
@@ -6908,7 +6908,7 @@ pinecapital.com.pk,,,f84e21b6d307279f,2026-11-18,0,,8
 www.dinnerinthesky.pk,,"Tue, 27 Mar 2018 07:51:59 GMT",dd26f97017cd4b24,2026-11-15,0,,6
 www.transformingcommunitieswithtf.org.pk,"W/""18b28723756131a64aac9d46469f0b0d""",,a48ba218cdb6baea,2026-11-16,0,,8
 www.pmdc.edu.pk,,,fdfcb9b35bb47c13,2026-11-16,0,,8
-www.atlasfunds.com.pk,"W/""e2f3357934b33d07751a1cd1cf92445f""","Thu, 19 Nov 2026 07:09:27 GMT",b5e28b4374f166c1,2026-11-18,0,1,1
+www.atlasfunds.com.pk,"W/""66956dd802f54af9f7d45719a51046ba""","Fri, 20 Nov 2026 05:31:58 GMT",b5e28b4374f166c1,2026-11-18,0,1,1
 intermediate.fccollege.edu.pk,"""0be711b9ad1d576b574d1642526f3944""","Fri, 13 Nov 2026 13:38:55 GMT",f7762b0c8924e14a,2026-11-16,0,,6
 www.pakre.org.pk,,"Mon, 16 Nov 2026 08:43:50 GMT",75ab59e165147be5,2026-11-16,0,,8
 rcf.org.pk,,,14edeff095b56f50,2026-11-07,0,5,1
@@ -6971,11 +6971,11 @@ uot.edu.pk,,,cdd96e029482dd5d,2026-11-16,0,,8
 erp.dsu.edu.pk,,,401730b86c6fd3cc,2026-11-19,4,,0
 alilawassociates.com.pk,"""44bf47714efc2cca76d285ea08fef85b""","Sat, 21 Feb 2026 09:41:31 GMT",e2f4f87d8c360162,2026-11-08,0,5,1
 jobqatar.qa,,,82f9671354c6a4be,2026-11-18,0,,3
-www.shell.com.qa,,"Thu, 19 Nov 2026 21:59:01 GMT",f330743c526af1d3,2026-11-09,1,,0
+www.shell.com.qa,,"Fri, 20 Nov 2026 09:19:53 GMT",f330743c526af1d3,2026-11-09,1,,0
 jobs.ccq.edu.qa,,,20f4d9da19cb0dee,2026-11-16,0,,7
 talent.inspire.qa,,,bad4a2cb4777a692,2026-11-18,105,,0
 www.schindler.qa,"W/""1ddef-66093ed09ca16-gzip""","Wed, 18 Nov 2026 21:45:13 GMT",608e3a2dbe53a425,2026-11-18,0,,8
-careers.qafco.qa,,,81627cc170a0b1fe,2026-11-18,0,,2
+careers.qafco.qa,,,5adfe15f934d713f,2026-11-20,0,,3
 www.km.com.qa,"""1794818625:dtagent10339260603164134lovQ""","Mon, 16 Nov 2026 08:43:44 GMT",d53f504c62858781,2026-11-16,0,,8
 sekgames.qa,,,7a3cb76a5cb90048,2026-10-12,0,,1
 www.gulfexchange.com.qa,,,bdf92096eed5b0f4,2026-11-16,0,,8
@@ -7004,11 +7004,11 @@ www.academyx.qa,"W/""c74e97439a46ab1a0bb6d4ab5caf278a""",,69c43704c49feb89,2026-
 maksys.qa,,,8be13f42d7d583bf,2026-11-16,0,,8
 www.bhis-school.qa,"W/""2e5-6issd0hKNXlUD+IXiqHljXd9ncI""",,ea2b2c77484a3579,2026-10-12,0,,1
 www.oryxgtl.qa,"""341e0b70d5640074596f116e38022bf1""","Fri, 30 Oct 2026 00:29:52 GMT",2d1f354c918b77c7,2026-11-01,0,,4
-ihrms.inspire.qa,,,16eeb4dfd5334da3,2026-11-19,5,,0
+ihrms.inspire.qa,,,1ff856549aea78dc,2026-11-20,5,,0
 www.luxuryestates.qa,"W/""abd81a531e5faefb0b64e6b052e14fae""",,5736483a0b1b1bed,2026-11-12,0,,2
 www.profile.sa,,,78d0eefd1bb16219,2026-10-16,476,5,0
-ertiqa.sa,"""2e74-Tq52v5hufl1qK3aumuqRoMAUN0A""",,4eae76bf986e7e5d,2026-11-19,1,,0
-jobs.kss.sa,,,0ac061e55db2856b,2026-11-19,4994,,0
+ertiqa.sa,"""2e74-wCWXzFv3v4MRHxVNlojP/bMjpgE""",,c02597cc5bf7bf83,2026-11-20,0,,1
+jobs.kss.sa,,,923ca19dc97f2b2d,2026-11-20,4996,,0
 careers.rcjy.gov.sa,,,1236af88c793b896,2026-11-16,0,,8
 imamu.edu.sa,,,afce22232548433e,2026-11-16,0,,8
 careers.saib.com.sa,,,e6ba5b6c9533be2a,2026-11-16,0,,8
@@ -7060,7 +7060,7 @@ upm.edu.sa,"W/""1794481363""","Thu, 12 Nov 2026 11:02:43 GMT",c2cfb52eb7a418dc,2
 kahf.org.sa,,,42000d662606ff70,2026-11-10,0,3,1
 mit.mannai.sa,,,22576e35623f1e98,2026-11-16,0,,8
 darkstone.com.sa,,,8412a0b19fc7d6aa,2026-11-13,7,1,0
-www.al-mahroos.sa,,"Mon, 16 Nov 2026 23:12:44 GMT",cd91fc7151eaeeee,2026-10-12,0,,1
+www.al-mahroos.sa,,"Fri, 20 Nov 2026 09:19:26 GMT",cd91fc7151eaeeee,2026-10-12,0,,1
 madaproperties.sa,,,7df55a8348b6d67f,2026-11-16,0,,8
 ha.com.sa,,,554fa313bf34dbc3,2026-11-16,0,,8
 career.spark.sa,"W/""6acddf03-62a""","Tue, 13 Oct 2026 07:34:27 GMT",10ed8ae64476aea0,2026-10-13,0,,2
@@ -7073,7 +7073,7 @@ www.wedosolutions.sa,"W/""2257-h8OKuk7z5Sb1Q9HCmqq/bXB4jM4""",,87c38aba4ef3e526,
 www.sadr.com.sa,,,57e97956a3ac867d,2026-11-16,0,,8
 sapin.com.sa,,,6933b1c04e2cfee9,2026-11-03,0,,4
 ah-cpa.sa,,,3f8eb2ab7e6629e1,2026-11-16,0,,8
-fakrah.sa,,"Wed, 18 Nov 2026 14:43:47 GMT",cbe0d0ab726646ba,2026-10-29,0,,3
+fakrah.sa,,"Fri, 20 Nov 2026 02:45:29 GMT",a6e002fa7b1234d7,2026-11-20,0,,4
 www.rce.com.sa,"W/""1509affe623a5490e65016e7c402fe67""",,ea24e0841c559df9,2026-11-16,0,,8
 vibralab.kaust.edu.sa,,,464304338df8add8,2026-11-16,0,,8
 albadri.com.sa,"""0a403c49e8b95c383a4217532c74de17-gzip""",,645ec8fc9bad5328,2026-10-22,0,5,1
@@ -7107,7 +7107,7 @@ meis.sch.sa,,"Wed, 18 Nov 2026 21:08:03 GMT",4d449cd0c968f60d,2026-11-18,0,,4
 winner.com.sa,"""21cc6b754b53acab2ad371e8c7df7c00""","Sun, 01 Dec 2024 13:26:38 GMT",1df601ca795709b3,2026-10-12,0,,1
 garah.com.sa,,,fe3267045f1b6e70,2026-11-16,0,,8
 kpv.kaust.edu.sa,,,d2343ea1af2de2f3,2026-11-16,0,,8
-www.hino.com.sa,,"Wed, 18 Nov 2026 12:00:08 GMT",0fd7aa7ed29f8be6,2026-11-03,0,,3
+www.hino.com.sa,,"Fri, 20 Nov 2026 09:19:37 GMT",0fd7aa7ed29f8be6,2026-11-03,0,,3
 www.sna.sa,,,5bc20c69cefb5345,2026-11-16,0,,8
 www.uwc-logistics.com.sa,"""a78d3b71207b7c3b687c8ece15606e86""","Mon, 04 May 2026 06:59:53 GMT",4bc2cf3b0bf10acc,2026-10-24,0,2,1
 www.sidf.gov.sa,"""ut6pedbva42xt2""",,673a68313a229803,2026-11-16,0,,8
@@ -7118,7 +7118,7 @@ careers.saudidiesel.com.sa,,,3cda22a97eb83558,2026-11-16,0,,7
 arkanpro.com.sa,,,e3e44659c1482389,2026-11-16,0,,8
 high-tech.sa,,,4b15b9711fae132b,2026-10-12,0,,1
 agriculture.alsalman.com.sa,,,5e3be6daaf2a5d0b,2026-10-31,0,5,1
-csit.sa,"W/""We6zZszr3U""","Thu, 19 Nov 2026 20:38:46 GMT",c47d3cf5c82cf93c,2026-10-12,0,,1
+csit.sa,"W/""We6zZszr3U""","Fri, 20 Nov 2026 08:20:51 GMT",c47d3cf5c82cf93c,2026-10-12,0,,1
 ehatafinancial.com.sa,,,66408b3c0b45a8b7,2026-11-16,0,,8
 misco.sa,"W/""84921f8984a7e933ab6dc0071101bf01""","Tue, 22 Oct 2024 07:46:37 GMT",d738208ee2fc2ea7,2026-11-18,0,,3
 aaji.sa,,,2c8b95637e5395dd,2026-11-16,0,,8
@@ -7170,7 +7170,7 @@ contour-software.com,"W/""6302391c28164a379b7162aab1df9d48""","Thu, 15 Oct 2026 
 xgrid.co,"W/""61c958c35de66a0792eb36c9856735d9""","Wed, 18 Nov 2026 07:20:08 GMT",3577fb718d12ede7,2026-11-18,0,,1
 sadapay.pk,,"Mon, 16 Nov 2026 18:11:06 GMT",55f8194363b9040d,2026-11-16,0,,8
 zong.com.pk,,"Fri, 13 Nov 2026 13:33:11 GMT",3316b1f610113fc3,2026-11-15,0,,8
-abl.com,,,76dd340b050ecc38,2026-11-19,1,,0
+abl.com,,,11a9e4214521664d,2026-11-20,1,,0
 interloop-pk.com,,,dc66d943634dc270,2026-11-15,0,,8
 mashreq.com,,,7dd03ae922e25698,2026-11-15,0,,8
 flydubai.com,"W/""79bb7-cJUmFLulOT4oH0Rp9RMHHq6p6g4""",,70952614bba5393e,2026-11-15,0,,8
@@ -7184,14 +7184,14 @@ qatarenergy.qa,"W/""{B969ACBA-0236-4B3C-92E0-F61B5C7380AF},5""","Thu, 16 Mar 202
 ooredoo.om,,,153436b3c8f3bc24,2026-11-15,0,,8
 fawry.com,"W/""65ee46f5c7a5376fe59a1dacd9d76b2d""","Sun, 15 Nov 2026 07:00:31 GMT",677504b1fd0a7d32,2026-11-15,0,,3
 oliverwyman.com,,,4919ada9b969fcd2,2026-11-15,0,,8
-www.alliancerecruitmentagency.ae,,,cefd805aebca7e59,2026-11-19,1470,,0
+www.alliancerecruitmentagency.ae,,,21c1c21162a9db5f,2026-11-20,1509,,0
 jobs.dubaicareers.ae,,,d2ebebadcca63b3e,2026-11-15,0,,8
-jobs.adnoc.ae,,,5c8edaedb370d953,2026-11-19,39,,0
+jobs.adnoc.ae,,,9a937aab85a33691,2026-11-20,38,,0
 jobs.analyticsinsight.ae,"""35a12aada22a7450ad15c733257b2ee8""","Sun, 15 Nov 2026 15:30:37 GMT",0ae0570f63987099,2026-11-15,0,,8
 itcontractors.ae,"W/""634722f7-367d""","Wed, 12 Oct 2022 20:26:31 GMT",6544899716455868,2026-10-12,0,,1
 www.michaelpage.ae,"""1794486190""","Thu, 12 Nov 2026 12:23:10 GMT",a992ba11dbb1a4b6,2026-11-15,0,,8
 fasttracksolutions.ae,,,68d29de9ff083aa1,2026-11-18,0,,1
-careers.edgegroup.ae,,,a0068bb8bb962112,2026-11-19,2,,0
+careers.edgegroup.ae,,,3d05c681a5c046cd,2026-11-20,2,,0
 careers.dib.ae,,,b66c31dcd74b2a86,2026-11-15,0,,8
 veryimportantpersonnel.ae,,,012d92587815ae77,2026-11-15,0,,8
 www.imfluence.ae,"""e95ee80ddb7964216835938cf15fcadd""","Wed, 09 Sep 2026 17:20:21 GMT",9d5464938c726cf1,2026-10-12,43,,0
@@ -7202,17 +7202,17 @@ www.aau.ac.ae,,,1b6e97bba5deb74d,2026-11-15,0,,8
 www.jjmarine.ae,"W/""a2fc0174b6681c4d2d96d87b3881799b""","Fri, 30 Oct 2026 02:31:34 GMT",08fddbd0989349ea,2026-11-06,0,1,5
 www.sorbonne.ae,"""10102d-642e74243ac60-gzip""","Thu, 06 Nov 2025 06:34:36 GMT",9a8f55c2de8da094,2026-10-31,0,1,1
 tuholdings.ae,,,73f2f78e094ca9ec,2026-11-05,32,,0
-infinitepeople.ae,,,37d1a716df37e4b3,2026-11-19,9,,0
+infinitepeople.ae,,,15a6ad5a762cdb52,2026-11-20,10,,0
 leaddevelopment.ae,,,77c7662e97f25cbd,2026-11-05,0,,2
 careers.nbf.ae,,,daea6dcebda58571,2026-11-15,0,,3
 dary.ae,,,1a45cd415f581080,2026-11-15,0,,8
 capstoneinsurance.ae,,,9aaa7d025aaae7ba,2026-11-18,0,1,1
 amsproperties.ae,,,fae6ee2fbce9d265,2026-11-17,0,3,1
-www.acs.sch.ae,"""1795125551-gzip""","Thu, 19 Nov 2026 21:59:11 GMT",c2504a5d9152ec9a,2026-11-18,1,,0
+www.acs.sch.ae,"""1795166400-gzip""","Fri, 20 Nov 2026 09:20:00 GMT",c2504a5d9152ec9a,2026-11-18,1,,0
 honorinsurance.ae,,,3f23d12ea0e8ef2d,2026-11-01,0,5,1
 rattanhouse.ae,,,47a75fcd1c9b2a30,2026-11-18,0,1,1
 www.eau.ac.ae,,,8c27e636e86164e6,2026-11-15,0,,8
-tradoo.ae,"W/""1574e2d2c0d699c6a905b8b6b20d6806""",,cb478dc3a4bbe770,2026-11-19,6,,0
+tradoo.ae,"W/""f6e5ef8123e4b7bc1f8dec25d33e1d20""",,bd5be97c2a85fc3f,2026-11-20,6,,0
 careers.drsulaimanalhabib.ae,,,41b313a46d0f8970,2026-11-15,0,2,6
 adscc.ae,,,bfaa187425518072,2026-11-13,0,,3
 www.hctgroup.ae,,,fd314c8a2064ccd3,2026-11-10,21,,0
@@ -7245,10 +7245,10 @@ itware.ae,,,590a99d57c95f1ac,2026-11-11,1,,0
 alnoorpod.ae,"""2256cacb240395ec6608823ceb4656c5""","Mon, 09 Nov 2026 03:44:31 GMT",82ddc4a76bdd09ed,2026-11-03,0,,2
 opusrealestate.ae,,,b34657e7ae4a1461,2026-11-15,0,,8
 nigm.ae,,,960e7fc6dcea13bb,2026-10-15,0,5,2
-www.genex.ae,,"Thu, 19 Nov 2026 21:49:08 GMT",e20b6a15758d80db,2026-11-01,3,,0
-hr.rak.ae,"""5e47-6afe6628-86821a4b44667982;br""","Thu, 19 Nov 2026 02:59:52 GMT",73a0bfe676bb7717,2026-10-21,0,1,1
+www.genex.ae,,"Fri, 20 Nov 2026 08:21:08 GMT",e20b6a15758d80db,2026-11-01,3,,0
+hr.rak.ae,"""5e47-6affb637-637ee455265d55bf;br""","Fri, 20 Nov 2026 02:53:43 GMT",73a0bfe676bb7717,2026-10-21,0,1,1
 www.internationaluniform.ae,"W/""ecd6c263d53798804e330605b2423cc6""","Tue, 10 Nov 2026 20:43:43 GMT",5488e63475e1298e,2026-11-10,0,,1
-careers.wasl.ae,,,96dad48154794df9,2026-11-19,0,,2
+careers.wasl.ae,,,056a405e8960d5ad,2026-11-20,0,,3
 engineering.aau.ac.ae,,,019ea84011b3e1f4,2026-11-15,0,,8
 www.career.padraclinic.ae,,,ad9ae8faf7893a6e,2026-11-15,0,4,4
 www.drbatras.ae,,"Tue, 17 Nov 2026 11:43:02 GMT",4e563475f94e3695,2026-11-17,0,,6
@@ -7277,7 +7277,7 @@ miis.ae,,,45178a7de7d7040f,2026-11-15,0,,8
 www.ico.org.ae,,,6ee6e67c7c0ef1d9,2026-11-15,0,,8
 rescape.ae,"""7d1c6d0d62efb3cdd20c1b9e5e7925de""","Fri, 23 May 2025 13:30:58 GMT",d6d8261f0bd3db3d,2026-10-21,0,1,1
 www.trox.ae,"W/""3ca78a25e71d5ebab6e8edadf4f6dd81""",,45596b56643dcaa7,2026-11-15,0,,8
-www.apparentgroup.ae,,"Thu, 19 Nov 2026 13:17:53 GMT",44d16b501996efa6,2026-10-29,0,,2
+www.apparentgroup.ae,,"Fri, 20 Nov 2026 01:20:02 GMT",44d16b501996efa6,2026-10-29,0,,2
 brokerscity.ae,,,4b6102753e5b76a5,2026-11-15,0,,8
 www.bmtc.ae,"""c21fbdc19ac74f8a7ba7c884708d1052-gzip""","Wed, 21 Jan 2026 05:24:33 GMT",d4bad05f7c874de3,2026-11-19,0,,3
 profilegroup.ae,"""5fc52dc2fc69f8c0e4840996b0b4ab8b""","Mon, 16 Nov 2026 09:38:14 GMT",4764d19bfe50829e,2026-11-02,0,,6
@@ -7349,7 +7349,7 @@ aafaq.motad.ae,"""193d1da9d9cf0b06f74fab79039afff5""","Tue, 30 Jun 2026 09:15:50
 instaco.ae,,"Sun, 15 Nov 2026 14:37:38 GMT",af3fafa0aa89ed05,2026-11-15,0,,8
 nshama.ae,"W/""44a83be808376cf9239a8030ff41d6d7""","Mon, 16 Nov 2026 08:37:12 GMT",7dc7c2fc5a2b2c41,2026-11-16,0,,7
 viewcom.ae,,,b8393aaed149264c,2026-11-18,0,3,1
-www.akl.ae,"""148-1795083085;br""",,efe517a0697b499e,2026-11-03,0,1,1
+www.akl.ae,"""96-1795166375;br""",,efe517a0697b499e,2026-11-03,0,1,1
 www.luxaurahomes.ae,"""1a5f3e10e78a9ddf164e9eb8c4ba33e8""","Mon, 10 Aug 2026 13:23:41 GMT",22796e1af1198ae3,2026-10-12,0,,1
 federalexchange.ae,"""18705939465fc8302d76b8e1f3f026e7-gzip""","Fri, 30 Oct 2026 04:08:29 GMT",91a603de0ef9e3a5,2026-11-15,0,,5
 datamagicx.ae,,,f1baba27dfe083ce,2026-10-15,0,,2
@@ -7389,7 +7389,7 @@ aqualand.ae,"""e3639b628170b1dbe10d7e8229ed6550""","Fri, 07 Aug 2026 00:19:57 GM
 platform.ubest.ae,"W/""6af703d6-83c""","Fri, 13 Nov 2026 12:34:30 GMT",290fa7d988758373,2026-11-15,0,,8
 iecep.ae,,,c911a34ad6d9444e,2026-11-18,0,,4
 www.timbertek.ae,"W/""bacadd11eac10fed803355210507de70""",,797c5ee300471360,2026-11-15,0,,8
-www.creativecore.ae,,"Wed, 18 Nov 2026 17:04:33 GMT",9ac5ac5cb03b5264,2026-11-10,0,4,2
+www.creativecore.ae,,"Thu, 19 Nov 2026 23:30:57 GMT",e4556efb48fd680a,2026-11-20,0,,3
 oneworldrental.ae,,,b65cacebe6f06547,2026-11-15,0,,8
 www.chargeandgo.ae,,,903ed4985f816259,2026-10-12,0,,1
 www.ghaff.ae,,,a1fa1467a761bcc2,2026-11-15,0,,8
@@ -7412,10 +7412,10 @@ www.cellinfo.ae,,,390a4de841eaa5cd,2026-11-15,0,,8
 vas.ae,,"Sun, 15 Nov 2026 18:54:24 GMT",cfdee725c104853f,2026-11-15,0,,8
 takweenadvisory.ae,,,5777266f8dbe0e12,2026-11-15,0,,8
 uaeproleague.ae,,,cfbb0f728ea5cfc4,2026-11-15,0,,8
-alwasl.ac.ae,"""8470d4c575977c472e61ca0298638190""","Wed, 18 Nov 2026 07:19:56 GMT",4fbdede4d266fc40,2026-11-10,0,,5
+alwasl.ac.ae,"""daf27f6f634fda8c0c7755baa9afba25""","Fri, 20 Nov 2026 06:37:17 GMT",4fbdede4d266fc40,2026-11-10,0,,5
 dwight.ae,"""6121288f5f45a8f4ef1a9c61b1736205-gzip""","Sat, 14 Nov 2026 07:21:41 GMT",abfe4dd6f953eddd,2026-11-14,0,,7
 hexco.ae,,,b770ac490ad585b4,2026-11-17,0,,8
-hawkeye.ae,,"Tue, 17 Nov 2026 09:51:35 GMT",ef3e2768b30e0a61,2026-11-05,0,,2
+hawkeye.ae,,"Thu, 19 Nov 2026 08:01:24 GMT",ef3e2768b30e0a61,2026-11-05,0,,2
 knox.ae,,,bff055fa247887b9,2026-11-15,0,,8
 tripy.ae,,,a881b32a9d48e217,2026-11-15,0,,8
 paragon.co.ae,,,753e61d56007e91b,2026-11-15,0,,8
@@ -7495,7 +7495,7 @@ www.sta.edu.eg,,"Wed, 18 Nov 2026 21:44:12 GMT",19270a9f33333288,2026-11-17,0,,2
 icaa.com.eg,"""19fe9c54c3bc678614d4e7fe9b1cc52e""","Sat, 11 Apr 2026 13:09:40 GMT",4c4be27e1b31c184,2026-10-12,0,,1
 www.cbs.jo,,,bfac8918224f65c1,2026-11-15,0,,8
 careers.itqan-mp.jo,,,,2026-10-14,,5,
-www.mss.com.jo,,,b7b587966566a87a,2026-11-18,4,,0
+www.mss.com.jo,,,742600df0a45e617,2026-11-20,4,,0
 nicst.gov.jo,,,0064f7dda5b9f0c5,2026-10-25,0,5,1
 ipa.edu.jo,"""5106ba8f1da77aebf039e5090aeb7cda""","Thu, 19 Nov 2026 06:50:30 GMT",e4e0aa0b46b11703,2026-11-19,0,,5
 jobs.aum.edu.jo,,,39bb8ea3c050fb4e,2026-11-15,0,,8
@@ -7524,7 +7524,7 @@ kbs2.edu.kw,,,35dfcce03eb2a4d2,2026-11-18,0,,3
 www.bfc.com.kw,"""acbfe78ca20765b5a7b23b7e26cb3427-gzip""","Sun, 17 May 2026 10:17:57 GMT",723dd98501a1599a,2026-11-18,0,,3
 www.bbs.edu.kw,,,4f32da4b204a3278,2026-11-15,0,,6
 galfarkuwait.com.kw,,,7f3a2c253262d839,2026-10-12,0,,1
-www.shell.com.om,,"Thu, 19 Nov 2026 21:58:45 GMT",687b40562141c754,2026-10-23,0,,2
+www.shell.com.om,,"Fri, 20 Nov 2026 09:19:40 GMT",687b40562141c754,2026-10-23,0,,2
 www.foodjobs.om,,,e02a33b0fd42064f,2026-11-15,0,,6
 rihal.om,"""17748t70d2f2438""",,bf962f527ded2bd7,2026-10-30,0,5,2
 www.ajlo.om,,,71197f1678622ca2,2026-10-15,6,,0
@@ -7532,7 +7532,7 @@ omansail.om,,,42920235044862be,2026-11-15,0,,8
 careers.ooredoo.om,,,2b6a0e3583d8e209,2026-11-15,0,,6
 ol.om,"""5933b74b7593cf01676352fad3f1cac3""","Sun, 15 Nov 2026 09:02:32 GMT",14e65fc2b26a23a8,2026-11-15,0,,8
 www.almaha.com.om,,,f973cf5beafc7941,2026-11-09,0,3,1
-recruitment.ithca.om,"""6ad5ae46-ccb7""","Mon, 19 Oct 2026 05:44:38 GMT",178cbd2985e90316,2026-10-21,0,,2
+recruitment.ithca.om,"""6ad5ae46-ccb7""","Mon, 19 Oct 2026 05:44:38 GMT",178cbd2985e90316,2026-11-20,0,1,2
 techmicro.om,"""fe908303604f3d43e3f424c85e20d36e""","Tue, 20 Oct 2026 11:01:40 GMT",d4d0faf201b9b4c6,2026-10-21,0,1,1
 www.aster.om,,,1834c98a667064ef,2026-10-12,0,,1
 launchprojects.om,"""f98e436f7e69e012f40d1f279256135d""","Wed, 24 Dec 2025 04:53:20 GMT",ad638a3f845ecd24,2026-11-02,0,1,1
@@ -7718,7 +7718,7 @@ techbuzz.com.pk,"""00235d7074efd1ce9de3465be6653af8""","Sat, 14 Nov 2026 07:39:3
 namal.edu.pk,,,598d1a10f9d11ad0,2026-11-18,0,2,4
 www.getjobs.pk,,,e8051c244b6c9be6,2026-10-12,0,,1
 brotherstrading.com.pk,"""203704b231e2c8aa9d5d60cee0993b42""","Mon, 11 May 2026 11:06:37 GMT",c0129299e119c7f8,2026-11-06,0,5,1
-careerportal.qatarenergy.qa,"W/""be25-cOrF98YHtrBOj+JmGUm2LjTkqUs""",,70eac5f7c607b6b0,2026-11-19,32,,0
+careerportal.qatarenergy.qa,"W/""bd69-fDeJHY5hIz1dWUG5fKaf/DOahok""",,7c37891d8e61233d,2026-11-20,32,,0
 careers.thegroup.com.qa,,,e01db7cc949d139b,2026-11-16,0,,8
 qvsf.qa,,,0c86ef42c852afc1,2026-10-31,0,5,1
 www.qss.qa,,,,2026-10-14,,5,
@@ -7793,7 +7793,7 @@ www.gait.com.sa,,,cad38782722e8a74,2026-11-17,15,,0
 www.mawhiba.sa,,,b02cd3087b685e6e,2026-11-19,0,,6
 careers.almutawa.com.sa,,,ed62f4c5aa364357,2026-11-17,0,,5
 www.oilchem.sa,,,0c4af0ac7548c38b,2026-11-16,0,,7
-www.creation.sa,,,54831aa2b9a20df5,2026-11-01,0,,3
+www.creation.sa,,,ac4d0a5bd17a27d4,2026-11-20,0,,4
 www.mis.com.sa,"""66b3fc6e9fba2e4de76bc7fb0bc5da8b""","Thu, 29 Oct 2026 09:56:17 GMT",29775948df43c66b,2026-10-29,0,,2
 www.ha.com.sa,,,0284adda69edaca7,2026-11-16,0,,8
 zadip.sa,,,6252162c09de7d55,2026-11-16,0,,8
@@ -7805,9 +7805,9 @@ nabny.sa,,,f29d418babe51be3,2026-11-16,0,,8
 ee.kfupm.edu.sa,,,b253172f4519dc31,2026-10-12,0,,1
 samnan.com.sa,,,0b033085b35e2813,2026-11-16,0,,8
 inmanet.com.sa,,,2a41f4bfd3135918,2026-10-12,0,,1
-www.tazamun.com.sa,,"Thu, 19 Nov 2026 14:35:46 GMT",eb5a0c6d347c0a40,2026-10-12,16,,0
+www.tazamun.com.sa,,"Fri, 20 Nov 2026 09:19:35 GMT",eb5a0c6d347c0a40,2026-10-12,16,,0
 jipco.com.sa,,,,2026-10-14,,5,
-odex.sa,,,8c8fca1a7cfba341,2026-11-19,6,,0
+odex.sa,,,28382d0c0242b104,2026-11-20,6,,0
 smlc.sa,,,e0034fe891f3df57,2026-11-16,0,,8
 www.ac-ec.com.sa,"W/""2trilgtg8bpyj""",,c7befbdc7668bf9d,2026-11-15,0,,6
 bakery.brioche.sa,,,7d8826aafcfdc817,2026-11-16,0,2,6
@@ -7840,7 +7840,7 @@ cleanlife.sa,"""twz381qw382j75""",,6c6bd338d6e8417c,2026-11-16,0,,7
 fivemoon.com.sa,"W/""c73238bc433308d7f76b1e51be43cb9b""","Sun, 15 Nov 2026 12:45:25 GMT",06f10567c73e8b68,2026-10-28,0,,2
 masheed.sa,,,a60ba8d355da1961,2026-11-16,0,,8
 www.ggsc.sa,,,68946e526b0049c3,2026-11-16,0,,8
-www.bestpractice.sa,,"Thu, 19 Nov 2026 21:58:35 GMT",158ab796e017f038,2026-10-12,0,,1
+www.bestpractice.sa,,"Fri, 20 Nov 2026 09:19:31 GMT",158ab796e017f038,2026-10-12,0,,1
 clubpilates.sa,,"Sat, 11 Jul 2026 12:23:27 GMT",000f73ee2b36e015,2026-11-08,0,5,1
 www.tharwat.sa,,,dde1b31f4aead8f6,2026-10-12,0,,1
 shumua.edu.sa,,,0a2173e364bd95d6,2026-11-16,0,,8
@@ -7855,11 +7855,11 @@ sportsboulevard.sa,,"Sun, 15 Nov 2026 18:30:00 GMT",11b09f5e8ead010f,2026-11-15,
 envevo.sa,"""1e3d6b8b7d1e6a1b972068a497461dcf""","Thu, 07 Nov 2024 14:09:52 GMT",a794f15eda41e57d,2026-10-12,0,,1
 www.mim.sa,"W/""015acae81f80ed3364d883a49d00bdce""",,be9f7d47da2ec215,2026-11-16,0,,8
 kingdom.com.sa,,,ba3207788ea164fb,2026-11-16,0,,8
-www.braincell.sa,,"Thu, 19 Nov 2026 21:58:41 GMT",da8ae1e5646a6499,2026-10-12,0,,1
+www.braincell.sa,,"Fri, 20 Nov 2026 02:08:12 GMT",da8ae1e5646a6499,2026-10-12,0,,1
 kfca.sa,,,ccb0e4019c5ec6f9,2026-10-12,0,,1
 techlife.com.sa,,,588ddd0e837ddfba,2026-11-16,0,,8
 careers.alhussan.edu.sa,,,a0eb379b7ccd4af1,2026-11-16,0,,8
-rec.sa,,,5ff54b4ec1f3e3bf,2026-11-19,2,,0
+rec.sa,,,aa9a4893af62d0f5,2026-11-20,2,,0
 v2.alphafinance.com.sa,,,39adb077bced3fad,2026-11-16,0,,8
 orbitech.sa,,,abed2c90a6d84434,2026-11-16,0,,8
 www.gmco.com.sa,,,e76addd3615f87f7,2026-11-16,0,,6
@@ -7932,12 +7932,12 @@ qia.qa,,,3fee44d60adc2c72,2026-11-15,0,,8
 nbk.com,,"Tue, 17 Nov 2026 22:02:06 GMT",7560e05436a025be,2026-11-17,0,,8
 arabbank.com,"""0d2cd71d02fdd1:0""","Wed, 19 Aug 2026 11:47:00 GMT",8ac97930faeec80f,2026-11-02,2,1,0
 careers.facts.ae,,"Thu, 19 Nov 2026 08:31:51 GMT",54e3e5dd3911b8a8,2026-11-19,0,,4
-aijobsuae.ae,,,514d538e2a756881,2026-11-19,91,,0
+aijobsuae.ae,,,d3a0be71f46ce52c,2026-11-20,85,,0
 www.gooyadubai.ae,,,d7f3fde0861b54f1,2026-11-15,0,,8
-careers.alrostamanigroup.ae,,,5d16765072c6d061,2026-11-19,2,,0
+careers.alrostamanigroup.ae,,,6d1d8c0733c2259f,2026-11-20,3,,0
 www.beacon-legal.ae,,,9caf6532820c9527,2026-11-18,3,,0
 aau.ac.ae,,,9567c421e7c559d6,2026-11-15,0,,8
-www.shell.ae,,"Thu, 19 Nov 2026 21:59:13 GMT",f8c3d16eb904b950,2026-11-19,0,1,2
+www.shell.ae,,"Fri, 20 Nov 2026 09:20:02 GMT",f8c3d16eb904b950,2026-11-19,0,1,2
 carebridge.ae,,,2b354fb9375cd6b1,2026-11-13,2,,0
 careps.ae,"""2e38904ad31333416528b391c9b1229f""","Wed, 28 Oct 2026 10:08:11 GMT",aa509d41c3b02c34,2026-10-29,0,,4
 careers.dctabudhabi.ae,,,6d7350d02725291b,2026-11-15,0,,8
@@ -7958,7 +7958,7 @@ arabfalcondubai.ae,,,babbf79830471912,2026-11-15,0,,8
 www.itdtech.ae,,,71b0d76050034d84,2026-11-03,2,,0
 mcb.ae,,,a9a52682c0d28789,2026-11-17,0,,7
 infibiz.ae,,,d3a31f3572ed2fbb,2026-11-03,0,1,1
-www.x-space.ae,,,f3361006f54259ba,2026-11-19,2,,0
+www.x-space.ae,,,43d418e3fc1284ff,2026-11-20,2,,0
 careers.mbzuai.ac.ae,,"Sun, 15 Nov 2026 13:53:54 GMT",7654a43a7b438f27,2026-11-15,0,,8
 woodlembsha.ae,"""btq7423qnw5s1u""",,1b9754ddd6b420db,2026-10-25,0,,4
 dubai-translationservices.ae,"""a7e63651ffa4b1bd172d5d5cbb464c6b""","Tue, 25 Aug 2026 09:31:14 GMT",9d574f084be6a0ae,2026-10-20,0,4,1
@@ -7966,7 +7966,7 @@ addressguru.ae,"""12f4q5aqe7i1iua""",,48ddb7e0f612af95,2026-11-15,0,,8
 www.uto.ae,"W/""1a3-/blHizjH/fdL6Q0cCmvuTzY2l80""",,fdb9478b38c7fdf7,2026-10-12,0,,1
 californiamedia.ae,"""13ecee054fed5fb5d382a0dc731e81d1""","Sat, 29 Aug 2026 14:35:31 GMT",ee5f012230d5fddb,2026-11-13,0,2,1
 caphy.ae,,,cfb5f9e20a3d510c,2026-10-24,0,5,1
-hrconnex.ae,"""149-1795125506;br""",,9f8f920a27ceeafd,2026-10-12,10,,0
+hrconnex.ae,"""242-1795166362;br""",,9f8f920a27ceeafd,2026-10-12,10,,0
 www.bdo.ae,,,2c784bd51f6b489b,2026-11-19,3,,0
 www.avconjet.ae,,,4faab38e077283bc,2026-11-19,0,,1
 desertgate.ae,"""bdaa0e8346188d03c1c83c77db4d0ee6-gzip""","Tue, 03 Nov 2026 12:33:26 GMT",cbb24d65c9db6741,2026-11-02,0,,3
@@ -7997,11 +7997,11 @@ tester.ae,,,e7ca179134c89ccc,2026-11-17,0,,6
 aauf.ae,"""faf9b70d3c81b10c6e4737d9526f1116""","Thu, 13 Mar 2025 13:59:54 GMT",7924706af8e7f9a6,2026-10-31,0,,3
 www.brainmine.ae,,,1b151db36ccca6dd,2026-11-03,0,1,1
 www.tax.gov.ae,,,00db255f951e1ecb,2026-11-15,0,,6
-www.legalsense.ae,,"Thu, 19 Nov 2026 19:41:14 GMT",54de7a12caad3dab,2026-10-24,0,,3
+www.legalsense.ae,,"Fri, 20 Nov 2026 09:19:33 GMT",54de7a12caad3dab,2026-10-24,0,,3
 severitysecurity.ae,"""9d01a6adf246ca1b10a36e6bc5c7d8e6""","Wed, 26 Aug 2026 13:03:56 GMT",a491589ea274315b,2026-10-12,0,,1
 strinex.ae,,,9d45f4f3064fc527,2026-11-15,0,,8
 m42.ae,,,43af572f7b7f058a,2026-11-15,0,,7
-soulsensesspa.ae,"W/""e959d4469c8b865798e35da4660094cc""","Thu, 19 Nov 2026 12:16:42 GMT",328701486ce942bb,2026-10-12,0,,1
+soulsensesspa.ae,"W/""64ec4f26a23ca65640611482834c864e""","Fri, 20 Nov 2026 07:49:24 GMT",328701486ce942bb,2026-10-12,0,,1
 hdtc.ae,,,8cb7699de46af051,2026-11-15,0,,8
 cosmodentindia.ae,"""0ff0c036d96a33bc2d637135dacb8ce8""","Mon, 17 Nov 2025 07:45:04 GMT",6cbeca370115316f,2026-10-12,0,,1
 efcad.ae,,,5734c379be5da4d9,2026-11-15,0,,8
@@ -8204,12 +8204,12 @@ globalits.bh,,,1ca0c1f9f1d83960,2026-11-19,0,,2
 creativestyle.com.bh,,,ce26fad3aaf6b9dc,2026-11-15,0,,8
 dawajen.bh,"W/""1b7d-1a1db440718""","Sat, 14 Nov 2026 18:13:51 GMT",bb83b6c04fcad1f1,2026-11-15,0,,6
 www.amh.org.bh,,,0068eb6885323dbb,2026-11-09,0,,3
-www.bdo.bh,,,a30fc3ae44c0d490,2026-11-12,0,,3
+www.bdo.bh,,,b127a61ce5732a95,2026-11-20,0,,4
 www.ramsis.com.bh,"W/""ae696ce2a9a8f35a53320a35aedf03a9""",,3950e5d872ef9942,2026-11-15,0,,6
 career.arks.edu.bh,,,00d102b6bbef450c,2026-11-15,0,,8
 bjc.com.bh,"""5eb365aa6b81585d894550e8d53d5fc6""","Mon, 07 Sep 2026 12:55:31 GMT",3535d6256fc101d6,2026-11-15,0,,8
 careers.hap.com.eg,"W/""6ac5f9697df193ecb1ce94398bf6540f""",,56e138e51960d7c8,2026-11-18,1,,0
-enasr.de.com.eg,,,45af5466471a5c76,2026-11-19,20,,0
+enasr.de.com.eg,,,56c128d3927fe0f0,2026-11-20,20,,0
 www.nu.edu.eg,"""033c4c599d7a3a9fad97fb38b8c9c8db-gzip""","Mon, 16 Nov 2026 18:01:28 GMT",ee42e2fca4a65870,2026-11-16,0,,5
 eui.edu.eg,,,2542d3f830ecf5ac,2026-11-19,0,,2
 it.com.eg,,,2e2357a3d369b555,2026-11-15,0,,7
@@ -8226,7 +8226,7 @@ www.aaim.com.eg,,,91b79cf74859b65a,2026-11-06,0,,5
 lesaffre.eg,"W/""6ae735ea34e717077fdba733138068a6""","Thu, 04 Jun 2026 11:42:03 GMT",9b3d2c166f56079f,2026-10-12,0,,1
 www.shoman.com.eg,,,9db99436e53e9608,2026-11-15,0,,8
 egyserv.com.eg,,,2ea311bd454ec0bc,2026-11-15,0,,8
-de.com.eg,,,175244af9811dd63,2026-11-19,6,,0
+de.com.eg,,,3220bf370e5ac22d,2026-11-20,6,,0
 alforat.com.eg,,,39af09ff47552746,2026-10-29,1,4,0
 activa.com.eg,,"Wed, 21 Oct 2026 08:35:56 GMT",77a2d24b8bbff07b,2026-11-18,0,,3
 thebes.edu.eg,,,c7f433d2eca53731,2026-11-03,0,1,3
@@ -8258,7 +8258,7 @@ nchr.org.jo,,"Sun, 15 Nov 2026 01:00:13 GMT",eacb46955b3b7b05,2026-11-15,0,,8
 cpf.jo,,,861f83ed8d123668,2026-11-15,0,,8
 eservices.moe.edu.kw,,,bcabf45cae7dbc41,2026-11-15,0,,8
 epg.edu.kw,,,a5c459fc07866e41,2026-10-26,3,,0
-www.kghc.com.kw,,,7dd681e80d9ad563,2026-11-19,12,,0
+www.kghc.com.kw,,,a17295e8443cbf0c,2026-11-20,12,,0
 www.abs.edu.kw,,,21c3e19a3e5db9ac,2026-11-15,0,,8
 ifk.edu.kw,,,3541195c0a26ca31,2026-10-12,4,,0
 kcpc.com.kw,"""89e3ec313cf7b2e67e5adccf1d5d4fc7-gzip""","Thu, 12 Nov 2026 09:48:43 GMT",a08587ee0eeb2b45,2026-11-15,0,,8
@@ -8291,10 +8291,10 @@ mis.edu.om,,,6e275a8277f98b3b,2026-11-15,0,,8
 ompc.om,"""4f1fd73c53fbd26b5bbfa3a8f9e32a72""","Sun, 30 Aug 2026 12:23:35 GMT",862a34dfbcb955ff,2026-10-31,0,2,1
 yblaw.om,,"Wed, 07 May 2025 14:31:56 GMT",2907c6e5bd39bad6,2026-10-14,0,5,1
 muscatcollege.edu.om,,,efcbabcb28b5b1f7,2026-11-19,0,,6
-www.cmschemespunjab.pk,,,d9a2d134982d718e,2026-11-18,18,,0
+www.cmschemespunjab.pk,,,344fcbb2ddf26b9f,2026-11-20,19,,0
 www.ssgc.com.pk,,,5d54f794038047fd,2026-11-15,0,2,1
 www.nwgh.pk,,,8fe94cec44ece5b2,2026-10-31,2,5,0
-www.recruiter.com.pk,,"Thu, 19 Nov 2026 21:59:17 GMT",e45972677c94b4c0,2026-11-19,11,,0
+www.recruiter.com.pk,,"Fri, 20 Nov 2026 09:20:07 GMT",27d214c668a9e0cc,2026-11-20,11,,0
 www.duhs.edu.pk,"""740d36aae0a9303d916bf946eb08972e""","Sun, 15 Nov 2026 02:50:39 GMT",465ac9de04493731,2026-11-15,0,,8
 hbfc.com.pk,,,ae579df12406e58b,2026-11-14,0,4,1
 www.psdf.org.pk,,,b9e286c3102f630c,2026-10-17,0,5,1
@@ -8308,7 +8308,7 @@ careers.ideas.com.pk,,,97f84ab1488ee375,2026-11-15,0,,8
 www.ipass.com.pk,,,07388faeb5df7d7c,2026-11-12,5,,0
 mail.kicsit.edu.pk,,,c9dfd85b822b965e,2026-11-15,0,1,7
 hatimiengg.pk,,,e66099cdfc75f0ab,2026-10-23,0,1,1
-www.sastaticket.pk,,"Thu, 19 Nov 2026 21:58:55 GMT",59458e5713b50eff,2026-11-06,0,,3
+www.sastaticket.pk,,"Fri, 20 Nov 2026 09:19:50 GMT",59458e5713b50eff,2026-11-06,0,,3
 www.lgsinternational.edu.pk,"W/""3bf-tizBBkL5qVBDvZqU0h7dweVPufs""",,b62cc10642f9a950,2026-10-12,0,,1
 barkha.com.pk,"""2-1795080980;br""",,307c91bf5bcbd992,2026-10-12,0,,1
 piam.pk,,,7855591ee35d14e7,2026-10-23,0,5,1
@@ -8393,11 +8393,11 @@ saarf.com.pk,"W/""fa2404f1d06d68039172e51803de8541""","Wed, 27 Jul 2022 20:42:59
 channel7.com.pk,"W/""45e733532e1be8d2781f03a4de0bc686""",,75cff454a22112dd,2026-10-12,0,,1
 dentocorrect.pk,"W/""13fd553f7d23cbb354d12d40cee6f98c""","Wed, 18 Nov 2026 19:51:54 GMT",49257e91aa057527,2026-11-18,0,,4
 career.paf-iast.edu.pk,,,534d8a465e59ff91,2026-11-16,0,2,6
-panah.org.pk,"""00fb931ec85ec2fa996bbab9e8edf1ae""","Sun, 15 Nov 2026 13:14:44 GMT",99724341bc63c081,2026-10-12,0,,1
+panah.org.pk,"""e0d5c589d3615924b1510117e1b2ee17""","Fri, 20 Nov 2026 08:14:01 GMT",99724341bc63c081,2026-10-12,0,,1
 www.zil.com.pk,"""a382e9bee6a0b97b6f4c23f71aecb17c""","Thu, 29 Oct 2026 03:48:26 GMT",2b73bd2b89c03c30,2026-10-29,0,,3
 apsaa.com.pk,,,bebf19454a54b887,2026-11-16,0,,8
 legacypharma.com.pk,"""eysw87r2ho123j""",,a48455e23490fde9,2026-11-16,0,,8
-halan.com.pk,"W/""db0d38793eb629032f458a37a897ad34""","Fri, 13 Nov 2026 13:16:20 GMT",193c70dbbd196e0f,2026-10-12,0,,1
+halan.com.pk,"W/""a0b22ee96092965ba7a6f3122a03e056""","Fri, 20 Nov 2026 07:47:16 GMT",193c70dbbd196e0f,2026-10-12,0,,1
 idc.net.pk,,,c2a109bad4326bed,2026-11-18,0,1,4
 wum.edu.pk,"""2a0be5cec5f8330eaffc4357a8c5a0d8-gzip""","Wed, 18 Nov 2026 06:58:18 GMT",722a8115f3ab2268,2026-11-19,0,,3
 www.roofline.com.pk,"""61b5e74b9be3b3a69f87a9006b8de8a5""","Thu, 15 Oct 2026 02:07:43 GMT",24b516896223fc2b,2026-11-15,0,,6
@@ -8406,7 +8406,7 @@ pits.pk,"W/""6af9bde0-258f""","Sun, 15 Nov 2026 14:12:48 GMT",735be004be7e1fc5,2
 www.ksbl.edu.pk,,"Mon, 16 Nov 2026 22:01:15 GMT",48caa8e20528a5a6,2026-11-16,0,,8
 gamercave.pk,,,2af313051d5f6182,2026-11-16,0,,8
 chich.edu.pk,,,f09d0e54729b869b,2026-11-02,0,1,2
-prcmdc.edu.pk,"""0e64007527ae5288a26ac740fb88e542""","Wed, 18 Nov 2026 04:38:50 GMT",6ae5a714e3004821,2026-11-02,0,1,2
+prcmdc.edu.pk,"""69d1ff17dbb0bac291a9c2edc46347a7""","Fri, 20 Nov 2026 07:50:37 GMT",867395f6679bf16a,2026-11-20,0,,3
 seher.org.pk,"""5b220f78bee64ce9181eec2456b64502""","Mon, 16 Nov 2026 12:39:05 GMT",2f3c36d6d4d923ad,2026-11-16,0,,2
 powertech.pk,,,a407b677e24da28f,2026-11-18,0,,3
 rizviz.com.pk,,,a22c4b7d730b3ba4,2026-10-21,0,5,1
@@ -8493,7 +8493,7 @@ www.dohainstitute.edu.qa,,,227891b246f1e234,2026-11-16,0,,8
 educate.com.qa,,,e91a46ca1ae9682b,2026-11-16,0,,8
 www.nobleprog.qa,,,70c0eb6f08905cd0,2026-11-18,0,,8
 metaltek.qa,,,4d5cee28d01d59d7,2026-11-02,0,,6
-portal.inspire.qa,,,16eeb4dfd5334da3,2026-11-19,5,,0
+portal.inspire.qa,,,1ff856549aea78dc,2026-11-20,5,,0
 ufp.qa,,"Tue, 20 Oct 2026 17:30:04 GMT",da62f18b432ed97b,2026-10-20,0,,2
 oryxgtl.com.qa,"""341e0b70d5640074596f116e38022bf1""","Fri, 30 Oct 2026 00:29:52 GMT",2d1f354c918b77c7,2026-11-01,0,,4
 www.asd.sch.qa,"""1794983431""","Wed, 18 Nov 2026 06:30:31 GMT",970563e16d0d12f6,2026-11-18,0,,6
@@ -8501,7 +8501,7 @@ qnbn.qa,"""f88f68b0489fbb6dc0778d5d5e24acbb-gzip""","Mon, 16 Nov 2026 16:36:34 G
 centralinn.qa,,,d6f460a40a4a7845,2026-11-16,0,,8
 cherry.qa,"""2ec1aa17b45d131f754558f099373812""","Sat, 14 Nov 2026 22:58:05 GMT",0f3ae63aea699b44,2026-11-16,0,,8
 boecker.qa,"""b801ca65ec8e4662969b78f98c48d1b8""","Sat, 14 Nov 2026 10:02:12 GMT",3d9e25d41ee879ef,2026-11-14,0,,3
-nextstep.sa,,,d3e425f2b564fc42,2026-11-19,1392,,0
+nextstep.sa,,,f361b3a84cd37491,2026-11-20,1392,,0
 iss.is.com.sa,,,92be4e95bf821cd4,2026-11-19,309,,0
 erp.bold.com.sa,,,821a6ae59dd7232b,2026-10-12,144,,0
 careers.kkesh.med.sa,,,5d24f1d73a3f13d2,2026-11-16,0,,8
@@ -8534,12 +8534,12 @@ ma.sa,,,27f27e1e95e9fa88,2026-10-12,0,,1
 diplomat.com.sa,,,ead4a3dc9aa3cc54,2026-11-16,0,,8
 tie.sa,"""1d8657334c4f459dfc89523693633f5e""","Sat, 08 Nov 2025 13:37:15 GMT",e81f3dc3b88365aa,2026-11-02,0,5,1
 www.dietcenter.com.sa,,,26aa356d69628e05,2026-11-16,0,,8
-sesystems.com.sa,,"Thu, 19 Nov 2026 02:13:55 GMT",d9ccc5b8665c4059,2026-11-10,0,,4
+sesystems.com.sa,,"Fri, 20 Nov 2026 03:17:03 GMT",6cef5b5ebd0ce25b,2026-11-20,0,,5
 dmsventures.sa,"""e1f681b1d0a60536d74ec1748b8c31bd""","Sun, 28 Jun 2026 05:16:03 GMT",0eaaf5d6382f45c3,2026-11-08,0,,5
 alfaddalawyer.sa,"""c05517afa2ec342b31809fa7e73e694e""","Wed, 18 Nov 2026 20:38:39 GMT",809a34da4d16245c,2026-11-18,0,,5
 optimo.com.sa,"W/""63466759-772e""","Wed, 12 Oct 2022 07:06:01 GMT",50ec84009a0d4bcf,2026-10-12,0,,1
 sidco.com.sa,,,1b45fc1180c26e49,2026-11-17,0,,4
-amsaproperty.sa,"""156-1795080982;br""",,daa45945702c4ada,2026-10-12,0,,1
+amsaproperty.sa,"""83-1795142750;br""",,daa45945702c4ada,2026-10-12,0,,1
 5ewrgfet.amgen.sa,,,d7c1454e8a483153,2026-11-16,0,,8
 cafs.org.sa,,,760e6d3cbcf4f38e,2026-11-02,0,,4
 avantclinic.sa,,,5542b4c7aabefbf1,2026-11-18,0,,8
@@ -8558,7 +8558,7 @@ afaqa.sa,,,1e4e9f94b9fb60a4,2026-10-21,0,1,1
 endocrine.org.sa,"""095820fc1ba37cde3dce2a5602bcb147""",,2f43c68093402fb5,2026-11-19,0,2,1
 www.loins.edu.sa,,,fb7258bde055de08,2026-11-17,0,,5
 sal.sa,,,8d943eedc6c79fcb,2026-11-16,0,,8
-careers.mobily.com.sa,,,cd073e372a955339,2026-10-25,0,4,1
+careers.mobily.com.sa,,,5647454b0a500adc,2026-11-20,0,,2
 tps.edu.sa,,,0f74829ccb10ca96,2026-11-19,0,,4
 zaan.sa,,,6ed6cf40a07c7536,2026-11-16,0,,8
 www.almanahilcenter.com.sa,,,79e9049ffc3f5e2b,2026-11-16,0,,8
@@ -8601,7 +8601,7 @@ doo.sa,"""031ae382272009dd12fd3d1eb3003f72""","Fri, 16 Oct 2026 20:15:43 GMT",28
 dtv.sa,"""685b7c7f80a6dfec8b94df2183d18252b35b0c4146382da3dacdf7e90b054715-br""","Sun, 08 Nov 2026 10:52:33 GMT",b02a8f3a808501a5,2026-11-08,0,,3
 rcsp.ncm.gov.sa,"""1a5f2ca4b1b5f55e804dcf01d265c3e3""","Sat, 23 May 2026 05:52:31 GMT",07d37b25d1e1f1d6,2026-10-26,0,5,1
 keep.kaust.edu.sa,,,b4f9c36b6784f44a,2026-11-16,0,,8
-creation.sa,,,d3db75ca953bc143,2026-11-01,0,,3
+creation.sa,,,68fd5eb616aa504e,2026-11-20,0,,4
 thelandscape.sa,"W/""64d07e77215f6a743e39bb5c0d2b51f5""","Mon, 28 Sep 2026 10:31:24 GMT",a11d8691df50ecdf,2026-10-12,0,,1
 ar.hrc.sa,"""18fc8a47a2187a0a62949983dc28d250""","Wed, 12 Nov 2025 19:52:00 GMT",5760c167fdb7104e,2026-10-12,0,,1
 aleradah.org.sa,,,d2200ca6126689ef,2026-11-16,0,,8
@@ -57703,7 +57703,7 @@ myhomeheroes.co.uk,,,864ab99f7fbd776d,2026-11-02,0,,1
 career.dbfinancial.ae,,,a1f6d27e2bb0c58c,2026-11-18,0,,5
 careers.sanad.ae,,,8af76cbfa6e01489,2026-11-18,0,,5
 brightfutureschool.ae,,,80dbfe7c2bcf63cd,2026-11-04,0,,1
-aihealthservices.ae,,,6a996247b97a7997,2026-11-19,6,,0
+aihealthservices.ae,,,8613aa4077f37ae9,2026-11-20,6,,0
 maccany.ae,,,54741a61f895da43,2026-11-04,0,,1
 abzi.ae,,,3eda74e92c4d4310,2026-11-19,0,,1
 www.123dubai.ae,"W/""35fd4fdc417ea1cf929a966df00a9fa7""",,1a4ed7b984251cbe,2026-11-17,0,,5
@@ -57819,9 +57819,9 @@ www.cinq.ae,,"Fri, 29 Nov 2024 11:11:52 GMT",3a709dc713009a6b,2026-11-15,0,1,1
 www.excellencecode.ae,,,f50d736b3e7fa470,2026-11-04,0,,1
 almubashir.ae,"""7501dcc6acfb06dcf363f5453277ffc9""","Fri, 18 Jul 2025 11:24:17 GMT",139a15164ca63d11,2026-11-04,0,,1
 www.360properties.ae,"""351a7b07fad839a216db97fd52ec0dec""","Mon, 01 Jun 2026 11:53:22 GMT",bd7e20f349f3f918,2026-11-04,0,,1
-rme-me.ae,,"Thu, 19 Nov 2026 21:58:46 GMT",502388baf711dd40,2026-11-04,0,,1
+rme-me.ae,,"Fri, 20 Nov 2026 09:19:43 GMT",502388baf711dd40,2026-11-04,0,,1
 srh.ae,"""71854504e09c80c383df2cedbaa9b749""","Thu, 05 Nov 2026 10:13:57 GMT",6de5ea58b0a3bede,2026-11-05,0,,2
-tsa.ae,,"Thu, 19 Nov 2026 08:36:55 GMT",ec8b42b64c943eb8,2026-11-19,0,,2
+tsa.ae,,"Fri, 20 Nov 2026 08:44:08 GMT",ec8b42b64c943eb8,2026-11-19,0,,2
 boldmedia.ae,"""a5943725c379a36cb8db603a1a403f3b""","Sun, 08 Jun 2025 11:25:20 GMT",0341eeb84604d64c,2026-11-04,1,,0
 hallerbos.ae,"""0acc4cd06230142d08aef73505b97d9f""","Wed, 25 Feb 2026 07:31:24 GMT",9e924bee76651a6c,2026-11-04,0,,1
 safetravel.ae,"""570e749b334882d98ac3a4bed420979f""","Tue, 08 Jul 2025 10:50:30 GMT",64b1b7031bbb80db,2026-11-04,0,,1
@@ -57834,7 +57834,7 @@ complyport.ae,,,2bb39be5b29c2b10,2026-11-18,0,,3
 uuds.ae,,,f72b50ff39d11544,2026-11-04,0,,1
 www.stcourier.ae,"W/""16s2h9apmgh235a""",,57d2bfd53e2b6164,2026-11-17,0,2,3
 5sts.ae,"""fe71af1c6e2c208187dd26fc186531ed""","Thu, 29 Oct 2026 13:16:09 GMT",0ee09727a8e629b8,2026-11-04,0,,1
-yu-taekwondo.ae,,"Thu, 19 Nov 2026 21:59:09 GMT",0830f0f552f65c3b,2026-11-17,0,,2
+yu-taekwondo.ae,,"Fri, 20 Nov 2026 09:20:00 GMT",0830f0f552f65c3b,2026-11-17,0,,2
 futuretechnology.ae,"""0b7ced018201ff314cc300f2c6d23b05-gzip""","Sat, 03 Sep 2022 11:41:55 GMT",410842bd1a9bb3fd,2026-11-04,0,,1
 ceraflex.ae,"""3d2683d58e3f3d9c1e735dfdb72d6986""","Tue, 17 Nov 2026 22:02:51 GMT",c5d322ea016df8b8,2026-11-17,0,,5
 www.multiboxplastic.ae,"""5af2ad83bd5904ab5f9f20aef098d1ef""","Tue, 27 Oct 2026 07:14:49 GMT",419ffac3f3375654,2026-11-04,0,,1
@@ -57857,7 +57857,7 @@ adnocls.ae,,,885d08670821a6d3,2026-11-18,0,,5
 bekdorfhealth.ae,"""08f279cc24f0a07e3ba726575bfdfb60""","Tue, 11 Aug 2026 11:49:42 GMT",d8697f0b2098b375,2026-11-04,0,,1
 med-care.ae,,"Fri, 08 Mar 2024 03:54:46 GMT",e861c38e6d51a29c,2026-11-04,0,,1
 nishatgroup.ae,"""28c2c341f6db8a3d98ba08f44a0246ed-gzip""","Thu, 27 Nov 2025 14:59:32 GMT",1c2756068b3bc90e,2026-11-04,0,,1
-www.dsqrealestate.ae,,,493670128bba7cf7,2026-11-19,2,,0
+www.dsqrealestate.ae,,,d210ab66424314c4,2026-11-20,2,,0
 albarr.ae,,,fd203725ae88f524,2026-11-17,0,,5
 prosports.ae,"""56bbe35671ee9ed4d16724e24e993a55""","Thu, 19 Nov 2026 18:44:36 GMT",ef1b5fa9cb8fbd55,2026-11-19,0,,3
 www.clout.ae,,,da39a3ee5e6b4b0d,2026-11-04,0,,1
@@ -57871,13 +57871,13 @@ tornado.ae,,,b24c2a89599d3389,2026-11-04,0,,1
 timeelectro.ae,,,7a32963da52a8c9c,2026-11-17,0,,5
 dynamiclogics.ae,"""4c07785444a2fdd97d813f8c7f854af9""","Mon, 10 Aug 2026 10:31:09 GMT",b1088fa767c52cea,2026-11-18,0,,3
 investordeals.ae,,,c29045b271994b38,2026-11-17,0,,5
-mydesert.ae,,,e14a61de4b25828f,2026-11-19,0,1,1
+mydesert.ae,,,e14a61de4b25828f,2026-11-20,0,2,1
 www.proto21.ae,,"Tue, 17 Nov 2026 06:55:22 GMT",72a0a707879dbcf1,2026-11-17,0,,3
 laviniaproperties.ae,,"Thu, 19 Nov 2026 12:08:47 GMT",98da9740e918d9db,2026-11-19,0,,5
 walee.ae,"""29593150fd2688a0884b80fa2c21a0ad-gzip""","Tue, 21 Jan 2025 09:27:58 GMT",d72989090cef0813,2026-11-18,0,,2
 www.vjr.ae,"""c2137cfb40687e9828825547a0924c1d-gzip""","Mon, 26 Oct 2020 15:06:54 GMT",3181950d95c2716e,2026-11-18,0,,3
 ykmgroup.ae,,,977f6bc9b5d5d0df,2026-11-07,0,5,1
-givemepopularity.ae,"""4e59-6aba0b5c-32302d384a4d5853;br""","Mon, 28 Sep 2026 06:38:20 GMT",090d4bc44406e986,2026-11-04,0,,1
+givemepopularity.ae,"""4e04-6afffe2d-c25989784da79b47;br""","Fri, 20 Nov 2026 08:00:45 GMT",d1c5f2fb92bbd68c,2026-11-20,0,,2
 www.interiorcompany.ae,,,a6b2ad45ca0196f5,2026-11-17,0,,5
 www.cindrebay.ae,"""78-1794724063;br""",,390b1ed2c5b4fd25,2026-11-18,0,,5
 technoalliance.ae,,,2bede3d4ec431b45,2026-11-04,0,,1
@@ -57904,7 +57904,7 @@ uaqftz.gov.ae,,,7685131048598fc2,2026-11-17,0,,5
 www.techanicinfotech.ae,"W/""95f09aa6586330f43a8a135b3636e7d7""",,7e6bfda4b134a96d,2026-11-19,0,,4
 futurise.ae,,,a4963a3c1fd76fc1,2026-11-07,0,5,1
 elysium44.ae,"""0315453b3f9ab1a5bf232d30b4929352-gzip""","Mon, 30 Jun 2025 15:07:34 GMT",d4105289d3bdebef,2026-11-18,0,,3
-www.ddgroup.ae,"W/""17x9gl3285jyrz""",,a94eb6dba802cd94,2026-11-19,0,,2
+www.ddgroup.ae,"W/""aieiuehdebyrz""",,d9b4a74f19816e77,2026-11-20,0,,3
 www.dwtravel.ae,"W/""294e4-1a1e401e2c3""","Mon, 16 Nov 2026 10:58:11 GMT",55e45b81593ca811,2026-11-17,0,,5
 visiondrive.ae,"W/""0c0061478a34737d32fc96c3790ef3a0""",,a7aa0c02da4a0ab4,2026-11-04,0,,1
 www.ameeri.com.bh,,,5f57236856eacbec,2026-11-17,0,,5
@@ -57920,7 +57920,7 @@ toyota.com.eg,,,947bec704ff7d9d3,2026-11-17,0,,5
 tpegyptcareers.teleperformance.com.eg,,,b396a52ac651636f,2026-11-15,0,,2
 albostany.com.eg,"""33a4941a69bef3e2df15489364efd70f""","Sun, 15 Nov 2026 14:09:12 GMT",f63a8d069254a708,2026-11-16,0,,4
 mkcl.com.eg,"""22f743860aed2d000738f3a7d7253ae2-gzip""","Sun, 08 Nov 2026 10:13:06 GMT",e84c886d70663b7a,2026-11-18,0,1,4
-juanvaldez.eg,"""e43fb4914075ed9fcc17cbdacff7f840""","Thu, 19 Nov 2026 19:07:01 GMT",4bdb9d4bd7f69a01,2026-11-19,0,,2
+juanvaldez.eg,"""e43fb4914075ed9fcc17cbdacff7f840""",,4bdb9d4bd7f69a01,2026-11-19,0,,2
 www.memphis.edu.eg,"""18c153c5efe9a5110d9951b5d60eab8c""","Thu, 19 Nov 2026 09:44:29 GMT",121c57835bcdceed,2026-11-04,0,,1
 www.badyauni.edu.eg,"""dc9e8eedadcd76799440c2808e5f4678""","Mon, 16 Nov 2026 13:51:24 GMT",ecd359f850260306,2026-11-12,0,,2
 valuedevelopments.com.eg,"""c271e2edbb023afa3b3b987ccdffe697""","Sun, 14 Dec 2025 13:11:26 GMT",c433b35c19c1d71c,2026-11-04,0,,1
@@ -57928,7 +57928,7 @@ www.aict.com.eg,,"Tue, 17 Nov 2026 14:16:39 GMT",e436002fcb1ed680,2026-11-17,0,,
 miraco.com.eg,,,7602a7942c0fd7e0,2026-11-17,0,,5
 upei.uofcanada.edu.eg,"""ca9d6f28acca15d8df55ee49b787e031""","Thu, 12 Nov 2026 09:25:11 GMT",1fffc64baaa591d5,2026-11-15,0,,4
 sms.irtiqaa.edu.eg,,,9bf1ded4f3501902,2026-11-18,4,,0
-fa-hiss.edu.eg,"""f90735a6f5d377d0fdc1e517949fb41d""","Thu, 19 Nov 2026 21:59:17 GMT",b3fcbe620e5af4b8,2026-11-19,0,4,1
+fa-hiss.edu.eg,"""f90735a6f5d377d0fdc1e517949fb41d""","Fri, 20 Nov 2026 09:20:07 GMT",b3fcbe620e5af4b8,2026-11-19,0,4,1
 epower.com.eg,"""mhqho75cfe1sys""",,065db4cde18ad301,2026-11-17,0,,5
 epnu.edu.eg,"""984f7f38a82110d689da9e4fea986906-gzip""","Tue, 17 Nov 2026 10:11:23 GMT",3efe19a8c8bc2db3,2026-11-17,0,,5
 kredit.com.eg,,,35e17fc549384693,2026-11-04,2,,0
@@ -57944,7 +57944,7 @@ www.iblaw.com.jo,"""1563jn4hfc11cxz""",,0785009257b1c578,2026-11-04,0,,2
 www.es.jo,"""d69995d9a66d67ca45565416ad0f925f""","Tue, 23 Jun 2026 07:10:16 GMT",ef09a6e46b5a4705,2026-11-18,0,,3
 aps.jo,,,65560b5b64095ef8,2026-11-17,0,,4
 cableco.com.jo,"""52a6320528f93fb4abc6437c6344eabe""","Sat, 17 Oct 2026 08:33:25 GMT",80cfa6a75398e7de,2026-11-04,0,,1
-platform.jolancer.jo,"""4500e1842e9dce06e41b96ea4c1caf65""","Thu, 19 Nov 2026 15:06:42 GMT",2c14e58696fb706f,2026-11-19,0,,2
+platform.jolancer.jo,"""0a013f8365214b09bb3f4b024f695a24""","Fri, 20 Nov 2026 08:27:53 GMT",2c14e58696fb706f,2026-11-19,0,,2
 www.jcbank.com.jo,,"Thu, 17 Oct 2024 09:14:49 GMT",df7d7b829ca83c1b,2026-11-04,0,,1
 jobs.retaalacademy.edu.jo,,,ad9fe60a653c156c,2026-11-17,0,,5
 timemachine.jo,,,a86d0022a4447748,2026-11-17,0,,5
@@ -57953,8 +57953,8 @@ www.amlak.com.kw,,"Wed, 18 Nov 2026 18:03:19 GMT",875511127ace8cbb,2026-11-18,0,
 www.alamer.com.kw,"""1be23f7-9fa4-5728a00cc5e00-gzip""","Fri, 03 Aug 2018 15:58:48 GMT",862208268a31ad78,2026-11-04,0,,1
 careers.ais.edu.kw,,,596f4bfef1bf68b9,2026-11-06,15,,0
 www.iuk.edu.kw,,,3ab904cf1b9ef047,2026-11-16,0,,4
-asrar.edu.kw,"""1a45158280d09399439efa007fef9c2e""","Mon, 03 Nov 2025 05:33:54 GMT",5c145b255200c5f5,2026-11-19,0,2,1
-protocolo.com.kw,"""a1ae014df93558f57b2374c9466f7054""","Wed, 18 Nov 2026 15:09:17 GMT",cce36f952ab591cc,2026-11-04,0,,1
+asrar.edu.kw,"""1a45158280d09399439efa007fef9c2e""","Mon, 03 Nov 2025 05:33:54 GMT",5c145b255200c5f5,2026-11-20,0,3,1
+protocolo.com.kw,"""260e33dd6bfb7eb31346f3cdbbe53ac9""","Fri, 20 Nov 2026 08:14:36 GMT",cce36f952ab591cc,2026-11-04,0,,1
 www.earlyintervention.om,,,9bfe073a0a273e82,2026-11-17,0,,5
 inma.om,,,97422a836585f6ff,2026-11-17,0,,5
 erp.mec.edu.om,,,968aa3e40fe391e9,2026-11-04,3,,0
@@ -57978,7 +57978,7 @@ sot.com.pk,,,0ad6f94ec1af2974,2026-11-15,0,1,1
 www.desertsound.com.pk,"W/""d6331c696384502636972285901c916f""",,31eea480432d780a,2026-11-16,0,,3
 hitec-dc.edu.pk,"""adfe70cd6786f21d9b1ed2d105463651-gzip""","Mon, 16 Nov 2026 10:31:47 GMT",4af3f443db5ad0a2,2026-11-16,0,,4
 sapt.com.pk,,,2cc73938f9fae7e8,2026-11-04,0,,1
-www.amcorp.com.pk,,"Wed, 18 Nov 2026 21:44:56 GMT",ea8aa29cf9341644,2026-11-09,0,,2
+www.amcorp.com.pk,,"Fri, 20 Nov 2026 09:20:03 GMT",ea8aa29cf9341644,2026-11-09,0,,2
 mltap.com.pk,,,a9b3e101517da971,2026-11-04,0,,1
 www.haleon.pk,"""081625ca0e4d91:0""","Mon, 11 Sep 2023 11:08:58 GMT",675da6258a6c14c3,2026-11-04,0,,1
 erp.fps.edu.pk,,,5848d606b225fdc8,2026-11-04,0,,1
@@ -58032,7 +58032,7 @@ phdec.gov.pk,,,c42deb295dbb42bf,2026-11-14,0,,2
 www.iesco.com.pk,,,3968571918a88c10,2026-11-17,0,,5
 phitech.com.pk,"""34cffd17b7155df5f55454167d8fd60c""","Thu, 12 Nov 2026 12:51:56 GMT",06efaae338953b6f,2026-11-12,0,,3
 gcwuf.edu.pk,,,c51cb576aa10ee17,2026-11-19,0,,3
-www.pdri.edu.pk,"""2d5a08ac7bad99f9ea8ff6ce7920edeb""","Mon, 16 Nov 2026 06:03:30 GMT",4483e5c4c61b10f1,2026-11-13,0,1,2
+www.pdri.edu.pk,"""c7bf679a35036e6d079aefef7fb64d25""","Fri, 20 Nov 2026 07:45:51 GMT",b74e0b63502b347a,2026-11-20,0,,3
 siovs.edu.pk,"""32cfb05fe32847911bb68c74429c3013""","Wed, 18 Nov 2026 08:42:13 GMT",1f10aa1384fbb518,2026-11-04,0,,1
 ilink.com.pk,"""9q2m787dh31dq2""",,fe2d0c7ab2e1b15a,2026-11-04,0,,1
 cdss.org.pk,,,f4ea2add6f5f4713,2026-11-17,0,,3
@@ -58065,7 +58065,7 @@ bellsentertainment.com.pk,,,a2d7b2366ed7476a,2026-11-18,0,,5
 mnr.com.pk,"""f2d72ef57095ea97e65145b131b17c3b""","Thu, 08 Aug 2024 07:58:24 GMT",232f2351a853a189,2026-11-04,1,,0
 spacesuites.pk,"""fafb13f7b1e0322eecf150935250f7c6""","Tue, 14 Apr 2026 05:29:39 GMT",b79793d4831249d7,2026-11-04,0,,1
 esclahore.com.pk,,,16d0b280e3e66c42,2026-11-18,0,,3
-tif.edu.pk,"""5c94e7b61188553ca72a229ac2ae5e49""","Tue, 17 Nov 2026 09:20:42 GMT",64a381c68ef106c3,2026-11-16,0,2,1
+tif.edu.pk,"""9388f494723470acdfa0c2cff0a9fa37""","Fri, 20 Nov 2026 04:48:31 GMT",64a381c68ef106c3,2026-11-16,0,2,1
 www.mediaexpress.com.pk,,,00545a26cf1a4fee,2026-11-18,0,,4
 titaniumagency.com.pk,,"Mon, 16 Nov 2026 01:27:37 GMT",b699b23d4f56ba50,2026-11-19,0,5,1
 www.knacademy.edu.pk,"""53eb602c6ff9124e7775cf248f796ea4""","Mon, 06 Apr 2026 10:04:22 GMT",e709f51a1242d26c,2026-11-04,0,,1
@@ -58222,11 +58222,11 @@ creativexp.sa,"W/""974-dpotjT5O/uWPpHjHv7Ig3MGi8DY""",,769a2d8d3e4efee5,2026-11-
 novogenomics.sa,"""a70d3be7be4dae34e3e3bf845517192f""","Tue, 17 Nov 2026 09:45:58 GMT",f233be9bf5727022,2026-11-17,0,,3
 www.bashirco.com.sa,,,5017855fb048f927,2026-11-04,0,,1
 jabalomar.com.sa,,"Sun, 15 Nov 2026 08:23:44 GMT",616185677b9207c3,2026-11-15,0,,3
-www.neska.com.sa,"""b14408a3c14d5875941e540f506d9caf""","Sun, 19 Oct 2025 08:51:38 GMT",171bfe4d17e6659d,2026-11-19,0,3,1
+www.neska.com.sa,"""b14408a3c14d5875941e540f506d9caf""","Sun, 19 Oct 2025 08:51:38 GMT",171bfe4d17e6659d,2026-11-20,0,4,1
 edugates-school.edu.sa,,,59a6d844326155ed,2026-11-04,4,,0
 sdce.sa,"""71834409860f4117aacaa5213705c6b5""","Tue, 11 Aug 2026 09:03:36 GMT",7c91ab1a2d785ed3,2026-11-18,0,5,1
-jobs.rm.org.sa,,,b05d8d76b721db66,2026-11-07,0,1,1
-spotme.sa,"""a5faa20b063e64bb253832bd8cf7cc68""","Wed, 12 Aug 2026 17:09:27 GMT",c151eed3e0f21253,2026-11-19,0,3,1
+jobs.rm.org.sa,,,b05d8d76b721db66,2026-11-20,0,2,1
+spotme.sa,"""a5faa20b063e64bb253832bd8cf7cc68""","Wed, 12 Aug 2026 17:09:27 GMT",c151eed3e0f21253,2026-11-20,0,4,1
 si.com.sa,,"Thu, 19 Nov 2026 09:36:49 GMT",6251925d54b48ea5,2026-11-04,0,,1
 www.bab.com.sa,"""ai6f1oq1tc1z0j""",,010c261052d72722,2026-11-14,0,,4
 radian.sa,,,f1ee79509e03d0a5,2026-11-19,0,,5
@@ -58245,7 +58245,7 @@ alarabiah.sa,"""f69ba0370cdea339b2a460216dc38740""","Wed, 04 Nov 2026 12:13:24 G
 aqar.net.sa,"W/""ef674b27d51348d83991a911fce40bc5""","Wed, 18 Nov 2026 18:57:52 GMT",ba2f312d11b36d66,2026-11-19,0,,5
 hasafa.sa,"""698d40eb6556b14baac44e3c7e7ff023""","Mon, 19 May 2025 08:49:32 GMT",2c307460e1a2debb,2026-11-04,0,,1
 careerpro.ae,,,ff3f6d67eed43fa2,2026-11-17,0,,5
-aerecruitment.ae,,,fb739fecd435b8f1,2026-11-19,40,,0
+aerecruitment.ae,,,16e3ca485fb493d4,2026-11-20,41,,0
 jobs.studyindubai.ae,,,,2026-11-07,,5,
 kamacapital.ae,,,d3b29b5dde35c0f2,2026-11-11,8,,0
 www.familyvisa.ae,,"Tue, 27 Oct 2026 13:51:40 GMT",104a24fb6276f8a6,2026-11-04,0,,1
@@ -58299,7 +58299,7 @@ futureleaders.sch.ae,"""fbab67f2fc4c6af1f3e947f69eac1d51-gzip""","Mon, 09 Nov 20
 springfieldproperties.ae,"W/""cw7lf0zwqu33wn""",,fa1f4fa223055f6c,2026-11-19,0,,4
 agatotranslate.ae,,,,2026-11-07,,5,
 fujairahport.ae,"""b1efb2d2b8fb62871987b0689f04d37b""","Mon, 12 Apr 2027 12:50:02 GMT",a8c6c7e6ae98db9b,2026-11-04,0,,1
-www.moalajah.ae,"W/""1795125525""","Thu, 19 Nov 2026 21:58:45 GMT",a3e929d075a4caba,2026-11-04,0,,1
+www.moalajah.ae,"W/""1795165626""","Fri, 20 Nov 2026 09:07:06 GMT",a3e929d075a4caba,2026-11-04,0,,1
 paxerahealth.ae,,"Wed, 18 Nov 2026 20:26:23 GMT",953c5d15c9fcbc83,2026-11-18,0,,4
 alrabeehacademy.ae,"W/""196a84bc32f1421b2a39e08840b547ec""","Tue, 06 Oct 2026 10:17:33 GMT",1e2fb80adf0d03f9,2026-11-18,0,2,1
 busworld.ae,,,a169e93507763c08,2026-11-04,0,,1
@@ -58322,7 +58322,7 @@ invision.ae,,,b19bc32345e0d34b,2026-11-19,0,,3
 www.dubaipremierpadel.ae,,,52b8a6babaea8f5b,2026-11-04,0,,1
 exceline.ae,"W/""aa949ad32affdb0f57541a8b6b3c0b6e""","Fri, 26 May 2023 10:01:37 GMT",352210648712bc76,2026-11-18,0,1,1
 aldah.ae,"""a584cdf1725883c91f5f6a75c59894b0""","Tue, 14 Jul 2026 14:38:25 GMT",3a4f771c16732758,2026-11-04,0,,1
-companiesforgood.ae,"""c14a2eda391259698ed7f872f302c95f""","Mon, 16 Nov 2026 18:33:07 GMT",a2f8145336d56edb,2026-11-11,0,,2
+companiesforgood.ae,"""96be548882cadcd7b6577eb22a024d00""","Fri, 20 Nov 2026 08:03:50 GMT",fd4ddeafe3859346,2026-11-20,0,,3
 aylapalm.ae,,"Tue, 17 Nov 2026 22:15:12 GMT",60581b2e63d28cc8,2026-11-04,0,,1
 spnzo.ae,"""ccb480f9d23a2d15aa371beb9f7399cd""","Sun, 28 Apr 2024 00:59:32 GMT",58fe42c32718bfea,2026-11-04,0,,1
 quickplasma.ae,,"Tue, 02 Sep 2025 18:17:13 GMT",511b87e2f9e1ece3,2026-11-04,0,,1
@@ -58373,7 +58373,7 @@ www.nfts.ae,,,0473aec262bd0fae,2026-11-17,0,,5
 www.fiveguys.ae,"""840463329858de351777b6479af98b5c""","Thu, 19 Nov 2026 15:51:53 GMT",788233eac6b2b76e,2026-11-07,0,1,1
 magnav.ae,"""be5b26a4c4a106df00ef7ae1b4e627e5""","Wed, 18 Nov 2026 21:23:10 GMT",6ca449f9351c79b3,2026-11-18,0,,3
 whizmo.ae,"""ml8ge6h47zp4e""",,e74f0f9a0f70ef9d,2026-11-06,0,,2
-in-touch.ae,"""1d86a091746b317519d25b3066e3c47a-gzip""","Wed, 21 Sep 2022 13:22:52 GMT",891ea2efe7ca3b63,2026-11-18,0,,2
+in-touch.ae,"""1d86a091746b317519d25b3066e3c47a-gzip""",,891ea2efe7ca3b63,2026-11-18,0,,2
 go.element8.ae,,,0b45a4fcc1a94490,2026-11-04,0,,1
 www.victoriaconsulting.ae,,,e561b6cc6a028b6f,2026-11-17,0,,5
 night2day.ae,,,afc8302285225097,2026-11-17,0,,5
@@ -58410,7 +58410,7 @@ connectresources.ae,,"Mon, 16 Nov 2026 08:43:30 GMT",4dfaf143eacbbeef,2026-11-16
 globalenergysolutions.ae,"""3cb1dc98349ee6bd6759d52a146c380e""","Wed, 14 Aug 2024 08:44:21 GMT",4642378e0b4602b1,2026-11-04,0,,1
 careers.enviroserve.ae,"""0ff633d45bd993d6c31c333840f8c430-gzip""","Thu, 08 May 2025 14:30:12 GMT",9710cbf97621f444,2026-11-04,0,,1
 mnh.ae,"W/""3df3083036fc11778709fdf3974702a4""","Wed, 28 Oct 2026 12:09:44 GMT",3ce51e8ea692f6c2,2026-11-04,0,,1
-www.motion-cycling.ae,,"Thu, 19 Nov 2026 19:41:08 GMT",3349c2ddcce74b19,2026-11-19,0,,2
+www.motion-cycling.ae,,"Fri, 20 Nov 2026 08:27:52 GMT",3349c2ddcce74b19,2026-11-19,0,,2
 emapower.ae,"W/""4ae233c08439961370e4a12e283604ab""","Thu, 30 Nov 2023 16:13:53 GMT",1c772d854828acb4,2026-11-04,0,,1
 www.halatechnology.ae,"W/""u6tr07tp3n3l63""",,804c08a309d0c4df,2026-11-17,0,,5
 www.infosoft.ae,,,93c1b280dd3b3bb9,2026-11-17,0,,5
@@ -58501,7 +58501,7 @@ awtad.com.kw,,,bcfc35c347c13891,2026-11-18,0,,3
 careers.au.edu.kw,"""a4e11b9aa7edd1:0""","Wed, 08 Jul 2026 07:01:29 GMT",f526d63a24d7a4ee,2026-11-04,0,,1
 icbkuwait.com.kw,,,e72402703ab879d5,2026-11-17,0,,5
 onld.om,,,793acebb6ed20b0c,2026-11-17,0,,5
-luluexchange.com.om,,"Thu, 19 Nov 2026 14:28:08 GMT",e90925827ba275fb,2026-11-19,0,,2
+luluexchange.com.om,,"Fri, 20 Nov 2026 08:31:09 GMT",e90925827ba275fb,2026-11-19,0,,2
 medan.om,,,10cdd4a9d95d1a06,2026-11-17,0,,5
 dreamgroup.om,"""15cf020e8cbb35407d19205b64b6709f""","Tue, 17 Nov 2026 05:33:52 GMT",1f81e0c28e65f784,2026-11-18,0,,3
 www.primetrading.co.om,,,5d47664db40e55a7,2026-11-17,0,2,3
@@ -58536,14 +58536,14 @@ redtape.com.pk,"""cad7d4a15531811bbca91f0448ede425""","Fri, 13 Nov 2026 11:57:54
 fsd.alhuda.com.pk,,,4b0390ba691480a6,2026-11-04,0,,1
 kcps.edu.pk,"""0a9a60d8d800cf8d3a50aeae958d52ec""","Sat, 26 Jan 2019 22:43:55 GMT",8328ac6e1e043545,2026-11-04,0,,1
 tmcnewkarachi.gos.pk,,,96a94a3ed1bff89e,2026-11-17,0,,5
-www.lnh.edu.pk,,,41158ef915a9ecd8,2026-11-19,8,,0
+www.lnh.edu.pk,,,342b3a551309c3d2,2026-11-20,7,,0
 www.smcgroup.com.pk,,,c970d4559a04d33e,2026-11-18,0,,3
 jobs.pesrp.edu.pk,,,2b68bbd77a9ed7bb,2026-11-17,0,,5
 chrahmatalitrust.org.pk,,,6ee35ad69f124967,2026-11-04,0,,1
 mishkat.pk,,,202ea658702b2628,2026-11-04,0,,1
 chrahmatalischools.edu.pk,"""430a74f045c91df15b62abb19e5c7469""","Wed, 18 Nov 2026 05:38:52 GMT",5e4a8c1c4c54677b,2026-11-18,0,,5
 wwbs.gos.pk,"""57eabdb21861426f9e20f59e45320fa3""","Mon, 28 Sep 2026 07:42:06 GMT",cbf2e75852cf9369,2026-11-10,0,5,1
-luawms.edu.pk,,"Thu, 19 Nov 2026 21:58:50 GMT",61ea94746d9c13d6,2026-11-04,0,,1
+luawms.edu.pk,,"Fri, 20 Nov 2026 09:19:46 GMT",61ea94746d9c13d6,2026-11-04,0,,1
 himmelpharma.pk,"""2abd5d999ba933169c6afca06054cf6c""","Wed, 13 Aug 2025 08:17:26 GMT",955df357923e3bb5,2026-11-04,0,,1
 akhuwatislamicmicrofinance.org.pk,,,e3d893ec3932c241,2026-11-04,0,,1
 aspirecolleges.edu.pk,,,8ad05ab380652a72,2026-11-18,0,,4
@@ -58595,7 +58595,7 @@ pss.edu.pk,,,44d9c34d48fadf28,2026-11-04,0,,1
 minhaj.rozee.pk,,,58e965b23fccce54,2026-11-18,0,,4
 fosterinternational.edu.pk,"""f27d2d493c465ac775521da20763f83c""","Sun, 15 Nov 2026 14:38:24 GMT",700640baab888411,2026-11-16,0,,3
 placemaking.org.pk,"""4bb1fa9baa76ea50b6a1eda171825590""","Tue, 27 Jan 2026 09:39:59 GMT",eb6b1a6327c7652a,2026-11-04,0,,1
-printsolutions.com.pk,,,6a0d88a72fbe22d0,2026-11-19,2,,0
+printsolutions.com.pk,,,1a6d03515cd4dc3d,2026-11-20,2,,0
 fashionsense.pk,"""b6feb8e4845ec472bcff30c6d5b8e3cd""","Sun, 23 Nov 2025 12:11:12 GMT",e7e381604d751377,2026-11-04,0,,1
 thetaurus.edu.pk,,,fa86fc4279326c3d,2026-11-17,0,,4
 los.edu.pk,"""a4bb06a27f12626662f3d39dfbeb8a9f""","Tue, 17 Nov 2026 10:21:52 GMT",c389b62d76f08a7e,2026-11-17,0,,3
@@ -58639,7 +58639,7 @@ agico.com.pk,,"Tue, 22 Sep 2026 10:04:26 GMT",fc99bdf97ed43fbb,2026-11-04,0,,1
 cmykservices.com.pk,"""0134d8343a6efa15ab942fa09156136b""","Tue, 04 Jun 2024 08:23:53 GMT",080b7e2a1e8bf07e,2026-11-06,0,1,1
 toniandguy.com.pk,"""b0d8a25404aae2ac580fb448ef0ee78a""","Tue, 10 Nov 2026 12:12:05 GMT",44578f94c99ec012,2026-11-12,0,,4
 brightvision.edu.pk,"""c2dd7e26c9841183dc6b6a05d8049a08""","Wed, 30 Sep 2026 05:18:31 GMT",8afe4a3d9a124dc3,2026-11-04,0,,1
-unitedmotorcycle.com.pk,,"Thu, 19 Nov 2026 02:47:18 GMT",546a965ac0656118,2026-11-14,0,,2
+unitedmotorcycle.com.pk,,"Fri, 20 Nov 2026 03:13:11 GMT",546a965ac0656118,2026-11-14,0,,2
 smbzanicq.gob.pk,,,ced8ef6c75f290c9,2026-11-18,0,,5
 smartseo.pk,"""43812afad216672b96612d1e26fca12d""","Sun, 01 Nov 2026 11:55:18 GMT",d5b711052792389b,2026-11-08,0,5,1
 ipsc.edu.pk,,,e0da585f752929ab,2026-11-18,0,,5
@@ -58654,7 +58654,7 @@ progressivesolution.pk,,"Wed, 18 Nov 2026 03:29:10 GMT",077864b579b76543,2026-11
 webo.pk,,,c67f8a5d4c18ceda,2026-11-16,0,,4
 atspakistan.com.pk,"""8d12ffce0dafb22b7de9f0db589d1c25""","Fri, 10 Jul 2026 18:35:51 GMT",50c79f01c7751fe0,2026-11-04,0,,1
 fjwu.edu.pk,,,c350ac6970027671,2026-11-18,0,,5
-www.usf.org.pk,,"Fri, 26 Nov 2021 07:49:43 GMT",c15380c08d143bf4,2026-11-18,0,2,1
+www.usf.org.pk,,"Fri, 26 Nov 2021 07:49:43 GMT",c15380c08d143bf4,2026-11-20,0,3,1
 spectrum.qa,"""3eaec000c4f413f7d8701904688a3ef1-gzip""","Tue, 22 Sep 2026 12:15:42 GMT",9e540d944ae1cd12,2026-11-18,0,,2
 www.alkhalijcement.qa,,,,2026-11-07,,5,
 www.drps.com.qa,,,5b7ce8b711ae0971,2026-11-18,0,,5
@@ -58675,8 +58675,8 @@ eclick.qa,,,8b60ebe61ea6875d,2026-11-19,0,,2
 nbox.qa,"W/""4f89-1a1edef7640""","Wed, 18 Nov 2026 09:14:16 GMT",81d9002add6858a1,2026-11-18,0,,5
 www.jobted.qa,,,074707ea32a4d399,2026-11-18,0,,5
 www.namariq.com.sa,,,,2026-11-07,,5,
-www.smebank.gov.sa,,,191773cfb6e2f066,2026-11-19,4,,0
-www.mha.com.sa,"""9c7e27276da01578c50ceb1f70ae7e5f""","Thu, 19 Nov 2026 17:37:12 GMT",5c8b8effd1ea41cc,2026-11-19,0,,2
+www.smebank.gov.sa,,,04c3d69a0cde3ca6,2026-11-20,4,,0
+www.mha.com.sa,"""de5d1934dd21f21b735c8b1323153110""","Thu, 19 Nov 2026 21:58:56 GMT",b08ac0af804970cd,2026-11-20,0,,3
 www.gulffinance.com.sa,,"Wed, 16 Oct 2024 10:55:59 GMT",f0ba113b1601f89b,2026-11-04,0,,1
 aac.sa,,,0b4fad1e8c8c6e45,2026-11-04,0,,1
 datacore.com.sa,,,0eef8a176af14040,2026-11-04,0,,1
@@ -58730,8 +58730,8 @@ stayhub.sa,"""n4cu0ma0xcv9r""",,d36f497f3ef1702f,2026-11-04,0,,1
 samis.edu.sa,"""55d44658b102bde77a3b0e5f365d8b63""","Mon, 02 Nov 2026 08:15:14 GMT",1a8200f9f208abc9,2026-11-04,0,,1
 www.rukam.com.sa,,,dd163263ad639adc,2026-11-08,0,,3
 www.qimam.org.sa,,,ba8fcdb3f2862731,2026-11-18,0,,5
-rpco.sa,"""22813c51857c8249e027061c31452b5a""","Sun, 09 Feb 2025 12:46:44 GMT",775ec2e89a7df43c,2026-11-04,0,,1
-experts.org.sa,,,1149602df4091804,2026-11-19,4,,0
+rpco.sa,"""22813c51857c8249e027061c31452b5a""","Sun, 09 Feb 2025 12:46:44 GMT",775ec2e89a7df43c,2026-11-20,0,1,1
+experts.org.sa,,,c8f5bc8f0346bdca,2026-11-20,4,,0
 www.quran-mozilf.org.sa,,,b4dd20e27733dded,2026-11-19,0,,5
 iotsquared.com.sa,,,4c26af7bfb756c34,2026-11-04,1,,0
 www.ripc.gov.sa,,,952a5645d77cf970,2026-11-19,0,,5
@@ -58805,7 +58805,7 @@ www.alchemysearch.ae,,,5f21876ed7dfb37d,2026-11-16,0,,4
 gigcl.ae,"""653147364a3be21273de8abc29b6b247""","Tue, 01 Sep 2026 10:27:31 GMT",4ce4860920a1212c,2026-11-18,0,,3
 www.madhi.ae,,,21358176f16dc052,2026-11-17,0,,5
 www.bsn.ae,,,96939aa3d099350f,2026-11-04,0,,1
-www.dubaitaxi.ae,,"Thu, 19 Nov 2026 08:54:36 GMT",5267a028e6c200fd,2026-11-04,0,,1
+www.dubaitaxi.ae,,"Fri, 20 Nov 2026 09:19:37 GMT",5267a028e6c200fd,2026-11-04,0,,1
 careers.elaphtranslation.ae,,,,2026-11-07,,5,
 pro-body.ae,,,60cbf70f32e87bc0,2026-11-17,0,,5
 www.mbank.ae,,,d58aa251337b2f0f,2026-11-18,0,,2
@@ -58925,7 +58925,7 @@ msmovers.ae,"""5606fbdbddb17a0b035dcae8709318dd""","Mon, 03 Aug 2026 15:02:03 GM
 iccuae.ae,,,cc9b6af5e6576f8e,2026-11-17,0,,5
 xtlmarine.ae,fc5b19c44069dfd64bed212daa1da79a,,e33ae58aca1b5030,2026-11-04,0,,1
 www.mobiloitte.ae,,,9214ebc9dd28a615,2026-11-18,0,,3
-www.silal.ae,,"Thu, 19 Nov 2026 09:37:01 GMT",70ca6e1785ad691c,2026-11-17,0,,2
+www.silal.ae,,"Fri, 20 Nov 2026 09:19:57 GMT",70ca6e1785ad691c,2026-11-17,0,,2
 www.sma.ac.ae,,"Mon, 16 Nov 2026 23:13:06 GMT",833acd12b44d023e,2026-11-16,0,,3
 emdad.ae,,,22cd5bd4d1d35654,2026-11-04,0,,1
 pinnacleeducation.ae,"""fa016afa9d468d5dc9ed0b3962ce924c""","Wed, 18 Nov 2026 15:25:20 GMT",cf8d50cd88d95a5e,2026-11-18,0,,3
@@ -59060,10 +59060,10 @@ www.ejaz.om,,,975b987fde7e5d6d,2026-11-17,3,,0
 hoh.rozee.pk,,,799d56f22a7a8ad6,2026-11-18,0,,4
 wus.edu.pk,,"Sat, 05 Sep 2026 04:42:22 GMT",c4cb0cb96b9a20d5,2026-11-07,0,1,1
 powercement.com.pk,,,7d2107494cab03d4,2026-11-18,2,2,0
-trsdigital.pk,"""390-1795011310;br""",,c94cfdfaf8a2652b,2026-11-18,0,1,1
+trsdigital.pk,"""524-1795165368;br""",,c94cfdfaf8a2652b,2026-11-18,0,1,1
 platinumpharma.com.pk,,,91a4a2ccb911bfef,2026-11-17,0,,5
 punjabfisheries.gov.pk,,,44c783a18f51a212,2026-11-17,0,,5
-delinemedia.pk,"""260-1795125530;br""",,6d48979472177f11,2026-11-04,0,,1
+delinemedia.pk,"""185-1795113789;br""",,6d48979472177f11,2026-11-04,0,,1
 pwd.gos.pk,"""6aff6e89-6738-zstd""","Thu, 19 Nov 2026 21:47:53 GMT",e371a19177f837ce,2026-11-19,0,,5
 iop.com.pk,"""57a70369cd6f342e5737287cacdb264d""","Wed, 18 Nov 2026 10:30:43 GMT",762459c4e23e9509,2026-11-18,0,,2
 mcbexchange.com.pk,"W/""8975b54c6b41dc10d29bff965520824d""","Thu, 12 Nov 2026 11:39:41 GMT",6164dd719d45254c,2026-11-04,0,,1
@@ -59072,7 +59072,7 @@ iandk.com.pk,,,6db67406780578f5,2026-11-17,0,,5
 sod.szabmu.edu.pk,,,7fde111669cbcefa,2026-11-15,0,1,1
 www.connect.net.pk,,,89ad91541ca03351,2026-11-17,0,,5
 temar.com.pk,,,aaf033f8b5e5972f,2026-11-08,0,1,1
-findjobs.pk,"W/""1efd-sX6Bx+elRCL2OuHM8lS4OsNGq9Q""",,b17e81c7e7a54422,2026-11-19,44,,0
+findjobs.pk,"W/""1e72-v0WLd5HDTavv+dRNw78rpSodaBg""",,bf458b7791c34dab,2026-11-20,43,,0
 www.mie.com.pk,"""e0d844e1aa2acc8098ebb1d5365d7fd3-br""","Thu, 15 Oct 2026 07:36:17 GMT",5c867a7a3dbc5c2c,2026-11-06,0,1,1
 learnersedge.pk,"""97af0f6af7c90a43e57299e561e47531-gzip""","Mon, 02 Nov 2026 20:13:52 GMT",c553c3f35abe0291,2026-11-19,0,,3
 hverse.com.pk,,"Thu, 19 Nov 2026 17:48:47 GMT",ea3276ec3e04ee10,2026-11-19,0,,4
@@ -59131,7 +59131,7 @@ mandarin.pk,,,cb02233340e17389,2026-11-04,0,,1
 mmgoc.com.pk,"""a6a8d24ef49d9fbf34b6b334403591f6-gzip""","Fri, 13 Nov 2026 10:48:35 GMT",182344cfd1ec947a,2026-11-18,0,,3
 gujranwala.pk,,,43d67f3be50f3ca5,2026-11-10,2,1,0
 www.cbdpunjab.gov.pk,"""15j2cqim4ov1z7z""",,decbc0f90b057b4c,2026-11-18,0,,5
-jbrsc-aimc.edu.pk,"""ba3731e75438bdd0a673894fd818f77c""","Wed, 14 Oct 2026 09:51:13 GMT",db1cbe4c86022b11,2026-11-04,0,,1
+jbrsc-aimc.edu.pk,"""b86dc80f983b7cb87758f8f83e38a9c3""","Fri, 20 Nov 2026 09:04:45 GMT",11db8b2d3269ae74,2026-11-20,0,,2
 lucky.com.pk,"""a7529c670ff0e718858449693551e545-gzip""","Thu, 19 Nov 2026 13:26:26 GMT",4412e1d307e4cf2e,2026-11-19,0,,2
 aini.pk,,,a6e42abaac1f7e96,2026-11-18,0,,5
 uktrader.com.pk,"""9e53-6af02ef2-0;br""","Sun, 08 Nov 2026 08:12:34 GMT",4d9fe62f504177ef,2026-11-08,0,,3
@@ -59157,7 +59157,7 @@ www.fyindustries.com.pk,,,b257c094417d7218,2026-11-04,0,,1
 phr.edu.pk,,,cb2fadb72322bc3d,2026-11-18,0,,5
 www.hmsc.pk,,,7764f97486edef58,2026-11-18,0,,4
 www.kingsinternational.com.pk,,,5bd4eacc0dae196e,2026-11-04,3,,0
-charterforcompassion.org.pk,,"Wed, 18 Nov 2026 19:39:22 GMT",8204eb532e776d1e,2026-11-04,0,,1
+charterforcompassion.org.pk,,"Fri, 20 Nov 2026 04:01:30 GMT",8204eb532e776d1e,2026-11-04,0,,1
 www.hamdard.edu.pk,"""4ef36b124684f90c16a292f6c4d5f53c""","Thu, 19 Nov 2026 13:03:30 GMT",efea0d3531f1513b,2026-11-18,0,,2
 www.paramountadventure.pk,"""b62dbfb0b1ac15e414a4c29e4f622ef7""","Mon, 29 Jun 2026 10:03:55 GMT",43954f0359bdd51e,2026-11-08,0,,3
 pastic.gov.pk,,,adeefbbfd0f911c8,2026-11-18,0,,5
@@ -59186,17 +59186,17 @@ careers.umw.edu.pk,,,0b25b390311acc3d,2026-11-18,0,,5
 nbpecl.com.pk,,,,2026-11-07,,5,
 cslogistics.com.pk,"""650bef78437c11d75ecc12b7d58e5374""","Fri, 30 Oct 2026 22:38:59 GMT",87d411f321a9d0a3,2026-11-04,0,,1
 siah.gos.pk,"W/""5ba10b19b20d2b53f425a79b167366d3""","Wed, 02 Sep 2026 13:08:31 GMT",9f960043b8f00d5f,2026-11-18,0,1,1
-www.cerp.org.pk,,"Thu, 19 Nov 2026 07:49:25 GMT",8695dd556c7f0e50,2026-11-04,0,,1
+www.cerp.org.pk,,"Fri, 20 Nov 2026 08:20:01 GMT",8695dd556c7f0e50,2026-11-04,0,,1
 mulphico.pk,"""df771f4c6d1f073f908b5bf3bda9aa97-gzip""","Thu, 29 Oct 2026 10:25:19 GMT",797632c34f355005,2026-11-18,0,,3
 www.ug.edu.pk,,,03bcf5c1a1f16b67,2026-11-04,0,,1
 mcut.edu.pk,,,907f7464314cb1de,2026-11-19,0,,5
 filtrationsolutions.com.pk,"""37ac2a5dde4488f993c1bc4ad77cb5ed""","Tue, 16 Nov 2021 06:38:00 GMT",11f92132de4d6aa9,2026-11-04,0,,1
 punjabdairyproducts.pk,"""7e080d5ab0687dce1c9e7af2d45f56bc""","Sun, 18 Oct 2026 22:13:22 GMT",1faff4e482448b0a,2026-11-04,0,,1
 www.plddb.pk,,,cb84c052562fea67,2026-11-18,0,,3
-petrocon.com.pk,"""vh1tqo0gst150z""",,ec8e87de556870ca,2026-11-13,0,,4
-creative-engine.pk,"""62d0c88911790d1c51d88fd3270f52b8""","Thu, 19 Nov 2026 16:44:03 GMT",bbfe3d02a4f10946,2026-11-19,0,,2
+petrocon.com.pk,"""c8glhne640151l""",,294fa21ea0b8fa9d,2026-11-20,0,,5
+creative-engine.pk,"""d4ff35fb9418a5a5f6c15c9a913e0ab2""","Fri, 20 Nov 2026 05:59:27 GMT",bbfe3d02a4f10946,2026-11-19,0,,2
 www.cdpr.org.pk,"""1a8ee51bdb0d43b2a6fa2b4963114e5a-gzip""","Tue, 03 Nov 2026 08:02:12 GMT",4fb7242221ad3bee,2026-11-18,0,,2
-una.org.pk,,,b46832671efa01f4,2026-11-19,0,3,2
+una.org.pk,,,b46832671efa01f4,2026-11-20,0,4,2
 cons.umer.org.pk,"""50833f05dd9072463ea726a0d92e6c6b""","Wed, 26 Jun 2024 18:32:58 GMT",bdfeabd6618ed59e,2026-11-04,0,,1
 wegreen.com.pk,"""cd83dcbd4333b66dce096c98e311cc9c""","Mon, 03 Nov 2025 14:20:00 GMT",f2c09569168ed119,2026-11-04,0,,1
 www.tribuildconsultancy.pk,"W/""b4efde0b7c131112e728e353ce026b66""",,93ae8ac6c4d4831f,2026-11-19,0,,3
@@ -59219,7 +59219,7 @@ iba.com.qa,"""fcb3017a1c6f1c57759398c5b04860e9""","Thu, 11 Dec 2025 13:52:59 GMT
 cesco.com.qa,"""2508b8dc3c4a37ee68d1297d0517a354-gzip""","Wed, 14 Oct 2026 11:51:53 GMT",427030a13f798efe,2026-11-18,0,,3
 www.qafco.qa,"""84c800b470c528adf43bbfde9fbe3bcd""","Tue, 17 Nov 2026 05:45:16 GMT",0b21bb04dcb31c49,2026-11-17,0,,4
 www.aamal.com.qa,,"Thu, 17 Sep 2026 13:56:03 GMT",73368876e6d98210,2026-11-04,0,,1
-datasec.sa,,,b1af5858023c98d8,2026-11-17,2,,0
+datasec.sa,,,5f31685234be4791,2026-11-20,2,,0
 www.rkiza.sa,,,b0287cde1f1e0dae,2026-11-04,0,,1
 azadcareer.azad.com.sa,"W/""4ab40d4785719bc31ee6f4811205bcbd""",,5926571173bb4c31,2026-11-13,0,,2
 iipa.org.sa,,,f9aaf53d66fea259,2026-11-18,0,,5
@@ -59333,14 +59333,14 @@ www.sanaacenter.sa,,,72c4c5f3b3e743a8,2026-11-04,3,,0
 allagro.com.sa,"W/""18ff441898259665167501526dad63aa""","Thu, 12 Feb 2026 07:27:50 GMT",4e2229fa4c6e8464,2026-11-04,0,,1
 malkiron.com.sa,,,ccbaa92e5549d5b1,2026-11-19,0,,5
 www.epcco.com.sa,,,86d1fa51246cde28,2026-11-19,0,,5
-propertysuite.ae,,,4b7d23489553b4d3,2026-11-19,99,,0
+propertysuite.ae,,,d679a519a4c9cf8f,2026-11-20,99,,0
 careers.rak.ae,,,ea75b60e632c8333,2026-11-17,0,,5
-www.mecanum.ae,,,898f7fe26e289a5f,2026-11-19,4,,0
+www.mecanum.ae,,,1f6e8c11cbb042fd,2026-11-20,4,,0
 dmarketing.ae,,,0b988a1600da1b18,2026-11-04,0,,1
 housess.ae,,,36e8692cabb09e5c,2026-11-04,0,,1
 aquamarine-shipping.ae,,,7484e23a3e472b27,2026-11-04,0,,1
 careers.homebakery.ae,,,821e0ddcd4c4c3fa,2026-11-04,0,,1
-quill.ae,,"Thu, 19 Nov 2026 21:59:07 GMT",f4421c44ca9ca6c3,2026-11-11,1,,0
+quill.ae,,"Fri, 20 Nov 2026 09:19:53 GMT",f4421c44ca9ca6c3,2026-11-11,1,,0
 room8.ae,,,e155513eec833e3d,2026-11-04,0,,1
 www.aldhafrainsurance.ae,"W/""d43d38f6609d98ab96411d4e6e669ffc""","Fri, 13 Nov 2026 10:46:14 GMT",7a6a9a809f162db1,2026-11-13,0,,2
 www.rits.ae,"""23a-6afcc19f-0;gz""","Tue, 17 Nov 2026 21:05:35 GMT",fb89e6cab5f5296f,2026-11-17,0,,5
@@ -59361,7 +59361,7 @@ zedcapital.ae,"W/""8dfd6f68ce4f85c3bb561d438b930b2d""","Wed, 18 Nov 2026 14:25:2
 sydsen.ae,,,2daf0f41d3fea648,2026-11-04,0,,1
 almutakamela.ae,,,fe6adf1ba950978b,2026-11-18,0,,4
 smartzone.ae,,,8fe5dc1c05752cc5,2026-11-17,0,,5
-melodica.ae,,,363ef4755d8742a9,2026-11-13,0,,4
+melodica.ae,,,730c54dafd371878,2026-11-20,0,,5
 firststepproperties.ae,,,6622757e7c5fcdca,2026-11-04,0,,1
 agcars.ae,,"Thu, 24 Sep 2026 21:28:29 GMT",5c066ebb12aec671,2026-11-04,0,,1
 www.dubaisouth.ae,,,add9851405d1597d,2026-11-17,0,,5
@@ -59386,7 +59386,7 @@ sharjahcd.ae,"""c0c24287ca4044be4ceaf2c0b791a78a-gzip""","Mon, 09 Nov 2026 10:55
 dhathri.ae,"""109-1794756487;br""",,e2e1fe961038776b,2026-11-17,0,,5
 skinandteeth.ae,,,a0dfb6bfc654ea34,2026-11-17,0,,5
 boca.ae,"""d16a396431e53bb5e84930e8e7de8df1""","Sun, 01 Feb 2026 08:43:37 GMT",ffee47f34d2a0924,2026-11-04,0,,1
-kerno.ae,,,e3c264b7a0f80cdd,2026-11-04,0,,1
+kerno.ae,,,8591f1130c2e3ad3,2026-11-20,0,,2
 zps.ae,"""c167325e7c9a8516ee7a5848dd2c8bbd""","Thu, 19 Nov 2026 08:40:16 GMT",b643fef027b2f948,2026-11-19,0,,2
 platosplanet.ae,"""099ef950923f8ba1137a72c1cc4479a5""","Wed, 17 Jun 2026 11:31:08 GMT",ef6e35b4de07759e,2026-11-04,0,,1
 rajeshpowerpress.ae,,"Thu, 24 Sep 2026 11:50:37 GMT",3dbb547c19f7c730,2026-11-04,0,,1
@@ -59445,7 +59445,7 @@ stylevista.ae,"""93eea50333ffdda6fc6abbba25a755ee""","Fri, 30 Oct 2026 08:43:01 
 embodyfitness.ae,"W/""c801580ca2bb65c44fda0a59a401f813""","Mon, 16 Nov 2026 07:00:46 GMT",10686b536dd067d7,2026-11-16,0,,3
 gtca.ae,"W/""649c0acf-35c4""","Wed, 28 Jun 2023 10:26:23 GMT",35211a0ccb4f6b65,2026-11-04,0,,1
 www.gulfestates.ae,,,1912533fb1d760b9,2026-11-04,0,,1
-faminvestment.ae,"""b7ab06abf609f916db7d1d4e9de5665b""","Mon, 19 Oct 2026 16:41:11 GMT",a6d1fc97de262e59,2026-11-14,0,2,1
+faminvestment.ae,"""b7ab06abf609f916db7d1d4e9de5665b""","Mon, 19 Oct 2026 16:41:11 GMT",a6d1fc97de262e59,2026-11-20,0,3,1
 meaproperties.ae,"""4af0e1e5b369c7fb2df09aa3e14b227a""","Wed, 01 Jul 2026 10:13:59 GMT",b3628e09510268b6,2026-11-04,0,,1
 mail.housefinder.ae,,"Wed, 18 Nov 2026 16:16:37 GMT",67cf24360120bcbf,2026-11-18,0,,5
 www.betaconsultants.ae,"""9d3004edfd994f0639f18454123298d5""","Thu, 24 Sep 2026 06:34:40 GMT",014d0532a77a15d3,2026-11-18,0,,3
@@ -59465,7 +59465,7 @@ jobs.aerecruitment.ae,,,1fbaadcb346b2b31,2026-11-18,0,,4
 hamiltonaquatics.ae,,,3866fc33cf685149,2026-11-17,0,,5
 www.unioncopper.ae,"W/""9569f78bb4e7abc77c925470f079182d""","Thu, 12 Jun 2025 18:55:55 GMT",1a6a99401bd9eeba,2026-11-04,0,,1
 chughtaiclinic.ae,,,7e1509e654ad9dce,2026-11-17,0,,5
-alkhaleejsugar.ae,,"Thu, 19 Nov 2026 21:59:08 GMT",9564034c4da701ee,2026-11-15,0,1,1
+alkhaleejsugar.ae,,"Fri, 20 Nov 2026 09:19:59 GMT",9564034c4da701ee,2026-11-15,0,1,1
 workplace.ae,"W/""c323436c532b47a7601c8b7c216f2cdc""","Sat, 07 Nov 2026 14:46:43 GMT",d4d986770f6715cc,2026-11-10,0,5,1
 cure.ae,"""137b2ec93492011e6ff08b475ffcc410""","Tue, 17 Nov 2026 10:19:19 GMT",d53f6935c76df637,2026-11-18,0,,3
 www.burganalkhaleej.ae,,"Sun, 17 Dec 2017 17:44:39 GMT",9e591bc091624654,2026-11-04,0,,1
@@ -59492,7 +59492,7 @@ legacypartners.ae,,,f4945f3e0ee43b40,2026-11-18,0,,3
 ghostmarketing.ae,,,809cd27f9c4ff95b,2026-11-17,0,,5
 www.ahw.ae,"""22163deae30f15c835c6faa2bb0f2168""","Tue, 07 Jan 2025 08:53:56 GMT",1e963e2738d6785e,2026-11-04,0,,1
 proarc.ae,,,5169fec4ed20eaa0,2026-11-17,0,,3
-maxhealthcare.ae,"""6651b5c47c036ba07fef35fe5e707e91""","Tue, 03 Nov 2026 13:48:14 GMT",67d71d04922b37e8,2026-11-04,0,,1
+maxhealthcare.ae,"""a6804d9347a7b03032d5222b40367d61""","Fri, 20 Nov 2026 07:24:49 GMT",8268c397ed714747,2026-11-20,0,,2
 hfmglobal.ae,"""3a9461d5f51eeab1c511d062df6ff5f6""","Mon, 05 Oct 2026 11:29:18 GMT",170c39c5918ab255,2026-11-04,1,,0
 mortgease.ae,,,b2c09ee2d2b04c7b,2026-11-17,0,,5
 vg.dassobamboo.ae,,"Wed, 04 Dec 2024 10:37:30 GMT",a36a5631454b2951,2026-11-19,0,5,1
@@ -59537,7 +59537,7 @@ service4u.ae,"""99ccce18f0de5fe16928bef6897d3326""","Tue, 20 Oct 2026 06:17:03 G
 easylease.ae,,,6977e9d5811f1071,2026-11-04,0,,1
 freesia.ae,,,3735c43b44753977,2026-11-04,0,,1
 3afcontracting.ae,"""0ba45bb6218ba02978eaa3ea41ee1705""","Thu, 15 Oct 2026 06:25:12 GMT",4acb8f44eb782459,2026-11-04,0,,1
-connectstaff.ae,,"Thu, 19 Nov 2026 21:58:50 GMT",24cf99a2553602f6,2026-11-04,0,,1
+connectstaff.ae,,"Fri, 20 Nov 2026 09:19:41 GMT",24cf99a2553602f6,2026-11-04,0,,1
 erp.adsm.ac.ae,,,98737e3e0c775335,2026-11-16,4,,0
 visstil.ae,"""38dbb67c838c338282b39bbec1e9067a""","Tue, 03 Nov 2026 07:20:00 GMT",a84e5bc4111eb755,2026-11-19,0,,3
 careers.stc.com.bh,,,960c1643f14bb460,2026-11-17,0,,5
@@ -59643,7 +59643,7 @@ www.gnu.edu.pk,,,dce3a770003071d6,2026-11-18,0,,2
 www.paradigmshift.com.pk,,,e6b6c0cc1769779e,2026-11-17,0,2,3
 www.spar.pk,,"Fri, 26 Jun 2026 10:19:56 GMT",08a1605dc5b97c4f,2026-11-19,0,,3
 www.sasha.pk,"""4241c7b64b04124c5475acac89e7bd0a""","Fri, 06 Mar 2026 09:08:29 GMT",21bb2702a0f2cc2b,2026-11-18,0,,3
-pasdec.org.pk,"""3d28de34447bbfbc19768a2db4a16365""","Tue, 15 Sep 2026 17:35:10 GMT",8e784b6abadb36ad,2026-11-18,0,2,1
+pasdec.org.pk,"""3d28de34447bbfbc19768a2db4a16365""","Tue, 15 Sep 2026 17:35:10 GMT",8e784b6abadb36ad,2026-11-20,0,3,1
 www.nkc.com.pk,,"Thu, 11 Aug 2016 10:07:05 GMT",ac3ee5cba4a37b2c,2026-11-04,0,,1
 careers.fjwu.edu.pk,,,c54ff7e1046349dc,2026-11-17,0,,5
 fccp.gov.pk,"""6afc386f-1be""","Tue, 17 Nov 2026 11:20:15 GMT",0783731fcde67777,2026-11-17,0,,4
@@ -59664,7 +59664,7 @@ zoom.org.pk,"""cb347f2170bfb21d15de7c095f6097d8-gzip""","Fri, 27 Mar 2026 04:28:
 bigowner.pk,,,74e204f72e10c405,2026-11-17,0,,5
 group100.pk,"""8-1795125538;br""",,0087b066962a5484,2026-11-04,0,,1
 ice.edu.pk,"""92fd953b04120f7450911015b26fba8a""","Fri, 13 Nov 2026 06:39:15 GMT",7d9d4325de7f525a,2026-11-18,0,,5
-smfoods.com.pk,,"Wed, 18 Nov 2026 23:46:26 GMT",d1f2d8e4363a5e75,2026-11-19,0,,2
+smfoods.com.pk,,"Fri, 20 Nov 2026 01:24:44 GMT",d1f2d8e4363a5e75,2026-11-19,0,,2
 connectcourier.pk,,"Wed, 18 Nov 2026 20:36:29 GMT",a811a36e122460fc,2026-11-18,0,,3
 boostup.pk,"""995befd2240109977d43058f1a54bb0b""","Sat, 17 Oct 2026 18:45:13 GMT",a115129c36c4eaa6,2026-11-04,0,,1
 pqgtl.com.pk,,,b68ba87e60ba86e5,2026-11-17,0,,5
@@ -59678,7 +59678,7 @@ aamh.com.pk,,,063b5e30da44f034,2026-11-17,0,,5
 oceanpaints.pk,"""4a55fb7e75a951e3a69721a2d588fdf7""","Sat, 30 Aug 2025 06:09:47 GMT",3c02911db1903b81,2026-11-04,0,,1
 site.bgnu.edu.pk,,,09622a548d9a9665,2026-11-04,1,,0
 ptc.org.pk,,"Tue, 17 Nov 2026 08:00:12 GMT",249771d4da382274,2026-11-17,0,,5
-cwtc.com.pk,"""5d517c66a6022fff9922255adf65d54d""","Thu, 19 Nov 2026 04:38:41 GMT",48fce259aa904671,2026-11-19,0,,2
+cwtc.com.pk,"""1fe24bb6978538d56f32a357f118ea30""","Fri, 20 Nov 2026 07:07:34 GMT",48fce259aa904671,2026-11-19,0,,2
 pidcl.com.pk,,,d291c4174bfbe24a,2026-11-17,0,,5
 high.alpha.edu.pk,,,53d48c7c07b97b4b,2026-11-17,0,,5
 banoqabil.pk,"W/""5d4a434f22b5125b2682d50b5e361a90""",,c87acca9e3713f44,2026-11-09,0,,1
@@ -59756,7 +59756,7 @@ edu.jtrs.qa,,,0d8a2f6f9a17a10b,2026-11-18,0,,5
 www.miesppu.edu.qa,"W/""c9b2ea23319921abece086494b509db4""",,270ea37a9cc2ab0d,2026-11-15,0,,4
 amag.com.qa,"""558c05490c0c7b8ddb4201b4ca39bdc0-gzip""","Wed, 18 Nov 2026 10:12:15 GMT",fcdfe730d2e18cb6,2026-11-04,0,,1
 oryxschool.qa,,,df38967ad93254ac,2026-11-04,0,,1
-dm-consultant.qa,"""3892b157be3d992554d9f636a33128b0-gzip""","Sun, 16 Aug 2026 21:52:30 GMT",f517f49a0726e376,2026-11-19,0,1,1
+dm-consultant.qa,"""3892b157be3d992554d9f636a33128b0-gzip""","Sun, 16 Aug 2026 21:52:30 GMT",058ed9594508d7de,2026-11-20,0,,2
 crm.alpina.qa,,,3ff7ac840f542bba,2026-11-04,0,,1
 withstand.qa,,,a1d5f8347a29b48c,2026-11-12,1,,0
 socialtech.qa,"""5a6c01223093843fe41c5a0fc09276e3""","Mon, 10 Aug 2026 14:13:00 GMT",603a7b10165ada86,2026-11-04,0,,1
@@ -59773,8 +59773,8 @@ jussuremdad.sa,,,,2026-11-08,,5,
 alkhizanahcapital.sa,,"Wed, 18 Nov 2026 21:16:09 GMT",e6aa99aad60e50eb,2026-11-18,0,,5
 dji.com.sa,"""a6049ce57e855dbf61e51b635528c6eb-gzip""","Sat, 03 Jan 2026 09:59:12 GMT",544b5f937f13870f,2026-11-18,0,,3
 sda.gov.sa,"W/""19315-pzyx4FbzLkXC7jBYXbefjg8ymjw""",,a73cb1e056f32e45,2026-11-08,0,5,1
-smebank.gov.sa,,,6c4fb93f00c4f0bc,2026-11-19,4,,0
-www.iatc.edu.sa,"""c01894b03622614b1fceca95156a4c85-gzip""","Thu, 03 Sep 2026 08:47:33 GMT",09667850b0203df5,2026-11-18,0,2,1
+smebank.gov.sa,,,04c3d69a0cde3ca6,2026-11-20,4,,0
+www.iatc.edu.sa,"""a79bd4919e2a6f551337a3a31944bd7d-gzip""","Thu, 19 Nov 2026 23:30:29 GMT",1468ea716b816d0b,2026-11-20,0,,2
 fazaa.sa,,,e6b37186e4fc1a9e,2026-11-18,0,,5
 www.mainlines.com.sa,"W/""99eed67a9d6c7ca7205a07798402adf8""","Mon, 20 Apr 2026 09:37:38 GMT",38792fa1426aa988,2026-11-18,0,,3
 horizon.sch.sa,,,f8f3a666c17ab001,2026-11-11,0,,2
@@ -59841,7 +59841,7 @@ www.digitalharbor.com.sa,,,4cedf2f98eb45444,2026-11-16,6,,0
 binshehab.com.sa,,"Fri, 11 Sep 2026 11:59:32 GMT",a245bf4f89e99f0d,2026-11-08,0,,3
 www.fakeehcollege.edu.sa,,"Tue, 17 Nov 2026 22:02:40 GMT",f99984038a45a1f2,2026-11-17,0,,3
 ost.sa,"""b9661fd6728eb3c6c8428cd5f3e25135""","Tue, 17 Nov 2026 09:12:05 GMT",9f3d4240c6a28887,2026-11-18,0,,4
-tilad.sa,"""aeb4940d1e9aec0cc76f1a13c7fcdc11-gzip""","Mon, 29 Jun 2026 14:31:40 GMT",7c1294bb0a30f9ff,2026-11-19,0,3,1
+tilad.sa,"""aeb4940d1e9aec0cc76f1a13c7fcdc11-gzip""","Mon, 29 Jun 2026 14:31:40 GMT",7c1294bb0a30f9ff,2026-11-20,0,4,1
 gelab.kaust.edu.sa,,,363d85ca4ed65ec6,2026-11-19,0,,5
 www.designzone.com.sa,"W/""7d4e1e7c3b4f931bd01ad7effafe332c-ssl""",,2922715f478f9ec3,2026-11-14,2,5,0
 mabconsult.com.sa,"""e14912dba884c4786a95cf784dd4264a-br""","Tue, 20 Oct 2026 12:34:38 GMT",583e4889f248807a,2026-11-19,0,,2
@@ -65501,3 +65501,779 @@ www.svetspanku.cz,,,7dd7eb6d223760ea,2026-11-19,0,,1
 trinec-chachar.cz,,,,2026-11-19,,1,
 truhlarstvijps.cz,"""e5968a3562881ea3d57a74c4bc22f5ba-gzip""","Thu, 15 Oct 2026 09:01:42 GMT",1f51bfb4b7c99004,2026-11-19,0,,1
 www.drivestone.cz,"W/""701c51d26e120964546aa6f90e102ce1""",,5ffc68e2d0b6f1e8,2026-11-19,0,,1
+www.cleverlogistic.cz,,,8c6f1d439ed50900,2026-11-20,0,,1
+www.byadf.cz,,,b688dd054084d3a9,2026-11-20,2,,0
+magnapharm.cz,,,c947c38e071f5f22,2026-11-20,0,,1
+atalian.cz,"""a39b0591e06074f1e9aae3195949b5f6""","Mon, 09 Nov 2026 22:53:41 GMT",ff6ffe608baf3273,2026-11-20,0,,1
+www.autopecka.cz,"""9d327c39a1f940f5ffff8dd0a148b71d""","Fri, 20 Nov 2026 07:43:11 GMT",6c6aa8692407dce4,2026-11-20,0,,1
+iph.cz,"W/""7c0b0a10c7cb815c69547b00d3b93d03""","Thu, 12 Nov 2026 08:30:08 GMT",0281487f69ae0dd8,2026-11-20,0,,1
+www.stanekmoto.cz,,,dd4036be4d7b4939,2026-11-20,0,,1
+www.cyberrange.cz,"W/""36eae87979230505bec13e2ab267c093""","Tue, 22 Sep 2026 09:58:46 GMT",bfb06cef9a16945a,2026-11-20,0,,1
+www.papageorge.cz,,,de690ee2c8fec4eb,2026-11-20,0,,1
+www.polyfazer.cz,,,c53c78cd7d87b63c,2026-11-20,0,,1
+evd.cz,,,18ba0e224728a9b5,2026-11-20,0,,1
+enkis.cz,"""87-1795087702;br""",,87202beeb3a0d21b,2026-11-20,0,,1
+www.drevotrading.cz,,,5df486ac7c83b4e2,2026-11-20,0,,1
+www.nejlevnejsitzb.cz,,,f9977973b7349e8c,2026-11-20,0,,1
+www.icmuh.cz,,,578d63628cdc74fc,2026-11-20,0,,1
+homeinterier.cz,,"Tue, 10 Nov 2026 18:29:01 GMT",017a45c4531239e4,2026-11-20,0,,1
+www.sonka-servis.cz,"""1e54-63a34a803f167-gzip""","Fri, 18 Jul 2025 14:08:11 GMT",132fa9a93ab39133,2026-11-20,0,,1
+www.padubtrans.cz,,,f9576b22c32174aa,2026-11-20,0,,1
+aquaticsprague.cz,,,0e5037189d9bc14f,2026-11-20,0,,1
+prismsoft.cz,"W/""192fd775ce2f11e2ce6b9c32aad05851""",,666207a22de7b6fc,2026-11-20,0,,1
+www.markmedia.cz,,"Mon, 09 Nov 2026 15:25:05 GMT",18e9e4ee07d57046,2026-11-20,0,,1
+www.tschrudim.cz,,,ac4160c0f631b779,2026-11-20,0,,1
+vazbalegal.cz,"""2e804229704b2d50bdfd72c0fd5cf5c6""","Wed, 13 Aug 2025 13:54:53 GMT",733e13b4c6d70929,2026-11-20,0,,1
+www.bsglogistika.cz,,,1775ef293160f0be,2026-11-20,0,,1
+www.chropynska.cz,,,13b2c179cc0e3763,2026-11-20,0,,1
+www.bvvinarstvi.cz,,,d0a69ced58a02beb,2026-11-20,0,,1
+www.charmont.cz,,"Thu, 19 Nov 2026 09:18:24 GMT",cdb9b8b13be52122,2026-11-20,0,,1
+www.automatickeprevodovkypraha.cz,,"Fri, 20 Nov 2026 09:20:11 GMT",6f53c99d9b7ad12d,2026-11-20,0,,1
+www.kip.cz,,,e7915ffd0305c435,2026-11-20,0,,1
+www.multiklinika.cz,,,ffb17cc2f3784fab,2026-11-20,0,,1
+mondieu.cz,,,8f1a5a517dc7b746,2026-11-20,0,,1
+hfinreas.cz,"""61c698437479707992d4db8690c5a4cc""","Fri, 13 Nov 2026 07:20:54 GMT",61dac4157a1f4aac,2026-11-20,0,,1
+www.bennongroup.cz,,,19c533236c171b43,2026-11-20,0,,1
+www.afit.cz,,,,2026-11-20,,1,
+www.3vah.cz,,"Wed, 18 Nov 2026 17:13:31 GMT",e5abd60113c52907,2026-11-20,0,,1
+www.skolakrok.cz,"W/""6aff0b07-1aa6""","Thu, 19 Nov 2026 14:43:19 GMT",1f7ff8bf00a49d81,2026-11-20,0,,1
+www.wense.cz,,,00750e6db71ec056,2026-11-20,0,,1
+ampeweld.cz,,,cec2bf21b85d1e6e,2026-11-20,0,,1
+www.elitebathkitchen.cz,,,d264a8a23d099603,2026-11-20,0,,1
+www.aqc.cz,,,59afc4a1defc7b70,2026-11-20,0,,1
+www.proneco.cz,,,74530eb01ac50799,2026-11-20,0,,1
+www.fytozczech.cz,,,,2026-11-20,,1,
+www.alcar.cz,,,15196f4069fcfc63,2026-11-20,0,,1
+domovjilove.cz,,,a4523f216f4864cb,2026-11-20,0,,1
+www.sunnymont.cz,,"Thu, 19 Nov 2026 10:45:08 GMT",6faf95813d56358a,2026-11-20,0,,1
+www.neotec.cz,,"Thu, 20 Aug 2026 11:24:11 GMT",baf96abe1f0bf436,2026-11-20,0,,1
+urbania.cz,,"Wed, 18 Nov 2026 15:36:14 GMT",63dc23023d4be0d3,2026-11-20,0,,1
+www.xproduction.cz,,,4eda5169c78a30c7,2026-11-20,0,,1
+www.bazenymachov.cz,,,fa126898cb3b794d,2026-11-20,0,,1
+dispensa.cz,,,6bb767c05c0870f5,2026-11-20,0,,1
+preplan.cz,"""aa14b5290a78646d78dfe03997d79fc0-gzip""","Thu, 29 Oct 2026 17:35:42 GMT",7a83b7cc657cf0bc,2026-11-20,0,,1
+stavbajmk.cz,"""051b67ee4d0183a77825aff4346bf155-gzip""","Wed, 04 Nov 2026 10:27:54 GMT",79cbac496efa0bd9,2026-11-20,0,,1
+fatre.cz,"""10cef-65f74724d7e52-gzip""","Wed, 04 Nov 2026 14:46:38 GMT",489a044cdc361366,2026-11-20,0,,1
+sladkapohotovost.cz,,,b89b8042292a42ec,2026-11-20,0,,1
+www.aparthotelnaklenici.cz,,,f9731eb5ceebb512,2026-11-20,0,,1
+shop.metaxo.cz,,,74eb02db84a1c7b4,2026-11-20,0,,1
+staks.cz,,,28eadaeb18dfb8e9,2026-11-20,0,,1
+jakavlna.cz,,,1bc09d06a49ead25,2026-11-20,0,,1
+www.drevoart-sosni.cz,,"Fri, 20 Nov 2026 09:20:14 GMT",29cf776016e26eb5,2026-11-20,0,,1
+www.dobik.cz,"W/""6ccee8921502d93224c0973c66dcbae1""","Mon, 30 Jun 2025 08:28:42 GMT",ea31e1ef334915ca,2026-11-20,0,,1
+optimcyb.vscht.cz,"""1c37-65e4450769640""","Tue, 20 Oct 2026 11:56:01 GMT",d1f1221549600ee1,2026-11-20,0,,1
+www.poliklinikamodrany.cz,,,4646d6f975e3bb88,2026-11-20,0,,1
+www.tantramantra.cz,,"Tue, 17 Nov 2026 21:24:49 GMT",b2834ad1d2914931,2026-11-20,0,,1
+www.autooutlet.cz,"""e4bb237d64182a8b925e65a0a8dc3023""","Fri, 20 Nov 2026 08:42:04 GMT",6039a18f99a2f68f,2026-11-20,0,,1
+www.formy-vinkler.cz,,,c648c95ef969d735,2026-11-20,0,,1
+www.mumdoo.cz,"W/""a7485ef20487b3febb2b7588f43f05c4""",,491d797e2cc51b0b,2026-11-20,0,,1
+www.groovio.cz,"W/""7ff89af18c7bab0ce25d62531610d322""",,a9d00e9e7cb7f49c,2026-11-20,0,,1
+measure.fel.cvut.cz,,,811a347389b1f58b,2026-11-20,0,,1
+vysplan.cz,"""7dabb0df8408467bfcc884eefce5db4a-gzip""","Mon, 25 Aug 2025 15:18:01 GMT",8d27642c3c7cfec4,2026-11-20,0,,1
+www.limitlessfitness.cz,,,6db165e6aab9007b,2026-11-20,0,,1
+www.simplyreality.cz,,,7d9d4e223877ba09,2026-11-20,0,,1
+www.czweld.cz,,,f19ea94905cb9350,2026-11-20,0,,1
+www.pillow.cz,"W/""6a60c70620499bb952b0d05806bff31d""","Fri, 20 Nov 2026 08:29:35 GMT",8a5547d9385269c2,2026-11-20,0,,1
+nbu.gov.cz,,,d548ab2b51af04b6,2026-11-20,0,,1
+www.eliclinic.cz,,,1001eb8ca0310a41,2026-11-20,0,,1
+www.logopedum.cz,,,e426b6bedd367c55,2026-11-20,0,,1
+mevracomp.cz,,,a6ef439ba3c500ed,2026-11-20,0,,1
+www.mig.cz,,,cc5914599da16019,2026-11-20,0,,1
+en.zelenekolo.cz,"""8955b169df78e243dd63de513865199b-gzip""","Wed, 18 Feb 2026 18:57:23 GMT",1684c80bb235342a,2026-11-20,0,,1
+www.amcobex.cz,"""2bcb3c711a19710c1af6dca333142a0b""","Fri, 07 Aug 2026 13:22:35 GMT",751f6f567e216f1f,2026-11-20,0,,1
+www.nastrojezdravi.cz,,,f30d62fac02516d4,2026-11-20,0,,1
+www.netservis.cz,,,5dce00726d6adacb,2026-11-20,0,,1
+www.garnea-as.cz,,,d5f82c03457cf4ad,2026-11-20,0,,1
+www.mtd-ustrasice.cz,,"Fri, 20 Nov 2026 06:13:00 GMT",380c6c12a1c8770a,2026-11-20,0,,1
+www.unibrick.cz,,,4a58087761006c2a,2026-11-20,0,,1
+www.designoutlet.cz,,,05b259e20a1a0359,2026-11-20,0,,1
+toptherm.cz,"""f57683333b181dc5f273ab3eeb5e7b31-gzip""","Thu, 18 Jun 2026 08:10:42 GMT",d26e55a974e26911,2026-11-20,0,,1
+www.dekakom.cz,,,a2c4b622dc5c847e,2026-11-20,0,,1
+www.refas-olomouc.cz,,,6dd5a74154f03974,2026-11-20,0,,1
+tsjc.cz,"""667489459dc17d5114be807b89f26ea0-gzip""","Thu, 19 Nov 2026 06:53:30 GMT",f6170178199233da,2026-11-20,0,,1
+www.sullus.cz,,,45a7ab716688edbc,2026-11-20,0,,1
+www.aluca.cz,"""d26093c02cc2c95d6d64ec41f454edbd""","Sun, 30 Mar 2025 09:49:45 GMT",ebfd21768118d07a,2026-11-20,0,,1
+dsa.cz,"W/""957b120fa10de39d3f6ce06ff4632406""","Thu, 19 Nov 2026 14:33:35 GMT",1ad6ee0da8a51c39,2026-11-20,0,,1
+kdbilahora.cz,,"Thu, 12 Nov 2026 18:08:13 GMT",9d59d6566cdd49c3,2026-11-20,0,,1
+www.peklocertovina.cz,"""014d94886c16ebfccc9c366badf13a7c""","Thu, 19 Nov 2026 16:02:26 GMT",68c59f9c1afca8db,2026-11-20,0,,1
+alestejkl.cz,"""66887e4eaa548aa7cd02214108fefc37-gzip""","Thu, 08 Oct 2026 19:29:55 GMT",1a0cc447e65a941e,2026-11-20,0,,1
+www.promatcz.cz,,,75f2cb4f3db30e32,2026-11-20,0,,1
+porceta.cz,"""803973eec7ebc0cad6f050f187bebb09-gzip""","Wed, 02 Sep 2026 10:54:30 GMT",0f0ececf5f0aa60b,2026-11-20,0,,1
+www.pokart.cz,"W/""bcaa134a3049651ac6690b9693162f93""",,33d02158719344c6,2026-11-20,0,,1
+www.starlingeu.cz,"W/""c36c246981bbcf534c1866af9602852f""","Tue, 25 Aug 2020 08:46:36 GMT",b4049206c0287b12,2026-11-20,0,,1
+www.dost-kompresory.cz,,,cab43fc837332944,2026-11-20,0,,1
+www.gennet.cz,,,46c8df7055013635,2026-11-20,1,,0
+finte.cz,,,1dfcce45337d0a12,2026-11-20,0,,1
+www.lekarnaznojmo.cz,,"Sun, 08 Nov 2026 11:57:24 GMT",975637eb86552237,2026-11-20,0,,1
+www.lensi.cz,,"Fri, 20 Nov 2026 09:20:19 GMT",5f703e322951975c,2026-11-20,0,,1
+manica.cz,,,cfd98a09a71e5d56,2026-11-20,0,,1
+www.equirocks.cz,,,2b36bee5d773028b,2026-11-20,0,,1
+www.cdvuz.cz,,,c8e2259b1ef5da00,2026-11-20,0,,1
+www.boilen.cz,,,6f9ea5a1db40d8f3,2026-11-20,0,,1
+www.topnatur.cz,,,3a1a2a8f9702e9fc,2026-11-20,0,,1
+smetanovalitomysl.cz,,,8395702cb80c4eb2,2026-11-20,0,,1
+www.bak-production.cz,,,545350f4cab024c2,2026-11-20,0,,1
+www.ingos.cz,,,f68ce591e57df928,2026-11-20,0,,1
+www.kevinmurphy.cz,,,ca84fc16032b0a5e,2026-11-20,0,,1
+agrometall.cz,,,,2026-11-20,,1,
+www.prefabfactory.cz,,,2dabb2a48bb15562,2026-11-20,0,,1
+croatherm.cz,,,18c1ea656b7f3019,2026-11-20,0,,1
+vhs.cz,,,11a25e1c5f2e8a68,2026-11-20,0,,1
+solutions.onsaplus.cz,"W/""8ac1d18f2252f20cdc39f8d685d1120d""","Tue, 03 Nov 2026 20:45:32 GMT",54f80283b964926a,2026-11-20,0,,1
+www.petrhusak.cz,,"Sat, 21 Feb 2026 12:00:38 GMT",b2e79d407015b0c1,2026-11-20,0,,1
+milionchvilek.cz,,"Fri, 20 Nov 2026 09:20:22 GMT",63c44d2beaa10a11,2026-11-20,0,,1
+www.karpem.cz,"""9ca80f3d9b9d55b9785fb7ef0418054c""","Fri, 13 Nov 2026 14:04:36 GMT",e5396bd73f949df9,2026-11-20,0,,1
+cafefara.cz,,,b9c76c5c0ed0b337,2026-11-20,0,,1
+sis-systemy.cz,"""65c6e96fc7df9bb4b696ed9939331611""","Fri, 31 Jul 2026 08:35:26 GMT",643de7a07ea1414b,2026-11-20,0,,1
+tigtech.cz,,,,2026-11-20,,1,
+www.kocianreality.cz,,,f8447d0f6e7e4761,2026-11-20,0,,1
+projektos.cz,,,,2026-11-20,,1,
+www.taverna1.cz,"""6bffbc8b98e6f7d65c812f82e438520d-gzip""","Fri, 20 Nov 2026 08:33:03 GMT",01ca35871b935541,2026-11-20,0,,1
+www.ddplast.cz,,,df157182331c8f2d,2026-11-20,0,,1
+stenbus.cz,,,fd1437137aae33d7,2026-11-20,0,,1
+www.statservis.cz,"W/""1d715fe1437c350d6c6a4dafd24f5c5d""","Mon, 10 Nov 2025 11:43:28 GMT",c831380a8bbdcb26,2026-11-20,0,,1
+www.prazske-firmy.cz,,,8ebe006bb88d4878,2026-11-20,0,,1
+www.webovky123.cz,,,c0fc79450e00d318,2026-11-20,0,,1
+stavosuchdol.cz,"""0991dc4e08f1beec895d25424f106935""","Wed, 11 Nov 2026 06:18:41 GMT",ea67deaecc37c888,2026-11-20,0,,1
+www.techno-vyskov.cz,,,4ac66cc9dc05f9e9,2026-11-20,0,,1
+www.lhms.cz,,,4a35a0c2449cab3f,2026-11-20,0,,1
+www.sbdpraha.cz,"W/""55846683d0a7c98bd3e0e47b6942484e""","Wed, 18 Nov 2026 11:00:43 GMT",575b4492fa121250,2026-11-20,0,,1
+restauracetyrsovka.cz,,,7ac932cfc5b06abc,2026-11-20,0,,1
+pro-be.cz,"""0c366bbe3f9b543ec6e19702cf7fda1f""","Wed, 14 Feb 2024 09:15:49 GMT",db86c2c719e4b883,2026-11-20,0,,1
+www.schlike.cz,"""b8ea3d4badc83bbb8bda960ffa683fc4-gzip""","Tue, 18 Aug 2026 12:15:15 GMT",8ea74f666dc9fe31,2026-11-20,0,,1
+evermore.cz,"W/""8ba983b2acf03bba581b4c867d0ccd49""","Thu, 03 Sep 2026 03:53:15 GMT",0ed669d69c3ed17f,2026-11-20,0,,1
+www.novareklama.cz,,"Fri, 20 Nov 2026 09:20:23 GMT",6ba043aac9db171d,2026-11-20,0,,1
+www.energocontrol.cz,,"Fri, 28 Aug 2026 23:59:25 GMT",80c9dcbb4bc24db4,2026-11-20,0,,1
+novaetvetera.cz,,,8f7c6615f67bd39e,2026-11-20,0,,1
+www.elpe.cz,"""1910-1795162888;br""",,f264515c5857f415,2026-11-20,0,,1
+www.pomona.cz,,,80abca36aefc27e6,2026-11-20,0,,1
+www.nelumbo.cz,"W/""4fb4ea9384d03c899eb90b758c4da470""","Fri, 20 Nov 2026 08:06:43 GMT",02eb68e31dfe61f2,2026-11-20,0,,1
+www.frio-hk.cz,,,b285e3bef79ffc19,2026-11-20,0,,1
+www.bbh.cz,,,964c0043a7141809,2026-11-20,0,,1
+pvauto.cz,,,0d2e0c7729106907,2026-11-20,0,,1
+www.ejot.cz,,,7ddcb74314bc63ec,2026-11-20,0,,1
+www.contractors.cz,,"Fri, 20 Nov 2026 09:20:25 GMT",3032723b8acb20ae,2026-11-20,0,,1
+www.efaservices.cz,"""1f7f-5ff163d96d56c-gzip""","Tue, 27 Jun 2023 06:04:31 GMT",d3c2af1629146885,2026-11-20,0,,1
+www.dosp.cz,,,006c1f8aacbcddf6,2026-11-20,0,,1
+luplup.cz,"""2cd9934b51b4bc0484f804f0395d44de""","Thu, 24 Oct 2024 09:31:49 GMT",bcc59563d748dfc8,2026-11-20,0,,1
+www.teplarna-cb.cz,"W/""e5288c5211a02f8443b1a41fdc98206f""","Fri, 20 Nov 2026 08:55:03 GMT",215a769d95aff230,2026-11-20,0,,1
+www.obreta.cz,,,5c55a79bb6f210a0,2026-11-20,0,,1
+www.medesacare.cz,,,223fc66f56e82081,2026-11-20,0,,1
+www.akprp.cz,,,,2026-11-20,,1,
+www.ddm-lanskroun.cz,,,d9e732068d7c44f3,2026-11-20,0,,1
+www.finmaro.cz,,,597581b33ca09936,2026-11-20,0,,1
+eset.it.cz,,,33a065c160a1919d,2026-11-20,0,,1
+www.resortspindl.cz,,,ec6bedced9d01889,2026-11-20,0,,1
+zslabyrint.cz,,,be1ac6517f5032f2,2026-11-20,0,,1
+unita.cz,"""b2b31f39bfcbd4a725abcdc8ae2560ed-gzip""","Thu, 01 Oct 2026 09:12:19 GMT",0d6a49b3df461d33,2026-11-20,0,,1
+lambdastudio.cz,,"Fri, 20 Nov 2026 09:20:26 GMT",365ecba7c15e792e,2026-11-20,0,,1
+www.skolkaeduart.cz,,"Fri, 20 Nov 2026 06:05:15 GMT",5498e3248964c020,2026-11-20,0,,1
+www.evino.cz,,,,2026-11-20,,1,
+pila-drevoprodukt.cz,"""1ba1f568379efd5eb84350a7111f6a3b""","Wed, 06 Aug 2025 08:16:44 GMT",c83aa48af6a22650,2026-11-20,0,,1
+www.mtel.cz,"""bfe3bb0aa6096585a0208b9734bb128a-gzip""","Thu, 19 Mar 2026 10:52:44 GMT",c038177417004e11,2026-11-20,0,,1
+www.sykorainteriery.cz,"W/""133a93baf824d3d388a649684a3e21f2""","Mon, 02 Mar 2026 21:05:15 GMT",b0db3c3b3da9a1fc,2026-11-20,0,,1
+www.cooppce.cz,"""0e7693c8dedd16c5ee3ff8e0e6522900-gzip""","Fri, 20 Nov 2026 06:31:13 GMT",fe0527519cdacc5e,2026-11-20,0,,1
+www.wpj.cz,,,d10edbf1c54a03ef,2026-11-20,0,,1
+www.sklady-kurim.cz,,,a9ea6cc302ac4c88,2026-11-20,0,,1
+www.boiron.cz,"""vc25c43cuh44tb""",,d978ffed7a0bf145,2026-11-20,0,,1
+www.lcafe.cz,,"Fri, 20 Nov 2026 09:20:27 GMT",7faff0fbf336f1ba,2026-11-20,0,,1
+emotion-cars.cz,,,a596c017bfb00fe0,2026-11-20,0,,1
+www.hollascatering.cz,"W/""162bd7aba57bc0756364a30ebf4cbe01""",,eb6aa87d2553633b,2026-11-20,0,,1
+hbh-osek.cz,,,f348db9ab6aeaff6,2026-11-20,0,,1
+www.appeco.cz,,,b8e8a74b758acb26,2026-11-20,0,,1
+www.atico.cz,,,f32d0b3c310e24f6,2026-11-20,0,,1
+uklidxxl.cz,"""e6e644da6a6a17a86d1d48f89f8abaa4-gzip""","Thu, 05 Nov 2026 23:43:03 GMT",829ff8d988e8393f,2026-11-20,0,,1
+hnsp.cz,,,afc6ff903f8484b0,2026-11-20,0,,1
+www.simkovic.cz,,,1b5130e81b0bf085,2026-11-20,0,,1
+www.jazykova-skola-zelenka.cz,,,c71bd1fb0d09a168,2026-11-20,0,,1
+www.stkdivisov.cz,,,39e672a0e6955d94,2026-11-20,0,,1
+vlcek-elektroinstalace.cz,"W/""fdedcb632abf1d6db4a9ed7acf2a2f87""","Fri, 20 Nov 2026 09:20:28 GMT",309a7d3f040452a7,2026-11-20,0,,1
+www.webglobe.cz,,,384c3e5e6fc6d39b,2026-11-20,0,,1
+www.fyzioprty.cz,"W/""5ba-631a9761061a9""","Mon, 31 Mar 2025 20:42:40 GMT",d06f7edbf224defe,2026-11-20,0,,1
+www.beppo-kh.cz,,,2f3c03c2ca7aa46f,2026-11-20,0,,1
+tpgroup.cz,,,ed2f32490d172026,2026-11-20,0,,1
+jeraby-autojeraby.cz,"""a6f695e032fc436de416ee94bd94d40d""","Tue, 17 Nov 2026 09:51:22 GMT",aeb83da8d93ffba0,2026-11-20,0,,1
+kmenovky.cz,"W/""17b2ddfd6d343d007930d89e8f51f45d""","Wed, 20 May 2026 07:28:35 GMT",4cb38e24dbf75e91,2026-11-20,0,,1
+www.sab.cz,,,7932f1b8427bebda,2026-11-20,0,,1
+www.ceskazaruka.cz,"""dfcbd50520424830723f8c6ccfa8e29b-gzip""","Mon, 01 Jun 2026 06:41:56 GMT",be9d8845ad3c2693,2026-11-20,0,,1
+www.cappuvino.cz,"""f1a534c21a9af530fb5792202ac1eb38""","Thu, 19 Nov 2026 16:40:18 GMT",11277c5b705cde97,2026-11-20,0,,1
+www.lir-mont.cz,,,4d997fd127db30a9,2026-11-20,0,,1
+www.ydykseb.cz,"""5c13ea1399bf9fd114b04f09966db559""","Mon, 09 Nov 2026 12:59:45 GMT",c85db0617c63d919,2026-11-20,0,,1
+www.fyziotoncar.cz,,,,2026-11-20,,1,
+www.investigace.cz,,,329ee9bda4d59882,2026-11-20,0,,1
+janklecka.cz,"""77697782ba7210124639732ada6e0d2d-gzip""","Fri, 13 Feb 2026 09:56:25 GMT",1174aa186ee871dc,2026-11-20,0,,1
+www.hronovsky.cz,,"Fri, 20 Nov 2026 00:02:45 GMT",0e175a8f3e9c1a78,2026-11-20,0,,1
+www.inel-technik.cz,"""f3dad50764a70145bfd0bb98c31d8bbf-gzip""","Wed, 16 Sep 2026 20:18:26 GMT",824784a6845519b5,2026-11-20,0,,1
+fairytalebakery.cz,,,e12fb2a632cd9e2e,2026-11-20,0,,1
+www.drinksos.cz,"""99b889a9cd748e8b4eca0eb3758d138d-gzip""",,7aa57b0c8ce54a12,2026-11-20,0,,1
+web-integrator.cz,1be4d07916a139649aee1accf1fe72c4,"Mon, 29 Jan 2024 11:17:50 GMT",fef89c8e9148181a,2026-11-20,0,,1
+dpmo.cz,,,97752b511c7b3e95,2026-11-20,0,,1
+www.igluu.cz,"W/""kii2wkv4fa22ol""",,7bda91cf696b88ce,2026-11-20,0,,1
+www.hyponamiru.cz,,,38296f2f134e7a42,2026-11-20,0,,1
+www.rmgastro.cz,,,5e8d06cf0680151e,2026-11-20,0,,1
+www.somaxtech.cz,,"Thu, 19 Nov 2026 02:12:47 GMT",f5f2c2292d2925d7,2026-11-20,0,,1
+www.pekarnaivanka.cz,,,45a91d294e60b10c,2026-11-20,0,,1
+logopediemoravska.cz,,,c36594cdc4532e5b,2026-11-20,0,,1
+www.ventile.cz,,,569d5b9ddabd3a60,2026-11-20,0,,1
+www.ddmberoun.cz,,,7fc0da09292a7845,2026-11-20,0,,1
+www.mk-a.cz,,,6ae28cec5a4c6166,2026-11-20,0,,1
+www.carrierpm.cz,,"Fri, 20 Nov 2026 09:20:20 GMT",1abfef5e211b5b93,2026-11-20,0,,1
+www.ruml-industry.cz,,,85e86e35566513ed,2026-11-20,0,,1
+vaznik.cz,,"Mon, 26 Jan 2026 09:13:14 GMT",db80532a267d6e95,2026-11-20,0,,1
+cot.cz,"""adffe6c8f309007db33cb202646f89ec-gzip""","Thu, 19 Nov 2026 09:05:45 GMT",e76ffcb181c8f31d,2026-11-20,0,,1
+solidum-mk.cz,"W/""e16995cb53b4c7d4c7895c76c616f87e""","Thu, 22 Oct 2026 14:08:59 GMT",967b596dcd350b0f,2026-11-20,0,,1
+kltechstage.cz,,,b1278051dd5a4158,2026-11-20,0,,1
+www.kimm-invest.cz,"""e1ba1b0473c1b8e974fbbe926b88ac0b-gzip""","Tue, 13 Oct 2026 09:02:27 GMT",4baf9f382bc27640,2026-11-20,0,,1
+www.msmagazin.cz,,,8c698e26a4ba4726,2026-11-20,0,,1
+henig.cz,,,,2026-11-20,,1,
+www.onsite.cz,,,e1cc60f14a9a5185,2026-11-20,0,,1
+www.incolour.cz,,,2638ca8635f080cf,2026-11-20,0,,1
+www.memos.cz,,"Wed, 18 Nov 2026 12:42:07 GMT",8090a2653edf202d,2026-11-20,0,,1
+betterwood.cz,,"Fri, 20 Nov 2026 01:55:54 GMT",8aa1658550fd4302,2026-11-20,0,,1
+www.ingutis.cz,"""60ad1089378adf8fc893228c5da3bf44""",,d2ac4edaa0b8c490,2026-11-20,0,,1
+www.autouh.cz,,,f70d7a48d44c1696,2026-11-20,0,,1
+www.dklab.cz,,,61ada2a966056249,2026-11-20,0,,1
+rehafitpraha.cz,"""68b70f1f9644b14a52a1cb849ff2b89c-gzip""","Wed, 12 Feb 2025 09:51:53 GMT",c813be8003c6aa83,2026-11-20,0,,1
+dalus-tichelmann.cz,"W/""df8e0f852582cc4352e0f43c96279145""","Thu, 09 May 2024 07:43:09 GMT",b83a854aeee5ce1b,2026-11-20,0,,1
+itm8.jobs.cz,,,3cecf681e68a7138,2026-11-20,0,,1
+fsczech.cz,"""d1b37610c25c1487624c132c564046bf""","Fri, 20 Nov 2026 05:43:07 GMT",3260d7c12bd06bec,2026-11-20,0,,1
+www.lite.cz,,,c13f2e6895eb92c7,2026-11-20,0,,1
+www.crystalis.cz,,,b4e17d9e59a20c4e,2026-11-20,0,,1
+www.barnamedical.cz,,,3b10ba479c0408d9,2026-11-20,0,,1
+www.3d-com.cz,,,0ef76135ac8408f1,2026-11-20,0,,1
+autoskola.dpmp.cz,,,d91a39bdea7b2f7a,2026-11-20,0,,1
+epicolo.cz,"""93d00144ec645b3f33117d654af86fc0-gzip""","Wed, 28 Oct 2026 07:18:54 GMT",56e2a2266fa46565,2026-11-20,0,,1
+b-dvorak.cz,,,bfee9b05a4898d25,2026-11-20,0,,1
+mapotip.cz,"W/""6af71d15-3d97""","Fri, 13 Nov 2026 14:22:13 GMT",1407f2e5c42d45fe,2026-11-20,0,,1
+mimello.cz,"""bc60ccbae905638405dc141f3e026231""","Sat, 09 May 2026 16:17:17 GMT",05a8c6db9da6cb3f,2026-11-20,0,,1
+www.pressmetal.cz,"W/""60fd1f90564bc3543cfc6ce91cffdd4f""","Wed, 18 Nov 2026 11:03:09 GMT",99bf89885f0a6a16,2026-11-20,0,,1
+www.tradix.cz,,,194ff65be724e685,2026-11-20,0,,1
+www.pivovarnarychte.cz,"""81d2e52cd193344477cad0794931c676""","Mon, 05 Oct 2026 08:13:55 GMT",fa26e793474fa55b,2026-11-20,0,,1
+www.brandtech.cz,,,53511453fccd6ce5,2026-11-20,0,,1
+interiery-velecky.cz,,"Wed, 18 Nov 2026 14:11:43 GMT",e3c4df843b87b465,2026-11-20,0,,1
+apptive.cz,,,7024749fcae8a0f7,2026-11-20,0,,1
+www.iveco-kroys.cz,,,4625e0aadd4e14a4,2026-11-20,0,,1
+transylvanskestany.cz,,,e672c9c174a57d9b,2026-11-20,0,,1
+www.inductline.cz,,,8ea436628790bc2c,2026-11-20,0,,1
+www.victoria-school.cz,"""85c5d9ecf46904c8230936a2c24630ac""",,53c91215b27bbe0d,2026-11-20,0,,1
+www.marf.cz,,,5cdf63c621064350,2026-11-20,0,,1
+www.ferram.cz,,,13155b424184c440,2026-11-20,0,,1
+ivetapechova.cz,,,b961db88e76c46b4,2026-11-20,0,,1
+www.eurosilo.cz,,,537032ae6cd799c9,2026-11-20,0,,1
+euroviask.vinci-construction.cz,,"Fri, 20 Nov 2026 06:56:57 GMT",ae0cf2e1a250bada,2026-11-20,0,,1
+www.effet.cz,,,abf8a7623b62e91c,2026-11-20,0,,1
+praha.educanet.cz,,,c8489ef8518d6aee,2026-11-20,0,,1
+makenex.cz,"W/""54867ae998e7576750784f8bb0f12031""","Fri, 14 Jul 2023 08:43:19 GMT",c6f9016530cb1e2f,2026-11-20,0,,1
+edymaxjob.cz,"""ba51e0b59cdf50e183ec37a7468af31d-gzip""","Wed, 18 Nov 2026 00:44:38 GMT",3b7c8a9e99078b90,2026-11-20,0,,1
+mcdonalds.jobs.cz,,,315436d7880be024,2026-11-20,0,,1
+www.klinikanisa.cz,,,4bc78811eda43385,2026-11-20,0,,1
+www.jurtrans.cz,"W/""64f70125240fe8bbbe971eadcd1c3b21""",,2140de1c8649d1d8,2026-11-20,0,,1
+libus.pizzacomeback.cz,,,4189ae999d1baa1f,2026-11-20,0,,1
+lbstav.cz,"""9181de4d8b271df4045abd172c17d8ca-gzip""","Wed, 26 Aug 2026 10:20:45 GMT",8d5400d27028f036,2026-11-20,0,,1
+www.geis-group.cz,,,990025aaad8f4392,2026-11-20,0,,1
+unis-n.cz,"""8adae43ffdbd41da42fa0b071877970d-gzip""","Mon, 20 Apr 2026 22:06:57 GMT",575dd3a6bcc6a3c0,2026-11-20,0,,1
+www.stavitelpardubice.cz,,,4416ae4e1da712fd,2026-11-20,0,,1
+www.allriskreality.cz,"""6ae49e4d-4d1""","Fri, 30 Oct 2026 13:40:29 GMT",66cff17b8e8a1e42,2026-11-20,0,,1
+okt.vinci-construction.cz,,"Fri, 20 Nov 2026 06:57:13 GMT",7e0573a5975cec47,2026-11-20,0,,1
+www.navisys.cz,"""12eah8w95f56p31""",,868aab8fc0ee3d0d,2026-11-20,1,,0
+jobs.ceico.cz,,,21f279d0127b3327,2026-11-20,0,,1
+www.fractal.cz,,,1866cf57ba292143,2026-11-20,0,,1
+www.aedproject.cz,,,5bc1cc04c7a5f854,2026-11-20,0,,1
+www.nafialce.cz,,,45ac6fdd0a4350cd,2026-11-20,0,,1
+www.solarglobal.cz,,,67deadb2ca84ba6e,2026-11-20,0,,1
+www.tradeexpert.cz,,,47c0ee97de1c3a31,2026-11-20,0,,1
+business.ticketmaster.cz,"""4b7fe2d8f2ccb3574540c28192f94f51""","Fri, 06 Nov 2026 22:06:13 GMT",3d0cb263260667d9,2026-11-20,0,,1
+www.rekomont.cz,,,,2026-11-20,,1,
+www.smartbrains.cz,"""6cbaaa3287412eb08e9d3314d0b5c52c-gzip""","Fri, 01 May 2026 09:09:20 GMT",41cd5d07098b9d73,2026-11-20,0,,1
+www.karavanemdosveta.cz,,,d76e283ecdb9b4c0,2026-11-20,0,,1
+www.istores.cz,,,b61a8fa5b748203a,2026-11-20,0,,1
+www.dsl.cz,,,25df2a27873e5bd3,2026-11-20,0,,1
+nuovodent.cz,,"Tue, 27 Oct 2026 13:39:32 GMT",0d6297fc83146bc6,2026-11-20,0,,1
+norop.cz,,,fd5fab1552fb8fc6,2026-11-20,0,,1
+allfacility.cz,"""6a87a3fb215d81882b7d7a427102736f-gzip""","Sat, 13 Apr 2024 11:28:52 GMT",10c7b5fb3a0a99bd,2026-11-20,0,,1
+ritueldebeaute.cz,,"Wed, 23 Sep 2026 09:49:16 GMT",0fd648f6141e2cb3,2026-11-20,0,,1
+www.oaza-net.cz,,,43d02b61381350e1,2026-11-20,0,,1
+www.moravia-comfort.cz,"W/""4ae3feac0ed245d3e5d27761599654b8""","Fri, 06 Nov 2026 15:41:59 GMT",29e8abcf0ea94adf,2026-11-20,0,,1
+maxspedition.cz,"W/""fa2412b1aa091bba97d049fafb2ad555""","Mon, 02 Nov 2026 14:17:41 GMT",82c372786d8fcc44,2026-11-20,0,,1
+www.pilous.cz,,,cbd723725f0713a7,2026-11-20,0,,1
+www.oekoplan.cz,,"Fri, 13 Nov 2026 09:37:37 GMT",447ba214c6887037,2026-11-20,0,,1
+www.euromotors.cz,,,ad534d4105e6b271,2026-11-20,0,,1
+www.upcz.cz,,"Thu, 19 Nov 2026 12:17:57 GMT",32ab8a273fe7a5f2,2026-11-20,0,,1
+brlohmelnik.cz,,,0783f899901446df,2026-11-20,0,,1
+www.vitkovice.cz,"W/""dd9714196f7ad2d35938d84ecd7b7b3d""",,a1276b149e0d510e,2026-11-20,0,,1
+www.esys.cz,,,a71bf3621a6c901f,2026-11-20,0,,1
+www.maliri-bezdek.cz,,,6d91d480a99e0991,2026-11-20,0,,1
+www.starnet.cz,"""1ghkjj9""",,c88ff3daa244f11d,2026-11-20,0,,1
+www.treves.cz,,"Fri, 20 Nov 2026 09:20:31 GMT",a3210c343005f3cf,2026-11-20,0,,1
+mtprojekt.cz,,,1d78715efbee4172,2026-11-20,0,,1
+www.info21.cz,"""ca17660196f6d8faf078cf97632ab367-gzip""","Thu, 19 Nov 2026 08:45:53 GMT",fd447ec3c7bc47f9,2026-11-20,0,,1
+www.agrozamberk.cz,"""cdca53c69f0a121d5f1f6cf2bd3e6e66-gzip""","Tue, 17 Nov 2026 07:25:54 GMT",68ecabb96fbf16d6,2026-11-20,0,,1
+www.komwag.cz,,,ec2cfb5fc7024a54,2026-11-20,0,,1
+pemit.cz,,,a28a8a57c1c085ba,2026-11-20,0,,1
+www.prekladex.cz,"W/""db52a6d10daa7036c7f57b432f46f54f""","Mon, 16 Nov 2026 12:50:54 GMT",2598ecbc78ea0119,2026-11-20,0,,1
+nemovitostisever.cz,,,838cd0cd9b49b728,2026-11-20,0,,1
+ofschem.cz,,"Fri, 20 Nov 2026 09:20:33 GMT",128745315b451e6d,2026-11-20,0,,1
+orgchem.natur.cuni.cz,,,daca2fd7bd874bd3,2026-11-20,0,,1
+www.ddsemily.cz,,,f974db05fe5034cf,2026-11-20,0,,1
+fotovoltaika-rychle.cz,"""ab76ed04e63f3acb221c2bb92e5e0060-gzip""","Wed, 13 Mar 2024 08:27:43 GMT",e23543d0ffb9e51d,2026-11-20,0,,1
+www.spacecom.cz,,,a517a6582e29b599,2026-11-20,0,,1
+www.mapotic.cz,"W/""c28c44d2482ae96184d5bfee0c42b449""","Tue, 23 May 2023 08:35:16 GMT",088b4f2a6c6eeb03,2026-11-20,0,,1
+www.astramotor.cz,,,433561151aee83e9,2026-11-20,0,,1
+www.beldasport.cz,,,73393af48ab39659,2026-11-20,0,,1
+dare.cz,"""655a-63a132e0591f2-gzip""","Wed, 16 Jul 2025 22:11:51 GMT",278d52f4fc17ea85,2026-11-20,0,,1
+www.termonta.cz,,,f70bda78ef641d3b,2026-11-20,0,,1
+www.klimatika.cz,,"Thu, 19 Nov 2026 09:41:01 GMT",3482eae80090f603,2026-11-20,0,,1
+tomasarsov.cz,,,f447933a2b48e35f,2026-11-20,0,,1
+stavoklima.cz,"W/""2643bbde28efe304179506aa722be62e""","Tue, 10 Nov 2026 10:54:42 GMT",39a7c6ed6359be1b,2026-11-20,0,,1
+www.mulacovanemocnice.cz,,"Fri, 20 Nov 2026 09:20:33 GMT",636894cffeebc90a,2026-11-20,0,,1
+www.rtwtrans.cz,,,dcd4475419c3155d,2026-11-20,0,,1
+www.mramorit.cz,,"Fri, 20 Nov 2026 09:20:33 GMT",f36e705192eab9f6,2026-11-20,0,,1
+www.naradi-vesely.cz,,,,2026-11-20,,1,
+www.czskbronies.cz,"W/""b41836228dfa5d3e053562eb1d78d5a2""","Wed, 04 Nov 2026 19:33:36 GMT",b581058c3b7bd9e4,2026-11-20,0,,1
+dreamjobs.managementnews.cz,"""qq7nr61khbd6da""",,50f82228585d81f7,2026-11-20,0,,1
+www.serw.cz,,,289c2245c5c7eaa6,2026-11-20,0,,1
+aromi.lacollezione.cz,,,d8917d7df3ec9c7e,2026-11-20,0,,1
+www.rtsoft.cz,"""9277caabb09ce54b6f1a0f72aa805908-gzip""","Tue, 26 Jul 2022 14:37:59 GMT",6cc43f839b4c4bb8,2026-11-20,0,,1
+www.scpap.cz,"""4aa74bfde6aa1a8290ec3a1e5b7c97c4""","Sun, 08 Nov 2026 16:52:31 GMT",7ead5e7b87ee89fc,2026-11-20,0,,1
+krabcice.diakonie.cz,,"Fri, 16 Oct 2026 10:21:24 GMT",c2480eb640e778e5,2026-11-20,0,,1
+kambrno.cz,,,d48cb72f93c85a7f,2026-11-20,0,,1
+www.esy.cz,,"Fri, 20 Nov 2026 09:20:35 GMT",34e4860659ee4a33,2026-11-20,0,,1
+omconsulting.cz,"""f351-6af0e633-1e810b2b;br""","Sun, 08 Nov 2026 21:14:27 GMT",abb77cde2d6a398f,2026-11-20,0,,1
+pharmos.cz,,"Fri, 20 Nov 2026 09:20:35 GMT",bb813741e866608f,2026-11-20,0,,1
+www.mercon.cz,,,fab8d99fbdab8a70,2026-11-20,0,,1
+www.automatik.cz,,,c0d8d4481d8cdbb9,2026-11-20,0,,1
+medicredit.cz,,,e5d6547c9a11bcf8,2026-11-20,0,,1
+monastechnology.cz,,,986e9d6afb1c8331,2026-11-20,0,,1
+www.lmgkuchyne.cz,"W/""39a92bb3c05aaeaf116c094186783c8c""","Mon, 12 Oct 2026 17:28:45 GMT",3c82b123e38a98ee,2026-11-20,0,,1
+www.eurodane.cz,,,42b2db2af7d37de3,2026-11-20,0,,1
+www.kotrla.cz,,"Fri, 20 Nov 2026 09:20:36 GMT",abea080e76b04576,2026-11-20,0,,1
+aam-oslavany.cz,"W/""1794592822""","Fri, 13 Nov 2026 18:00:22 GMT",275021009bfaa593,2026-11-20,0,,1
+phonehero.cz,,,0d531d16bd54b466,2026-11-20,0,,1
+www.dnformed.cz,,,8d064f221c170ea2,2026-11-20,0,,1
+vaspraktikpraha.cz,,,90ed2ea0398f158f,2026-11-20,0,,1
+www.damamb.cz,,,60373ea8bd016a3a,2026-11-20,0,,1
+strojmotiv.cz,"""5f11e55934756b589fb1cf48d1634f2d-gzip""","Sun, 31 May 2026 20:11:13 GMT",fa4c13f193b51b69,2026-11-20,0,,1
+www.angusbistro.cz,,,012d32e7deba03b2,2026-11-20,0,,1
+www.poctiva-izolace.cz,,,aeea135ec6dd9ddb,2026-11-20,0,,1
+anextour.cz,,,67a27485aa4aa594,2026-11-20,0,,1
+www.h-rekultivace.cz,,,7aa16404fe2fc208,2026-11-20,0,,1
+www.akvladyka.cz,"""aac7c24f6e0c10e67abd0d3b72ffb6c9""","Tue, 10 Mar 2026 12:30:45 GMT",472e317a9086031f,2026-11-20,0,,1
+www.fpinstal.cz,,,6abb977a0a482da6,2026-11-20,0,,1
+www.cannaland.cz,,,2db8bf0f32c71492,2026-11-20,0,,1
+www.hrusecka.cz,,,36457591c68b6344,2026-11-20,0,,1
+www.unit.cz,,,d6c8d6626da2f7dd,2026-11-20,0,,1
+www.wlwgroup.cz,,,7ae116fb733a7362,2026-11-20,0,,1
+www.hanak-ateliery.cz,,,44f4d0539ba93229,2026-11-20,0,,1
+compactive.cz,"""6a1826c8-0""","Thu, 28 May 2026 11:28:08 GMT",da39a3ee5e6b4b0d,2026-11-20,0,,1
+muhlhandl.cz,"W/""78e7e43ebf5807c6f5284fc82a48f54f""","Wed, 29 Apr 2026 22:30:21 GMT",0868e06a66bfe4f7,2026-11-20,0,,1
+www.promotion.cz,,,a184fbbf3bd325f1,2026-11-20,0,,1
+www.bighr.cz,"W/""0762dd0dcf305cda8a548191d1d7d954""",,a61a455f10b78410,2026-11-20,0,,1
+www.nemuh.cz,,,a129c93145b4623c,2026-11-20,0,,1
+www.spsezatec.cz,,,3e21c175884823e7,2026-11-20,0,,1
+www.bibbyfinancialservices.cz,,,f08fb5cbdee14d92,2026-11-20,0,,1
+behejsepsem.cz,,,39be2918891e162e,2026-11-20,0,,1
+hrmetal.cz,"""d7269b1a42392e770c4d8dca3db2b580""","Sat, 24 Oct 2026 18:33:23 GMT",895c9883f4e731cc,2026-11-20,0,,1
+www.rpssro.cz,"W/""cc9265e9dd1b5ea335be696737e8f5c0""","Wed, 07 Oct 2026 10:37:53 GMT",211e16805ac5a73d,2026-11-20,0,,1
+arnika-zatec.cz,,"Mon, 11 May 2026 17:40:31 GMT",f02a595654f50db3,2026-11-20,0,,1
+ff.authentica.cz,,,c58f6ae5ff63a69a,2026-11-20,0,,1
+www.ubrusylevne.cz,,,a85a99164462a40c,2026-11-20,0,,1
+www.snowboard-zezula.cz,,,f3b700a79ac59189,2026-11-20,0,,1
+www.hures.cz,,,,2026-11-20,,1,
+www.firma-petra.cz,,,3525d1f37f24b2f4,2026-11-20,0,,1
+admatiq.cz,"""5543b833c5be868aa9770c99d4daf2c6-gzip""","Wed, 15 Aug 2018 12:52:13 GMT",5bfc935dac904820,2026-11-20,0,,1
+feds.cz,,,561c4fa44c27bf63,2026-11-20,0,,1
+www.fotoveci.cz,,,3af138cc26e3e824,2026-11-20,0,,1
+www.seo-optimalizace-webu.cz,,,6d18bd6a72602bf5,2026-11-20,0,,1
+bnsoft.cz,"W/""130db066d45ff929d31295531265598d""","Tue, 17 Nov 2026 11:00:00 GMT",3c44641b00519dfe,2026-11-20,0,,1
+www.stagram.cz,"W/""b6b207821b75a5ca1253dadc6c038225""",,b5b70eed030fdfc4,2026-11-20,0,,1
+www.zemniprace-dostal.cz,,,cec711611d06babe,2026-11-20,0,,1
+www.sany.cz,"W/""d4f-660aa1b850d09""","Fri, 20 Nov 2026 00:13:02 GMT",3b52edd43bce66ee,2026-11-20,0,,1
+www.a1r.cz,,,b8d24a28e741e319,2026-11-20,0,,1
+www.ceelogistics.cz,,"Fri, 20 Nov 2026 09:20:10 GMT",cfc3a7c6403a1ed0,2026-11-20,0,,1
+www.cfg.cz,"""fa5e42b61e8c311565ead9297ca02809""","Mon, 02 Nov 2026 09:21:02 GMT",e268d12925531a03,2026-11-20,0,,1
+likov.cz,,,12ef2a09ca26ca58,2026-11-20,0,,1
+novy.bauerasynove.cz,,,41800ec125529940,2026-11-20,0,,1
+vdiotava.cz,"W/""8948e573015961aaca47ceafe2b914dd""","Tue, 13 Oct 2026 07:40:10 GMT",d088eaff2193823c,2026-11-20,0,,1
+www.bzcompany.cz,,,cba87a206a7d439f,2026-11-20,0,,1
+www.venira.cz,,,612a0f097a0f0623,2026-11-20,0,,1
+biometan.hutira.cz,"W/""52cc63e762a629d777b3babd85645939""","Thu, 19 Nov 2026 11:41:57 GMT",7c146ec52c86eb14,2026-11-20,0,,1
+www.dignity.cz,"""687d1621b329097b93c36f02af9a218b-gzip""","Wed, 18 Nov 2026 12:23:13 GMT",1b15b1b6c857ce35,2026-11-20,0,,1
+expertnabilekovy.cz,,,eff56642506adc5b,2026-11-20,0,,1
+www.estetikachaloupkova.cz,"""d8bf3137fa0b5daaf04d145c55545932""","Thu, 19 Nov 2026 22:41:02 GMT",ec7146fe9065a53e,2026-11-20,0,,1
+www.profika.cz,,,,2026-11-20,,1,
+mostkdomovu.sestricka.cz,,,699df43568ce3215,2026-11-20,0,,1
+euroviakamenolomysk.vinci-construction.cz,,"Fri, 20 Nov 2026 06:57:00 GMT",8717020b925dd67d,2026-11-20,0,,1
+www.hps.cz,,,db1787b6583f890e,2026-11-20,0,,1
+qcm.cz,,,5b0503e74d9a3c30,2026-11-20,0,,1
+opsecurity.cz,,,b99988cfe906ac14,2026-11-20,0,,1
+www.barlife.cz,,,3a247dabdff9722c,2026-11-20,0,,1
+solidbrno.cz,"W/""ae2d6c5136cc62c2ec7766f42b3ccdf9""","Wed, 16 Sep 2026 07:51:30 GMT",4093bd97a4f29f10,2026-11-20,0,,1
+www.ajg.cz,,,213e8a48198806f9,2026-11-20,0,,1
+www.ncfenix.cz,,,4543d3e153a6915f,2026-11-20,0,,1
+ucetnictvi-stastny.cz,,,b818932762490401,2026-11-20,0,,1
+pt-servis.cz,,"Thu, 27 Aug 2026 08:43:25 GMT",0b2c56bb7f41fe35,2026-11-20,0,,1
+www.cognito.cz,,,6c2a90c8ce2188e8,2026-11-20,0,,1
+www.cadconsulting.cz,,,be4d6e8bca3d94ef,2026-11-20,0,,1
+kariera.sko-energo.cz,,,9090147734e8dd05,2026-11-20,0,,1
+www.autotechnologi.cz,,"Fri, 20 Nov 2026 09:20:12 GMT",2ce5ac5cf9b929f3,2026-11-20,0,,1
+www.artstav.cz,"W/""e39fb893c640844d020c2030cbbc79bd""",,a7754d52cfd23c30,2026-11-20,0,,1
+www.mediskont.cz,,,2b0cf23c8c129490,2026-11-20,0,,1
+mrmstavebniservis.cz,"W/""6afe0ee7-aaf6""","Wed, 18 Nov 2026 20:47:35 GMT",6ca71f4feabcea6f,2026-11-20,0,,1
+mirsa.cz,,,,2026-11-20,,1,
+www.ok-sport.cz,,,7b0bc08637250ac7,2026-11-20,0,,1
+www.agrio.cz,,,312f72ce0adb4a98,2026-11-20,0,,1
+ddb.about95.cz,"""ddb3d7c1c92fa967750b1e388874b6d0-gzip""","Wed, 07 Oct 2026 07:35:48 GMT",8c88138063bc2489,2026-11-20,0,,1
+skoda-auto.jobs.cz,,,71de709253b75313,2026-11-20,0,,1
+www.edera.cz,,,2580b21125df35d4,2026-11-20,0,,1
+www.psymed.cz,,,ecda73ebf30cc8fb,2026-11-20,2,,0
+www.rdbezno.cz,,,,2026-11-20,,1,
+www.eurometal.cz,,,45c81a36ac9b6177,2026-11-20,0,,1
+www.utopy.cz,,,f6be2ec0d60bcb79,2026-11-20,0,,1
+www.mediacz.cz,"W/""94a9a2d3e5082895e6d4c81af55a572b""","Thu, 19 Nov 2026 10:27:05 GMT",e6ca2ea413aa1087,2026-11-20,0,,1
+www.ihro.cz,,,,2026-11-20,,1,
+ipov.cz,,,95eb7f41648edfa6,2026-11-20,0,,1
+www.i-xon.cz,,,70cad1d22eb575db,2026-11-20,0,,1
+www.purum.cz,,,a59d8f24c23f697a,2026-11-20,0,,1
+en.neria-industry.cz,"W/""79b420c2786da697b6bb94b17eb5cb2d""",,51b80ede6e245caf,2026-11-20,0,,1
+zosi.cz,"W/""a75716679856d7636366b65f3f4f3da6""","Wed, 14 Oct 2026 14:49:48 GMT",5cc96558651aeeec,2026-11-20,0,,1
+www.sneo.cz,,,150b831a87b8a5fc,2026-11-20,0,,1
+www.agra-hornidunajovice.cz,,,6735bc35157a395e,2026-11-20,13,,0
+www.inparket.cz,,"Sun, 01 Nov 2026 19:46:54 GMT",3aafbfc4f792e2b5,2026-11-20,0,,1
+www.dataexpres.cz,,,28d6a73d7591b89a,2026-11-20,0,,1
+www.premier-clinic.cz,,,e46e035c00af18d5,2026-11-20,0,,1
+www.enviprodukt.cz,,,156c3f99ed6f8ad1,2026-11-20,0,,1
+cloospraha.cz,,,6c413f568f8cefbd,2026-11-20,0,,1
+www.cctliberec.cz,,,7a62663ca17c7ff8,2026-11-20,0,,1
+amgnol.cz,"""816d41ad0d54fc89c28a9c65ed6fde40""","Fri, 20 Nov 2026 09:20:20 GMT",c0b93a446209f5bb,2026-11-20,0,,1
+www.industryfirm.cz,"W/""6b0ed9f56cc51102bce2f4cea9191ad4""","Mon, 12 Jan 2026 12:07:11 GMT",6015e79ad4febf7f,2026-11-20,0,,1
+www.rebelsgym.cz,,,1ecc5c398e102bcd,2026-11-20,0,,1
+www.design4.cz,"W/""4517eb86226a0a45815d4ce891bab69a""","Mon, 01 Jul 2024 11:54:38 GMT",b8c249e83c692470,2026-11-20,0,,1
+www.kamex.cz,,,ffa32920df933c34,2026-11-20,0,,1
+www.cistetopeni.cz,,,f0f9618128823dd2,2026-11-20,0,,1
+www.hopnato.cz,,,89c68254d1213060,2026-11-20,0,,1
+inzet.cz,"W/""3e47ebaee0a7604291108f2c52bb57a2""","Wed, 03 Jun 2026 11:41:36 GMT",2bf9bfe6a8c6d060,2026-11-20,0,,1
+chytrykviz.cz,,,e8cd16314b740c1a,2026-11-20,0,,1
+rhcentrum.cz,"""a6fff066bc29eacd318ba4dbaf0092b5-gzip""","Mon, 23 Mar 2026 17:49:50 GMT",d0423fcbc7747170,2026-11-20,0,,1
+charteg.cz,,,e7d9d95caa3f5f6a,2026-11-20,0,,1
+www.kdbilahora.cz,,"Thu, 12 Nov 2026 18:08:13 GMT",2ea64574368ea93e,2026-11-20,0,,1
+www.pocitarna.cz,,,48a0fd10f9a91809,2026-11-20,0,,1
+precizne.cz,"W/""a7e6bb9f06999b4453f522083c06b448""","Mon, 21 Feb 2022 08:27:41 GMT",da60d6d88fb5b1be,2026-11-20,0,,1
+mscercany.cz,,,7f3f4c63d367823e,2026-11-20,0,,1
+semaco.cz,,"Fri, 20 Nov 2026 09:20:17 GMT",4a31521455c9d66d,2026-11-20,0,,1
+www.framireal.cz,,,f7f5b392c7c913b5,2026-11-20,0,,1
+www.internal.cz,"""75519a3c119d3ef6171239d4b904e5a0-gzip""","Tue, 17 Nov 2026 08:27:38 GMT",700dd0ae38d2107c,2026-11-20,0,,1
+cnn-ops2025a.grafartpremium.cz,,,6515e8182add70f4,2026-11-20,0,,1
+scac.cz,,,f54f495085dd4950,2026-11-20,0,,1
+www.greenmop.cz,"W/""8c26a4eb76f5baa3082bf3baceef9ebc""",,2b5ab82e8c849c54,2026-11-20,0,,1
+www.altissima.cz,,,f4e97b0ac5020a4d,2026-11-20,0,,1
+www.drevovyrobapraded.cz,,,b0c7de2e67885a39,2026-11-20,0,,1
+www.altego.cz,"W/""d1898e88817ac11aea1787a5054500c0""","Thu, 10 Sep 2026 08:09:47 GMT",9e96bec4fab3bcd9,2026-11-20,0,,1
+www.ketofit.cz,,,4f2a8e7359d82fee,2026-11-20,0,,1
+www.kkstav.cz,,,dde7021668925e89,2026-11-20,0,,1
+medilam.cz,"W/""688227a495681340be77c22b68a5ca76""","Fri, 04 Sep 2026 12:41:48 GMT",002c030e4bc0c528,2026-11-20,0,,1
+fontea.cz,,"Wed, 04 Nov 2026 14:45:05 GMT",c17a1bc1cb521ef2,2026-11-20,0,,1
+www.murexin.cz,,"Fri, 20 Nov 2026 06:21:24 GMT",ab4e124a8cc5c104,2026-11-20,0,,1
+www.exekutorbrnovenkov.cz,,,885b9129f7963dc1,2026-11-20,0,,1
+www.tmtransport.cz,,,d655bd45faa46945,2026-11-20,0,,1
+www.iqmoney.cz,,,64e8e438a56be12e,2026-11-20,0,,1
+reality-knebort.cz,,,217ea5f48c108cfc,2026-11-20,0,,1
+zlicin.pizzacomeback.cz,,,317e15815352af7f,2026-11-20,0,,1
+www.autonord.cz,,,5f921c32e81a57d6,2026-11-20,0,,1
+www.kalis-projekce.cz,,"Sat, 03 Oct 2026 22:07:33 GMT",8e2318160ae1c154,2026-11-20,0,,1
+www.1sig.cz,,,cf3c58efc831611b,2026-11-20,0,,1
+www.durkoppczech.cz,,,f59b9a2e47c8482d,2026-11-20,0,,1
+interiery.kili.cz,"W/""e43ca053e530c50fe6c4e8e8d8c2d340""",,a22b49412e99996b,2026-11-20,0,,1
+www.ait-cesko.cz,,,27ac1eff55cd7cb8,2026-11-20,0,,1
+www.plavecmedia.cz,,"Fri, 20 Nov 2026 01:37:11 GMT",85b01a841cc72017,2026-11-20,0,,1
+energo.nwt.cz,"""c49bcbd82662ee1d356109ab9c75c776""","Thu, 02 Apr 2026 08:05:28 GMT",ae2378149505ac7c,2026-11-20,0,,1
+www.premixservis.cz,,"Thu, 19 Nov 2026 20:59:08 GMT",967b17e0db872500,2026-11-20,0,,1
+purkyt.cz,"""d290748cf036cf43f336e15e29233cdb-gzip""","Wed, 04 Feb 2026 07:51:54 GMT",3f3c389c463310e7,2026-11-20,0,,1
+qegroup.cz,"W/""db5660cb28a8f1902419363c2be89a6d""","Wed, 18 Nov 2026 23:39:57 GMT",9f3ea37b11e3158c,2026-11-20,0,,1
+mastex.cz,,,,2026-11-20,,1,
+www.zahrady-hajek.cz,,,359cf0a37bc1c405,2026-11-20,0,,1
+edoxreality.cz,"W/""3cb827f0011a477f374af97f1f99b18a""","Mon, 16 Nov 2026 14:35:04 GMT",3f6a42fa6110fa98,2026-11-20,0,,1
+sano24.cz,,,bc47ab4b55f3afd0,2026-11-20,0,,1
+www.ptf.cz,"W/""77db156168b84e7e507e72073d9e6fd7""",,5222aaecc42b83ef,2026-11-20,0,,1
+efsetepharma.cz,"W/""0bb5276fbfa8215c38d37169ee879b46""","Wed, 25 Mar 2026 09:28:30 GMT",1d9ebaf9d0639bb6,2026-11-20,0,,1
+www.cartec.cz,,,54026bfca3eef4ad,2026-11-20,0,,1
+twg.ceskyflorbal.cz,,,675d3d2f58ebe6a4,2026-11-20,0,,1
+stavitelstvimb.cz,"W/""b27e0f46774c04a44488e9cb6d394c76""","Wed, 24 Jun 2026 12:07:56 GMT",8b3826abd32bc7ab,2026-11-20,0,,1
+www.nejtzb.cz,,,3b33c5e70f4aca4a,2026-11-20,0,,1
+www.bezespiny.cz,"W/""c2fff4c93b5ca6b495c66c25f10ac774""","Thu, 11 Jun 2026 09:23:13 GMT",08e14a903aa9bef2,2026-11-20,0,,1
+www.ds-plus.cz,"W/""cfe67c1a29a195e571d550a89f21969b""","Thu, 04 Jun 2026 09:27:45 GMT",25cff1a6aeb20b7e,2026-11-20,0,,1
+akito-tanaka.cz,,,8f19364763c8313b,2026-11-20,0,,1
+gritec.jobs.cz,,,ec849b24e48c9b1e,2026-11-20,0,,1
+www.pgimorava.cz,,,bb2bd7a6115d7c4b,2026-11-20,0,,1
+syner.cz,,,67c6150eab123736,2026-11-20,0,,1
+dapaelektro.cz,"""2d1210ce2ce9827b17001a3556de5465-gzip""","Tue, 02 Jun 2026 10:36:02 GMT",55143711426ff6e6,2026-11-20,0,,1
+www.leneo.cz,,,71708239d2551300,2026-11-20,0,,1
+www.oxpoint.cz,,,b88f051f59770b3e,2026-11-20,0,,1
+www.gremis.cz,,"Tue, 17 Nov 2026 13:01:50 GMT",f72d905f3e16ef8a,2026-11-20,0,,1
+www.loh-cei.cz,,,26da2f1fcfd53a67,2026-11-20,0,,1
+www.k2pharm.cz,"""47dd-65ffbe782931e-gzip""","Wed, 11 Nov 2026 08:23:05 GMT",8d77251b413ecfcb,2026-11-20,0,,1
+www.luxusni-pera.cz,,,d54bd2c2c2c103a8,2026-11-20,0,,1
+www.areva-liberec.cz,"""ec3fb98a603724d3633bd82a51997b93""",,198e78ae767ff0e2,2026-11-20,0,,1
+transkript.cz,"""457acadd255c45215bed473bf432b431-gzip""","Wed, 11 Nov 2026 02:28:56 GMT",b52e8577d9ba2bd9,2026-11-20,0,,1
+www.datexhk.cz,,,20e4e95443e8078e,2026-11-20,0,,1
+www.kfbz.cz,"""1795166422-1""","Fri, 20 Nov 2026 09:20:22 GMT",9aff1150f1348f30,2026-11-20,0,,1
+www.poznani.cz,,,ae853409b2312fcd,2026-11-20,0,,1
+damenergy.cz,"""448259a0e054400169d4c6b129fafd17-gzip""","Wed, 12 Aug 2026 09:32:17 GMT",c49934598963d07f,2026-11-20,0,,1
+www.wtbakery.cz,,,4e1c365343edaa98,2026-11-20,0,,1
+www.roklen.cz,,,374d75eb1155a510,2026-11-20,0,,1
+metalwork.cz,,,51d0cd6096e1eda7,2026-11-20,0,,1
+kyllar.cz,,,17e7e5b9a1ecd460,2026-11-20,0,,1
+www.stilparkett.cz,,,f1c72bed636a5691,2026-11-20,0,,1
+www.sady-prokopa.cz,,"Fri, 20 Nov 2026 09:20:23 GMT",98f12e7c217919c3,2026-11-20,0,,1
+www.securityshield.cz,"W/""d23ee5d30253843dd92fba2a6f817af3""","Fri, 08 May 2026 11:30:09 GMT",462b9cddf0b2ab5f,2026-11-20,0,,1
+www.exprojekt.cz,,,1bc268c3395760d8,2026-11-20,0,,1
+www.preprint.cz,,"Fri, 20 Nov 2026 09:20:22 GMT",d728b5aba38f4df9,2026-11-20,0,,1
+www.1jhs.cz,,"Fri, 20 Nov 2026 09:20:23 GMT",fc56a7957add5d74,2026-11-20,0,,1
+evgroup.cz,"""3d12508fd5a7c9d1c6429fa14c2f4ecf""","Fri, 05 Jun 2026 09:54:18 GMT",273014733ad5b8f9,2026-11-20,0,,1
+www.pbwgroup.cz,"W/""0e8e2259e00b26917a697eb22950115e""","Fri, 17 Jul 2026 09:55:09 GMT",da20f87f6bc335f2,2026-11-20,0,,1
+www.recas-tec.cz,"""b57947c9605058c263d518b61f20a2d7-gzip""","Tue, 10 Jun 2025 07:51:09 GMT",dbc9e7a723791434,2026-11-20,0,,1
+www.djmartinnohejl.cz,,,f281ab5fb0dd3656,2026-11-20,0,,1
+orcaworks.cz,"""8345775426ae5a5d65cab16645fd3e10""","Thu, 18 Jun 2026 15:34:06 GMT",b5813a14fa380e4b,2026-11-20,0,,1
+lucoklima.cz,,,89548e2f7b832747,2026-11-20,0,,1
+www.novaceska.cz,,,efadcdf309855fa1,2026-11-20,0,,1
+www.altoa.cz,,,5fa5b8b37b6bd343,2026-11-20,0,,1
+aura.cz,"""4188e9df760d987555068208c3369fc6""","Wed, 11 Nov 2026 08:45:50 GMT",e37d7a4d7e6cd23f,2026-11-20,0,,1
+www.izolex.cz,,,33da1dde1e9cc28f,2026-11-20,0,,1
+www.earnest.cz,,,3e8869dece62b883,2026-11-20,0,,1
+rollo.cz,,,64bd10bfce0f5295,2026-11-20,0,,1
+www.kovokomplet.cz,,,c9862e7cada04cc5,2026-11-20,0,,1
+pvaexpo.cz,,,bc2ecb3f39f71c2c,2026-11-20,0,,1
+www.pszbraslav.cz,,,cc3306d723e7d9f3,2026-11-20,0,,1
+www.lazamcz.cz,,,4d1b69e77599b467,2026-11-20,0,,1
+www.topcontrol.cz,,"Fri, 20 Nov 2026 10:20:25 GMT",93aa292533b47b1b,2026-11-20,0,,1
+old.finfocus.cz,,,659436f9b0d560fb,2026-11-20,0,,1
+www.svetoplavci.cz,"""04ada6a7bb2fd38534a13aeda440bad2-gzip""","Thu, 22 Oct 2026 16:07:44 GMT",02bff1678e91788d,2026-11-20,0,,1
+www.toshostivar.cz,,"Thu, 20 Aug 2026 12:28:57 GMT",92b506b70321fdca,2026-11-20,0,,1
+metaliko-industry.cz,"""418acdb0c2fe0166c9fa257ce9f18b0a-gzip""","Mon, 22 Sep 2025 10:21:28 GMT",dd8e8b1c105a219e,2026-11-20,0,,1
+www.abel.cz,,,ca702822fd5375a0,2026-11-20,0,,1
+www.zs-ms-hornidvoriste.cz,,,1bad6d763074c4fe,2026-11-20,0,,1
+www.gdxinvest.cz,,,cd051f23d081bb55,2026-11-20,0,,1
+www.vodarna.cz,,,f7d2bb49ef6518e6,2026-11-20,0,,1
+www.2ktransport.cz,"""a8cf-64b16b5a67b3a-gzip""","Wed, 18 Feb 2026 10:32:49 GMT",3ac896001c9f5d5d,2026-11-20,0,,1
+www.kursport.cz,"""6a916e28-4263e""","Fri, 28 Aug 2026 11:16:56 GMT",a00b035bd9983a75,2026-11-20,0,,1
+vzdelaniprovas.cz,"W/""fad938c39c7a71e20531aad7e3622277""","Tue, 03 Nov 2026 19:21:08 GMT",3ecab7b1eae8bed4,2026-11-20,0,,1
+www.detailingzavas.cz,,"Tue, 26 May 2026 19:52:09 GMT",3056ca1e62cfee2f,2026-11-20,0,,1
+pivo-jezek.cz,"""2fc24d41e691fe962cc064f5dc66946d-gzip""","Mon, 09 Nov 2026 17:31:03 GMT",dc7748a61c22ffcc,2026-11-20,0,,1
+centralplast.cz,,,,2026-11-20,,1,
+www.stavirezek.cz,,"Thu, 19 Nov 2026 12:46:47 GMT",1f385db4550a0b54,2026-11-20,0,,1
+www.system4u.cz,"""4a77-660b1a40141a0""","Fri, 20 Nov 2026 09:12:17 GMT",8bfbfd65622affc6,2026-11-20,0,,1
+www.tpicr.cz,"""d32c93c9baadbfa6877d20d4ad30cc70""","Fri, 20 Nov 2026 09:20:28 GMT",2d593709912b0492,2026-11-20,0,,1
+www.domovborova.cz,,,7fa0fad8d6e91f98,2026-11-20,0,,1
+www.sareza.cz,,,1585962264345a9c,2026-11-20,0,,1
+www.vangillern.cz,,"Fri, 20 Nov 2026 09:20:27 GMT",f341eff793a1db89,2026-11-20,0,,1
+www.balsac.cz,,,860c3d465db4cb13,2026-11-20,0,,1
+hotelbartos.cz,,,316e03435c4e7a98,2026-11-20,0,,1
+forenzniprodukty.cz,"""ab6356c2d316c1e8a3225702f76dcefd""","Fri, 13 Nov 2026 13:53:34 GMT",15c8f1155eeebb02,2026-11-20,1,,0
+ardez.cz,,,8196821901d35f60,2026-11-20,0,,1
+www.msem.cz,,,b0c7de2e67885a39,2026-11-20,0,,1
+kajauno.cz,,,2cd8b759b7652821,2026-11-20,0,,1
+www.adsport.cz,,,473fa5a94ee758d8,2026-11-20,0,,1
+www.infomatic.cz,,"Tue, 17 Nov 2026 15:42:39 GMT",071daf21f9c6953e,2026-11-20,0,,1
+vibrostroje.cz,,"Fri, 20 Nov 2026 09:20:29 GMT",a01f4cd58810b660,2026-11-20,0,,1
+www.adriagold.cz,,,2043134bd8ce08ed,2026-11-20,0,,1
+en.ness.cz,"W/""943229259875ab6e98ae7beaa15d1b0d""","Mon, 16 Nov 2026 15:14:52 GMT",043a89995c480251,2026-11-20,0,,1
+frentech.cz,"""f65b40253a5310f78f28b2d881ca6315-gzip""","Thu, 19 Nov 2026 13:00:13 GMT",40f93c0310f22802,2026-11-20,0,,1
+www.gastpro.cz,,,20d299d4e7a70067,2026-11-20,0,,1
+www.bohemiacargo.cz,,,91cb5098c2e44c17,2026-11-20,0,,1
+www.koupelnysyrovy.cz,,,c838c9f7de65467b,2026-11-20,0,,1
+climax.okna-vrata.cz,"""5996d755cd4890b36822aaf2993c5182""","Fri, 20 Nov 2026 00:40:35 GMT",9cd2d854049826a6,2026-11-20,0,,1
+pribram.ahc.cz,,"Sat, 14 Nov 2026 02:28:28 GMT",0d6c9edc2b150a21,2026-11-20,0,,1
+rekreacnisluzby-uo.cz,"""647bec172cb3047ef7b49d3b83f948ed-gzip""",,7dc143829288bfab,2026-11-20,0,,1
+www.zskrusovice.cz,"W/""0258a94e421f083c6addce6c9ebe1884""","Mon, 16 Nov 2026 09:09:44 GMT",0344446a3f9716a0,2026-11-20,0,,1
+www.feifer.cz,,,80d0d87bb7a5cbd5,2026-11-20,0,,1
+www.dio-consult.cz,"""d196784c45989e9ed51ff1f2bda2081b""","Sun, 16 Mar 2025 15:16:53 GMT",81c2b165dd857cb2,2026-11-20,0,,1
+climax.ham.cz,"""b3eaaeb5c9a8d63178355c06c3ea294f""","Fri, 20 Nov 2026 02:10:33 GMT",f8cdda2e261df6c9,2026-11-20,0,,1
+janvitamvas.cz,"W/""7b725e975b646b5a8df733904e6ca4ce-ssl""",,e7361415311fc23d,2026-11-20,0,,1
+societyforall.cz,"W/""8a17-cBaoJik20AD01qHxb0g03Fg4f50""",,7016a8262936d000,2026-11-20,0,,1
+www.hotel-abacie.cz,,,a30ec6d1e1596379,2026-11-20,0,,1
+ibpm.cz,"W/""67edb55d-2d51""","Wed, 02 Apr 2025 22:08:29 GMT",68cae5170f98602a,2026-11-20,0,,1
+prophysio.cz,,"Thu, 19 Nov 2026 13:48:08 GMT",bb93f9e97afc4702,2026-11-20,0,,1
+elektrok2.cz,,,68a33a17c8146db5,2026-11-20,0,,1
+www.esko-t.cz,"""c1317056f234645768031da026637d9d-gzip""","Mon, 16 Nov 2026 07:55:21 GMT",383cf7ddca62f38b,2026-11-20,0,,1
+www.poliklinikabrezany.cz,,,e36d3b01869a6f2a,2026-11-20,0,,1
+nokov.cz,"""6177fc62c21a0067ae549ab76b15fe0c""","Fri, 23 Oct 2026 14:15:53 GMT",c4e425b02691d83c,2026-11-20,0,,1
+ictnwt.cz,,,ce8febdcf867d77d,2026-11-20,0,,1
+neuromednet.cz,,,b4f078565b851825,2026-11-20,0,,1
+www.hgs.cz,,,763d5c5f1acd740e,2026-11-20,0,,1
+www.smartmed.cz,"""7f51ffdb081cb79b0ddc1020087b4caa-gzip""","Wed, 18 Nov 2026 18:01:53 GMT",28f8cb5085adfbaf,2026-11-20,0,,1
+www.zdenkakarna.cz,,"Wed, 07 Oct 2026 09:09:13 GMT",5e6a0de106f0f34e,2026-11-20,0,,1
+peras.cz,"W/""e475adbf740034826f28df357e7616f6""","Tue, 17 Nov 2026 09:15:31 GMT",5f00c5a397b7dd75,2026-11-20,0,,1
+www.algeco.cz,,,ac1fd65f0a5d002e,2026-11-20,0,,1
+www.melecky.cz,,,5834e2b7d477d572,2026-11-20,0,,1
+www.zth.cz,"""9ae05e0b6777b23735a2d96ea5176b27-gzip""","Mon, 02 Dec 2024 08:41:59 GMT",055faab43eda6bdd,2026-11-20,0,,1
+titanium.tusto.cz,,,fc14961828ef2c73,2026-11-20,0,,1
+www.cloverleaf.cz,,,29c6b3464a7660c0,2026-11-20,0,,1
+www.ronex.cz,"""226-1795156539;br""",,a7968e3c1ae1ca25,2026-11-20,0,,1
+www.brickform.cz,"""22ufe1qvcc2exi""",,5e2f4a0b68d0a179,2026-11-20,0,,1
+automyckaperfect.cz,,,018986cb76676726,2026-11-20,0,,1
+www.karavancm.cz,,,57c114c2171b8d9a,2026-11-20,0,,1
+www.avax.cz,,"Fri, 20 Nov 2026 08:26:51 GMT",9c39dbc062492aea,2026-11-20,0,,1
+www.mrazagro.cz,,,44a3c5fa527e7c6c,2026-11-20,0,,1
+metcomp.cz,"W/""c1d3998344c28cabf6e300903103e25e""","Wed, 17 Sep 2025 11:49:28 GMT",81e924fb2c66e97c,2026-11-20,0,,1
+www.ocservis.cz,,"Fri, 20 Nov 2026 09:20:09 GMT",4ca23003f4e7a16f,2026-11-20,0,,1
+www.agados.cz,,,41efb1c90cc17b93,2026-11-20,0,,1
+www.602.cz,"W/""lD5kq3FjC6""","Fri, 20 Nov 2026 09:20:09 GMT",80a534a9d4796c9d,2026-11-20,0,,1
+skp-plzen.cz,"W/""290d3cd2676dab62d1a921d965f47806""","Fri, 20 Nov 2026 07:45:20 GMT",abc29a16288288b5,2026-11-20,0,,1
+avonsvetkrasy.cz,"""a2d6f2ca66d567b704b8d1b895fd0d4f""","Tue, 31 Mar 2026 18:25:43 GMT",a49583763cf6dbe6,2026-11-20,0,,1
+www.dentalbros.cz,"W/""e2a647e11b80f38d323414d92fc0aca5""",,c5a9cfeed2d23529,2026-11-20,0,,1
+davive.cz,"""0df7e9a6799f62798c149f65b9ccf560-gzip""","Wed, 17 Dec 2025 09:58:11 GMT",246f90accaaf24c9,2026-11-20,0,,1
+www.ardecon.cz,,,b99f583fdeb9f7d0,2026-11-20,0,,1
+www.alaris.cz,,"Fri, 20 Nov 2026 09:20:09 GMT",8fcdc5f8b4788af5,2026-11-20,0,,1
+www.garerestaurants.cz,,,65037ccec3911db8,2026-11-20,0,,1
+www.aliaz.cz,"""2753-643e53890034f""","Tue, 18 Nov 2025 21:33:55 GMT",d6ef57b6a1b022ae,2026-11-20,0,,1
+www.akskp.cz,,,80be26ad68015e41,2026-11-20,0,,1
+www.bitdefender.cz,"W/""acb7b3dcdf5084fe955c5a1b8986bab8""",,eb2676e5afe707ef,2026-11-20,0,,1
+www.praha21.cz,,"Fri, 20 Nov 2026 09:20:10 GMT",87fa53c1e8fa4643,2026-11-20,0,,1
+www.hamag.cz,,"Fri, 20 Nov 2026 09:20:11 GMT",d21b2784268e7abe,2026-11-20,0,,1
+www.triarc.cz,"W/""cf18acd43a8f91981d81c82c31a8f895""","Fri, 20 Nov 2026 01:48:52 GMT",5bd8a22a83706028,2026-11-20,0,,1
+deva.cz,"""785ddc3f61c763dfcec00aa3850f4fc7""","Fri, 13 Nov 2026 06:54:47 GMT",e4eb021727eb5894,2026-11-20,0,,1
+oknanaklic.cz,,,e45d5c48b251cb25,2026-11-20,0,,1
+www.pions.cz,,,64c769fbb8b237eb,2026-11-20,0,,1
+www.autoproff.cz,"W/""24906705d3e595e8d873d8686fc4d323""",,969998fffa966818,2026-11-20,0,,1
+kolibrik-cc.cz,,"Wed, 05 Aug 2026 14:13:16 GMT",895268e19dfd0186,2026-11-20,0,,1
+www.patentoid.cz,,,ca4265d25f07d584,2026-11-20,0,,1
+chytreobce.cz,"""e0a3a680c4901af844288df0810511fc-gzip""","Tue, 07 Jul 2026 11:40:50 GMT",e1a01be352dda7ea,2026-11-20,0,,1
+www.smslavicin.cz,,,1123759b94ea1ee6,2026-11-20,0,,1
+www.asakogroup.cz,,,215bbe85f56f8935,2026-11-20,0,,1
+www.tsx.cz,,,3391ba23c54c2d3a,2026-11-20,0,,1
+www.kvantumenergy.cz,,"Fri, 20 Nov 2026 09:20:10 GMT",5aef6c7a2f2e410e,2026-11-20,0,,1
+tommi.cz,,,0f3b4372405397a8,2026-11-20,0,,1
+hstproduction.cz,,"Fri, 20 Nov 2026 09:20:12 GMT",adc5fa6622914ecd,2026-11-20,0,,1
+www.atelier100d.cz,,,6498b5ec03706bb6,2026-11-20,0,,1
+trhovky.cz,"""cff781c5e6922c9d5152916e64370417-gzip""","Wed, 18 Nov 2026 15:39:02 GMT",87f9c58d64583060,2026-11-20,0,,1
+www.papelote.cz,,,4b97acac752d2d53,2026-11-20,0,,1
+plzen.cleanwhale.cz,,,036f662d3c6769a9,2026-11-20,0,,1
+rojami.cz,"""f49b3fa0bdc4bd25ea0b4aad87a66292-gzip""","Sun, 01 Mar 2026 15:01:33 GMT",a1bedcaba59b1a53,2026-11-20,0,,1
+www.planes.cz,,,cee2c69fdf01c11b,2026-11-20,0,,1
+kidklinika.cz,"""0fe13a9c2de03fae11b520e81a850302""","Mon, 16 Nov 2026 11:05:14 GMT",3b2f03e38ff169e1,2026-11-20,0,,1
+lamasolar.cz,,,3634f0445ab315a6,2026-11-20,0,,1
+aranys.cz,,,26f2cf1b89c2dbae,2026-11-20,0,,1
+formprojekt.cz,"W/""6963-65d28db903500""","Tue, 06 Oct 2026 09:45:24 GMT",d33427f428cf37d3,2026-11-20,0,,1
+www.schifr-ac.cz,,,d7208f76ccef2dad,2026-11-20,0,,1
+www.rehabilitacemodrany.cz,"W/""9e952c3a1e9ba6e5269fb06ef7f66c96""",,f88a64d0008975e9,2026-11-20,0,,1
+www.parketkoncept.cz,,,158a642f701f19ae,2026-11-20,0,,1
+prosek.pizzacomeback.cz,,,9baf7ae96357df93,2026-11-20,0,,1
+marnamax.cz,"""b8bdee55194bdbc78597fda8b14af109-gzip""","Fri, 20 Nov 2026 08:15:46 GMT",1b07efa179eb68c5,2026-11-20,0,,1
+vipcochocen.cz,,,cb92546a5e04fa24,2026-11-20,0,,1
+universalcapital.cz,,,e17fadebf87f1ee7,2026-11-20,0,,1
+www.alfafacility.cz,,,d39f2a0dcc7b02d7,2026-11-20,0,,1
+altomi.cz,"W/""c970b72fc422829b0937dd9d26f92be4""","Sat, 14 Jun 2025 14:56:46 GMT",b7506f88ef6e79fe,2026-11-20,0,,1
+www.boneco.cz,,,0f58c75083d22cb9,2026-11-20,0,,1
+ha-soft.cz,,,77adcb6423279aeb,2026-11-20,0,,1
+www.hanak-kolin.cz,,,73c4c1102bfa2c5b,2026-11-20,0,,1
+netsystem.cz,"W/""808437ae17432b6b7742e599e41d3e9a""","Thu, 12 Nov 2026 13:52:02 GMT",593fd92b309ac026,2026-11-20,0,,1
+www.ababu.cz,,,59fbdbe7d5b033ce,2026-11-20,0,,1
+vitkovickeslevarny.cz,"""812c36d76884ae40b55f8ee3564260be-gzip""","Thu, 24 Apr 2025 10:23:46 GMT",a673fafdb0c34df7,2026-11-20,0,,1
+topagri.cz,,,cc5014a3761cede6,2026-11-20,0,,1
+www.decro.cz,,,904c1cd072781c22,2026-11-20,0,,1
+www.recservis.cz,,,a3c99c5ae1b3b97f,2026-11-20,0,,1
+www.plexus.cz,,,d22cc49005544f15,2026-11-20,0,,1
+www.orbit.cz,"""090cd0f03bcec2186dfb752ef4788f83-gzip""","Fri, 20 Nov 2026 11:20:14 GMT",573d584ee862d51a,2026-11-20,0,,1
+www.novavoice.cz,,,90b19f398b73fabe,2026-11-20,0,,1
+www.holmes-english.cz,,"Wed, 04 Nov 2026 10:04:18 GMT",e24a4acf9b76063b,2026-11-20,0,,1
+www.acdodavky.cz,,,000aaf59f465a747,2026-11-20,0,,1
+www.ofstone.cz,,"Thu, 19 Nov 2026 13:48:15 GMT",9f7d1dfd872024dc,2026-11-20,0,,1
+jumpingpraha.cz,,"Thu, 19 Nov 2026 17:55:42 GMT",1c1743e024f47d26,2026-11-20,0,,1
+semuso.cz,"W/""bc94fa41ddaaef52fcb6fd9f36f2258b""","Wed, 19 Feb 2025 08:34:21 GMT",bb359cebb5652fe7,2026-11-20,0,,1
+www.steilmann.cz,,,1b6923691cec3853,2026-11-20,0,,1
+mobatime.cz,"""4c47a2d593e0e6c2439dc0d0dadc1896""","Tue, 27 Oct 2026 12:04:38 GMT",4d8a9ccb2c3d9bcb,2026-11-20,0,,1
+www.pvauto.cz,,,91855856d7f15762,2026-11-20,0,,1
+www.adexreality.cz,,,b47e66da4a717c84,2026-11-20,0,,1
+www.elektrostika.cz,"""d51844d51e8226a52c6898f14a312a35-gzip""","Mon, 25 Mar 2024 18:46:38 GMT",08bc117905ed2578,2026-11-20,0,,1
+esmedicum.cz,,"Fri, 20 Nov 2026 09:20:15 GMT",0e71247e9b77ba70,2026-11-20,0,,1
+falcosystem.cz,,,031b75755c9b6515,2026-11-20,0,,1
+zastavarna-belagry.cz,,,15680ee120c0baba,2026-11-20,0,,1
+www.doldatrans.cz,,,a1d842f3f87973dd,2026-11-20,0,,1
+podniknito.cz,,,59894e108ddae7bc,2026-11-20,0,,1
+casinoambassador.cz,"""2030ad4268c77643ab3d747112443ed4""","Fri, 28 Aug 2026 06:38:37 GMT",507339569d4b5303,2026-11-20,0,,1
+eujicha.cz,,,b6b87a36baf19aa4,2026-11-20,0,,1
+www.stomatologiebudejovicka.cz,,,82bf5e19da024333,2026-11-20,0,,1
+eos-ksi.cz,,"Fri, 20 Nov 2026 09:20:16 GMT",4c6fb2bc7ca3aca6,2026-11-20,0,,1
+www.rotana.cz,,,fd963e724a1790f0,2026-11-20,0,,1
+reality-pohorelice.cz,"""b3c98220a047d5ca07c9a6d1af541838-gzip""","Mon, 13 Jan 2025 10:52:20 GMT",c179b742e755085c,2026-11-20,0,,1
+www.salonforskin.cz,"W/""ea9d79bf0e47a5a9e04e458574487408""",,4525b0d27576ca2e,2026-11-20,0,,1
+www.adar.cz,,,5af10e4560105798,2026-11-20,0,,1
+www.noretrade.cz,,,21e2eae395b93b17,2026-11-20,0,,1
+mimedigital.cz,"""8ae0vg92jq22o9""",,73b612b29e9051fa,2026-11-20,0,,1
+noemata.cz,"W/""8872d5c6d1cef4e6a22b226f694fc8bb""","Tue, 11 Nov 2025 20:43:46 GMT",ff18b2a073564e7e,2026-11-20,0,,1
+www.relycon.cz,,,d5bb0f992dc36116,2026-11-20,0,,1
+www.dos-mundos.cz,,,24d1667152779e0a,2026-11-20,0,,1
+www.matl-bula.cz,,,56c35551dec9011d,2026-11-20,0,,1
+www.impregnacesobeslav.cz,,,f1eb1be92de5d3fb,2026-11-20,0,,1
+staryeshop.chranenekoralky.cz,"W/""6f91b5b4c91d98effccdd702ce7b0091""","Tue, 21 Jan 2020 13:51:34 GMT",424fe28ee0924ac2,2026-11-20,0,,1
+www.saint-gobain.cz,,"Fri, 20 Nov 2026 08:40:10 GMT",241d7dd8571a3e2f,2026-11-20,0,,1
+teneo.cz,"""971b923f440b066e2b96e91a344b37c3-gzip""","Wed, 28 Oct 2026 08:41:24 GMT",d0a676db61fab414,2026-11-20,0,,1
+damskydenik.cz,,,eb8a1ede11eaac2d,2026-11-20,0,,1
+ddfilipov.cz,"W/""ee058c1fc15150a3c602bb1dc97d7a65""","Fri, 20 Nov 2026 09:20:18 GMT",4fd5dfb293c32db7,2026-11-20,0,,1
+www.kidscompany-praha.cz,,,f6956bcbd10b8075,2026-11-20,2,,0
+www.resortaurum.cz,,,e3b49e7314463a3c,2026-11-20,0,,1
+www.svencom.cz,"W/""1b314d3fc1d99c91c8c8ad9bd9ad9c3c""",,d7f85d752d2af27b,2026-11-20,0,,1
+elektro.nwt.cz,,,7be78d409aac8c8f,2026-11-20,0,,1
+www.kremtech.cz,,,,2026-11-20,,1,
+www.wachal.cz,"""2150-1795034257;zs""",,2d2d420fe268f2af,2026-11-20,0,,1
+whic.cz,,,33dc273de705527a,2026-11-20,0,,1
+www.rusar.cz,"W/""74cec5b19fd1eaffd3a0fffb36513fba""","Tue, 14 Jul 2026 10:50:14 GMT",cfc47ab65341af20,2026-11-20,0,,1
+www.karesarch.cz,,,79cbb1d3119cea54,2026-11-20,0,,1
+dts-sterky.cz,"""501-65dced2338806-gzip""","Wed, 14 Oct 2026 15:45:31 GMT",7acc97e1dccbc81e,2026-11-20,0,,1
+radambuk.cz,,,27648c665ccdd011,2026-11-20,0,,1
+www.jipocar.cz,"""09461090""","Sun, 01 Nov 2026 22:12:58 GMT",9a6753a4c7627dbf,2026-11-20,0,,1
+www.jiidelna.cz,"W/""aef843b66f285a4482e5ab20f704a676""",,37a98516cf9c82b9,2026-11-20,0,,1
+www.envi-pur.cz,,,a145282ed5bd8f3f,2026-11-20,0,,1
+jirkovska-izolacni.cz,,,194ef0385d81fe69,2026-11-20,0,,1
+bytyzapad.cz,,,eca5240c9f8f5fd6,2026-11-20,0,,1
+digipromo.cz,,,1cbdbb6d07b0d9d6,2026-11-20,0,,1
+www.okna-lexikon.cz,,"Mon, 02 Nov 2026 22:10:48 GMT",ab8c5e9d00ba454b,2026-11-20,0,,1
+www.ckdsh.cz,,"Fri, 20 Nov 2026 09:20:19 GMT",6763cfb46403a078,2026-11-20,0,,1
+monit.cz,,,9054ef2791dba3eb,2026-11-20,0,,1
+www.patriakobyli.cz,"W/""d74313f1ad2d8936833913cc27384751""","Wed, 21 Oct 2026 15:24:25 GMT",f1a893037bdadefc,2026-11-20,0,,1
+autoelektrika.cz,"W/""1acc7cd75b5e399a5c5896a9d920998b""","Thu, 01 Oct 2026 14:15:53 GMT",4efcb5586eab04b4,2026-11-20,0,,1
+www.lorkovavila.cz,,,85caab6f4ab83b86,2026-11-20,0,,1
+www.autojerabydolan.cz,,,24ee8bf1542480b1,2026-11-20,0,,1
+komatec.cz,"W/""01316be6f81ef6f029c8f6da94c3ffbc""","Mon, 21 Feb 2022 09:16:12 GMT",2b513192b2efdf05,2026-11-20,0,,1
+www.210gym.cz,"""c1186e424bf8177c1672f831e59f885d-gzip""","Fri, 20 Nov 2026 08:09:26 GMT",e3117cab6d447a49,2026-11-20,0,,1
+www.adent.cz,,,6eef8f1009f40b16,2026-11-20,0,,1
+www.retailstrakonice.cz,,"Fri, 13 Nov 2026 11:15:29 GMT",2ea83b840624dd06,2026-11-20,0,,1
+www.intrans.cz,,,2ec2064cc3617cc1,2026-11-20,0,,1
+www.panskydvurtelc.cz,,,32371b3408253ee2,2026-11-20,0,,1
+hyundaihk.cz,,,c06c91327e29605b,2026-11-20,0,,1
+www.hotelmodrava.cz,,,fb197d866473ba0e,2026-11-20,0,,1
+www.sportovnipece.cz,,,11d27eb6fe90e73f,2026-11-20,0,,1
+firm-transport.cz,"""cab15aec6e5949a187c566c6ea3d1aad-gzip""","Wed, 07 Oct 2026 10:12:53 GMT",eff446803b2401a6,2026-11-20,0,,1
+www.jackwest.cz,,,11a851d032602f6b,2026-11-20,0,,1
+www.mobiltech.cz,"W/""1756bf90f835c232d356d2855ea20631""","Fri, 07 Nov 2025 14:17:56 GMT",38704e0ae5f1b907,2026-11-20,0,,1
+vodotech.cz,,,a63de413524fcab3,2026-11-20,0,,1
+www.gan.cz,,,d14a59e17eb6b356,2026-11-20,0,,1
+vysocinaautogroup.cz,,,572997c8246007e4,2026-11-20,0,,1
+www.zahradanastenu.cz,"W/""71979a1c7a52e388b3c13c190022b937""","Tue, 12 Oct 2021 07:02:15 GMT",7ad013fb7671df96,2026-11-20,0,,1
+www.bidfood.cz,"""1795162626-gzip""","Fri, 20 Nov 2026 08:17:06 GMT",0c54039e4d9e6f77,2026-11-20,0,,1
+www.carecomm.cz,"W/""f96e41be7d198275a72d4bad4f698d43""",,62509a8fdb845b66,2026-11-20,0,,1
+aquacentrum-teplice.mswork.cz,,"Fri, 20 Nov 2026 09:20:22 GMT",d292e2b555fe577b,2026-11-20,0,,1
+zamecnictvibruchotin.cz,,,f9b4b8916e3b8f8b,2026-11-20,0,,1
+www.sunflow.cz,"W/""e3e8cafd69b824f2592e92b2a61c38ee""","Sun, 04 Feb 2024 15:53:46 GMT",ea7560d0803dfd20,2026-11-20,0,,1
+www.tesmo.cz,"""e621f481884a6aadf248ade415a3f4ed-gzip""","Mon, 23 May 2022 08:35:30 GMT",0797f9e4f7d64108,2026-11-20,0,,1
+brema.cz,"W/""b13bb1f9775f27bc1838562ee43faa94""","Wed, 18 Nov 2026 07:33:17 GMT",cbee37622f6cfda9,2026-11-20,0,,1
+www.chodskalesni.cz,,,ed895effc128e423,2026-11-20,0,,1
+www.ugo.cz,,,9b99f452c17e8df5,2026-11-20,0,,1
+www.softapp.cz,,,88bdb2139b8c7c06,2026-11-20,0,,1
+b-inside.cz,,,9fbba011627d7d4e,2026-11-20,0,,1
+showdown.cz,,,8a736d60e9ff07f5,2026-11-20,0,,1
+www.hanak-home.cz,,,466b72460136cd9d,2026-11-20,0,,1
+www.army-surplus.cz,,,28b259b69ebf0aba,2026-11-20,0,,1
+www.kovodruzstvo-plzen.cz,"W/""9daf4996112add25dee62a3f5cd808f5""","Wed, 18 Nov 2026 08:19:28 GMT",74ec9c796cf3348f,2026-11-20,0,,1
+www.zpracovanimezd.cz,,,1a1bd577f84865a4,2026-11-20,0,,1
+alcentrum.cz,,,d08f3ced30cc310d,2026-11-20,0,,1
+www.janklein.cz,,,,2026-11-20,,1,
+www.varhall.cz,,,83d47fc39507a1a3,2026-11-20,0,,1
+www.alfapol.cz,,,1f7e5bd5b572ff80,2026-11-20,0,,1
+www.fokustabor.cz,,,f7f0e7d345cd0ee2,2026-11-20,0,,1
+demolab.ceitec.cz,,,8e531858a892fed7,2026-11-20,0,,1
+sbranding.cz,"""5231cb2b16e4e5445ff83e1a1b650aed""","Wed, 18 Nov 2026 12:44:02 GMT",f7393d655bf90941,2026-11-20,0,,1
+www.awcool.cz,,,0cbeb26a765a9630,2026-11-20,0,,1
+www.zahradnictvistastny.cz,,,3f90c09e9d887b60,2026-11-20,0,,1
+www.zuslj-havirov.cz,,,3f915da2e02cd0dd,2026-11-20,0,,1
+www.agrocs.cz,"W/""154bf4b5d31ad4a9341b2e5f08c567ca""",,d7edb165723ac703,2026-11-20,0,,1
+temaco.cz,"""3304799b41189dd19d809d7f98cdca1b""","Fri, 20 Nov 2026 09:20:29 GMT",e9719c74ecdb0ae6,2026-11-20,0,,1
