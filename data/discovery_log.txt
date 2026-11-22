@@ -232,3 +232,15 @@ probe | checked 0 | {}
 employers | to check 182
 employers | checked 182 | {"active": 8489, "inactive": 12348, "empty": 6048, "error": 127}
 done in 2 min
+Discovery (weekly) 2026-11-22
+sponsors | UK | 120598
+sponsors | NL | 13082
+sponsors | CA | 23
+open-jobs-data | new employers added 0 (total 27012)
+target | new websites added 0 (total 117344)
+targets | 158 employers in the list
+probe | websites to check 0
+probe | checked 0 | {}
+employers | to check 8322
+employers | checked 8322 | {"active": 6814, "inactive": 12625, "empty": 6188, "error": 1385}
+done in 14 min

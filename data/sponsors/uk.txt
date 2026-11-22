@@ -115,6 +115,7 @@
 15gifts
 16 barrack ta saffron indian restaurant pizza place
 16 plus care support solutions
+16 signs
 160b consulting
 168 express
 16cs operations
@@ -135,6 +136,7 @@
 18 degrees below
 18 november
 18 week support
+180 studios software
 184 distribution
 1854 media
 186 london
@@ -581,6 +583,7 @@
 44 energy
 444 rentals
 44pixels
+45 gleneagles close south oxhey
 47 kitchen catering
 474 management
 4986 miles
@@ -1463,6 +1466,7 @@ a1 masala mart
 a1 minibus and coach
 a1 mot centre northampton
 a1 permier services
+a1 pharmaceuticals public
 a1 plumbers
 a1 pound store
 a1 quality home care
@@ -1805,6 +1809,7 @@ aarun software
 aarush news
 aarusha
 aaruvika
+aarvee associates
 aarvienterprise5912
 aarvn it
 aarya nails and beauty
@@ -2073,6 +2078,7 @@ abc smile
 abc studio childcare
 abc taxis 247
 abc travel
+abc worldwide
 abcam
 abcfabulous
 abd alrahman alisha
@@ -2122,7 +2128,6 @@ abellio scotrail
 abelon systems
 abels moving services
 aber medical centre
-aber soft
 abercare
 aberclean plant and sweeper hire
 abercrombie dental practice
@@ -2609,7 +2614,6 @@ accounts tax
 accounts tax int
 accountx
 accredible
-accredo support and development
 accrete management
 accrington surgical instrument suppliers
 acctax
@@ -3246,6 +3250,7 @@ adelaide nursing home
 adelanta consulting
 adelante software
 adelik healthcare
+adem s hair beauty
 adem sb
 ademchic
 ademco 1
@@ -3488,7 +3493,6 @@ advanced auto technik
 advanced automobile solutions
 advanced avionics
 advanced beauty clinic and training
-advanced beauty medical
 advanced broadcast services
 advanced building maintenance services
 advanced care
@@ -3853,7 +3857,6 @@ aflex
 aflorithmic labs
 afm consulting
 afoakwa market
-afon goch children s homes
 afon technology
 afonsom
 afp assets
@@ -4305,6 +4308,7 @@ ai ta flying horse restaurant
 ai tea drinks
 ai tech
 ai tech builders
+ai technology consulting
 ai4process
 aiad investments
 aiam
@@ -4428,7 +4432,6 @@ air design
 air for life
 air handlers northern
 air india
-air it
 air liquide
 air navigation solutions
 air new zealand
@@ -4445,6 +4448,7 @@ air studios
 air technology systems
 air torque
 air trips
+air utilities
 air worldwide
 air x
 aira digital
@@ -4720,6 +4724,7 @@ ak windows south
 ak23
 aka chartered accountants
 aka europe
+aka innovations power electrical engineering
 aka manchester
 aka pharma
 aka promotions
@@ -5559,6 +5564,7 @@ alif moosajee trading as oakdale dental
 alif taste of lahore
 aliflammeem
 alifya education
+aligatou
 alighieri
 alight fire system
 align 4 life sevenoaks
@@ -6260,7 +6266,6 @@ alto cars
 alto hearing
 altodata
 altogether care
-altomart
 alton
 alton aviation consultancy
 alton convenience store
@@ -6333,6 +6338,7 @@ alviz studios
 alvony house
 alvori
 alvotech
+always caring bromley
 always growing
 always inclusive
 alwayssmile medtech
@@ -6951,6 +6957,7 @@ amstor accountants
 amsun
 amsun it
 amt lawyers
+amt sports
 amt sybex
 amtal
 amtc care
@@ -7129,7 +7136,6 @@ anda house
 andaaz pan centre
 andair
 andaman surgery
-andaria financial services
 andaz hotel
 andbloom
 andcrafted
@@ -7220,6 +7226,8 @@ andurand capital management
 anduril industries
 andy harmon
 andy sturgeon garden design
+andy thornton
+andy walker construction
 andybusiness
 anedottica
 aneeba fashion beauty
@@ -7507,7 +7515,6 @@ annaluxmy
 annamar
 annamayya
 annan store
-annapoorana foods
 annapurna
 annapurna catering
 annapurna grocery ta nepalese centre
@@ -7813,6 +7820,7 @@ aperta care
 apertum online
 aperture hub
 aperture investors
+aperture management
 aperture media
 aperturechina
 apetito
@@ -7985,6 +7993,7 @@ apperio
 appeta
 appetiser pizza feltham
 appex services
+appfluo
 apph
 apphere
 appi clinics
@@ -8388,6 +8397,7 @@ arc club
 arc community care
 arc connect
 arc consultancy and media
+arc control systems
 arc dental surgery
 arc design consultants
 arc engineering
@@ -8566,6 +8576,7 @@ arcus global
 arcus infrastructure services
 arcwide i
 ard lift elevator
+arda biomaterials
 ardach health centre
 ardagh glass
 ardagh metal packaging
@@ -8601,7 +8612,6 @@ ardis services
 ardit painters decorators
 ardmac performance contracting
 ardmel automation
-ardmore construction
 ardmore veterinary
 ardo
 ardo maestro
@@ -9062,6 +9072,7 @@ art africa
 art and science
 art assembly
 art convenience store
+art credit
 art events and media
 art gazette global
 art genpower solutions
@@ -9082,6 +9093,7 @@ art services
 art sweets
 art sy
 art technologies
+art time barber
 artaml
 artax capital
 artbloc
@@ -9677,7 +9689,6 @@ ashtrom properties
 ashtronix
 ashu
 ashu dundee
-ashurst
 ashurst lodge healthcare
 ashurst park care home
 ashurst perkins coie
@@ -10186,6 +10197,7 @@ astroten
 astrum multi academy trust
 asts bristol
 astudio
+astus
 astute
 astute data systems
 astute healthcare
@@ -10236,6 +10248,7 @@ at medics
 at my smile studio
 at siam
 at t istel
+at t rentals
 at the movies
 at your side care
 at3n
@@ -10557,6 +10570,7 @@ attolife
 attr
 attraction tickets
 attraction tickets direct
+attraction world
 attune
 attune acoustics
 attwood academies
@@ -11297,7 +11311,6 @@ awelon healthcare
 awen collective
 awesoe hospitality ith
 awesome construction
-awesome fastfood
 awesome living
 awesome programming
 awesonova
@@ -12287,6 +12300,7 @@ bam tw ta beauty lounge
 bama europa
 bama tech
 bambers farm
+bambi air
 bambi s
 bamboo
 bamboo connect
@@ -12490,7 +12504,6 @@ baptist union of great britain
 baqrx pharma
 bar 86
 bar association
-bar b que base foods
 bar collective
 bar des pres
 bar dona
@@ -12800,7 +12813,6 @@ baserri
 basf
 basf metals
 bash ecocleaners service
-bash grill kingsbury road
 bashir aa sons
 bashir accountants
 bashir halal meat
@@ -13267,7 +13279,6 @@ beamerton heath store
 beamery
 beamfast
 beamish museum
-beamo
 beams
 beams renovation
 beamsec
@@ -13711,7 +13722,6 @@ belleza beauty
 belleza beauty spa
 bellfarm construction
 bellfred
-bellhouse care home
 bellini
 bellini s italian restaurant
 bellissima weddings
@@ -13753,6 +13763,7 @@ belmont view
 belmont villa care home
 belmont woolrich
 belogic systems
+belong learning cic
 beloved homecare
 below280
 beloy sas
@@ -13779,7 +13790,6 @@ belvidere court
 belvidere medical practice
 belvoir healthcare
 belvoir home care
-belvoir steak and curry house
 belyfted limted
 belzona polymerics
 beman
@@ -14022,6 +14032,7 @@ bermar
 bermiz
 bermondsey engineering trade
 bermont advisors
+bermuda brokers
 bermuda civil aviation authority
 bernadette banner
 bernard berger
@@ -14041,7 +14052,6 @@ berran
 berry drive stores
 berry gail
 berry good partnerships
-berry health
 berry maple
 berry palmer lyle
 berry s treat
@@ -14163,7 +14173,6 @@ best forex
 best furniture
 best glazing
 best halal meat
-best halal meat supply
 best homes builder
 best in care
 best in city
@@ -14302,7 +14311,7 @@ better bargain
 better care services
 better collective services
 better dairy
-better decision groups
+better decisions
 better families social work services
 better futures multi academy trust
 better half
@@ -14617,7 +14626,6 @@ bideford visionplus
 bidem afriventure
 bidex foods
 bidfx
-bidstack
 bidvest noonan
 bidwells
 bie magnum
@@ -14841,7 +14849,6 @@ binley solid surface
 binley woods service centres
 binodini
 binoy indian
-binsina
 binsols
 binsun
 bintel
@@ -14899,7 +14906,6 @@ biomodal
 bion solutions
 bionema
 bionic associates
-bionic services
 bionical solutions
 bioniq health tech solutions
 biontech
@@ -14940,7 +14946,6 @@ bira care homes ta avenue road nursing home
 birbeck medical
 birch airfield composting services
 birch assist
-birch care
 birch grove capital
 birch tree manor
 birches head medical centre
@@ -14973,7 +14978,6 @@ birdfynn accountants
 birdi
 birdie care services
 birdlife
-birdmilk one
 birdquest
 birds and animals
 birds view property investments
@@ -15478,7 +15482,6 @@ bleach products
 bleat post production
 blecon
 blek
-blend and brew
 blend crafters
 blend family
 blend marketing
@@ -15532,7 +15535,6 @@ bliss care 3
 bliss care solutions
 bliss care torquay
 bliss convenience store
-bliss eventworks
 bliss growth
 bliss route courier
 bliss software solutions
@@ -15588,7 +15590,6 @@ bloom regulatory
 bloom solihull
 bloom square london
 bloom stones london
-bloom trade
 bloom unlimited
 bloombar watches
 bloomberg lp
@@ -16016,7 +16017,6 @@ bmh shipbroking
 bmh tutors
 bmi
 bmi globaled
-bmi healthcare trading as circle health
 bmi project
 bmi trailers
 bmj publishing
@@ -16179,7 +16179,6 @@ boiler room
 boiler spares centre
 boina
 boing tea
-boing trading
 boisdale
 boitefin
 boka capital
@@ -16271,6 +16270,7 @@ bombay corner
 bombay cuisine
 bombay deli
 bombay delight
+bombay dragon
 bombay gloucester
 bombay halwa
 bombay hospitality
@@ -16625,6 +16625,7 @@ bournemouth rainbow
 bournemouth symphony orchestra
 bournemouth university
 bournemouth visionplus
+bourneside services
 bourns
 bourse and bazaar foundaton
 bourville service station
@@ -16891,6 +16892,7 @@ brainstorm mobile solutions
 braintree
 braintree dental studio
 braintree district council
+braintree pcn
 braintree specsavers
 brainwave business consultants
 braithwate
@@ -16964,7 +16966,6 @@ brandlab london
 brandly ventures
 brandmovers europe
 brandon care
-brandon groundworks
 brandon medical
 brandon schubert
 brandon trust
@@ -17336,7 +17337,6 @@ brigham young university
 brighouse sushi
 bright almond care
 bright angel travel
-bright associates
 bright biotech
 bright blue campaign
 bright blue day
@@ -17512,7 +17512,6 @@ brioche pasquier
 brisca healthcare
 brisdoc healthcare services
 brisel consult
-brisfix
 brisk global travels
 brisk renovations
 brisko scaffolding
@@ -18014,6 +18013,7 @@ browne white
 brownfield solutions
 brownhill care
 brownhill corporate hire
+brownhill surgery
 browning associates
 brownlow enterprises
 brownlow practice
@@ -18072,7 +18072,6 @@ brunning price
 bruno boulay
 brunswick coffee
 brunswick consultants
-brunswick east
 brunswick health centre
 brunswick house cafe
 brunswick park medical practice
@@ -18101,7 +18100,6 @@ bryden johnson
 bryden wood
 brydg capital
 brymbo tanyfron regeneration trust
-brymore care homes
 brympton house estates
 bryn awelon care home
 bryn darland surgery
@@ -18118,7 +18116,6 @@ brynmawr medical practice
 brysa
 bryson house
 bryter
-bryter services
 bs aero supplies
 bs as maidstone
 bs bham 3
@@ -18651,6 +18648,7 @@ business development director
 business disability forum
 business dispatch
 business edge solutions
+business essentials services
 business excellence europe
 business help
 business horizon
@@ -18818,7 +18816,6 @@ bw partnership brant road dental practice
 bw refrigeration air conditioning
 bw solicitors
 bw1 consultants
-bw1 enterprise
 bwa health care services
 bwam
 bwb consulting
@@ -19162,6 +19159,7 @@ cafe aroma
 cafe aylanto
 cafe barcelona
 cafe boats
+cafe bueno
 cafe central park
 cafe chat
 cafe chutney s
@@ -19208,8 +19206,6 @@ cafe plus
 cafe revive
 cafe route
 cafe royal management
-cafe salford
-cafe sia
 cafe spice
 cafe spice new
 cafe sweet t d as cafe sweet
@@ -19555,7 +19551,6 @@ cambridge star college
 cambridge steiner school project
 cambridge stoke college
 cambridge street school
-cambridge touch technologies
 cambridge tutors college
 cambridge union society enterprises
 cambridge united football club
@@ -19783,6 +19778,7 @@ canterbury care homes
 canterbury christ church university
 canterbury medical practice
 canterbury tale
+canterbury visionplus
 cantifix
 cantillon capital
 cantilupe surgery
@@ -19796,7 +19792,6 @@ cantronik ta veethree technologies
 canuck capital
 canva operations
 canvas events
-canvas software
 canvas8
 canvasbay
 canverse games
@@ -20292,7 +20287,6 @@ care service
 care service solution
 care services
 care shield services
-care signature christian homecare services
 care solution bureau cic
 care solutions homecare
 care solutions st helens t a
@@ -20388,6 +20382,7 @@ carelight healthcare
 careline
 careline home support
 careline lifestyles
+carelink healthcare professionals
 carelink homecare services
 carelodges
 carelytical home care limted
@@ -20515,6 +20510,7 @@ carisbrook partners
 carisbrooke dental leicester
 carisbrooke healthcare
 carisbrooke shipping
+cariss logistics
 caristo diagnostics
 caritas diocese of salford
 caritas support
@@ -20846,6 +20842,7 @@ castle trading
 castle trust capital
 castle u k
 castle villas
+castle waste services
 castle water
 castlebank care home
 castlebridge hotels birmingham airport employment
@@ -21990,6 +21987,7 @@ chartam house nursery
 chartbeech
 charter global
 charter green
+charter hcp
 charter property
 chartered accountants benevolent association
 chartered institute of arbitrators
@@ -22009,6 +22007,7 @@ charteris treasury portfolio managers
 charters reid surveyors
 charters school
 chartersync
+chartfield surgery
 chartiq
 chartwell care services
 chartwell construction
@@ -22437,7 +22436,6 @@ chick chicken london
 chick fil a
 chick n hut food
 chicka
-chickalicious
 chickanos family
 chickaros hodge hill
 chicken 4 u
@@ -22539,7 +22537,6 @@ chilli nights
 chilli pepper
 chilli s bridgford
 chilli source software
-chilli spice
 chilli zone
 chillibean
 chillichicks tong
@@ -22605,7 +22602,6 @@ china healthcare
 china holidays
 china marketing
 china merchants bank
-china merchants securities
 china minsheng banking london branch
 china mobile
 china national publications import export london office
@@ -22669,6 +22665,7 @@ chiropractic 1st
 chiropractic clinic eastcote
 chiropractic life
 chiropractic plus
+chirpy heat
 chisenhale gallery
 chisholm hunter
 chishti traders
@@ -22701,7 +22698,6 @@ chm global
 choaccountancy and practice
 chobham store
 choco communications
-chocoberry
 chocoberry cafe
 chocoberry cardiff 1
 chocohugs
@@ -23083,6 +23079,7 @@ ciphr
 cipla
 circadia technologies
 circadian lighting
+circadian therapeutics
 circana
 circet
 circle
@@ -23162,6 +23159,7 @@ citizen ticket
 citizens advice 1066
 citizens advice brent
 citizens advice bury bolton
+citizens advice in north kent
 citizens advice mid mercia
 citizens advice plymouth
 citizens advice richmond
@@ -23325,6 +23323,7 @@ civcon civil engineering
 civic care
 civic engineers
 civic marketing
+civic mep
 civic recruitment
 civic studios
 civica
@@ -23424,6 +23423,7 @@ clardent
 clare college
 clare food superstore
 clare hall university of cambridge
+clare healthcare
 claredonlocal retail
 claregrange trading
 clarehaven
@@ -23613,7 +23613,6 @@ clean360 u k
 cleanco ventures
 cleanevent services
 cleaning equipment sales and services
-cleaning fairies bristol
 cleaning services near me
 cleaning solutions sussex
 cleanny property services
@@ -23805,7 +23804,6 @@ clifton road surgery
 clifton trade bathrooms
 clifton village pharmacy
 cliftonville off licence
-cliikk accident repair centre
 climar industries
 climate 2025
 climate asset management
@@ -24269,7 +24267,6 @@ cocoon carbon
 cocoon children services
 cocoon vegetarian cafe
 cocoro bayswater
-cocos mexican cuisine
 cocoyaya
 cod father blackwood
 coda communications
@@ -24367,6 +24364,7 @@ cofton country holidays
 coga ai
 cogent
 cogent breeding
+cogent bytes
 cogent financial services
 cogent healthcare
 cogent networks
@@ -24591,6 +24589,7 @@ columbia cruise services
 columbia lake partners manager
 columbia pictures
 columbia shipmanagement
+columbo south
 columbus forty
 columbus forty five
 columbus global
@@ -25079,7 +25078,6 @@ cone marshall services
 conectere consulting
 conex universal
 conexus healthcare c i c
-confederation of indian industry
 conference contacts
 conference technologies
 conferencecast
@@ -25423,6 +25421,7 @@ control techniques dynamics
 control technologies
 control towers
 control vs exposed
+controlai
 controlcase
 controlled events
 controlo cargo services
@@ -25669,7 +25668,6 @@ coredata research
 coreflex solutions
 corekonnect
 corelight
-coreline fibre
 corelogic solutions
 coremaker
 coremont
@@ -25935,6 +25933,7 @@ cotswold classic car restorations
 cotswold energy
 cotswold farm hideaway
 cotswold house care home
+cotswold medical clinics trading as the cotswold physio rooms
 cotswold medical practice
 cotswold restaurant
 cott s care
@@ -26138,7 +26137,6 @@ cowan bros ni
 cowan consultancy
 coward pharmacy
 cowater
-cowbell cyber
 cowdenbeath medical practice
 cowen
 cowgills
@@ -26482,7 +26480,6 @@ credico marketing
 credit agricole corporate investment bank london branch
 credit agricole s a london branch
 credit benchmark
-credit data research
 credit financier invest
 credit help hire
 credit industriel et commercial
@@ -26498,6 +26495,7 @@ crednet technologies
 credo alliance
 credo capital
 credo technology services
+cree restaurants
 creed medical
 creedy carver
 creedy number1
@@ -26523,7 +26521,6 @@ crep protect
 crepe
 crerar hotels
 crescendo biologics
-crescendo entertainment
 crescent business
 crescent care
 crescent care home cornwall
@@ -26626,6 +26623,7 @@ crisil irevna
 crisis
 crisis prevention institute
 crisis24
+crisp pizza
 crisp thinking
 crisplen healthcare
 crispy bites
@@ -27004,6 +27002,7 @@ csc computer sciences
 csc management services
 csg bodyshop
 csg healthcare
+csh hvac
 csi global
 csi leasing
 csignum
@@ -27071,7 +27070,6 @@ cu global supply chain
 cu lighting
 cu medical services
 cua hotel university arms parkers tavern
-cuantec
 cuatrecasas
 cub studio
 cubanhall
@@ -27106,10 +27104,8 @@ cubitt house
 cubitts kx
 cubix contractors
 cucina 35
-cucina eat
 cucina italian restaurant
 cuckoo dought
-cuckoo fibre
 cudd bentley consulting
 cudo ventures
 cuerden developments
@@ -27362,7 +27358,6 @@ cv bramhall
 cv europe
 cv library
 cv one
-cv1 hospitality
 cva corporate value associates
 cvc advisers
 cvc services
@@ -27475,6 +27470,7 @@ cygames europe
 cygilant
 cygnet call centre
 cygnet care
+cygnet health care
 cygnet infotech
 cygnetise
 cygnum capital
@@ -27621,6 +27617,7 @@ d l toro
 d link
 d lux salon
 d m a macleod
+d m cakes
 d m dorset
 d m food wine
 d m j profile tyres
@@ -27651,6 +27648,7 @@ d r jones yeovil
 d r retail
 d r wakefield
 d r warlingham
+d rocks restaurant takeaway
 d roy
 d s a drinks
 d s burge and
@@ -27742,7 +27740,6 @@ dac power
 dacey
 dachser
 daci utilities engineering consultancy
-dack motor
 dacorum borough council
 dacre house trading as dacre house veterinary clinic
 dacsa
@@ -27815,7 +27812,6 @@ dairy farm products
 dairy lincs
 dairyfresh
 dairygold food ingredients
-daish s esplanade hotel
 daisy
 daisy chain studio
 daisy communications
@@ -27858,6 +27854,7 @@ dalchini
 dalcon
 dale care and support
 dale carnegie london
+dale farm cooperative
 dale farming
 dale kane trailers
 dale medical practice
@@ -28635,7 +28632,6 @@ ddq invest
 ddrc healthcare
 ddre
 ddss
-ddteck
 ddz interiors
 de aston school academy trust
 de baere
@@ -28845,7 +28841,6 @@ deep knowledge analytics
 deep medical
 deep meta
 deep ocean contracting
-deep planet
 deep render
 deep science ventures
 deep sea electronics
@@ -28900,6 +28895,7 @@ define planning and design
 define services
 defined wine
 definite article media
+definition
 defne trading
 deg foods
 degh tegh
@@ -29110,7 +29106,6 @@ deluxe services
 deluxe sign services
 deluxe staffing
 deluxe supported living services
-deluxsmile
 delvendahl martin
 dem dx
 dem pharmaceuticals
@@ -29260,6 +29255,7 @@ dentology healthcare
 denton convenience store
 denton corker marshall
 denton go local
+denton powell
 denton turret medical centre
 dentons and middle east legal services
 dentons europe
@@ -29410,7 +29406,6 @@ desi kitchen and grill
 desi lounge
 desi oasis
 desi production
-desi spice
 desi street
 desi stylz
 desi swad catering
@@ -30051,7 +30046,6 @@ digital back office
 digital boutique
 digital buying partners
 digital cafe
-digital camz
 digital catapult
 digital cinema media
 digital clipboard
@@ -30126,7 +30120,6 @@ digital therapeutics
 digital transformation capital partners
 digital travel marketing
 digital uncut
-digital unlimited
 digital voices
 digital willow
 digital workforce services
@@ -30285,7 +30278,6 @@ diploma
 diplomat chauffeurs
 dipol print
 dipont
-dippy
 dips foods
 diptis threading bar
 dirac software
@@ -30310,6 +30302,7 @@ direct fm
 direct food ingredients
 direct glazing
 direct health first
+direct health solutions
 direct healthcare
 direct healthcare 24
 direct line supplies
@@ -30601,6 +30594,7 @@ dkk partners
 dkk supplies
 dkl resources
 dklm
+dkm healthcare
 dkms foundation
 dkr it consulting
 dkr management services
@@ -30828,7 +30822,6 @@ dolly s food
 dollys news
 dolma kitchen
 dolmen development
-dolon
 dolos
 dolphin care agency
 dolphin civil engineering
@@ -31358,6 +31351,7 @@ dr reddys laboratories
 dr rez dental
 dr rory stewart
 dr rr
+dr s mcverry mcgee farnon
 dr s n gupta and partners
 dr s p singh and partners
 dr s raghavan
@@ -31426,7 +31420,6 @@ dragonfly venture
 dragonheart homes
 dragonpass
 dragons lounge
-dragonwood investment
 drainwork solutions
 drake music scotland
 drake primary school
@@ -31768,7 +31761,6 @@ dtcc europe
 dtd courier cargo
 dtd developments
 dtdc courier cargo
-dte
 dtechtive
 dtek
 dtek investments
@@ -31891,6 +31883,7 @@ dulwich orthodontic centre
 dulwich picture gallery
 dulwich prep senior
 dulwich spice
+dulwich therapy rooms
 dum factory
 duman bold street
 dumarey flybrid
@@ -32007,6 +32000,7 @@ durban curry club
 durbar hospitality
 durdle
 durell software
+duress
 durga and sons
 durga traders
 durham animal feeds
@@ -32630,6 +32624,7 @@ east west rail
 east west stores
 east wing
 east wing dental surgery
+eastbane
 eastborough partners
 eastbound trade
 eastbourne borough council
@@ -32724,7 +32719,6 @@ eastway pharma
 eastwest builders
 eastwood court care home
 eastwood lodge
-eastwood park
 eastwood park academy trust
 eastwood partners
 eastwood primary care centre
@@ -33018,7 +33012,6 @@ eco green canopy
 eco green home grants
 eco green survey
 eco green upgrades
-eco greenenergy solutions
 eco heating wm
 eco home plans
 eco homes direct
@@ -33263,6 +33256,7 @@ edge management
 edge mortgages
 edge placemaking
 edge property
+edge retail
 edge services
 edge street
 edge testing solutions
@@ -33536,6 +33530,7 @@ effencel
 effendy ventures
 efficient food services
 efficient home energy
+efficient homes energy advisors
 efficient salon consultants
 efficient signs and print solutions
 efficient surveyors
@@ -33688,7 +33683,6 @@ eightpoints
 eighty eight ventures
 eigra
 eik business
-eikoku news digest
 eikon
 eikon peters technology consulting
 eikos risk capital
@@ -33771,6 +33765,7 @@ el care services
 el emad and sons
 el foods
 el frico
+el halal bucks
 el jireh
 el k
 el lomito
@@ -34024,7 +34019,6 @@ elevate everywhere
 elevate legal services
 elevate philanthropy
 elevate property
-elevatebuild construction services
 elevated goals
 elevating you coaching
 elevation advisors
@@ -34121,7 +34115,6 @@ elite chauffers
 elite choice home care
 elite citizen
 elite class
-elite cleaning and facility services
 elite closing academy
 elite coaters
 elite commercial interiors
@@ -34220,7 +34213,6 @@ elizabeth court rest home
 elizabeth courtauld partnership
 elizabeth hadeed
 elizabeth house
-elizabeth house rest home
 elizabeth jane hartle trading as aycliffe dentistry
 elizabeth palms
 elizabeth peters care homes
@@ -34311,7 +34303,6 @@ elmfield care
 elmfield rudolf steiner school
 elmfield trading
 elmfield wines
-elmglade residential care home
 elmham surgery
 elmhurst
 elmhurst ballet school in association with birmingham royal ballet
@@ -34468,7 +34459,6 @@ embross
 embs community college
 emby products
 emc energy market consultants
-emc trailers
 emcas lincolnshire
 emcee associates
 emcer
@@ -34579,7 +34569,6 @@ emmett shirtsltd
 emmi
 emmy construction
 emmy shop
-emocial
 emoi supply
 emory hotel
 emotech
@@ -34950,6 +34939,7 @@ engineered solutions
 engineered vibration solutions
 engineeria
 engineering and consultancy
+engineering and development solutions
 engineering construction industry training board
 engineering consultancy services
 engineering council
@@ -35195,6 +35185,7 @@ enviro wise solutions
 envirocentre
 envirolec smart energy solutions
 environ audio
+environ civil engineering
 environ consultants
 environment agency
 environment friendly tyres
@@ -35211,6 +35202,7 @@ environmental investigation agency
 environmental justice foundation charitable trust
 environmental power
 environmental products and services
+environmental protection strategies
 environmental resources management
 environmental services design
 environmental site safety solutions
@@ -35390,6 +35382,7 @@ equality solutions
 equals
 equals collective
 equals consulting
+equation
 equation lighting design
 equation solution
 equativ
@@ -35585,6 +35578,7 @@ escape london
 escapeworld
 escatec mechatronics
 escentral
+escher software services
 eschler asset management
 eschmann technologies
 esco gb
@@ -35606,7 +35600,6 @@ esen europe
 eseye
 esferize
 esg book
-esg energy service
 esg global
 esg360 risk management
 esh sub
@@ -36213,6 +36206,7 @@ eve adam consultancy
 eve after dark food concepts
 eve animal care
 eve johnson houghton
+eve johnson houghton racing
 eve waldron design
 evecom
 evedale care
@@ -36223,7 +36217,6 @@ evenco
 evendo
 evening standard
 evening star
-evening star fr
 evenlode investment management
 evenort
 evensix
@@ -36499,7 +36492,6 @@ evre
 evremond estate
 evri
 evron foods trading as easibake foods
-evry financial service
 evrythng
 evs broadcast
 evtec automotive
@@ -37453,7 +37445,7 @@ family history films
 family homecare
 family kids and youth
 family medical centre
-family office tax services
+family office tax
 family pathway
 family practice
 family property solutions
@@ -37648,7 +37640,6 @@ fashviart
 fasken martineau
 fasque castle
 fast accountancy solutions
-fast action services
 fast and fresh food
 fast and furious services
 fast autos
@@ -37848,7 +37839,6 @@ fdj gaming solutions
 fdldn
 fdm
 fdmuk
-fdr social care
 fds
 fds building services consultancy
 fdt construction services
@@ -37873,6 +37863,7 @@ feather stone care
 featherstone high school
 featherstone newsagent trading as byram park stores
 feb bros ta usa fried peri peri chicken
+febdol corporate services
 febe
 fecund care providers
 fed cafe
@@ -38136,6 +38127,7 @@ fibre me
 fibre tech industries
 fibrelite composites
 fibretrace technologies
+fibretx
 fibrisol service
 fibron bx
 fibrus networks
@@ -39305,6 +39297,7 @@ flynn hodkinson
 flynn interiors
 flynn management contractors
 flyp homes
+flypharm
 flypop
 flytec
 flytex
@@ -39613,6 +39606,7 @@ forbes property services
 forbo siegling
 forbury gardens day nursery
 forcast
+force contracting services
 force engineering
 force maintenance team
 force24
@@ -39927,6 +39921,7 @@ forward movement
 forward pharmacy
 forward plus west midlands
 forward3d trading as assembly
+forwardplus
 forwessun
 fospha
 fosroc
@@ -40282,6 +40277,7 @@ freej swaileh kuwaiti foods
 freejackpot
 freejam
 freeki
+freelance consultancy
 freelancer outsourcing
 freelands
 freeman catering butchers
@@ -40660,6 +40656,7 @@ fuchs lubricants
 fuchsia homecare
 fudwaves
 fuego hospitality
+fuel
 fuel additive science technologies
 fuel cafe
 fuel cell systems
@@ -40756,6 +40753,7 @@ fund for global human rights
 fundamental media
 fundamental textiles
 fundapps
+funders together
 funding circle
 fundingxchange
 fundonion
@@ -40771,6 +40769,7 @@ funko
 funky fones
 funlas freights and logistics
 funtabee
+funtazia soft play
 funtura
 fuocos pizza franchising
 fuoriporto
@@ -40908,6 +40907,7 @@ future industrial services
 future intelligence technology solutions
 future it consultancy
 future leaders day nursery
+future leap
 future leap es
 future leisure
 future linksmobile
@@ -41040,6 +41040,7 @@ g contractors
 g core
 g d b a allen
 g d partnership
+g d retailers
 g dastgir hosiery
 g doc
 g durgan
@@ -41341,6 +41342,7 @@ galaxy home improvement consultants trading as galaxy windows
 galaxy knitwear
 galaxy london
 galaxy makeovers
+galaxy management solutions
 galaxy marquees
 galaxy mobiles
 galaxy real estate
@@ -41388,7 +41390,6 @@ gallium ventures
 gallo s piri piri grill
 galloway hills medical
 galloway southern ayrshire biosphere partnership
-galloways accounting
 galmstrup
 galos piri piri
 galson sciences
@@ -42029,6 +42030,7 @@ genius sports
 genius support services
 genius tex
 genius within cic
+genix care
 genix healthcare
 genki
 genmed me
@@ -42647,6 +42649,7 @@ gkr scaffolding
 gks mini market
 gks stores
 gkt
+gkw supplies
 gl attractions
 gl m
 gl1 car sales
@@ -43273,7 +43276,6 @@ gls leisure
 glue home
 glum tortoise
 glycanage
-glyme valley services
 glyn hopkin
 glyndebourne productions
 glyndwr enterprises ta the hand hotel
@@ -43369,7 +43371,6 @@ gntk
 gnv joinery
 gnverse
 gnw designer studio
-gny world
 go blue
 go botanica
 go care
@@ -43606,6 +43607,7 @@ golden flakes enterprise
 golden fresh mart
 golden fruit
 golden future care
+golden galleon
 golden garage and tyres
 golden gehna
 golden glitters training nursery recruitment
@@ -44143,7 +44145,6 @@ graincorp europe
 grainflow operations
 grainger
 grainger cable installations
-grainger global online business
 grainger news
 grainger park dent
 graingers son
@@ -44278,7 +44279,6 @@ grantify
 grantlea convenience store
 grantly hotel
 granton information centre
-grants convenience store
 grants of dalvey
 granttree
 granular energy
@@ -44586,7 +44586,6 @@ green morleys
 green mountain dc
 green nation energy
 green nest
-green oaks care
 green ocean
 green olive care
 green olive legal
@@ -44692,6 +44691,7 @@ greenhead pharmacy
 greenhill
 greenhill grange residential home
 greenhill healthcare
+greenhill medical centre
 greenhill park care
 greenhill pigs
 greenhouse os
@@ -44921,7 +44921,6 @@ grill n chill ashbrook
 grill n spices
 grill street
 grill sweets
-grill yard
 grill zone
 grillaz preston
 griller chicken
@@ -45363,6 +45362,7 @@ gumley house convent school for girls
 gumpo
 gumtree com
 gun smoke cambridge
+gun su
 gunamsonenterprise
 gunaratnam sekaran
 gungah care
@@ -45711,7 +45711,6 @@ h s design solutions
 h s direct solutions
 h s facilities management
 h s gok
-h s health
 h s internaional enterprise
 h s moharerr
 h s operations
@@ -46213,7 +46212,6 @@ hampstead healthcare
 hampstead hill school
 hampstead practice
 hampstead theatre
-hampton
 hampton academies
 hampton academies trust
 hampton brands
@@ -46255,6 +46253,7 @@ han tong
 han v
 hana
 hana coffee
+hana petroleum
 hana salon
 hanaa
 hanami lic
@@ -46379,7 +46378,6 @@ hanshow
 hansikah store
 hansikdosirock
 hanslope care
-hansom cab
 hanson asset management
 hanson grey
 hanson investments
@@ -46862,6 +46860,7 @@ harvest digital
 harvest energy retail
 harvest farms
 harvest fishing
+harvest grocery
 harvest land management
 harvest n1
 harvest n16
@@ -46938,6 +46937,7 @@ hasscon
 hassean health
 hassell
 hassingham
+hassl
 hassle free education
 hasstam
 hasta la visa baby
@@ -47057,6 +47057,7 @@ havering school wear london
 haverland
 haversham health
 haverstock 154
+havesters care
 havilah care
 havilah endeavours
 havilah global empire
@@ -47698,7 +47699,6 @@ heidrick struggles
 heilen general store
 heim advisory
 heimdal
-heimstaden
 heineken
 heirs and graces day nursery
 heitman financial
@@ -47725,6 +47725,7 @@ helin cafe
 helio display materials
 heliofidem
 helios investment partners
+helios renewable energy solutions
 helios technology
 helios towers
 heliosx energy
@@ -47767,6 +47768,7 @@ hellon
 helloz
 helly hansen
 helm 360
+helm care services
 helm great britain
 helmar care and community services
 helmguard technologies
@@ -47806,6 +47808,7 @@ hemesh retailers
 hemiko
 hemingways marketing services
 hemisphere cap
+hemisphere freight services
 hemmersbach
 hemmo
 hemnit
@@ -47962,7 +47965,6 @@ heritage trust network
 heritage vets
 heritage windows and kitchens
 herjavec
-herman claude
 herman miller
 hermanos colombian coffee roasters
 hermes
@@ -48226,7 +48228,6 @@ hickam healthcare
 hickings lane medical centre
 hickleys
 hickory s smokehouse
-hicom technology
 hicp
 hicx solutions
 hid
@@ -48321,7 +48322,7 @@ highbury poultry farm produce
 highclere stud
 highcliffe rest home
 highcrest academy
-highcroft care home
+highcroft nursing home
 highcroft surgery
 highcross law
 highdecora furnishing
@@ -48695,6 +48696,7 @@ hive autonomy
 hive composites
 hive contracting and trading
 hive it
+hive kensington
 hive learning
 hive structure
 hive4work
@@ -48746,6 +48748,7 @@ hka trading and marketing
 hkbsb
 hkd food services
 hkd stores
+hkes red
 hkes subs
 hkfoodhouse
 hkhr consulting
@@ -48917,7 +48920,7 @@ hoffman crew
 hoffmann eitle
 hoffmanngastrock
 hofseth
-hogan lovells
+hogan lovells cadwalader
 hogg son
 hohner automation
 hoil dental manufacture solutions
@@ -49280,7 +49283,6 @@ homewell practice
 homewood delights
 homewood rail
 homewood solutions
-homewood support services
 homeworld2004
 homey technology
 homie
@@ -49845,6 +49847,7 @@ hs cars
 hs design london
 hs energy service
 hs enterprise
+hs health
 hs jackson son
 hs legal solicitors
 hs lothian
@@ -50374,6 +50377,7 @@ hydrosphere
 hydrostar europe
 hydrosurv unmanned survey
 hydrotec
+hydrotech piping systems
 hydrotechnik test engineering
 hydrowing
 hydsoft
@@ -50501,6 +50505,7 @@ i grunwerg
 i h foods
 i h sumra
 i hub trading
+i hussain associates
 i i enterprises
 i j
 i j drinks
@@ -50633,7 +50638,6 @@ ibbi foods
 ibbu kart
 ibby builders
 ibby restaurant
-ibc quality solutions
 ibc vehicles
 ibcos computers
 ibcp
@@ -50721,7 +50725,6 @@ icare services agency
 icare solutions global
 icare solutions stockport
 icare solutions wirral
-icareer consultancy
 icarus online scio
 icase
 icax
@@ -51154,6 +51157,7 @@ il pescatore trading
 il sapore italian
 il tricolore ramsgate
 ilapak
+ilaw solicitors
 ilchester estates
 ilco
 ilcon
@@ -51749,7 +51753,6 @@ india zones
 indiacast
 indian affair
 indian ark kenilworth ta indian ark
-indian aroma cuisine
 indian basmati lmited
 indian brasserie ne
 indian buffet restaurant
@@ -52128,6 +52131,7 @@ ingaran brother
 ingena
 ingeni solutions
 ingenico
+ingenieria del andamio y servicios aqua
 ingenious capital management services
 ingenious power engineering
 ingenious solutions
@@ -52172,6 +52176,7 @@ iniya clinic
 inizio evoke europe
 inizio services
 injection specialist
+injury rehabilitation care centre
 injurytime physiotherapy
 ink
 ink associates
@@ -52280,7 +52285,6 @@ innovation innovative
 innovation it consulting
 innovation pod
 innovation tax specialists
-innovation technology and business solutions
 innovations building services
 innovations consulting
 innovations wiltshire
@@ -52923,7 +52927,6 @@ intrinsic
 intrinsic financial
 intrinsic semiconductor technologies
 intriva services
-intrix systems
 introba consulting
 introe
 introhive
@@ -53024,8 +53027,8 @@ investengine
 investgrow financial services
 investigo
 investindustrial advisors
+investindustrial advisory services
 investindustrial corporate services
-investindustrial management
 investis digital
 investmatrix investments
 investment association
@@ -53242,7 +53245,6 @@ iqe
 iqeq digital
 iqf
 iqgeo
-iqlik
 iqm medical
 iqpc
 iqplus childcare and educational services
@@ -53266,8 +53268,8 @@ ira solutions
 irakora
 iranian oil
 irara services
+iravya infrastructure
 iraye
-irbis capital
 irc care services
 irca manufacturing
 irecruit now
@@ -53316,8 +53318,8 @@ irobot
 iroko securities
 iron solutions
 iron wealth management
-ironbridge
 ironbridge medical practice
+ironbridge tech
 ironclad contracting
 ironhall hospitality
 ironman
@@ -53498,6 +53500,7 @@ isonets
 isopol consulting
 isotest
 isource
+isp global advisory
 isp marketing
 ispsl 2031
 isquare tech solutions
@@ -53540,6 +53543,7 @@ iszwh
 it access
 it autos
 it big bang
+it blackbelt
 it caters
 it com domains
 it connects london
@@ -53805,7 +53809,6 @@ izone driver performance
 izra cuisine
 izumi products
 izvg
-izyan
 izzie ollie
 izzy drylining
 izzy home furnishing
@@ -54438,7 +54441,6 @@ jamf
 jamia
 jamia al furqaan
 jamia al karam
-jamia darus sunnah london
 jamia muhammadiyah
 jamiatul ilm wal huda
 jamie fobert architects
@@ -54569,6 +54571,7 @@ jar friends
 jar softwares london
 jara finance
 jara solutions
+jara trading
 jarden murphy
 jardin des violettes
 jardine care
@@ -55390,7 +55393,6 @@ jmd railtech
 jmd restaurants
 jmd services
 jme strategy
-jmg
 jmg cargo travel
 jmg investments
 jmg store
@@ -55565,6 +55567,7 @@ john paton son
 john paul construction
 john pawson
 john puttick associates
+john pye and sons
 john quinn racing
 john reilly civil engineering
 john rich architects
@@ -56072,7 +56075,6 @@ juju catering
 jujuhome
 jukin media
 julcom property management
-julee care
 jules diamonds
 julia charles event management
 julia interior architecture and design
@@ -56122,7 +56124,6 @@ junction mangal
 junction motors watford
 junction surgery
 junction tandoori
-june capital
 juneja telecom
 junelight
 junerain spa treatment clinic
@@ -56381,7 +56382,6 @@ k k restaurant
 k k services
 k k store
 k k store birkenhead
-k k stores
 k k svc
 k k traders
 k k zore
@@ -56900,6 +56900,7 @@ kappture
 kaprabazaar
 kapran
 kaprico
+kaprix powerhouse logistics
 kaptius
 kapur family care
 kapur telco
@@ -57226,7 +57227,6 @@ kayos collective
 kayoski care
 kays supermarket
 kaytons
-kayu bakehouse
 kaz contractors
 kaz minerals
 kaz residentials
@@ -58050,10 +58050,10 @@ khyber grill london
 khyber mix grill pizza
 khyber shinwari tawa
 khyeli
+ki 13
 ki associates
 ki cchin sushi bar
 ki e works
-ki hydrogen
 ki powerfuel
 ki services
 kia builders
@@ -58153,6 +58153,7 @@ kiln technologies
 kiln theatre
 kilnbridge construction services
 kiloh associates
+kilostate
 kilsannagh mushrooms
 kilsby williams
 kiltearn medical centre
@@ -58687,6 +58688,7 @@ kl garage
 kl ventures
 kl88
 kla
+kla legal
 klafs
 klaire carriers
 klar investments
@@ -59314,6 +59316,7 @@ kricket
 kricket soho
 krimah
 krimas
+krimpterm
 krina beauty
 krinvest care
 kripa care
@@ -59677,6 +59680,7 @@ kwackers west quay trading as kwackers kitchen and sports bar
 kwalee
 kwality
 kwality hotel
+kwality vegetables fruit
 kwame owusuoppong
 kwan yick
 kwasa invest
@@ -59983,6 +59987,7 @@ labgenius
 labl it solutions
 labman automation
 labmedexpert
+labmedexpert biomedical
 labna hameed
 laboba99
 labone sheringham
@@ -60166,6 +60171,7 @@ laksa cafe
 laksa m news wine
 laksa solutions
 lakshmi enterprises divine home
+lakshmi mnd
 lakshmi narayana trust
 lakshmi sai info
 lakshmi stores and traders
@@ -60376,6 +60382,7 @@ langford educational
 langford park
 langford spice
 langford veterinary services
+langham and langley
 langham arts trust
 langham estate management
 langham foods
@@ -60683,7 +60690,6 @@ lavo
 lavynchy
 law absolute recruitment
 law associates
-law book sellers
 law business research
 law centre northern ireland
 law firm
@@ -60725,6 +60731,7 @@ lawson west solicitors
 lawtech
 lawton gallagher
 lawton northants
+lawton tube
 lawtons
 lawtronic
 lawyerly
@@ -61532,6 +61539,7 @@ lge foods
 lgh central
 lgh hotels management
 lgiu
+lgm engineering
 lgm products
 lgmg machinery u k
 lgnd online services
@@ -61801,7 +61809,6 @@ lili italia
 lilia healthcare
 lilian faithfull care
 lilies care
-lilies home care
 lilies24 healthcare
 lilimi
 lillibet healthcare
@@ -61845,6 +61852,7 @@ lime lodge care
 lime lounge
 lime microsystems
 lime orange
+lime showrooms
 lime street management services
 lime technology
 lime tree bistro
@@ -62303,6 +62311,7 @@ littlehampton rustington housing society
 littlemoor minimarket
 littlemore food
 littlemore minimarket
+littleover
 littleover curry house
 littlepay
 littleton convenience store
@@ -62557,6 +62566,7 @@ lms recruitment systems
 lms sheridans
 lmtd emea
 ln beauty
+ln madina foods store
 lnb building solutions
 lnd construction services
 lnr foods
@@ -62646,6 +62656,7 @@ lochgilphead curry house
 lochgilphead medical centre
 lochinver consultancy services
 lochlie construction
+lochside garages
 lochside smile centre
 lochview medical practice
 lochview theme park
@@ -62982,7 +62993,6 @@ london forecourt
 london forfaiting
 london fox ta cacao route
 london freight logistics
-london funders
 london g j services
 london gas and power
 london gas engineers
@@ -63106,6 +63116,7 @@ london property guru
 london property letting and management
 london property managers
 london pt college
+london pulse
 london quadrant housing trust
 london quality care services
 london quartz stone
@@ -63133,7 +63144,6 @@ london s professional accountants
 london scandinavian school
 london scans
 london school advice
-london school of business administration
 london school of business computing
 london school of commerce
 london school of economics and political sciences students union
@@ -63144,6 +63154,7 @@ london school of management education
 london school of mathematics and programming
 london school of medical health sciences
 london school of science technology
+london school of skills entrepreneurship
 london school of social and management sciences
 london school of theology
 london school of training education
@@ -63920,7 +63931,6 @@ lumya living
 lumyna investments
 luna
 luna care services
-luna cleaning solutions
 luna de pak 2017
 luna pharma consulting
 luna restaurant
@@ -64285,7 +64295,6 @@ m connect
 m cube investments
 m d business
 m d care operations
-m d careplus
 m d cleaning consultancy
 m d green
 m d healthcare
@@ -65216,6 +65225,7 @@ mail link
 mailchain
 mailing technology sup port
 mailpallet
+mailway packaging solutions
 main capital partners
 main course partners
 main taking autism personally
@@ -65399,7 +65409,6 @@ malaria consortium
 malarville and
 malatang oxford
 malathy
-malay home
 malayalee association of the
 malayan banking berhad
 malaysia airlines berhad
@@ -66000,6 +66009,7 @@ marek wojciechowski architects
 marel
 marele accountancy
 marelli automotive systems
+marelli automotive systems europe
 marex
 marex marine services
 marfa stance
@@ -66502,13 +66512,13 @@ marzano
 mas associates
 mas bazaar
 mas bazaar retail and wholesale
+mas bazar bethnal green
 mas bazar birmingham
 mas bazar luton
 mas bazar whitechapel
 mas builders warehouse
 mas cb
 mas logistics
-mas pas
 mas united for high voltage services
 masa express
 masabi
@@ -66518,7 +66528,6 @@ masala art
 masala bay
 masala bazaar cardiff
 masala bazaar chadwell
-masala bazaar swansea
 masala bazaar swindon
 masala care
 masala craft r b ta masala craft
@@ -66761,6 +66770,7 @@ matrixweb
 matrixx software europe llimited
 matrressman
 mats pharma
+mats research
 matt architecture
 matt carpentry
 matta labs
@@ -67657,6 +67667,7 @@ medicine 8 trading as medicine bakery
 medicine box
 medicine buddha foundation
 medicine clinic
+medicine first
 medicine market place
 medicines 4 u
 medicines and healthcare products regulatory agency
@@ -67671,7 +67682,6 @@ medicos prime health
 medicrama
 medicrest
 medics
-medicsensors
 medicstar
 medicus health
 medicus health partners
@@ -67920,6 +67930,7 @@ melas
 melbec microbiology
 melbourne house hotel
 melbourne park medical centre
+melbrid
 melburay
 melbury dry cleaners
 melcombe news
@@ -68141,6 +68152,7 @@ merging rivers grange
 mericrest
 meridale store
 meriden catering
+meridial
 meridian audio
 meridian business support
 meridian carz
@@ -68186,7 +68198,6 @@ merit tutors
 merit wholesale
 meritcape
 merith house hotel
-meritor heavy vehicle braking systems
 meritum integrated care
 merj
 merje
@@ -68266,6 +68277,7 @@ mesox
 message heard media
 message house
 messagebird
+messagepoint
 messana investments
 messers aldo petrucci
 messiah freight distributors
@@ -68807,7 +68819,6 @@ mid view healthcare
 mid yorkshire teaching nhs trust
 mida commercials
 midal cables
-midas
 midas care solutions
 midas public relations
 midas touch business services
@@ -68952,6 +68963,7 @@ miexact
 mif services
 mifadelo global religion law and health found
 mifinity
+mig house residential care home
 migatronic welding equipment
 migdale transport
 mighton products
@@ -69358,7 +69370,6 @@ minmetals iron steel
 minna technologies
 minninnooka
 minnis bay supermarket
-minnu software solutions
 minoa cherubs
 minoa savernake
 minocha associates
@@ -69603,6 +69614,7 @@ mithus continental mart
 mitie
 mitiga
 mitigate
+mitra bio
 mitra innovation
 mitratech
 mitre maintenance
@@ -69929,9 +69941,9 @@ mnfst studio
 mngr club
 mni care
 mni restaurants
+mnk
 mnk estates
 mnk professional services
-mnk re
 mnk retail
 mnm
 mnm it services
@@ -70527,7 +70539,6 @@ moof it
 moog controls
 mookoboza
 moolah matters
-moomenn
 moon
 moon and back media
 moon and food
@@ -70896,7 +70907,6 @@ motor fuel
 motor land
 motor magic
 motor masters ilford services
-motor moment
 motor neurone disease association
 motor repair network
 motor tecnic
@@ -72012,7 +72022,6 @@ munawar
 muncaster visitor management
 muncheez
 munches
-munchez tasty point
 munchies
 munchies beverage
 munchies pizza bar
@@ -72566,6 +72575,7 @@ n2hd
 n2jb
 n3 hospitality management
 n3o
+n5 music
 n5 security
 n7k
 n8 express
@@ -73042,7 +73052,6 @@ nationwide
 nationwide accomodation services
 nationwide air conditioning
 nationwide building society
-nationwide care
 nationwide care services
 nationwide electrical security wholesalers
 nationwide express
@@ -73202,7 +73211,6 @@ navlive
 navolio
 navonmesh
 navraj hairstylist
-navrtar
 navsa
 navv associates
 navya school of dance
@@ -73211,7 +73219,6 @@ navyred technology and ecommerce
 navys technologies
 nawaab
 nawaab cuisine
-nawaabkitchen
 nawaaz indian restaurant
 nawab gillingham
 nawab taste
@@ -73912,7 +73919,6 @@ new fresh halal meat
 new fryways
 new gana restaurant
 new gen scot
-new gen security services
 new generation minerals
 new golden coach 2021
 new gradient
@@ -74016,6 +74022,7 @@ new mst
 new narrative global
 new nexus
 new noodle house
+new north health centre
 new ocean glazing
 new option support
 new oriental express ta oriental express
@@ -74739,6 +74746,7 @@ niico
 niit
 nijjar property
 nijjar supermarket
+nijjar sweet centre catering services
 nijjar transport
 nijjer accountants
 nijjer spar offlicence
@@ -75350,7 +75358,6 @@ norfolk county council
 norfolk deaf association
 norfolk mead hotel
 norfolk newmedica
-norfolk park store
 norfolk passport
 norfolk pharma
 norfolk racing team
@@ -75411,6 +75418,7 @@ nortaq
 nortech management
 north american science associated
 north argyll eventide home association
+north atlantic trading
 north bay
 north bay care services
 north brink practice
@@ -75444,7 +75452,6 @@ north end baptist church
 north end off licence
 north ferriby nursing home
 north finchley specsavers hearcare
-north fortune
 north haven infrastructure iii
 north heath care home
 north highland
@@ -75642,6 +75649,7 @@ northgate convenience
 northgate healthcare
 northgate house residential care home
 northgate medical practice g82060
+northgate school academy trust
 northgate surgery
 northgate vehicle hire
 northhill residential care home south yorkshire northhill care home
@@ -75695,7 +75703,6 @@ northwest travels
 northwest youth services
 northwich foot clinic
 northwick park institute for medical research
-northwood complex care
 northwood convenience
 northwood investors
 northwood law practice
@@ -75744,7 +75751,6 @@ nosebleed interactive
 nosha investments
 noshahi food store
 noshh box
-nossh
 nostalgia media
 nosto solutions
 nostos coffee
@@ -76497,6 +76503,7 @@ oakland capital development
 oakland central
 oakland court
 oakland services
+oakland support services
 oaklands care hove
 oaklands care services
 oaklands college
@@ -76913,6 +76920,7 @@ oggi
 oghma partners
 ogi groundwater specialists
 ogier global
+ogigconsult
 ogilvy mathers
 ogl advisors
 ogletree deakins
@@ -77158,7 +77166,6 @@ oliz
 olleco
 ollie care alliance
 ollie owl
-ollie s house
 ollier smurthwaite architects
 ollies kebab
 olliewood
@@ -77198,7 +77205,6 @@ om jewellers
 om laxmi sairam
 om log
 om medical centre
-om mobile ventures
 om namo namah
 om nsp foods
 om restaurant
@@ -77461,7 +77467,6 @@ one house artists
 one investment management
 one io services
 one ldn 360
-one life health support
 one little independent
 one london city
 one love caribbean restaurant
@@ -77605,7 +77610,6 @@ onkohealth
 online 24 7
 online account filing
 online accountant
-online art school
 online business school
 online cables
 online filings
@@ -77638,6 +77642,7 @@ onpoint trading
 onsb
 onsecurity technology
 onset global trading
+onside youth zones
 onsite support
 onstate
 onstream
@@ -77763,7 +77768,6 @@ openai
 openbet
 openborder recruitment
 opencast software europe
-opencoreos
 opencorporates
 opendemocracy
 opendialog ai
@@ -77903,7 +77907,6 @@ optimapharm
 optimas oe solutions
 optimatics
 optimax imaging inspection and measurement
-optimhouse
 optimised
 optimised care
 optimised training centre
@@ -78128,10 +78131,10 @@ orchid money transfer
 orchid nw ta zumuku sushi
 orchid supported living
 orchid wellness
-orchid woodlands healthcare
 orchids care
 orchis living
 orci trials
+orcion systems
 orcom civvals
 orcone care
 orcp gp
@@ -78225,7 +78228,6 @@ origin3
 original
 original additions
 original animals
-original biryaniwala london
 original btc
 original business it solutions
 original field of architecture
@@ -78304,6 +78306,7 @@ ornate i
 ornate rugs
 orno
 ornua foods
+oro labs
 oromah
 orona
 orphalan
@@ -78368,7 +78371,6 @@ oryx re
 os builders merchants
 os comms
 os designs and partners
-os glasgow
 os retail
 os solutions
 osa systems
@@ -78674,7 +78676,6 @@ ox k
 ox marketing
 ox mountain
 ox products
-ox support services
 oxa autonomy
 oxalis games
 oxbay
@@ -79518,6 +79519,7 @@ paradigm flow technologies
 paradigm health social care
 paradigm personnel
 paradigm solicitors
+paradigm strategy
 paradigm trust
 paradime labs
 paradine
@@ -79951,6 +79953,7 @@ passtech machine tools
 passthekeys reading
 pasta cosa
 pasta evangelists
+pasta king
 pasta pit stop
 pastaio
 paston surgery
@@ -80150,6 +80153,7 @@ paws fantasy
 paws pet health
 paws union
 pax8
+paxigate healthcare
 paxman coolers
 paxoi
 paxos technology
@@ -80158,7 +80162,6 @@ paxton hall care
 pay
 pay check
 pay gateway
-pay io
 pay justice
 pay later management services
 pay perform
@@ -80456,6 +80459,7 @@ peer
 peer2peer dpi
 peermusic
 peers quality assurance
+pefox
 pegasus care homes
 pegasus cars sale
 pegasus equine veterinary services
@@ -80961,6 +80965,7 @@ peta
 petagene
 petainer
 petal postforming
+petanka
 petar
 petards joyce loebl
 petcarecollective
@@ -81110,6 +81115,7 @@ pgmi portslade
 pgnig supply trading
 pgp
 pgp alfred house
+pgp tech
 pgs exploration
 pgs gifts
 pgt hook and son
@@ -81230,12 +81236,10 @@ pher import
 pheromone systems
 phetalz
 phg consulting engineers
-phh care
 phi capital
 phi design
 phi finney mcdonald
 phi partners
-phi property acquisitions
 phi102
 phibor entreprises
 phil allen design
@@ -81273,7 +81277,6 @@ phillips 66
 phillips auctioneers
 phillips cohen associates
 phillips media
-phillips1924 homecare services
 phillipspage associates
 philo consulting services
 philodanceophy
@@ -81289,7 +81292,6 @@ phizz
 phj retail
 phj stores
 phl
-phl canterbury
 phlexi
 phlo systems
 phlorum
@@ -81357,6 +81359,7 @@ phoenix vbuild
 phoenix wholesale distribution
 phoenix47
 phoenixc4i
+phoenixco
 phoenixfoodsni
 phonarama
 phone 4 all
@@ -81628,6 +81631,7 @@ pilat europe
 pilcrow
 pilea homecare
 piledesigns
+pilgrim canterbury
 pilgrim hotel
 pilgrim s food masters
 pilgrim s pride
@@ -81693,7 +81697,6 @@ pine restaurant
 pineapple service
 pineapple technology
 pinebridge investments europe
-pinecone
 pinecourt
 pinegrove hotel
 pinehurst care home
@@ -81724,7 +81727,6 @@ pingyou
 pinion services
 pink berry cars
 pink castle
-pink diamond
 pink eatery
 pink elephant emea
 pink fort
@@ -81760,6 +81762,7 @@ pinnacle insurance management services
 pinnacle internet marketing
 pinnacle investment management
 pinnacle pet
+pinnacle prosthetics
 pinnacle reliability
 pinnacle services
 pinnacle strategies
@@ -81917,7 +81920,6 @@ pixehub
 pixel art studios
 pixel care
 pixel coding
-pixel direct
 pixel fusion
 pixel image
 pixel infotech
@@ -82212,6 +82214,7 @@ platform sh
 platform smart
 platform store
 platform support services
+platformed
 platine construction
 platine traders
 platingnum park
@@ -82490,7 +82493,6 @@ pockla
 pod architects
 pod digital marketing two
 pod europe
-pod haulage
 pod point
 pod services
 pod trak
@@ -83100,7 +83102,6 @@ pr savers
 pr supermarket
 pr techies
 pra
-praan
 praana consulting
 prab consultancy services
 prabash
@@ -83230,6 +83231,7 @@ precise brows beauty
 precise financial advice
 precise financial management services
 precise media monitoring
+precise medicolegal consulting
 precise retail
 precise trade aluminium
 precise tv
@@ -83794,7 +83796,6 @@ primegadget solutions
 primeguard workforce management
 primekss
 primelaundry
-primelife care
 primelink express
 primelocals
 primenet
@@ -84159,6 +84160,7 @@ prodrive
 prodtex
 produce investments
 producers direct
+product care hub
 product compliance specialists limit
 product marketing alliance
 product service health
@@ -84307,6 +84309,7 @@ projects expert
 projectus consulting
 projektride
 projex cellular infrastructure
+projex solutions
 projex support
 projukti team
 prokarium
@@ -84522,7 +84525,6 @@ protagoras
 protax consultants
 protax wm
 protea associates
-protea care homes
 protea wal
 protean electric
 protec
@@ -84833,6 +84835,7 @@ pulse eight
 pulse films
 pulse health
 pulse healthcare
+pulse light clinic
 pulse phones
 pulse printing products
 pulse property management
@@ -84956,7 +84959,6 @@ pure tree nursery
 pure veg
 pure vision eye care
 pure wellness centre
-pure white lines
 purean solutions and technology
 purebaby trading
 purecare
@@ -85325,7 +85327,6 @@ qlfy
 qlik solutions
 qliktech
 qlikz
-qlogic
 qls united
 qm catering
 qm london trading
@@ -85400,6 +85401,7 @@ quadranz
 quadrata
 quadrature capital
 quadrature climate foundation
+quadreal residential properties
 quadreal services
 quadrise
 quadrivio
@@ -85839,6 +85841,7 @@ quiz room
 quizchoice
 quizlet
 qul technologies
+qulin aesthetics clinic
 qumata
 qumily
 qumin
@@ -85857,7 +85860,6 @@ quomatic solution
 quooker
 quor
 quori
-quoris 3d
 quoris3d
 quorn country foods
 quorn lodge
@@ -85910,7 +85912,6 @@ r ak law firm
 r and d reclaims
 r and j transport
 r and k stores
-r and s developments
 r and s medical and allied services
 r b a
 r b easton
@@ -86040,6 +86041,7 @@ r odedra u odedra
 r p convenience store
 r p dental
 r p g signhire
+r p m installations
 r p s
 r pau
 r paul builders
@@ -86591,6 +86593,7 @@ rajput restaurant
 rajput sutton
 rajram stores
 rajshree catering
+rajspice ilminster
 raju goraniya
 rajvar supplies
 rajveer
@@ -86737,6 +86740,7 @@ ranavaya retail
 ranaz services 4
 rancan
 rance healthcare services
+rancho club
 rancho express portsmouth
 ranco
 rand brothers
@@ -87366,7 +87370,6 @@ realm staffing solutions
 realmpark health care
 realocate
 realredclick
-realstar management
 realterm europe management
 realtime civil engineering
 realtime tech
@@ -87452,6 +87455,7 @@ recruit genie
 recruit in care
 recruit workforce
 recruit worldwide
+recruitachef
 recruiter insider
 recruithub platform
 recruiting hub
@@ -87485,7 +87489,6 @@ recyplas
 red
 red alert telecare
 red and greens africana food store
-red angel catering
 red ant digital
 red apple food
 red arrow electrical
@@ -87732,6 +87735,7 @@ redstone insurance brokers
 redstor
 redtail telematics
 redtitan
+redtorch
 redvertex
 redwan and sons
 redwell medical centre
@@ -87973,6 +87977,7 @@ reigate and banstead borough council
 reigate grammar school
 reigate traders
 reimagine robotics
+reimagined textiles
 reimagining general practice gpms services
 reimagining general practice health support service
 reina be
@@ -88308,7 +88313,6 @@ resicare alliance
 reside support
 residence one
 resident architects
-resident hotels
 residential care providers
 residential care services
 residential media
@@ -88324,7 +88328,6 @@ resilient water accelerator
 resilinc
 resillion
 resin products
-resman wireless reservoir surveillance
 resmed
 reso
 resodyn europe
@@ -88490,6 +88493,7 @@ retro control
 retro housing
 retro labs
 retro track air
+retrofit clicks
 retrofit installations
 retrofitworks
 retrotech home installations
@@ -88599,6 +88603,7 @@ reyl
 reylink
 reymc 247
 reyna furniture
+reynard high voltage solutions
 reynolds catering supplies
 reynolds news
 reynolds porter chamberlain
@@ -89350,6 +89355,7 @@ rj foods
 rj fuels
 rj godwin mrs fna godwin
 rj hospitality
+rj mckee m mckee
 rj mcleod
 rj medical consultants
 rj power
@@ -89560,11 +89566,11 @@ rnv construction
 rnz equepet
 ro engineeria
 ro evesham
+ro ho london
 ro zo
 road assessment programme
 road buddy
 road jet hire
-road life health care
 road management services operations
 road runner courier service
 road runner trucking
@@ -90045,7 +90051,6 @@ rooted health and social care
 rootfloe
 rootli
 roots heritage
-roots kitchen
 roots law
 roots staffing solutions
 roots systems
@@ -90061,7 +90066,6 @@ ropetech access solutions
 roq
 roq ad
 rorcon
-ros and mos house support
 rosa care
 rosa de la cruz
 rosa s london
@@ -90093,11 +90097,9 @@ rose garden dental practice
 rose gold health fulwood
 rose golf
 rose grocers
-rose healthcare services
 rose indienne
 rose kahn car repair
 rose lane technology
-rose lodge care home
 rose mount supported living
 rose ni
 rose of york
@@ -90802,7 +90804,6 @@ ruislip specsavers hearcare
 rujal news
 rukhsar khaliq
 rukhshaana properties
-ruky
 rula homecare
 rule
 rule finance
@@ -90913,6 +90914,7 @@ rutland house community trust
 rutland inn
 rutland manor
 rutland office
+rutland plastics
 rutledge training
 rutronik
 rutterkey solutions
@@ -91394,7 +91396,6 @@ s4 care
 s4 labour
 s4rv
 s4s
-s4s london
 s4security
 s6 care
 s64 ventures
@@ -91518,7 +91519,6 @@ sabina ilford
 sabio
 sabio sp
 sabir bros
-sabir s spicy grill bar
 sabira jewellery repairs
 sabitha systems
 sabk
@@ -92517,7 +92517,6 @@ sands care morecambe
 sands city
 sands civil engineering consultancy
 sandside
-sandstone care
 sandstone care north west
 sandstone technology
 sandstorm films
@@ -92611,6 +92610,7 @@ sanraj
 sanremo the italian restaurant
 sanrizz academy
 sanro retail solution
+sanrub store
 sans bean
 sans construction
 sans express
@@ -93037,7 +93037,6 @@ savour bakery cafe patisserie
 savour foods nw
 savoursmiths
 savoury ceylon
-savoy care home
 savoy park hotel management
 savrec
 savtax accountants
@@ -93321,6 +93320,7 @@ school of creative arts
 school of hard knocks
 school of london
 school of oriental and african studies
+school of rock
 school of sign language
 school of sufi teaching
 school of veterinary postgraduate studies
@@ -93354,6 +93354,7 @@ schwarzthal tech
 schweitzer engineering laboratories
 schwing stetter
 sci net
+sci semiconductor
 sciamed
 science
 science applications
@@ -93801,7 +93802,6 @@ secure care london
 secure code warrior
 secure fm
 secure future consultants
-secure future research
 secure guard london
 secure healthcare
 secure innovation
@@ -93844,7 +93844,6 @@ securigroup
 securis investments
 securitas
 securitas technology
-securiti sciences
 security 212
 security 247
 security alliance
@@ -93882,6 +93881,7 @@ sedivcharan
 sedna lighting
 sedna systems europe
 sedpaac
+sedrow
 sedulo accountants
 see ability
 see saw films
@@ -93927,7 +93927,6 @@ seetha software solutions
 seetru
 seewoo chinatown
 sefardi
-sefas innovation
 sefe marketing trading
 seff south east fermanagh foundation
 sefgrove
@@ -94203,6 +94202,7 @@ seon consultancy
 seon technologies
 seopa
 seoul bird westfield london
+seoul born
 seoul money brokerage services london representative office
 seoul residential
 seoul tokyo
@@ -94377,11 +94377,13 @@ sessun
 sestini
 set advisory
 setara
+setec alpha
 setec consulting engineers
 setex global sourcing
 setfield
 setfords law
 setfords technology solutions
+seth homes
 seth marine consultants
 seth s healthcare
 seth white architects
@@ -94971,6 +94973,7 @@ sharp security solutions
 sharp trim
 sharpak yate
 sharpe pritchard
+sharper labs hr and legal consultancy
 sharpes auctions
 sharpist
 sharpse
@@ -96127,6 +96130,7 @@ silver tree parent
 silver zenith maritime
 silveray
 silverback smart technology
+silverback studios
 silverberry care
 silverberry food
 silverbirch lodge
@@ -96135,7 +96139,6 @@ silverburn care home
 silvercrest care homes
 silvercrown care homes
 silverdale care home
-silverdale care homes
 silverdale medical centre
 silverdale medical practice
 silverdale ryecroft practice
@@ -96553,6 +96556,7 @@ sister
 sister care services cic
 sister jane
 sisters
+sisters for life healthcare
 sisters grimm
 sisters hospitallers of the sacred heart of jesus cio
 sisters of the holy family of bordeaux
@@ -96625,6 +96629,7 @@ six commercial cleaning
 six continents
 six degrees
 six degrees labs
+six degrees technology
 six financial information
 six italian food trading as l antica pizzeria da michele
 six physio
@@ -96709,6 +96714,7 @@ sk excel dental
 sk facilities
 sk fish bar
 sk foods
+sk foods and catering
 sk foods and drinks
 sk freight services
 sk general services
@@ -96788,7 +96794,6 @@ skewb
 skewed
 skf
 skh enterprise
-skh restaurants
 skh restaurants trading as masala twist
 skh transport
 ski lifts
@@ -97165,7 +97170,6 @@ sm food bd
 sm foods
 sm global consultancy
 sm global solutions
-sm homecare services
 sm innovation
 sm karim property
 sm life care
@@ -97254,6 +97258,7 @@ smart choice autos
 smart choice healthcare services
 smart choices
 smart city consultancy
+smart city mk cic
 smart cleaning
 smart clinics
 smart code electricals
@@ -97766,7 +97771,6 @@ snowflake gelato
 snowflake healthcare
 snowflake school
 snowflakes montessori
-snowik
 snowman consultancy
 snowman consultants
 snowplow analytics
@@ -98447,7 +98451,6 @@ sourcing playground
 sourcx
 sourdough sophia
 sourse
-sousa world gourmet
 sousou partners
 sousta bristol
 south african congregation
@@ -98530,6 +98533,7 @@ south mall
 south manchester senior care
 south mediterranean food
 south molton operative learning trust
+south moor ta south moor vets
 south of scotland community housing
 south pole
 south pole local
@@ -98796,7 +98800,6 @@ space systems
 space zero
 spacecom
 spacecraft
-spaced digital
 spaceflux
 spacehub design
 spacelabuk
@@ -99134,6 +99137,7 @@ sphere digital recruitment
 sphere global trading as sphere global solutions
 sphere innovations
 sphere research
+sphere25
 spherea test services
 spheres investment advisor
 spherica business solutions
@@ -99214,7 +99218,6 @@ spice of india ashford
 spice of india cuerdley
 spice of india kent
 spice of india restaurant
-spice of life
 spice of life 786
 spice of life cw
 spice of punjab
@@ -99267,7 +99270,6 @@ spicy rooster hut
 spicy s halal foods
 spicy taste
 spicy top
-spicy treat
 spicy valley todmorden
 spicy waves
 spicymart
@@ -99569,7 +99571,6 @@ sprout ai
 sprouting accounting
 spruce energy
 spry it solutions
-spryker systems
 sps civil
 sps construction
 sps consulting engineers
@@ -99920,7 +99921,6 @@ ssb investments
 ssb labs
 ssbm23 ta kolae
 ssbn
-ssc bradford
 ssc consultance
 ssc secure transport
 ssc space
@@ -100809,6 +100809,7 @@ stax trade centres
 stax ukco
 stay independent at home
 stay metro
+stay plus serviced accommodation
 staybility
 staybuilt
 stayfix
@@ -101213,7 +101214,6 @@ stone house home
 stone house hotel blackpool
 stone junction
 stone key
-stone leisure hotels
 stone masters ta granite house
 stone nest
 stone paving direct
@@ -101330,7 +101330,6 @@ storm island
 storm model management
 storm procurement
 storm research
-storm therapeutics
 storm trading
 storm xccessories
 stormgeo
@@ -101525,8 +101524,8 @@ streetspace
 streettyres
 streetz ahead
 strelley cobs
-strength central pte
 strength within me
+strengthdive
 stress man
 stretch tents scotland
 stretchline
@@ -101836,7 +101835,6 @@ subhan halal meats 1
 subhani traders
 subhashish
 subhida
-subi and sons
 sublime care
 sublime care solution
 sublime energy services
@@ -102113,6 +102111,7 @@ sun european partners
 sun generation
 sun global investments
 sun harvest
+sun healthcare
 sun hill racing
 sun hotel
 sun hung kai capital
@@ -102217,7 +102216,6 @@ sunny
 sunny and eman
 sunny autos
 sunny bedrooms kitchen
-sunny care homes
 sunny day dockland
 sunny double glazing
 sunny fresh global trading
@@ -102272,6 +102270,7 @@ sunrise forecourts
 sunrise glass glazing
 sunrise healthcare
 sunrise hill care
+sunrise hill care north
 sunrise hospitality
 sunrise immigration
 sunrise meat poultry heston
@@ -102583,6 +102582,7 @@ surebay developments
 surecare 2 u
 surecare bromley
 surecare central cheshire
+surecare enfield
 surecare health
 surecare hillingdon
 surecare newcastle
@@ -102703,7 +102703,6 @@ sushi daily
 sushi eye
 sushi handroll
 sushi haven chikchak noodles
-sushi home town
 sushi katana
 sushi moka
 sushi nara
@@ -103122,7 +103121,6 @@ swindon trading
 swindon vision plus
 swineshead medical
 swinley off licence
-swinnerton trust
 swinton dental practice
 swinton food
 swinton park
@@ -103626,6 +103624,7 @@ t z finance
 t1 digital consultants
 t1 digital consulting
 t101
+t2 global trade
 t21 services
 t2ger
 t3records
@@ -103867,7 +103866,6 @@ talbot green specsavers
 talbot house care home
 talbot industries
 talbot medical centre
-talbot woods lodge
 talbots law
 tale of spice
 taleem foundation
@@ -103915,6 +103913,7 @@ talking tommy
 talklife
 talktalk business direct
 talktalk telecom
+talktalk telecommunications
 talktime middlesbrough
 tall barahi
 tall oaks care home
@@ -103979,7 +103978,6 @@ tameer construction
 tamehaven
 tameside glossop integrated care nhs foundation trust
 tameside link
-tamesis dock
 tamesis partners
 tamil cafe
 tamil s taste of asia
@@ -104127,7 +104125,6 @@ tara bernerd and partners
 tara construction
 tara engineering solutions
 tara property
-tara solutions
 tara tandoori
 tara taree
 taraj palace
@@ -104532,6 +104529,7 @@ tcp pharma
 tcpc management
 tcr 76 f b
 tcs express worldwide
+tcs trade car sales
 tcw europe
 tcy machinery
 td meats
@@ -105070,13 +105068,13 @@ temenos
 temeritati
 temile development
 temis luxury
-temp37 healthcare
 temperance care
 temperuk
+tempfencing 24 7
 tempion
 temple card
-temple central
 temple cornwall
+temple cowley medical
 temple farm
 temple green
 temple hill surgery
@@ -105645,7 +105643,6 @@ the accounting crew
 the accounting practice
 the acorn and gaunmont house surgery
 the acropolis bradford
-the action
 the active network
 the activity superstore
 the adam practice
@@ -106022,7 +106019,6 @@ the bryson hotel
 the bubb sherwin partnership
 the buchan london pty
 the buffalo farm produce
-the bug and barrel
 the building safety regulator
 the bull willow
 the bullion store
@@ -106301,10 +106297,10 @@ the cottage family centre
 the cotton street service station
 the cotton tree trust
 the cottons medical centre
-the court care
 the court care home
 the court hotel
 the court retirement residence
+the courthouse
 the courtyard islington
 the courtyard olney diner
 the covalent bond
@@ -106401,7 +106397,6 @@ the designers graphic
 the desk warehouse
 the dessertery
 the desserts room
-the developer academy
 the devil s punchbowl hotel
 the dexters
 the diamond learning partnership trust
@@ -106666,7 +106661,6 @@ the freemount
 the freethinking
 the french corner shop
 the french horn
-the french kitchen
 the french partridge horton
 the french table
 the fresh olive trading as belazu ingredient
@@ -106700,10 +106694,8 @@ the gaitway organisation
 the galley fish chip shop
 the gallup organisation
 the game xchange
-the ganges restaurant
 the gap partnership
 the garage car sales
-the garage door centre
 the garden and home trading
 the garden nursery
 the garden surgery
@@ -106835,6 +106827,7 @@ the gregory centre for church multiplication
 the greyfriars hotel services
 the greyhound
 the greyhound bar and grill
+the griffin amersham
 the griffiths network
 the griffiths partnership
 the grill 25
@@ -107138,7 +107131,6 @@ the kids food
 the kidz clean kitchen
 the kinc agency
 the king alfred school
-the king alfred winchester
 the king and queen
 the king s ce school
 the king s school
@@ -107476,7 +107468,6 @@ the montessori place
 the montessori school
 the montessori school edinburgh
 the moon hub
-the moorings care
 the moredun foundation
 the moreton centre
 the mosque islamic centre of brent
@@ -107581,6 +107572,7 @@ the norwegian school in london
 the novelry
 the novusol
 the nsb trust
+the nuclear house
 the nucleo project
 the nuffield trust for research and policy studies in health care
 the numerical algorithms
@@ -107748,6 +107740,7 @@ the parochial church council of the ecclesiastical parish of holy trinity
 the parochial church council of the ecclesiastical parish of holy trinity hounslow
 the parochial church council of the ecclesiastical parish of oakley with wootton
 the parochial church council of the ecclesiastical parish of saint mary islington
+the parochial church council of the ecclesiastical parish of st barnabas woodside park
 the parochial church council of the ecclesiastical parish of st edmund the king st mary woolnoth and st clement eastcheap
 the parochial church council of the ecclesiastical parish of st james westminster
 the parochial church council of the ecclesiastical parish of st paul slough
@@ -107824,7 +107817,6 @@ the pizza munch
 the place up hanley
 the plough at rhosmaen
 the plough harborne
-the plough inn
 the plume of feathers public house
 the plume of roses catering
 the podiatry clinic
@@ -107879,7 +107871,6 @@ the property market
 the prospering place
 the protector
 the provenance meat
-the prp lab
 the pub warehouse no 2
 the public service consultants
 the pump house restaurant
@@ -107932,7 +107923,6 @@ the reading football club
 the ready house
 the ready to eat
 the real good dental
-the real greek food
 the real italian pizza
 the real pizza ta the real pizza
 the real real good dental
@@ -108096,7 +108086,6 @@ the sands meadows
 the sandwich
 the sardine factory restaurant
 the sausage greenwich
-the scalers operations
 the scarf lounge
 the school for ethics and global leadership
 the school of aberdeen educational trust
@@ -108156,6 +108145,7 @@ the silver oak consultancy
 the simulator
 the single homeless project
 the sir john brunner foundation
+the sirius hotel
 the six
 the sk hub
 the skill academy
@@ -108324,7 +108314,6 @@ the terra firma consultancy
 the testing consultancy europe
 the thai kitchen hampton
 the thaiway
-the thakerar partnership
 the thames academy
 the thatched tavern
 the thin white duke
@@ -108486,7 +108475,6 @@ the water monopoly
 the waterfield practice
 the waterman s arms
 the watford association football club
-the watling inn
 the waverley hotel
 the way
 the weather
@@ -108495,7 +108483,6 @@ the web visions
 the webinar vet
 the wedding boutique italy
 the wedding dress shop
-the wedding hire
 the wee choo choo thai restaurant
 the wee furniture factory
 the welby
@@ -109089,6 +109076,7 @@ thunderbird fried chicken
 thunderful games
 thundersnow
 thurai auto services
+thurayoga
 thurkas
 thurlby thandar instruments
 thurlestone court
@@ -109121,7 +109109,6 @@ thymia
 thyron services
 thyson technology
 thyssenkrupp materials
-thyssenkrupp system engineering
 ti automotive systems
 tiaa
 tian xin
@@ -109169,6 +109156,7 @@ tide platform
 tidewater marine
 tideway investment management
 tidings care homes
+tidworth dental clinic
 tidy network
 tidy tax
 tiedot digital
@@ -109182,6 +109170,7 @@ tierney it solutions
 tierney strachan consulting
 tierra mar
 tierrasphere
+tieto banktech
 tieto great britain
 tiffany
 tiffany home products
@@ -109297,6 +109286,7 @@ time and data systems
 time and space media
 time based arts
 time car
+time control recruitment services
 time control technical works
 time factors
 time in hand
@@ -109449,7 +109439,6 @@ tiyan
 tj aviation
 tj beauty products
 tj cars
-tj consultancy
 tj convenience stores
 tj elite building services
 tj fish chips
@@ -109581,6 +109570,7 @@ tmsg
 tmt finance
 tmti
 tmv project
+tmw management
 tmwi
 tmx exchange services
 tmx global
@@ -109809,6 +109799,7 @@ toor haulage
 tooth
 tooth and mouth
 tooth club op
+tooth fairy healthcare
 tooth london
 tooth solutions
 toothcare dental
@@ -110112,6 +110103,7 @@ totalenergies gas and power
 totalenergies marketing
 totalenergies renewables
 totall ventures
+totally living care
 totally natural solutions
 totallymoney
 totalsim
@@ -110198,6 +110190,7 @@ towerbrook capital partners
 towerhill mot centre
 towerhouse
 towerpros
+towers associates
 towers health and racquets club
 towers sanders
 towers watson
@@ -110231,7 +110224,6 @@ townsend newsagents
 townsends medica
 townshend landscape architects
 towpath cafe
-towyn capel residential home
 toyito brighton
 toynamics and ireland
 toynbee hall
@@ -110286,7 +110278,6 @@ tr forensic accountants
 tr grants
 tr nutrition and food services
 tr trade
-tr traders
 tr wings
 traackr
 trac associates
@@ -111069,7 +111060,6 @@ trolex
 tronox pigment
 troon dental studio
 troop london
-trophies frames screen printing
 tropic
 tropic biosciences
 tropic skincare
@@ -111702,7 +111692,6 @@ two circles
 two create studio limted
 two d
 two eds
-two fifty four
 two hungry boys
 two legacy partners
 two lions welsphool
@@ -112942,7 +112931,6 @@ uptitude
 upton care plus
 upton fish bar
 upton hansen architects
-upton house
 upton living
 upton mini mart
 upton park dentalcare
@@ -114134,6 +114122,7 @@ vertali
 vertas
 vertase fli
 verte
+vertek metalworks
 verteks associates
 vertemax
 vertere
@@ -114331,7 +114320,6 @@ vicasset advisors
 vice
 vicente partners
 viceroy cars
-viceroy restaurant
 viceroy takeaway
 vichag
 vichem investment
@@ -114563,7 +114551,6 @@ vinalchemy
 vinarchy
 vinayak pharma
 vinayak transport
-vinayaka
 vinayaka enterprises
 vincent b mcmorrow construction services
 vincent hannon associates
@@ -114586,7 +114573,6 @@ vine care
 vine home care
 vine hotels
 vine house care
-vine social care agency
 vine surgery partnership
 vine thai
 vine works
@@ -114689,7 +114675,6 @@ viridian solar
 viridico2
 viridis building services
 viridor waste
-viritech
 viritopia
 virk builders
 virk construction
@@ -114918,6 +114903,7 @@ vital holdco
 vital innovations
 vital interiors
 vital make up
+vital prototypes
 vital security services
 vital signs accountants
 vital signs solutions
@@ -115735,7 +115721,6 @@ wamba store
 wamin tech
 wamo technology
 wan media
-wan plastering
 wanb express
 wanderlust wine
 wandle healthcare services
@@ -115897,6 +115882,7 @@ wasted talent
 wastefront
 wastemove
 wastewater fuels
+wastib studio
 wasz
 watan builders
 watan continental store
@@ -116052,7 +116038,6 @@ wavetrak
 wavin
 wavteq
 wawa fertility
-waxham house
 waxman energy
 way ahead
 way of life management
@@ -116074,6 +116059,7 @@ waymap
 waymo
 wayne kerr electronics
 wayne leighton
+wayne technology enterprises
 waypoint commodities
 waypoint consulting
 ways to wellness foundation
@@ -116164,10 +116150,10 @@ we care 4 you services
 we care homes
 we care nottingham
 we care nursing services
+we care physiotherapy
 we care recruitment
 we care services
 we care you plus
-we ce
 we certify
 we change lives
 we could be kings
@@ -116202,6 +116188,7 @@ we twelve
 we vape
 we ve got the key
 we2uk
+we3 services
 we4u
 weactive9
 weal architects
@@ -116687,7 +116674,6 @@ west monroe partners
 west moon
 west motor
 west motors london
-west nah professionals
 west nine construction
 west norfolk academies trust
 west northamptonshire council
@@ -116852,7 +116838,6 @@ westgate electronics
 westgate executive chauffeurs
 westgate healthcare
 westgate house ne
-westgate investment business development
 westgate londis
 westgate solicitors
 westglen consult
@@ -117032,6 +117017,7 @@ wheel freedom
 wheel fusion
 wheel get you there
 wheel lane store
+wheel of fate
 wheelabrator
 wheelright
 wheels
@@ -117342,11 +117328,13 @@ wild acres rest home
 wild at heart silver
 wild bioscience
 wild brain family
+wild bunch
 wild bush
 wild cosmetics
 wild dose
 wild ember
 wild island films
+wild lives earth
 wild nutrition
 wild peacock
 wild recruitment
@@ -117358,6 +117346,7 @@ wildanet
 wildax conversions
 wildcat law
 wildcats combat
+wilde consultants
 wilder logistics
 wildfire entertainment
 wildfire strategies
@@ -117508,7 +117497,6 @@ willows pharmacy
 willows pre school
 willows residential care
 wills bros civil engineering
-wills enterprises
 wills fish grill ta will s fish grill
 wills masson partnership
 wills security
@@ -117678,6 +117666,7 @@ winefinch
 wineify
 wines of world
 winesom
+winetraders
 winfo solutions
 wing
 wing aviation
@@ -117852,6 +117841,7 @@ wiserfunding
 wisesupport
 wisetax accountants
 wisetech global
+wisfy
 wish max commodities
 wish oriental cooperation
 wish tours
@@ -119283,7 +119273,6 @@ yi catering
 yi house
 yiangou architects
 yianis fscr
-yianni motors
 yiannis doors
 yidianxinyi
 yield community
@@ -119339,7 +119328,6 @@ ymr fuel
 ymr retail
 ymu services
 yn healthcare
-yn mobile and vape
 ynr instruments
 yns
 ynwa pizza
@@ -119516,6 +119504,7 @@ your care services brain injury
 your care team
 your career
 your chapter
+your childcare solutions
 your choice
 your choice convenience store
 your choice devon
@@ -119598,6 +119587,7 @@ youth model management
 youth projects
 youth pwr charity
 youth reality homes
+youth works northamptonshire
 youthstar
 youtility solutions
 youtu overseas education consultancy
@@ -119940,6 +119930,7 @@ zandra rhodes enterprises
 zane accounting services
 zaneen
 zangi motors
+zango
 zanoo
 zans immigration consultants
 zanturlar
@@ -120261,6 +120252,7 @@ zeugma kitchen
 zeurope
 zeus cars
 zeus electrical constructions
+zeus faber
 zeus labs
 zeux
 zever jewellers
