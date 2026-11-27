@@ -1,54 +1,54 @@
-Run at 2026-11-27 04:10 PKT (daily, 14 runners)
-raw=531883  matching=1087  new=253  total=25847  coverage=100%
+Run at 2026-11-27 15:38 PKT (daily, 14 runners)
+raw=525861  matching=923  new=114  total=25961  coverage=100%
 Searches: 628/628 done, 0 failed, 0 blocked, 0 skipped
-New by city: {'London': 23, 'Singapore': 17, 'Dubai': 14, 'Toronto': 13, 'Dublin': 10, 'Prague': 10, 'Warsaw': 10, 'Cairo': 9, 'Istanbul': 7, 'UK (city not stated)': 7, 'Lahore': 7, 'Abu Dhabi': 7, 'Jeddah': 7, 'Berlin': 7, 'Amsterdam': 6, 'Montreal': 6, 'Tokyo': 6, 'Karachi': 5, 'Remote': 5, 'Munich': 5, 'Germany (city not stated)': 5, 'Kraków': 5, 'Doha': 4, 'Kuala Lumpur': 4, 'Vancouver': 4, 'Hamburg': 4, 'Lisbon': 4, 'Frankfurt': 4, 'Islamabad': 3, 'UAE (city not stated)': 3, 'Canada (city not stated)': 3, 'Melbourne': 3, 'Sydney': 3, 'Riyadh': 2, 'Bahrain (city not stated)': 2, 'Manchester': 2, 'Budapest': 2, 'Birmingham': 2, 'New Zealand (city not stated)': 2, 'Egypt (city not stated)': 2, 'Australia (city not stated)': 2, 'Netherlands (city not stated)': 2, 'Muscat': 1, 'Sharjah': 1, 'Saudi Arabia (city not stated)': 1, 'Poland (city not stated)': 1, 'Pakistan (city not stated)': 1}
-New by role group: {'Data & BI': 89, 'Strategy & Ops': 55, 'AI Product / Applied AI': 40, 'Data Science': 38, 'RevOps': 29, 'Teaching & Faculty': 2}
-Cities with matching jobs today: Abu Dhabi, Amsterdam, Auckland, Australia (city not stated), Bahrain (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Jeddah, Karachi, Kraków, Kuala Lumpur, Kuwait City, Lahore, Lisbon, London, Malaysia (city not stated), Manchester, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Sharjah, Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
+New by city: {'Singapore': 16, 'Dubai': 15, 'London': 10, 'Tokyo': 8, 'Kuala Lumpur': 8, 'Remote': 7, 'Sydney': 4, 'Islamabad': 3, 'Abu Dhabi': 3, 'Lahore': 3, 'Toronto': 3, 'Dublin': 3, 'Germany (city not stated)': 3, 'Istanbul': 2, 'Berlin': 2, 'UAE (city not stated)': 2, 'Prague': 2, 'Poland (city not stated)': 2, 'Melbourne': 2, 'Manchester': 2, 'Kraków': 2, 'Doha': 1, 'Auckland': 1, 'Riyadh': 1, 'Munich': 1, 'Karachi': 1, 'Pakistan (city not stated)': 1, 'Saudi Arabia (city not stated)': 1, 'Australia (city not stated)': 1, 'Amsterdam': 1, 'Egypt (city not stated)': 1, 'Alexandria': 1, 'Montreal': 1}
+New by role group: {'Data & BI': 39, 'AI Product / Applied AI': 25, 'Strategy & Ops': 17, 'Data Science': 15, 'RevOps': 14, 'Teaching & Faculty': 4}
+Cities with matching jobs today: Abu Dhabi, Alexandria, Amsterdam, Auckland, Australia (city not stated), Berlin, Birmingham, Budapest, Cairo, Canada (city not stated), Dhahran, Doha, Dubai, Dublin, Egypt (city not stated), Frankfurt, Germany (city not stated), Hamburg, Ireland (city not stated), Islamabad, Istanbul, Japan (city not stated), Karachi, Kraków, Kuala Lumpur, Kuwait City, Lahore, Lisbon, London, Malaysia (city not stated), Manchester, Melbourne, Montreal, Munich, Muscat, Netherlands (city not stated), New Zealand (city not stated), Pakistan (city not stated), Poland (city not stated), Portugal (city not stated), Prague, Remote, Riyadh, Rotterdam, Saudi Arabia (city not stated), Singapore, Sydney, The Hague, Tokyo, Toronto, Turkey (city not stated), UAE (city not stated), UK (city not stated), Vancouver, Warsaw
 
-Matching titles dropped for location (top 25): {"San Francisco": 207, "World Wide - Remote": 191, "United States": 137, "United States | United States": 130, "United States of America": 128, "San Francisco, CA": 93, "New York City": 89, "New York, NY": 81, "New York": 76, "India": 69, "Spain": 50, "San Francisco | California | United States | San Francisco |": 47, "Paris": 44, "Paris | IDF | fr | Paris, IDF, France": 42, "Thailand": 41, "New York, NY, United States | US": 41, "Indonesia": 40, "New York | New York | United States | New York | New York | ": 40, "United States | US": 38, "Philippines": 38, "New York, New York, United States": 37, "Madrid": 37, "Costa Mesa, California, United States": 36, "Remote - United States": 34, "Hong Kong": 32}
+Matching titles dropped for location (top 25): {"San Francisco": 207, "World Wide - Remote": 191, "United States": 137, "United States | United States": 130, "United States of America": 128, "San Francisco, CA": 93, "New York City": 89, "New York": 76, "New York, NY": 76, "India": 68, "Spain": 55, "San Francisco | California | United States | San Francisco |": 47, "Paris": 45, "Thailand": 41, "Paris | IDF | fr | Paris, IDF, France": 41, "Indonesia": 40, "New York | New York | United States | New York | New York | ": 40, "United States | US": 38, "Philippines": 38, "New York, New York, United States": 37, "New York, NY, United States | US": 37, "Madrid": 37, "Costa Mesa, California, United States": 36, "Remote - United States": 34, "Hong Kong": 32}
 
---- search runner 1/10 (15.0 min)
-linkedin | Riyadh, Saudi Arabia | analytics manager | 27
+--- search runner 1/10 (9.7 min)
+linkedin | Riyadh, Saudi Arabia | analytics manager | 10
 linkedin | Jeddah, Saudi Arabia | assistant professor | 0
 linkedin | Saudi Arabia | lecturer | 20
-linkedin | Qatar | data scientist | 17
-linkedin | Bahrain | strategy and planning | 31
+linkedin | Qatar | data scientist | 10
+linkedin | Bahrain | strategy and planning | 35
 linkedin | Oman | AI product | 0
-linkedin | Kuwait | sales operations | 30
-linkedin | Jordan | revenue operations | 6
-linkedin | Egypt | business intelligence | 10
+linkedin | Kuwait | sales operations | 10
+linkedin | Jordan | revenue operations | 4
+linkedin | Egypt | business intelligence | 20
 linkedin | Istanbul, Türkiye | data analyst | 50
 linkedin | Kuala Lumpur, Malaysia | strategy and planning | 50
 linkedin | Tokyo, Japan | data scientist visa sponsorship | 50
-linkedin | United Kingdom | data analyst visa sponsorship | 50
-linkedin | Ireland | AI product manager visa sponsorship | 10
-linkedin | Netherlands | data scientist visa sponsorship | 50
-linkedin | Budapest, Hungary | data analyst visa sponsorship | 31
-linkedin | Prague, Czechia | AI product manager visa sponsorship | 12
-linkedin | Canada | data scientist visa sponsorship | 50
-linkedin | New Zealand | data analyst visa sponsorship | 23
-indeed | Pakistan | MIS | 7
+linkedin | United Kingdom | data analyst visa sponsorship | 0
+linkedin | Ireland | AI product manager visa sponsorship | 0
+linkedin | Netherlands | data scientist visa sponsorship | 10
+linkedin | Budapest, Hungary | data analyst visa sponsorship | 0
+linkedin | Prague, Czechia | AI product manager visa sponsorship | 0
+linkedin | Canada | data scientist visa sponsorship | 10
+linkedin | New Zealand | data analyst visa sponsorship | 26
+indeed | Pakistan | MIS | 8
 indeed | Pakistan | growth | 100
 indeed | Lahore | power bi | 2
-indeed | Lahore | business operations | 63
+indeed | Lahore | business operations | 48
 indeed | Lahore | lecturer | 0
-indeed | Karachi | analytics manager | 9
-indeed | Karachi | CRM | 34
+indeed | Karachi | analytics manager | 7
+indeed | Karachi | CRM | 29
 indeed | Islamabad | business analyst | 5
-indeed | Islamabad | business planning | 15
+indeed | Islamabad | business planning | 13
 indeed | Islamabad | AI | 18
-indeed | United Arab Emirates | analytics manager | 42
+indeed | United Arab Emirates | analytics manager | 43
 indeed | Saudi Arabia | business analyst | 10
-indeed | Saudi Arabia | AI specialist | 6
-indeed | Qatar | business planning | 22
+indeed | Saudi Arabia | AI specialist | 4
+indeed | Qatar | business planning | 18
 indeed | Bahrain | power bi | 0
 indeed | Bahrain | lecturer | 0
-indeed | Oman | sales operations | 3
-indeed | Kuwait | analytics manager | 1
+indeed | Oman | sales operations | 1
+indeed | Kuwait | analytics manager | 0
 indeed | Egypt | business analyst | 28
-indeed | Egypt | AI specialist | 2
+indeed | Egypt | AI specialist | 1
 indeed | Turkey | AI product visa sponsorship | 0
-indeed | Singapore | business analyst | 32
+indeed | Singapore | business analyst | 33
 indeed | Japan | data scientist visa sponsorship | 0
 indeed | UK | strategy visa sponsorship | 100
 indeed | Ireland | AI product visa sponsorship | 0
@@ -57,140 +57,136 @@ indeed | Poland | data scientist visa sponsorship | 0
 indeed | Hungary | strategy visa sponsorship | 2
 indeed | Czech Republic | AI product visa sponsorship | 0
 indeed | Canada | business analyst visa sponsorship | 0
-indeed | Australia | data scientist visa sponsorship | 1
-indeed | New Zealand | strategy visa sponsorship | 2
-linkedin | Lahore, Pakistan | data analyst | 35
-linkedin | Lahore, Pakistan | power bi | 50
-linkedin | Lahore, Pakistan | business planning | 50
-linkedin | Karachi, Pakistan | AI product | 4
+indeed | Australia | data scientist visa sponsorship | 2
+indeed | New Zealand | strategy visa sponsorship | 0
+linkedin | Lahore, Pakistan | data analyst | 10
+linkedin | Lahore, Pakistan | power bi | 10
+linkedin | Lahore, Pakistan | business planning | 29
+linkedin | Karachi, Pakistan | AI product | 0
 linkedin | Karachi, Pakistan | head of data | 6
-linkedin | Karachi, Pakistan | chief of staff | 8
-linkedin | Islamabad, Pakistan | assistant professor | 1
-linkedin | Islamabad, Pakistan | salesforce | 15
-linkedin | Dubai, United Arab Emirates | revenue operations | 100
-linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 79
-linkedin | United Arab Emirates | data analyst | 100
-linkedin | United Arab Emirates | power bi | 80
+linkedin | Karachi, Pakistan | chief of staff | 10
+linkedin | Islamabad, Pakistan | assistant professor | 2
+linkedin | Islamabad, Pakistan | salesforce | 0
+linkedin | Dubai, United Arab Emirates | revenue operations | 20
+linkedin | Abu Dhabi, United Arab Emirates | business intelligence | 0
+linkedin | United Arab Emirates | data analyst | 20
+linkedin | United Arab Emirates | power bi | 0
 discovered employers | added | 6795
 workday | amat | FAILED: 429 Client Error: Too Many Requests for url: https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/extern
 workday | bishopfleming | FAILED: 429 Client Error: Too Many Requests for url: https://bishopfleming.wd3.myworkdayjobs.com/wday/cxs/bi
-workday | burkert | FAILED: 429 Client Error: Too Many Requests for url: https://burkert.wd502.myworkdayjobs.com/wday/cxs/burker
-workday | clarios | FAILED: 429 Client Error: Too Many Requests for url: https://clarios.wd5.myworkdayjobs.com/wday/cxs/clarios/
-workday | equifax | FAILED: 429 Client Error: Too Many Requests for url: https://equifax.wd5.myworkdayjobs.com/wday/cxs/equifax/
 workday | evotecgroup | FAILED: 429 Client Error: Too Many Requests for url: https://evotecgroup.wd3.myworkdayjobs.com/wday/cxs/evot
 workday | guillevin | FAILED: 429 Client Error: Too Many Requests for url: https://guillevin.wd3.myworkdayjobs.com/wday/cxs/guille
 workday | heidrick | FAILED: 429 Client Error: Too Many Requests for url: https://heidrick.wd1.myworkdayjobs.com/wday/cxs/heidric
 workday | hpe | FAILED: 429 Client Error: Too Many Requests for url: https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/wfmathpe
 workday | ingenovishealth | FAILED: 429 Client Error: Too Many Requests for url: https://ingenovishealth.wd1.myworkdayjobs.com/wday/cxs/
-workday | jas | FAILED: 429 Client Error: Too Many Requests for url: https://jas.wd1.myworkdayjobs.com/wday/cxs/jas/jascaree
 workday | magnitudesoftware | FAILED: 429 Client Error: Too Many Requests for url: https://magnitudesoftware.wd1.myworkdayjobs.com/wday/cx
 workday | mizuho | FAILED: 429 Client Error: Too Many Requests for url: https://mizuho.wd1.myworkdayjobs.com/wday/cxs/mizuho/mi
-workday | nordsonhcm | FAILED: 429 Client Error: Too Many Requests for url: https://nordsonhcm.wd501.myworkdayjobs.com/wday/cxs/nor
 workday | otis | FAILED: 429 Client Error: Too Many Requests for url: https://otis.wd504.myworkdayjobs.com/wday/cxs/otis/REC_
 workday | puma | FAILED: 429 Client Error: Too Many Requests for url: https://puma.wd502.myworkdayjobs.com/wday/cxs/puma/Work
 workday | sabre | FAILED: 429 Client Error: Too Many Requests for url: https://sabre.wd1.myworkdayjobs.com/wday/cxs/sabre/Sabr
+workday | shi | FAILED: 429 Client Error: Too Many Requests for url: https://shi.wd12.myworkdayjobs.com/wday/cxs/shi/shicare
 workday | sonyglobal | FAILED: 429 Client Error: Too Many Requests for url: https://sonyglobal.wd1.myworkdayjobs.com/wday/cxs/sonyg
 workday | strayer | FAILED: 429 Client Error: Too Many Requests for url: https://strayer.wd1.myworkdayjobs.com/wday/cxs/strayer/
 workday | takeda | FAILED: 429 Client Error: Too Many Requests for url: https://takeda.wd502.myworkdayjobs.com/wday/cxs/takeda/
 workday | thedacare | FAILED: 429 Client Error: Too Many Requests for url: https://thedacare.wd5.myworkdayjobs.com/wday/cxs/thedac
 workday | ttc | FAILED: 429 Client Error: Too Many Requests for url: https://ttc.wd1.myworkdayjobs.com/wday/cxs/ttc/Toro_Ext
 workday | walmart | FAILED: 429 Client Error: Too Many Requests for url: https://walmart.wd504.myworkdayjobs.com/wday/cxs/walmar
-ashby | 122 employers | 3271
-bamboohr | 7 employers | 61
+ashby | 122 employers | 3263
+bamboohr | 7 employers | 60
 breezy | 3 employers | 256
-greenhouse | 145 employers | 7266
+greenhouse | 145 employers | 7260
 icims | 15 employers | 795
 lever | 8 employers | 257
-oracle | 40 employers | 10055
-personio | 87 employers | 1446
-pinpoint | 5 employers | 75
-recruitee | 31 employers | 1075
-smartrecruiters | 38 employers | 6764
-successfactors | 22 employers | 2607
-taleo | 5 employers | 642
+oracle | 40 employers | 9969
+personio | 87 employers | 1443
+pinpoint | 5 employers | 73
+recruitee | 31 employers | 1074
+smartrecruiters | 38 employers | 6730
+successfactors | 22 employers | 2613
+taleo | 5 employers | 498
 teamtailor | 20 employers | 206
-workable | 94 employers | 6013
-workday | 42 employers | 826
-remoteok | 6
-weworkremotely | 71
-locations | missing 18 | looked up 18 | found 12
-checks | descriptions opened 90 | {"dropped earlier": 37, "visa unclear (no mention)": 35, "visa ruled out": 5, "visa unclear (ad unreadable)": 24}
---- search runner 2/10 (15.6 min)
-indeed | Saudi Arabia | business intelligence | 15
+workable | 94 employers | 6015
+workday | 42 employers | 965
+remoteok | 4
+weworkremotely | 87
+locations | missing 20 | looked up 20 | found 14
+checks | descriptions opened 90 | {"dropped earlier": 39, "visa unclear (no mention)": 43, "visa unclear (ad unreadable)": 5}
+--- search runner 2/10 (10.8 min)
+indeed | Saudi Arabia | business intelligence | 14
 indeed | Saudi Arabia | pricing analyst | 0
-indeed | Qatar | revenue operations | 12
+indeed | Qatar | revenue operations | 10
 indeed | Bahrain | data scientist | 0
 indeed | Oman | data analyst | 0
-indeed | Oman | AI product | 1
+indeed | Oman | AI product | 0
 indeed | Kuwait | strategy | 6
-indeed | Egypt | business intelligence | 15
+indeed | Egypt | business intelligence | 13
 indeed | Egypt | pricing analyst | 1
-indeed | Malaysia | data analyst | 25
+indeed | Malaysia | data analyst | 30
 indeed | Singapore | business intelligence | 100
 indeed | Japan | revenue operations visa sponsorship | 0
 indeed | UK | data analyst relocation | 5
-indeed | Germany | data analyst visa sponsorship | 1
+indeed | Germany | data analyst visa sponsorship | 0
 indeed | Netherlands | business intelligence visa sponsorship | 0
 indeed | Poland | revenue operations visa sponsorship | 0
 indeed | Hungary | data analyst relocation | 0
 indeed | Portugal | data analyst visa sponsorship | 0
-indeed | Canada | business intelligence visa sponsorship | 7
-indeed | Australia | revenue operations visa sponsorship | 0
+indeed | Canada | business intelligence visa sponsorship | 8
+indeed | Australia | revenue operations visa sponsorship | 1
 indeed | New Zealand | data analyst relocation | 0
-linkedin | Lahore, Pakistan | business intelligence | 16
-linkedin | Lahore, Pakistan | business analyst | 0
+linkedin | Lahore, Pakistan | business intelligence | 13
+linkedin | Lahore, Pakistan | business analyst | 35
 linkedin | Lahore, Pakistan | pricing analyst | 0
-linkedin | Karachi, Pakistan | strategy and planning | 50
-linkedin | Karachi, Pakistan | BI developer | 6
-linkedin | Karachi, Pakistan | operations analyst | 35
-linkedin | Islamabad, Pakistan | analytics manager | 5
+linkedin | Karachi, Pakistan | strategy and planning | 0
+linkedin | Karachi, Pakistan | BI developer | 5
+linkedin | Karachi, Pakistan | operations analyst | 28
+linkedin | Islamabad, Pakistan | analytics manager | 3
 linkedin | Islamabad, Pakistan | AI specialist | 10
-linkedin | Dubai, United Arab Emirates | sales operations | 100
-linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 41
-linkedin | United Arab Emirates | business intelligence | 100
-linkedin | Riyadh, Saudi Arabia | data analyst | 63
-linkedin | Riyadh, Saudi Arabia | power bi | 20
-linkedin | Jeddah, Saudi Arabia | analytics manager | 10
-linkedin | Saudi Arabia | assistant professor | 9
-linkedin | Qatar | lecturer | 3
-linkedin | Bahrain | data scientist | 6
+linkedin | Dubai, United Arab Emirates | sales operations | 0
+linkedin | Abu Dhabi, United Arab Emirates | revenue operations | 50
+linkedin | United Arab Emirates | business intelligence | 10
+linkedin | Riyadh, Saudi Arabia | data analyst | 20
+linkedin | Riyadh, Saudi Arabia | power bi | 60
+linkedin | Jeddah, Saudi Arabia | analytics manager | 0
+linkedin | Saudi Arabia | assistant professor | 10
+linkedin | Qatar | lecturer | 2
+linkedin | Bahrain | data scientist | 4
 linkedin | Oman | strategy and planning | 20
-linkedin | Kuwait | AI product | 3
-linkedin | Jordan | sales operations | 30
-linkedin | Egypt | revenue operations | 68
-linkedin | Istanbul, Türkiye | business intelligence | 50
-linkedin | Kuala Lumpur, Malaysia | data scientist | 50
+linkedin | Kuwait | AI product | 0
+linkedin | Jordan | sales operations | 10
+linkedin | Egypt | revenue operations | 0
+linkedin | Istanbul, Türkiye | business intelligence | 10
+linkedin | Kuala Lumpur, Malaysia | data scientist | 20
 linkedin | Tokyo, Japan | revenue operations visa sponsorship | 30
-linkedin | United Kingdom | business intelligence visa sponsorship | 50
-linkedin | Ireland | strategy visa sponsorship | 50
-linkedin | Netherlands | revenue operations visa sponsorship | 50
-linkedin | Budapest, Hungary | business intelligence visa sponsorship | 30
+linkedin | United Kingdom | business intelligence visa sponsorship | 20
+linkedin | Ireland | strategy visa sponsorship | 0
+linkedin | Netherlands | revenue operations visa sponsorship | 20
+linkedin | Budapest, Hungary | business intelligence visa sponsorship | 0
 linkedin | Prague, Czechia | strategy visa sponsorship | 50
-linkedin | Canada | revenue operations visa sponsorship | 50
-linkedin | New Zealand | business intelligence visa sponsorship | 32
-indeed | Pakistan | data analyst | 21
+linkedin | Canada | revenue operations visa sponsorship | 0
+linkedin | New Zealand | business intelligence visa sponsorship | 0
+indeed | Pakistan | data analyst | 19
 indeed | Pakistan | strategy | 100
-indeed | Pakistan | operations analyst | 11
-indeed | Lahore | data analytics | 9
-indeed | Lahore | revenue operations | 13
+indeed | Pakistan | operations analyst | 9
+indeed | Lahore | data analytics | 7
+indeed | Lahore | revenue operations | 11
 indeed | Lahore | assistant professor | 0
 indeed | Karachi | product analyst | 0
-indeed | Karachi | pricing analyst | 1
+indeed | Karachi | pricing analyst | 0
 indeed | Islamabad | business intelligence | 7
-indeed | Islamabad | strategy and operations | 6
+indeed | Islamabad | strategy and operations | 4
 indeed | Islamabad | AI product | 6
 indeed | United Arab Emirates | strategy | 100
 discovered employers | added | 6795
-workday | aviva | FAILED: 429 Client Error: Too Many Requests for url: https://aviva.wd1.myworkdayjobs.com/wday/cxs/aviva/exte
+workday | amcor | FAILED: 429 Client Error: Too Many Requests for url: https://amcor.wd5.myworkdayjobs.com/wday/cxs/amcor/amco
 workday | bluescopenac | FAILED: 429 Client Error: Too Many Requests for url: https://bluescopenac.wd5.myworkdayjobs.com/wday/cxs/blu
 workday | canadiantirecorporation | FAILED: 429 Client Error: Too Many Requests for url: https://canadiantirecorporation.wd3.myworkdayjobs.com/w
 workday | cewe | FAILED: 429 Client Error: Too Many Requests for url: https://cewe.wd3.myworkdayjobs.com/wday/cxs/cewe/Jobs_a
 workday | clio | FAILED: 429 Client Error: Too Many Requests for url: https://clio.wd3.myworkdayjobs.com/wday/cxs/clio/ClioCa
 workday | csusystem | FAILED: 429 Client Error: Too Many Requests for url: https://csusystem.wd12.myworkdayjobs.com/wday/cxs/csusy
-workday | dexcom | FAILED: 429 Client Error: Too Many Requests for url: https://dexcom.wd1.myworkdayjobs.com/wday/cxs/dexcom/de
 workday | erm | FAILED: 429 Client Error: Too Many Requests for url: https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/ERM_Earl
 workday | firstam | FAILED: 429 Client Error: Too Many Requests for url: https://firstam.wd1.myworkdayjobs.com/wday/cxs/firstam/
 workday | fourseasons | FAILED: 429 Client Error: Too Many Requests for url: https://fourseasons.wd3.myworkdayjobs.com/wday/cxs/four
+workday | genpact | FAILED: 429 Client Error: Too Many Requests for url: https://genpact.wd108.myworkdayjobs.com/wday/cxs/genpac
 workday | gutor | FAILED: 429 Client Error: Too Many Requests for url: https://gutor.wd3.myworkdayjobs.com/wday/cxs/gutor/Guto
 workday | heidrick | FAILED: 429 Client Error: Too Many Requests for url: https://heidrick.wd1.myworkdayjobs.com/wday/cxs/heidric
 workday | humana | FAILED: 429 Client Error: Too Many Requests for url: https://humana.wd5.myworkdayjobs.com/wday/cxs/humana/ce
@@ -201,7 +197,6 @@ workday | mango | FAILED: 429 Client Error: Too Many Requests for url: https://m
 workday | medivet | FAILED: 429 Client Error: Too Many Requests for url: https://medivet.wd3.myworkdayjobs.com/wday/cxs/medivet/
 workday | mksinst | FAILED: 429 Client Error: Too Many Requests for url: https://mksinst.wd1.myworkdayjobs.com/wday/cxs/mksinst/
 workday | mysrhs | FAILED: 429 Client Error: Too Many Requests for url: https://mysrhs.wd108.myworkdayjobs.com/wday/cxs/mysrhs/
-workday | outsystems | FAILED: 429 Client Error: Too Many Requests for url: https://outsystems.wd503.myworkdayjobs.com/wday/cxs/out
 workday | pillsburylaw | FAILED: 429 Client Error: Too Many Requests for url: https://pillsburylaw.wd5.myworkdayjobs.com/wday/cxs/pil
 workday | pwc | FAILED: 429 Client Error: Too Many Requests for url: https://pwc.wd3.myworkdayjobs.com/wday/cxs/pwc/global_c
 workday | rbc | FAILED: 429 Client Error: Too Many Requests for url: https://rbc.wd3.myworkdayjobs.com/wday/cxs/rbc/external
@@ -212,219 +207,243 @@ workday | thejacksonlaboratory | FAILED: 429 Client Error: Too Many Requests for
 workday | turo | FAILED: 429 Client Error: Too Many Requests for url: https://turo.wd12.myworkdayjobs.com/wday/cxs/turo/Turo_
 workday | valleyhealth | FAILED: 429 Client Error: Too Many Requests for url: https://valleyhealth.wd12.myworkdayjobs.com/wday/cxs/va
 workday | warnerbros | FAILED: 429 Client Error: Too Many Requests for url: https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warne
-workday | zebra | FAILED: 429 Client Error: Too Many Requests for url: https://zebra.wd501.myworkdayjobs.com/wday/cxs/zebra/ze
-ashby | 122 employers | 4106
+ashby | 122 employers | 4104
 bamboohr | 7 employers | 36
-breezy | 3 employers | 32
-greenhouse | 145 employers | 8576
+breezy | 3 employers | 31
+greenhouse | 145 employers | 8573
 icims | 15 employers | 1515
-lever | 7 employers | 262
-oracle | 41 employers | 7637
-personio | 86 employers | 1240
+lever | 7 employers | 261
+oracle | 41 employers | 7610
+personio | 86 employers | 1243
 pinpoint | 6 employers | 208
-recruitee | 31 employers | 1414
-smartrecruiters | 38 employers | 3263
-successfactors | 22 employers | 20920
+recruitee | 31 employers | 1413
+smartrecruiters | 38 employers | 3256
+successfactors | 22 employers | 20750
 taleo | 5 employers | 372
-teamtailor | 20 employers | 400
-workable | 94 employers | 7058
-workday | 42 employers | 708
-remotive | 45
-himalayas | 1
-jobicy | 1
-workingnomads | 10
+teamtailor | 20 employers | 396
+workable | 94 employers | 7059
+workday | 42 employers | 812
+remotive | 50
+himalayas | 2
+jobicy | 7
+workingnomads | 11
 arbeitnow | 900
-locations | missing 5 | looked up 5 | found 4
-checks | descriptions opened 90 | {"dropped earlier": 57, "visa unclear (no mention)": 63, "visa ruled out": 12, "visa unclear (ad unreadable)": 1}
---- search runner 3/10 (17.8 min)
+locations | missing 10 | looked up 10 | found 9
+checks | descriptions opened 90 | {"dropped earlier": 48, "visa unclear (no mention)": 44, "visa ruled out": 1, "visa unclear (ad unreadable)": 1}
+--- search runner 3/10 (15.7 min)
 indeed | Saudi Arabia | power bi | 4
 indeed | Saudi Arabia | lecturer | 0
-indeed | Qatar | sales operations | 21
+indeed | Qatar | sales operations | 18
 indeed | Bahrain | analytics manager | 1
 indeed | Oman | business analyst | 0
 indeed | Oman | AI specialist | 0
-indeed | Kuwait | business planning | 5
-indeed | Egypt | power bi | 7
+indeed | Kuwait | business planning | 4
+indeed | Egypt | power bi | 5
 indeed | Egypt | lecturer | 0
-indeed | Malaysia | business analyst | 43
-indeed | Singapore | data scientist | 27
+indeed | Malaysia | business analyst | 49
+indeed | Singapore | data scientist | 21
 indeed | Japan | strategy visa sponsorship | 0
-indeed | UK | AI product visa sponsorship | 48
+indeed | UK | AI product visa sponsorship | 32
 indeed | Germany | business analyst visa sponsorship | 0
 indeed | Netherlands | data scientist visa sponsorship | 0
 indeed | Poland | strategy visa sponsorship | 0
 indeed | Hungary | AI product visa sponsorship | 0
 indeed | Portugal | business analyst visa sponsorship | 0
 indeed | Canada | data scientist visa sponsorship | 0
-indeed | Australia | strategy visa sponsorship | 26
+indeed | Australia | strategy visa sponsorship | 33
 indeed | New Zealand | AI product visa sponsorship | 1
-linkedin | Lahore, Pakistan | revenue operations | 10
-linkedin | Lahore, Pakistan | data analytics | 0
-linkedin | Lahore, Pakistan | growth analyst | 25
-linkedin | Karachi, Pakistan | data scientist | 12
-linkedin | Karachi, Pakistan | strategy manager | 22
+linkedin | Lahore, Pakistan | revenue operations | 16
+linkedin | Lahore, Pakistan | data analytics | 30
+linkedin | Lahore, Pakistan | growth analyst | 20
+linkedin | Karachi, Pakistan | data scientist | 0
+linkedin | Karachi, Pakistan | strategy manager | 26
 linkedin | Islamabad, Pakistan | data analyst | 16
-linkedin | Islamabad, Pakistan | power bi | 30
+linkedin | Islamabad, Pakistan | power bi | 0
 linkedin | Islamabad, Pakistan | business planning | 29
-linkedin | Dubai, United Arab Emirates | AI product | 60
+linkedin | Dubai, United Arab Emirates | AI product | 0
 linkedin | Abu Dhabi, United Arab Emirates | sales operations | 0
-linkedin | United Arab Emirates | revenue operations | 100
-linkedin | Riyadh, Saudi Arabia | business intelligence | 31
-linkedin | Jeddah, Saudi Arabia | data analyst | 33
-linkedin | Jeddah, Saudi Arabia | power bi | 87
-linkedin | Saudi Arabia | analytics manager | 66
-linkedin | Qatar | assistant professor | 2
+linkedin | United Arab Emirates | revenue operations | 0
+linkedin | Riyadh, Saudi Arabia | business intelligence | 0
+linkedin | Jeddah, Saudi Arabia | data analyst | 29
+linkedin | Jeddah, Saudi Arabia | power bi | 10
+linkedin | Saudi Arabia | analytics manager | 50
+linkedin | Qatar | assistant professor | 3
 linkedin | Bahrain | lecturer | 5
 linkedin | Oman | data scientist | 1
-linkedin | Kuwait | strategy and planning | 32
+linkedin | Kuwait | strategy and planning | 21
 linkedin | Jordan | AI product | 3
-linkedin | Egypt | sales operations | 100
-linkedin | Istanbul, Türkiye | revenue operations | 50
-linkedin | Singapore | data analyst | 50
-linkedin | Tokyo, Japan | AI product manager visa sponsorship | 46
+linkedin | Egypt | sales operations | 30
+linkedin | Istanbul, Türkiye | revenue operations | 0
+linkedin | Singapore | data analyst | 20
+linkedin | Tokyo, Japan | AI product manager visa sponsorship | 0
 linkedin | United Kingdom | data scientist visa sponsorship | 50
-linkedin | Germany | data analyst visa sponsorship | 50
-linkedin | Netherlands | AI product manager visa sponsorship | 36
-linkedin | Budapest, Hungary | data scientist visa sponsorship | 15
-linkedin | Lisbon, Portugal | data analyst visa sponsorship | 25
+linkedin | Germany | data analyst visa sponsorship | 30
+linkedin | Netherlands | AI product manager visa sponsorship | 0
+linkedin | Budapest, Hungary | data scientist visa sponsorship | 0
+linkedin | Lisbon, Portugal | data analyst visa sponsorship | 0
 linkedin | Canada | AI product manager visa sponsorship | 50
-linkedin | New Zealand | data scientist visa sponsorship | 20
-indeed | Pakistan | business analyst | 22
-indeed | Pakistan | business planning | 82
+linkedin | New Zealand | data scientist visa sponsorship | 0
+indeed | Pakistan | business analyst | 17
+indeed | Pakistan | business planning | 79
 indeed | Pakistan | AI | 100
 indeed | Lahore | data scientist | 1
-indeed | Lahore | sales operations | 35
-indeed | Lahore | trainer | 4
+indeed | Lahore | sales operations | 33
+indeed | Lahore | trainer | 3
 indeed | Karachi | MIS | 5
-indeed | Karachi | growth | 100
+indeed | Karachi | growth | 99
 indeed | Islamabad | power bi | 3
 indeed | Islamabad | business operations | 28
 indeed | Islamabad | lecturer | 0
 indeed | United Arab Emirates | business planning | 100
 discovered employers | added | 6795
-workday | akumincorp | FAILED: 429 Client Error: Too Many Requests for url: https://akumincorp.wd5.myworkdayjobs.com/wday/cxs/akumi
-workday | americanredcross | FAILED: 429 Client Error: Too Many Requests for url: https://americanredcross.wd1.myworkdayjobs.com/wday/cxs
 workday | awg | FAILED: 429 Client Error: Too Many Requests for url: https://awg.wd3.myworkdayjobs.com/wday/cxs/awg/AW/jobs
 workday | bnl | FAILED: 429 Client Error: Too Many Requests for url: https://bnl.wd1.myworkdayjobs.com/wday/cxs/bnl/Externa/
 workday | cgg | FAILED: 429 Client Error: Too Many Requests for url: https://cgg.wd103.myworkdayjobs.com/wday/cxs/cgg/viridi
 workday | cloudera | FAILED: 429 Client Error: Too Many Requests for url: https://cloudera.wd5.myworkdayjobs.com/wday/cxs/clouder
-workday | corelab | FAILED: 429 Client Error: Too Many Requests for url: https://corelab.wd12.myworkdayjobs.com/wday/cxs/corelab
-workday | curtisswright | FAILED: 429 Client Error: Too Many Requests for url: https://curtisswright.wd1.myworkdayjobs.com/wday/cxs/cu
-workday | digitalturbine | FAILED: 429 Client Error: Too Many Requests for url: https://digitalturbine.wd501.myworkdayjobs.com/wday/cxs
 workday | erm | FAILED: 429 Client Error: Too Many Requests for url: https://erm.wd3.myworkdayjobs.com/wday/cxs/erm/erm_expe
 workday | firststudent | FAILED: 429 Client Error: Too Many Requests for url: https://firststudent.wd1.myworkdayjobs.com/wday/cxs/fir
 workday | fox | FAILED: 429 Client Error: Too Many Requests for url: https://fox.wd1.myworkdayjobs.com/wday/cxs/fox/FOXTVST_
 workday | georgetown | FAILED: 429 Client Error: Too Many Requests for url: https://georgetown.wd1.myworkdayjobs.com/wday/cxs/georg
-workday | gvmh | FAILED: 429 Client Error: Too Many Requests for url: https://gvmh.wd504.myworkdayjobs.com/wday/cxs/gvmh/GVMH
 workday | hengeler | FAILED: 429 Client Error: Too Many Requests for url: https://hengeler.wd502.myworkdayjobs.com/wday/cxs/henge
-workday | huntelec | FAILED: 429 Client Error: Too Many Requests for url: https://huntelec.wd501.myworkdayjobs.com/wday/cxs/hunte
 workday | ingredion | FAILED: 429 Client Error: Too Many Requests for url: https://ingredion.wd1.myworkdayjobs.com/wday/cxs/ingred
 workday | jll | FAILED: 429 Client Error: Too Many Requests for url: https://jll.wd1.myworkdayjobs.com/wday/cxs/jll/JLLCaree
 workday | levistraussandco | FAILED: 429 Client Error: Too Many Requests for url: https://levistraussandco.wd5.myworkdayjobs.com/wday/cxs
-workday | marathonhealth | FAILED: 429 Client Error: Too Many Requests for url: https://marathonhealth.wd501.myworkdayjobs.com/wday/cxs
 workday | medline | FAILED: 429 Client Error: Too Many Requests for url: https://medline.wd5.myworkdayjobs.com/wday/cxs/medline/
 workday | mlse | FAILED: 429 Client Error: Too Many Requests for url: https://mlse.wd3.myworkdayjobs.com/wday/cxs/mlse/MLSE/j
-workday | naic | FAILED: 429 Client Error: Too Many Requests for url: https://naic.wd115.myworkdayjobs.com/wday/cxs/naic/NAIC
 workday | normet | FAILED: 429 Client Error: Too Many Requests for url: https://normet.wd502.myworkdayjobs.com/wday/cxs/normet/
 workday | omnissa | FAILED: 429 Client Error: Too Many Requests for url: https://omnissa.wd501.myworkdayjobs.com/wday/cxs/omniss
 workday | oxfordcorp | FAILED: 429 Client Error: Too Many Requests for url: https://oxfordcorp.wd108.myworkdayjobs.com/wday/cxs/oxf
 workday | pimco | FAILED: 429 Client Error: Too Many Requests for url: https://pimco.wd1.myworkdayjobs.com/wday/cxs/pimco/pimc
-workday | recar | FAILED: 429 Client Error: Too Many Requests for url: https://recar.wd108.myworkdayjobs.com/wday/cxs/recar/SL
+workday | pzcussons | FAILED: 429 Client Error: Too Many Requests for url: https://pzcussons.wd3.myworkdayjobs.com/wday/cxs/pzcuss
 workday | Salesforce | FAILED: 429 Client Error: Too Many Requests for url: https://salesforce.wd12.myworkdayjobs.com/wday/cxs/sale
 workday | siegfried | FAILED: 429 Client Error: Too Many Requests for url: https://siegfried.wd103.myworkdayjobs.com/wday/cxs/sieg
+workday | soti | FAILED: 429 Client Error: Too Many Requests for url: https://soti.wd3.myworkdayjobs.com/wday/cxs/soti/SOTI-N
 workday | sulzer | FAILED: 429 Client Error: Too Many Requests for url: https://sulzer.wd502.myworkdayjobs.com/wday/cxs/sulzer/
 workday | Contour Software | FAILED: 429 Client Error: Too Many Requests for url: https://talentmanagementsolution.wd3.myworkdayjobs.com/
 workday | thermofisher | FAILED: 429 Client Error: Too Many Requests for url: https://thermofisher.wd5.myworkdayjobs.com/wday/cxs/the
 workday | tvh | FAILED: 429 Client Error: Too Many Requests for url: https://tvh.wd3.myworkdayjobs.com/wday/cxs/tvh/JobsatTV
 workday | warnerbros | FAILED: 429 Client Error: Too Many Requests for url: https://warnerbros.wd5.myworkdayjobs.com/wday/cxs/warne
 workday | zeissgroup | FAILED: 429 Client Error: Too Many Requests for url: https://zeissgroup.wd3.myworkdayjobs.com/wday/cxs/zeiss
-ashby | 122 employers | 5552
+ashby | 122 employers | 5537
 bamboohr | 7 employers | 94
 breezy | 3 employers | 48
-greenhouse | 144 employers | 5676
-icims | 16 employers | 1308
+greenhouse | 144 employers | 5667
+icims | 16 employers | 1310
 lever | 7 employers | 910
-oracle | 41 employers | 8392
-personio | 86 employers | 1209
-pinpoint | 5 employers | 245
-recruitee | 32 employers | 642
-smartrecruiters | 38 employers | 7369
-successfactors | 21 employers | 9180
-taleo | 6 employers | 858
-teamtailor | 20 employers | 320
-workable | 94 employers | 5675
-workday | 42 employers | 167
-rozee | sitemap jobs in window 2550 | title matches 32 | opened 32
-gulftalent | FAILED: HTTP Error 403: 
+oracle | 41 employers | 8280
+personio | 86 employers | 1206
+pinpoint | 5 employers | 244
+recruitee | 32 employers | 638
+smartrecruiters | 38 employers | 7373
+successfactors | 21 employers | 9208
+taleo | 6 employers | 857
+teamtailor | 20 employers | 321
+workable | 94 employers | 5648
+workday | 42 employers | 238
+rozee | sitemap jobs in window 2554 | title matches 32 | opened 32
+gulftalent | detail FAILED enior-commercial-strategy-manager-661747: HTTP Error 403: 
+gulftalent | detail FAILED uwait/jobs/staff-planning-analyst-661547: HTTP Error 403: 
+gulftalent | detail FAILED ngineer-enterprise-data-analytics-661383: HTTP Error 403: 
+gulftalent | detail FAILED talent.com/uae/jobs/crm-executive-661363: HTTP Error 403: 
+gulftalent | detail FAILED merce-business-excellence-analyst-661128: HTTP Error 403: 
+gulftalent | detail FAILED audi-arabia/jobs/planning-manager-660991: HTTP Error 403: 
+gulftalent | detail FAILED i-and-machine-learning-specialist-660459: HTTP Error 403: 
+gulftalent | detail FAILED egypt/jobs/accounting-mis-manager-660530: HTTP Error 403: 
+gulftalent | detail FAILED -operations-specialist-salesforce-660529: HTTP Error 403: 
+gulftalent | detail FAILED ent.com/uae/jobs/planning-manager-659623: HTTP Error 403: 
+gulftalent | detail FAILED bs/digital-transformation-manager-659401: HTTP Error 403: 
+gulftalent | detail FAILED bs/group-financial-reporting-lead-659572: HTTP Error 403: 
+gulftalent | detail FAILED alent.com/uae/jobs/chief-of-staff-659578: HTTP Error 403: 
+gulftalent | detail FAILED t/jobs/data-analyst-data-engineer-659140: HTTP Error 403: 
+gulftalent | detail FAILED engineer-ai-automation-specialist-659141: HTTP Error 403: 
+gulftalent | detail FAILED or-operational-excellence-manager-659210: HTTP Error 403: 
+gulftalent | detail FAILED nning-manager-food-demand-planner-659355: HTTP Error 403: 
+gulftalent | detail FAILED ftalent.com/uae/jobs/ai-architect-658418: HTTP Error 403: 
+gulftalent | detail FAILED transportation-operations-analyst-658542: HTTP Error 403: 
+gulftalent | detail FAILED s/senior-data-science-ai-engineer-658691: HTTP Error 403: 
+gulftalent | detail FAILED /egypt/jobs/s-op-planning-manager-658698: HTTP Error 403: 
+gulftalent | detail FAILED m/egypt/jobs/salesforce-developer-658745: HTTP Error 403: 
+gulftalent | detail FAILED ae/jobs/digital-analytics-officer-658209: HTTP Error 403: 
+gulftalent | detail FAILED com/saudi-arabia/jobs/pmo-manager-658568: HTTP Error 403: 
+gulftalent | detail FAILED igital-crm-executive-cx-crm-focus-658676: HTTP Error 403: 
+gulftalent | detail FAILED iness-excellence-strategy-manager-659156: HTTP Error 403: 
+gulftalent | detail FAILED ent.com/uae/jobs/strategy-manager-658815: HTTP Error 403: 
+gulftalent | detail FAILED i-product-engineer-llm-agentic-ai-658610: HTTP Error 403: 
+gulftalent | detail FAILED duct-engineer-vlm-computer-vision-658611: HTTP Error 403: 
+gulftalent | detail FAILED /jobs/senior-salesforce-developer-658681: HTTP Error 403: 
+gulftalent | detail FAILED /jobs/senior-salesforce-developer-658718: HTTP Error 403: 
+gulftalent | sitemap jobs in window 9566 | title matches 281 | opened 29
 locations | missing 3 | looked up 3 | found 1
-checks | descriptions opened 90 | {"dropped earlier": 12, "nationals only": 1, "visa unclear (no mention)": 79, "visa ruled out": 2, "visa unclear (ad unreadable)": 44}
---- search runner 4/10 (16.5 min)
-linkedin | Jeddah, Saudi Arabia | business intelligence | 15
-linkedin | Saudi Arabia | data analyst | 100
+checks | descriptions opened 90 | {"dropped earlier": 11, "visa unclear (no mention)": 82, "visa unclear (ad unreadable)": 29}
+--- search runner 4/10 (12.3 min)
+linkedin | Jeddah, Saudi Arabia | business intelligence | 13
+linkedin | Saudi Arabia | data analyst | 0
 linkedin | Saudi Arabia | power bi | 100
-linkedin | Qatar | analytics manager | 22
+linkedin | Qatar | analytics manager | 20
 linkedin | Bahrain | assistant professor | 0
 linkedin | Oman | lecturer | 0
-linkedin | Kuwait | data scientist | 4
-linkedin | Jordan | strategy and planning | 50
-linkedin | Egypt | AI product | 27
-linkedin | Istanbul, Türkiye | AI product | 36
-linkedin | Singapore | business intelligence | 10
-linkedin | Tokyo, Japan | strategy visa sponsorship | 10
-linkedin | United Kingdom | revenue operations visa sponsorship | 50
-linkedin | Germany | business intelligence visa sponsorship | 50
-linkedin | Netherlands | strategy visa sponsorship | 50
+linkedin | Kuwait | data scientist | 3
+linkedin | Jordan | strategy and planning | 30
+linkedin | Egypt | AI product | 23
+linkedin | Istanbul, Türkiye | AI product | 0
+linkedin | Singapore | business intelligence | 50
+linkedin | Tokyo, Japan | strategy visa sponsorship | 50
+linkedin | United Kingdom | revenue operations visa sponsorship | 0
+linkedin | Germany | business intelligence visa sponsorship | 40
+linkedin | Netherlands | strategy visa sponsorship | 47
 linkedin | Budapest, Hungary | revenue operations visa sponsorship | 8
-linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 16
+linkedin | Lisbon, Portugal | business intelligence visa sponsorship | 12
 linkedin | Canada | strategy visa sponsorship | 50
-linkedin | New Zealand | revenue operations visa sponsorship | 9
-indeed | Pakistan | business intelligence | 23
-indeed | Pakistan | strategy and operations | 42
-indeed | Pakistan | AI product | 49
-indeed | Lahore | machine learning | 3
-indeed | Lahore | salesforce | 5
-indeed | Karachi | data analyst | 6
-indeed | Karachi | strategy | 46
-indeed | Karachi | operations analyst | 4
-indeed | Islamabad | data analytics | 5
-indeed | Islamabad | revenue operations | 12
+linkedin | New Zealand | revenue operations visa sponsorship | 0
+indeed | Pakistan | business intelligence | 17
+indeed | Pakistan | strategy and operations | 36
+indeed | Pakistan | AI product | 44
+indeed | Lahore | machine learning | 2
+indeed | Lahore | salesforce | 4
+indeed | Karachi | data analyst | 5
+indeed | Karachi | strategy | 43
+indeed | Karachi | operations analyst | 3
+indeed | Islamabad | data analytics | 4
+indeed | Islamabad | revenue operations | 11
 indeed | Islamabad | assistant professor | 0
-indeed | United Arab Emirates | revenue operations | 84
+indeed | United Arab Emirates | revenue operations | 82
 indeed | Saudi Arabia | data scientist | 0
-indeed | Qatar | data analyst | 6
-indeed | Qatar | AI product | 3
+indeed | Qatar | data analyst | 3
+indeed | Qatar | AI product | 2
 indeed | Bahrain | strategy | 7
 indeed | Oman | business intelligence | 0
 indeed | Oman | pricing analyst | 0
 indeed | Kuwait | revenue operations | 1
 indeed | Egypt | data scientist | 4
 indeed | Turkey | data analyst visa sponsorship | 0
-indeed | Malaysia | business intelligence | 61
+indeed | Malaysia | business intelligence | 58
 indeed | Singapore | revenue operations | 100
 indeed | Japan | data analyst relocation | 0
 indeed | Ireland | data analyst visa sponsorship | 1
-indeed | Germany | business intelligence visa sponsorship | 1
+indeed | Germany | business intelligence visa sponsorship | 2
 indeed | Netherlands | revenue operations visa sponsorship | 0
 indeed | Poland | data analyst relocation | 0
 indeed | Czech Republic | data analyst visa sponsorship | 0
 indeed | Portugal | business intelligence visa sponsorship | 0
 indeed | Canada | revenue operations visa sponsorship | 1
-indeed | Australia | data analyst relocation | 2
-linkedin | Lahore, Pakistan | sales operations | 50
-linkedin | Lahore, Pakistan | product analyst | 17
-linkedin | Lahore, Pakistan | MIS | 50
-linkedin | Karachi, Pakistan | lecturer | 1
+indeed | Australia | data analyst relocation | 0
+linkedin | Lahore, Pakistan | sales operations | 0
+linkedin | Lahore, Pakistan | product analyst | 13
+linkedin | Lahore, Pakistan | MIS | 20
+linkedin | Karachi, Pakistan | lecturer | 2
 linkedin | Karachi, Pakistan | corporate planning | 27
-linkedin | Islamabad, Pakistan | business intelligence | 11
+linkedin | Islamabad, Pakistan | business intelligence | 0
 linkedin | Islamabad, Pakistan | business analyst | 29
 linkedin | Islamabad, Pakistan | pricing analyst | 7
-linkedin | Dubai, United Arab Emirates | strategy and planning | 100
-linkedin | Abu Dhabi, United Arab Emirates | AI product | 75
-linkedin | United Arab Emirates | sales operations | 100
-linkedin | Riyadh, Saudi Arabia | revenue operations | 0
+linkedin | Dubai, United Arab Emirates | strategy and planning | 40
+linkedin | Abu Dhabi, United Arab Emirates | AI product | 20
+linkedin | United Arab Emirates | sales operations | 0
+linkedin | Riyadh, Saudi Arabia | revenue operations | 10
 discovered employers | added | 6795
 workday | 7eleven | FAILED: 429 Client Error: Too Many Requests for url: https://7eleven.wd3.myworkdayjobs.com/wday/cxs/7eleven/
 workday | alantra | FAILED: 429 Client Error: Too Many Requests for url: https://alantra.wd3.myworkdayjobs.com/wday/cxs/alantra/
+workday | amynta | FAILED: 429 Client Error: Too Many Requests for url: https://amynta.wd5.myworkdayjobs.com/wday/cxs/amynta/gl
+workday | axiscapital | FAILED: 429 Client Error: Too Many Requests for url: https://axiscapital.wd1.myworkdayjobs.com/wday/cxs/axis
 workday | boeing | FAILED: 429 Client Error: Too Many Requests for url: https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/ex
 workday | capri | FAILED: 429 Client Error: Too Many Requests for url: https://capri.wd1.myworkdayjobs.com/wday/cxs/capri/Mich
 workday | clydeco | FAILED: 429 Client Error: Too Many Requests for url: https://clydeco.wd103.myworkdayjobs.com/wday/cxs/clydec
@@ -435,8 +454,8 @@ workday | erstebp | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | fis | FAILED: 429 Client Error: Too Many Requests for url: https://fis.wd5.myworkdayjobs.com/wday/cxs/fis/SearchJo
 workday | gadventures | FAILED: 429 Client Error: Too Many Requests for url: https://gadventures.wd3.myworkdayjobs.com/wday/cxs/gadv
 workday | ghr | FAILED: 429 Client Error: Too Many Requests for url: https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/us-empls
+workday | habitat | FAILED: 429 Client Error: Too Many Requests for url: https://habitat.wd12.myworkdayjobs.com/wday/cxs/habitat
 workday | hengeler | FAILED: 429 Client Error: Too Many Requests for url: https://hengeler.wd502.myworkdayjobs.com/wday/cxs/henge
-workday | icf | FAILED: 429 Client Error: Too Many Requests for url: https://icf.wd5.myworkdayjobs.com/wday/cxs/icf/ICFExter
 workday | insulet | FAILED: 429 Client Error: Too Many Requests for url: https://insulet.wd5.myworkdayjobs.com/wday/cxs/insulet/
 workday | jlp | FAILED: 429 Client Error: Too Many Requests for url: https://jlp.wd3.myworkdayjobs.com/wday/cxs/jlp/JLPjobs_
 workday | lgt | FAILED: 429 Client Error: Too Many Requests for url: https://lgt.wd3.myworkdayjobs.com/wday/cxs/lgt/lgtcurre
@@ -445,76 +464,74 @@ workday | nature | FAILED: 429 Client Error: Too Many Requests for url: https://
 workday | northeastern | FAILED: 429 Client Error: Too Many Requests for url: https://northeastern.wd1.myworkdayjobs.com/wday/cxs/nor
 workday | pacs | FAILED: 429 Client Error: Too Many Requests for url: https://pacs.wd108.myworkdayjobs.com/wday/cxs/pacs/pacs
 workday | pointquestgroup | FAILED: 429 Client Error: Too Many Requests for url: https://pointquestgroup.wd108.myworkdayjobs.com/wday/cx
-workday | qiagen | FAILED: 429 Client Error: Too Many Requests for url: https://qiagen.wd502.myworkdayjobs.com/wday/cxs/qiagen/
 workday | relx | FAILED: 429 Client Error: Too Many Requests for url: https://relx.wd3.myworkdayjobs.com/wday/cxs/relx/cirium
 workday | sandvik | FAILED: 429 Client Error: Too Many Requests for url: https://sandvik.wd3.myworkdayjobs.com/wday/cxs/sandvik/
 workday | sundayriley | FAILED: 429 Client Error: Too Many Requests for url: https://sundayriley.wd1.myworkdayjobs.com/wday/cxs/sund
 workday | talentmanagementsolution | FAILED: 429 Client Error: Too Many Requests for url: https://talentmanagementsolution.wd3.myworkdayjobs.com/
 workday | thgrp | FAILED: 429 Client Error: Too Many Requests for url: https://thgrp.wd12.myworkdayjobs.com/wday/cxs/thgrp/Env
-workday | zoetis | FAILED: 429 Client Error: Too Many Requests for url: https://zoetis.wd5.myworkdayjobs.com/wday/cxs/zoetis/br
-ashby | 122 employers | 3149
+ashby | 122 employers | 3150
 bamboohr | 7 employers | 57
-breezy | 3 employers | 74
-greenhouse | 144 employers | 10486
-icims | 16 employers | 1740
-lever | 7 employers | 980
-oracle | 41 employers | 9551
-personio | 86 employers | 1099
-pinpoint | 5 employers | 112
-recruitee | 32 employers | 1098
-smartrecruiters | 38 employers | 9472
-successfactors | 21 employers | 2742
-taleo | 6 employers | 493
-teamtailor | 19 employers | 408
-workable | 94 employers | 3347
-workday | 43 employers | 553
+breezy | 3 employers | 77
+greenhouse | 144 employers | 10481
+icims | 16 employers | 1728
+lever | 7 employers | 978
+oracle | 41 employers | 9557
+personio | 86 employers | 1106
+pinpoint | 5 employers | 113
+recruitee | 32 employers | 1103
+smartrecruiters | 38 employers | 9465
+successfactors | 21 employers | 2750
+taleo | 6 employers | 492
+teamtailor | 19 employers | 410
+workable | 94 employers | 3336
+workday | 43 employers | 587
 careerjet | skipped (no CAREERJET_AFFID secret)
 jooble | skipped (no JOOBLE_KEY secret)
 google_jobs | skipped (no SERPAPI_KEY secret)
 locations | missing 16 | looked up 16 | found 0
-checks | descriptions opened 90 | {"dropped earlier": 8, "visa unclear (no mention)": 35, "visa ruled out": 1}
---- search runner 5/10 (13.6 min)
-linkedin | Jeddah, Saudi Arabia | revenue operations | 13
-linkedin | Saudi Arabia | business intelligence | 30
-linkedin | Qatar | data analyst | 10
+checks | descriptions opened 55 | {"dropped earlier": 7, "visa unclear (no mention)": 22}
+--- search runner 5/10 (10.3 min)
+linkedin | Jeddah, Saudi Arabia | revenue operations | 11
+linkedin | Saudi Arabia | business intelligence | 0
+linkedin | Qatar | data analyst | 37
 linkedin | Qatar | power bi | 50
-linkedin | Bahrain | analytics manager | 7
+linkedin | Bahrain | analytics manager | 8
 linkedin | Oman | assistant professor | 0
-linkedin | Kuwait | lecturer | 11
-linkedin | Jordan | data scientist | 0
-linkedin | Egypt | strategy and planning | 0
+linkedin | Kuwait | lecturer | 9
+linkedin | Jordan | data scientist | 6
+linkedin | Egypt | strategy and planning | 10
 linkedin | Istanbul, Türkiye | strategy and planning | 50
 linkedin | Singapore | revenue operations | 50
-linkedin | London, England, United Kingdom | data analyst visa sponsorship | 50
-linkedin | United Kingdom | AI product manager visa sponsorship | 50
-linkedin | Germany | data scientist visa sponsorship | 50
+linkedin | London, England, United Kingdom | data analyst visa sponsorship | 40
+linkedin | United Kingdom | AI product manager visa sponsorship | 30
+linkedin | Germany | data scientist visa sponsorship | 0
 linkedin | Poland | data analyst visa sponsorship | 50
-linkedin | Budapest, Hungary | AI product manager visa sponsorship | 8
-linkedin | Lisbon, Portugal | data scientist visa sponsorship | 10
-linkedin | Australia | data analyst visa sponsorship | 50
-linkedin | New Zealand | AI product manager visa sponsorship | 8
-indeed | Pakistan | power bi | 12
+linkedin | Budapest, Hungary | AI product manager visa sponsorship | 9
+linkedin | Lisbon, Portugal | data scientist visa sponsorship | 8
+linkedin | Australia | data analyst visa sponsorship | 40
+linkedin | New Zealand | AI product manager visa sponsorship | 0
+indeed | Pakistan | power bi | 11
 indeed | Pakistan | business operations | 100
 indeed | Pakistan | lecturer | 0
-indeed | Lahore | analytics manager | 5
-indeed | Lahore | CRM | 49
-indeed | Karachi | business analyst | 7
-indeed | Karachi | business planning | 17
-indeed | Karachi | AI | 18
+indeed | Lahore | analytics manager | 7
+indeed | Lahore | CRM | 50
+indeed | Karachi | business analyst | 4
+indeed | Karachi | business planning | 21
+indeed | Karachi | AI | 17
 indeed | Islamabad | data scientist | 0
-indeed | Islamabad | sales operations | 17
+indeed | Islamabad | sales operations | 16
 indeed | Islamabad | trainer | 2
 indeed | United Arab Emirates | sales operations | 100
-indeed | Saudi Arabia | analytics manager | 8
-indeed | Qatar | business analyst | 7
-indeed | Qatar | AI specialist | 0
-indeed | Bahrain | business planning | 3
+indeed | Saudi Arabia | analytics manager | 9
+indeed | Qatar | business analyst | 3
+indeed | Qatar | AI specialist | 1
+indeed | Bahrain | business planning | 4
 indeed | Oman | power bi | 0
 indeed | Oman | lecturer | 0
-indeed | Kuwait | sales operations | 6
-indeed | Egypt | analytics manager | 18
+indeed | Kuwait | sales operations | 5
+indeed | Egypt | analytics manager | 16
 indeed | Turkey | business analyst visa sponsorship | 0
-indeed | Malaysia | data scientist | 6
+indeed | Malaysia | data scientist | 5
 indeed | Singapore | strategy and operations | 100
 indeed | Japan | AI product visa sponsorship | 0
 indeed | Ireland | business analyst visa sponsorship | 1
@@ -523,37 +540,36 @@ indeed | Netherlands | strategy visa sponsorship | 1
 indeed | Poland | AI product visa sponsorship | 0
 indeed | Czech Republic | business analyst visa sponsorship | 0
 indeed | Portugal | data scientist visa sponsorship | 0
-indeed | Canada | strategy visa sponsorship | 8
-indeed | Australia | AI product visa sponsorship | 6
+indeed | Canada | strategy visa sponsorship | 7
+indeed | Australia | AI product visa sponsorship | 4
 linkedin | Lahore, Pakistan | AI product | 11
-linkedin | Lahore, Pakistan | head of data | 4
-linkedin | Lahore, Pakistan | chief of staff | 3
-linkedin | Karachi, Pakistan | assistant professor | 1
+linkedin | Lahore, Pakistan | head of data | 3
+linkedin | Lahore, Pakistan | chief of staff | 7
+linkedin | Karachi, Pakistan | assistant professor | 0
 linkedin | Karachi, Pakistan | salesforce | 0
-linkedin | Islamabad, Pakistan | revenue operations | 10
+linkedin | Islamabad, Pakistan | revenue operations | 8
 linkedin | Islamabad, Pakistan | data analytics | 17
-linkedin | Islamabad, Pakistan | growth analyst | 9
-linkedin | Dubai, United Arab Emirates | data scientist | 80
-linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 70
-linkedin | United Arab Emirates | AI product | 100
-linkedin | Riyadh, Saudi Arabia | sales operations | 71
+linkedin | Islamabad, Pakistan | growth analyst | 0
+linkedin | Dubai, United Arab Emirates | data scientist | 20
+linkedin | Abu Dhabi, United Arab Emirates | strategy and planning | 0
+linkedin | United Arab Emirates | AI product | 0
+linkedin | Riyadh, Saudi Arabia | sales operations | 60
 discovered employers | added | 6795
 workday | abb | FAILED: 429 Client Error: Too Many Requests for url: https://abb.wd3.myworkdayjobs.com/wday/cxs/abb/external
-workday | alation | FAILED: 429 Client Error: Too Many Requests for url: https://alation.wd503.myworkdayjobs.com/wday/cxs/alatio
 workday | bakertilly | FAILED: 429 Client Error: Too Many Requests for url: https://bakertilly.wd5.myworkdayjobs.com/wday/cxs/baker
 workday | belron | FAILED: 429 Client Error: Too Many Requests for url: https://belron.wd3.myworkdayjobs.com/wday/cxs/belron/Ca
 workday | boeing | FAILED: 429 Client Error: Too Many Requests for url: https://boeing.wd1.myworkdayjobs.com/wday/cxs/boeing/ex
 workday | cba | FAILED: 429 Client Error: Too Many Requests for url: https://cba.wd3.myworkdayjobs.com/wday/cxs/cba/x15_Care
-workday | chathamfinancial | FAILED: 429 Client Error: Too Many Requests for url: https://chathamfinancial.wd501.myworkdayjobs.com/wday/c
 workday | corteva | FAILED: 429 Client Error: Too Many Requests for url: https://corteva.wd5.myworkdayjobs.com/wday/cxs/corteva/
 workday | elanco | FAILED: 429 Client Error: Too Many Requests for url: https://elanco.wd5.myworkdayjobs.com/wday/cxs/elanco/ex
 workday | esab | FAILED: 429 Client Error: Too Many Requests for url: https://esab.wd5.myworkdayjobs.com/wday/cxs/esab/esabca
 workday | gafsgi | FAILED: 429 Client Error: Too Many Requests for url: https://gafsgi.wd5.myworkdayjobs.com/wday/cxs/gafsgi/BM
 workday | hagerty | FAILED: 429 Client Error: Too Many Requests for url: https://hagerty.wd5.myworkdayjobs.com/wday/cxs/hagerty/
+workday | hengeler | FAILED: 429 Client Error: Too Many Requests for url: https://hengeler.wd502.myworkdayjobs.com/wday/cxs/henge
 workday | iff | FAILED: 429 Client Error: Too Many Requests for url: https://iff.wd5.myworkdayjobs.com/wday/cxs/iff/IFF_Care
 workday | intapp | FAILED: 429 Client Error: Too Many Requests for url: https://intapp.wd1.myworkdayjobs.com/wday/cxs/intapp/in
 workday | Jotun | FAILED: 429 Client Error: Too Many Requests for url: https://jotun.wd3.myworkdayjobs.com/wday/cxs/jotun/Jotu
-workday | marmon | FAILED: 429 Client Error: Too Many Requests for url: https://marmon.wd501.myworkdayjobs.com/wday/cxs/marmon/
+workday | lgtcp | FAILED: 429 Client Error: Too Many Requests for url: https://lgtcp.wd502.myworkdayjobs.com/wday/cxs/lgtcp/lg
 workday | menarini | FAILED: 429 Client Error: Too Many Requests for url: https://menarini.wd103.myworkdayjobs.com/wday/cxs/menar
 workday | msk | FAILED: 429 Client Error: Too Many Requests for url: https://msk.wd108.myworkdayjobs.com/wday/cxs/msk/mskcc_
 workday | northmark | FAILED: 429 Client Error: Too Many Requests for url: https://northmark.wd108.myworkdayjobs.com/wday/cxs/nort
@@ -568,67 +584,67 @@ workday | talentmanagementsolution | FAILED: 429 Client Error: Too Many Requests
 workday | tmicc | FAILED: 429 Client Error: Too Many Requests for url: https://tmicc.wd502.myworkdayjobs.com/wday/cxs/tmicc/Ma
 workday | vertexinc | FAILED: 429 Client Error: Too Many Requests for url: https://vertexinc.wd1.myworkdayjobs.com/wday/cxs/vertex
 workday | wgl | FAILED: 429 Client Error: Too Many Requests for url: https://wgl.wd5.myworkdayjobs.com/wday/cxs/wgl/AltaGas/
-ashby | 122 employers | 3907
-bamboohr | 7 employers | 56
+ashby | 122 employers | 3896
+bamboohr | 7 employers | 57
 breezy | 2 employers | 95
 greenhouse | 145 employers | 8713
-icims | 16 employers | 939
-lever | 7 employers | 67
-oracle | 40 employers | 10710
-personio | 87 employers | 1241
+icims | 16 employers | 938
+lever | 7 employers | 65
+oracle | 40 employers | 10634
+personio | 87 employers | 1243
 pinpoint | 5 employers | 136
 recruitee | 32 employers | 833
-smartrecruiters | 38 employers | 11699
-successfactors | 21 employers | 2649
-taleo | 6 employers | 277
-teamtailor | 19 employers | 181
-workable | 94 employers | 9184
-workday | 42 employers | 380
+smartrecruiters | 38 employers | 11682
+successfactors | 21 employers | 2651
+taleo | 6 employers | 270
+teamtailor | 19 employers | 180
+workable | 94 employers | 9209
+workday | 42 employers | 399
 telegram | jobs_sql | 1
 locations | missing 4 | looked up 4 | found 0
-checks | descriptions opened 90 | {"dropped earlier": 11, "nationals only": 1, "visa unclear (no mention)": 46}
---- search runner 6/10 (15.6 min)
-linkedin | Jeddah, Saudi Arabia | sales operations | 41
-linkedin | Saudi Arabia | revenue operations | 0
-linkedin | Qatar | business intelligence | 0
-linkedin | Bahrain | data analyst | 12
+checks | descriptions opened 90 | {"dropped earlier": 10, "visa unclear (no mention)": 36}
+--- search runner 6/10 (10.6 min)
+linkedin | Jeddah, Saudi Arabia | sales operations | 0
+linkedin | Saudi Arabia | revenue operations | 20
+linkedin | Qatar | business intelligence | 29
+linkedin | Bahrain | data analyst | 13
 linkedin | Bahrain | power bi | 34
 linkedin | Oman | analytics manager | 1
-linkedin | Kuwait | assistant professor | 8
-linkedin | Jordan | lecturer | 4
-linkedin | Egypt | data scientist | 40
-linkedin | Istanbul, Türkiye | data scientist | 50
-linkedin | Singapore | AI product | 50
-linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 50
+linkedin | Kuwait | assistant professor | 0
+linkedin | Jordan | lecturer | 7
+linkedin | Egypt | data scientist | 37
+linkedin | Istanbul, Türkiye | data scientist | 40
+linkedin | Singapore | AI product | 0
+linkedin | London, England, United Kingdom | business intelligence visa sponsorship | 0
 linkedin | United Kingdom | strategy visa sponsorship | 50
-linkedin | Germany | revenue operations visa sponsorship | 50
-linkedin | Poland | business intelligence visa sponsorship | 50
-linkedin | Budapest, Hungary | strategy visa sponsorship | 40
+linkedin | Germany | revenue operations visa sponsorship | 30
+linkedin | Poland | business intelligence visa sponsorship | 0
+linkedin | Budapest, Hungary | strategy visa sponsorship | 30
 linkedin | Lisbon, Portugal | revenue operations visa sponsorship | 4
-linkedin | Australia | business intelligence visa sponsorship | 50
-linkedin | New Zealand | strategy visa sponsorship | 50
-indeed | Pakistan | data analytics | 35
-indeed | Pakistan | revenue operations | 43
+linkedin | Australia | business intelligence visa sponsorship | 20
+linkedin | New Zealand | strategy visa sponsorship | 30
+indeed | Pakistan | data analytics | 28
+indeed | Pakistan | revenue operations | 36
 indeed | Pakistan | assistant professor | 0
-indeed | Lahore | product analyst | 2
+indeed | Lahore | product analyst | 0
 indeed | Lahore | pricing analyst | 0
-indeed | Karachi | business intelligence | 5
-indeed | Karachi | strategy and operations | 9
+indeed | Karachi | business intelligence | 1
+indeed | Karachi | strategy and operations | 7
 indeed | Karachi | AI product | 8
 indeed | Islamabad | machine learning | 2
 indeed | Islamabad | salesforce | 3
-indeed | United Arab Emirates | data analyst | 15
+indeed | United Arab Emirates | data analyst | 17
 indeed | United Arab Emirates | AI product | 48
-indeed | Saudi Arabia | strategy | 70
-indeed | Qatar | business intelligence | 5
+indeed | Saudi Arabia | strategy | 69
+indeed | Qatar | business intelligence | 2
 indeed | Qatar | pricing analyst | 0
 indeed | Bahrain | revenue operations | 1
 indeed | Oman | data scientist | 0
 indeed | Kuwait | data analyst | 0
 indeed | Kuwait | AI product | 0
-indeed | Egypt | strategy | 68
+indeed | Egypt | strategy | 65
 indeed | Turkey | business intelligence visa sponsorship | 0
-indeed | Malaysia | revenue operations | 58
+indeed | Malaysia | revenue operations | 59
 indeed | Singapore | AI product | 100
 indeed | UK | data analyst visa sponsorship | 0
 indeed | Ireland | business intelligence visa sponsorship | 1
@@ -639,18 +655,18 @@ indeed | Czech Republic | business intelligence visa sponsorship | 0
 indeed | Portugal | revenue operations visa sponsorship | 0
 indeed | Canada | data analyst relocation | 7
 indeed | New Zealand | data analyst visa sponsorship | 1
-linkedin | Lahore, Pakistan | strategy and planning | 39
-linkedin | Lahore, Pakistan | BI developer | 11
-linkedin | Lahore, Pakistan | operations analyst | 34
-linkedin | Karachi, Pakistan | analytics manager | 10
-linkedin | Karachi, Pakistan | AI specialist | 9
-linkedin | Islamabad, Pakistan | sales operations | 26
-linkedin | Islamabad, Pakistan | product analyst | 8
-linkedin | Islamabad, Pakistan | MIS | 32
-linkedin | Dubai, United Arab Emirates | lecturer | 50
-linkedin | Abu Dhabi, United Arab Emirates | data scientist | 0
-linkedin | United Arab Emirates | strategy and planning | 100
-linkedin | Riyadh, Saudi Arabia | AI product | 0
+linkedin | Lahore, Pakistan | strategy and planning | 0
+linkedin | Lahore, Pakistan | BI developer | 8
+linkedin | Lahore, Pakistan | operations analyst | 20
+linkedin | Karachi, Pakistan | analytics manager | 9
+linkedin | Karachi, Pakistan | AI specialist | 4
+linkedin | Islamabad, Pakistan | sales operations | 20
+linkedin | Islamabad, Pakistan | product analyst | 0
+linkedin | Islamabad, Pakistan | MIS | 30
+linkedin | Dubai, United Arab Emirates | lecturer | 0
+linkedin | Abu Dhabi, United Arab Emirates | data scientist | 10
+linkedin | United Arab Emirates | strategy and planning | 0
+linkedin | Riyadh, Saudi Arabia | AI product | 12
 discovered employers | added | 6795
 workday | abercrombie | FAILED: 429 Client Error: Too Many Requests for url: https://abercrombie.wd108.myworkdayjobs.com/wday/cxs/ab
 workday | alcon | FAILED: 429 Client Error: Too Many Requests for url: https://alcon.wd5.myworkdayjobs.com/wday/cxs/alcon/care
@@ -661,7 +677,6 @@ workday | churchdwight | FAILED: 429 Client Error: Too Many Requests for url: ht
 workday | cni | FAILED: 429 Client Error: Too Many Requests for url: https://cni.wd503.myworkdayjobs.com/wday/cxs/cni/CNI/jo
 workday | covetrus | FAILED: 429 Client Error: Too Many Requests for url: https://covetrus.wd5.myworkdayjobs.com/wday/cxs/covetru
 workday | elringklinger | FAILED: 429 Client Error: Too Many Requests for url: https://elringklinger.wd3.myworkdayjobs.com/wday/cxs/el
-workday | essentiahealth | FAILED: 429 Client Error: Too Many Requests for url: https://essentiahealth.wd1.myworkdayjobs.com/wday/cxs/e
 workday | ezcorp | FAILED: 429 Client Error: Too Many Requests for url: https://ezcorp.wd12.myworkdayjobs.com/wday/cxs/ezcorp/e
 workday | Galileo | FAILED: 429 Client Error: Too Many Requests for url: https://galileo.wd3.myworkdayjobs.com/wday/cxs/galileo/
 workday | globelife | FAILED: 429 Client Error: Too Many Requests for url: https://globelife.wd5.myworkdayjobs.com/wday/cxs/globel
@@ -671,7 +686,7 @@ workday | Intel | FAILED: 429 Client Error: Too Many Requests for url: https://i
 workday | juliusbaer | FAILED: 429 Client Error: Too Many Requests for url: https://juliusbaer.wd3.myworkdayjobs.com/wday/cxs/juliu
 workday | lilly | FAILED: 429 Client Error: Too Many Requests for url: https://lilly.wd115.myworkdayjobs.com/wday/cxs/lilly/LL
 workday | Mastercard | FAILED: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/maste
-workday | merative | FAILED: 429 Client Error: Too Many Requests for url: https://merative.wd12.myworkdayjobs.com/wday/cxs/merati
+workday | mtb | FAILED: 429 Client Error: Too Many Requests for url: https://mtb.wd5.myworkdayjobs.com/wday/cxs/mtb/wtextern
 workday | ncr | FAILED: 429 Client Error: Too Many Requests for url: https://ncr.wd1.myworkdayjobs.com/wday/cxs/ncr/ext_apac
 workday | nrf | FAILED: 429 Client Error: Too Many Requests for url: https://nrf.wd3.myworkdayjobs.com/wday/cxs/nrf/External
 workday | pattersoncompanies | FAILED: 429 Client Error: Too Many Requests for url: https://pattersoncompanies.wd501.myworkdayjobs.com/wday
@@ -685,88 +700,88 @@ workday | sunriseseniorliving | FAILED: 429 Client Error: Too Many Requests for 
 workday | tcenergy | FAILED: 429 Client Error: Too Many Requests for url: https://tcenergy.wd3.myworkdayjobs.com/wday/cxs/tcenerg
 workday | tnsi | FAILED: 429 Client Error: Too Many Requests for url: https://tnsi.wd1.myworkdayjobs.com/wday/cxs/tnsi/Search
 workday | wiley | FAILED: 429 Client Error: Too Many Requests for url: https://wiley.wd1.myworkdayjobs.com/wday/cxs/wiley/wile
-ashby | 121 employers | 3382
+ashby | 121 employers | 3378
 bamboohr | 7 employers | 51
 breezy | 3 employers | 19
-greenhouse | 145 employers | 6345
-icims | 16 employers | 953
-lever | 7 employers | 104
-oracle | 40 employers | 10976
-personio | 87 employers | 1175
-pinpoint | 5 employers | 367
-recruitee | 32 employers | 552
-smartrecruiters | 38 employers | 6638
-successfactors | 21 employers | 4487
-taleo | 6 employers | 727
-teamtailor | 19 employers | 411
-workable | 94 employers | 8437
-workday | 42 employers | 224
+greenhouse | 145 employers | 6344
+icims | 16 employers | 949
+lever | 7 employers | 98
+oracle | 40 employers | 10905
+personio | 87 employers | 1183
+pinpoint | 5 employers | 363
+recruitee | 32 employers | 546
+smartrecruiters | 38 employers | 6618
+successfactors | 21 employers | 4462
+taleo | 6 employers | 720
+teamtailor | 19 employers | 408
+workable | 94 employers | 8431
+workday | 42 employers | 221
 google_alerts | skipped (no feeds yet: add GOOGLE_ALERTS_FEEDS secret)
 brave | skipped (no BRAVE_KEY secret)
 signals | pages opened 0 | jobs read 0
-locations | missing 6 | looked up 6 | found 1
-checks | descriptions opened 79 | {"dropped earlier": 8, "visa unclear (no mention)": 32, "visa ruled out": 1}
---- search runner 7/10 (21.4 min)
-indeed | Islamabad | CRM | 38
-indeed | United Arab Emirates | business analyst | 21
-indeed | United Arab Emirates | AI specialist | 18
-indeed | Saudi Arabia | business planning | 41
-indeed | Qatar | power bi | 4
+locations | missing 5 | looked up 5 | found 0
+checks | descriptions opened 36 | {"dropped earlier": 8, "visa unclear (no mention)": 21}
+--- search runner 7/10 (23.2 min)
+indeed | Islamabad | CRM | 33
+indeed | United Arab Emirates | business analyst | 23
+indeed | United Arab Emirates | AI specialist | 16
+indeed | Saudi Arabia | business planning | 38
+indeed | Qatar | power bi | 3
 indeed | Qatar | lecturer | 0
-indeed | Bahrain | sales operations | 7
+indeed | Bahrain | sales operations | 5
 indeed | Oman | analytics manager | 0
-indeed | Kuwait | business analyst | 1
+indeed | Kuwait | business analyst | 0
 indeed | Kuwait | AI specialist | 1
-indeed | Egypt | business planning | 57
+indeed | Egypt | business planning | 51
 indeed | Turkey | data scientist visa sponsorship | 0
 indeed | Malaysia | strategy and operations | 100
-indeed | Singapore | pricing analyst | 14
+indeed | Singapore | pricing analyst | 15
 indeed | UK | business analyst visa sponsorship | 0
 indeed | Ireland | data scientist visa sponsorship | 1
-indeed | Germany | strategy visa sponsorship | 11
-indeed | Netherlands | AI product visa sponsorship | 10
+indeed | Germany | strategy visa sponsorship | 12
+indeed | Netherlands | AI product visa sponsorship | 7
 indeed | Hungary | business analyst visa sponsorship | 0
 indeed | Czech Republic | data scientist visa sponsorship | 0
 indeed | Portugal | strategy visa sponsorship | 0
-indeed | Canada | AI product visa sponsorship | 19
+indeed | Canada | AI product visa sponsorship | 20
 indeed | New Zealand | business analyst visa sponsorship | 1
-linkedin | Lahore, Pakistan | data scientist | 14
-linkedin | Lahore, Pakistan | strategy manager | 15
-linkedin | Karachi, Pakistan | data analyst | 41
+linkedin | Lahore, Pakistan | data scientist | 12
+linkedin | Lahore, Pakistan | strategy manager | 0
+linkedin | Karachi, Pakistan | data analyst | 0
 linkedin | Karachi, Pakistan | power bi | 50
-linkedin | Karachi, Pakistan | business planning | 50
-linkedin | Islamabad, Pakistan | AI product | 5
-linkedin | Islamabad, Pakistan | head of data | 4
-linkedin | Islamabad, Pakistan | chief of staff | 9
-linkedin | Dubai, United Arab Emirates | assistant professor | 20
-linkedin | Abu Dhabi, United Arab Emirates | lecturer | 73
-linkedin | United Arab Emirates | data scientist | 100
-linkedin | Riyadh, Saudi Arabia | strategy and planning | 100
-linkedin | Jeddah, Saudi Arabia | AI product | 3
-linkedin | Saudi Arabia | sales operations | 50
-linkedin | Qatar | revenue operations | 9
+linkedin | Karachi, Pakistan | business planning | 10
+linkedin | Islamabad, Pakistan | AI product | 6
+linkedin | Islamabad, Pakistan | head of data | 3
+linkedin | Islamabad, Pakistan | chief of staff | 8
+linkedin | Dubai, United Arab Emirates | assistant professor | 17
+linkedin | Abu Dhabi, United Arab Emirates | lecturer | 67
+linkedin | United Arab Emirates | data scientist | 20
+linkedin | Riyadh, Saudi Arabia | strategy and planning | 0
+linkedin | Jeddah, Saudi Arabia | AI product | 0
+linkedin | Saudi Arabia | sales operations | 90
+linkedin | Qatar | revenue operations | 7
 linkedin | Bahrain | business intelligence | 10
-linkedin | Oman | data analyst | 5
-linkedin | Oman | power bi | 20
-linkedin | Kuwait | analytics manager | 2
-linkedin | Jordan | assistant professor | 1
-linkedin | Egypt | lecturer | 20
-linkedin | Kuala Lumpur, Malaysia | data analyst | 50
+linkedin | Oman | data analyst | 4
+linkedin | Oman | power bi | 17
+linkedin | Kuwait | analytics manager | 1
+linkedin | Jordan | assistant professor | 0
+linkedin | Egypt | lecturer | 31
+linkedin | Kuala Lumpur, Malaysia | data analyst | 30
 linkedin | Singapore | strategy and planning | 50
-linkedin | London, England, United Kingdom | data scientist visa sponsorship | 10
-linkedin | Ireland | data analyst visa sponsorship | 0
-linkedin | Germany | AI product manager visa sponsorship | 50
+linkedin | London, England, United Kingdom | data scientist visa sponsorship | 50
+linkedin | Ireland | data analyst visa sponsorship | 40
+linkedin | Germany | AI product manager visa sponsorship | 0
 linkedin | Poland | data scientist visa sponsorship | 50
-linkedin | Prague, Czechia | data analyst visa sponsorship | 42
+linkedin | Prague, Czechia | data analyst visa sponsorship | 0
 linkedin | Lisbon, Portugal | AI product manager visa sponsorship | 2
-linkedin | Australia | data scientist visa sponsorship | 50
+linkedin | Australia | data scientist visa sponsorship | 20
 indeed | Pakistan | data scientist | 3
-indeed | Pakistan | sales operations | 92
-indeed | Pakistan | trainer | 10
-indeed | Lahore | MIS | 0
+indeed | Pakistan | sales operations | 90
+indeed | Pakistan | trainer | 9
+indeed | Lahore | MIS | 1
 indeed | Lahore | growth | 100
-indeed | Karachi | power bi | 4
-indeed | Karachi | business operations | 42
+indeed | Karachi | power bi | 3
+indeed | Karachi | business operations | 38
 indeed | Karachi | lecturer | 0
 indeed | Islamabad | analytics manager | 3
 discovered employers | added | 6795
@@ -785,11 +800,11 @@ workday | goddardenterprisesltd | FAILED: 429 Client Error: Too Many Requests fo
 workday | harriscomputer | FAILED: 429 Client Error: Too Many Requests for url: https://harriscomputer.wd3.myworkdayjobs.com/wday/cxs/h
 workday | homedepot | FAILED: 429 Client Error: Too Many Requests for url: https://homedepot.wd5.myworkdayjobs.com/wday/cxs/homede
 workday | intelcomgroup | FAILED: 429 Client Error: Too Many Requests for url: https://intelcomgroup.wd3.myworkdayjobs.com/wday/cxs/in
-workday | kellyservices | FAILED: 429 Client Error: Too Many Requests for url: https://kellyservices.wd503.myworkdayjobs.com/wday/cxs/
-workday | livenation | FAILED: 429 Client Error: Too Many Requests for url: https://livenation.wd503.myworkdayjobs.com/wday/cxs/liv
 workday | mckesson | FAILED: 429 Client Error: Too Many Requests for url: https://mckesson.wd3.myworkdayjobs.com/wday/cxs/mckesso
 workday | newday | FAILED: 429 Client Error: Too Many Requests for url: https://newday.wd3.myworkdayjobs.com/wday/cxs/newday/Ne
 workday | ntrs | FAILED: 429 Client Error: Too Many Requests for url: https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northe
+workday | pax8inc | FAILED: 429 Client Error: Too Many Requests for url: https://pax8inc.wd12.myworkdayjobs.com/wday/cxs/pax8inc
+workday | promedica | FAILED: 429 Client Error: Too Many Requests for url: https://promedica.wd12.myworkdayjobs.com/wday/cxs/prome
 workday | rakuten | FAILED: 429 Client Error: Too Many Requests for url: https://rakuten.wd1.myworkdayjobs.com/wday/cxs/rakuten/
 workday | roberthalf | FAILED: 429 Client Error: Too Many Requests for url: https://roberthalf.wd1.myworkdayjobs.com/wday/cxs/rober
 workday | servicetitan | FAILED: 429 Client Error: Too Many Requests for url: https://servicetitan.wd1.myworkdayjobs.com/wday/cxs/ser
@@ -797,35 +812,32 @@ workday | sluhn | FAILED: 429 Client Error: Too Many Requests for url: https://s
 workday | stark | FAILED: 429 Client Error: Too Many Requests for url: https://stark.wd3.myworkdayjobs.com/wday/cxs/stark/Star
 workday | sunrun | FAILED: 429 Client Error: Too Many Requests for url: https://sunrun.wd5.myworkdayjobs.com/wday/cxs/sunrun/Su
 workday | tcsedsystem | FAILED: 429 Client Error: Too Many Requests for url: https://tcsedsystem.wd1.myworkdayjobs.com/wday/cxs/tcse
-workday | tomtailorgroup | FAILED: 429 Client Error: Too Many Requests for url: https://tomtailorgroup.wd502.myworkdayjobs.com/wday/cxs
-workday | ufpi | FAILED: 429 Client Error: Too Many Requests for url: https://ufpi.wd503.myworkdayjobs.com/wday/cxs/ufpi/ufpi
-workday | visa | FAILED: 429 Client Error: Too Many Requests for url: https://visa.wd5.myworkdayjobs.com/wday/cxs/visa/Visa_E
 workday | wk | FAILED: 429 Client Error: Too Many Requests for url: https://wk.wd3.myworkdayjobs.com/wday/cxs/wk/External/j
-ashby | 121 employers | 4252
+ashby | 121 employers | 4257
 bamboohr | 7 employers | 114
 breezy | 3 employers | 44
-greenhouse | 145 employers | 8558
-icims | 16 employers | 2178
-lever | 7 employers | 651
-oracle | 40 employers | 10343
-personio | 87 employers | 1026
+greenhouse | 145 employers | 8561
+icims | 16 employers | 2179
+lever | 7 employers | 653
+oracle | 40 employers | 10316
+personio | 87 employers | 1024
 pinpoint | 5 employers | 56
-recruitee | 32 employers | 814
-smartrecruiters | 38 employers | 7215
-successfactors | 21 employers | 25137
-taleo | 6 employers | 737
-teamtailor | 19 employers | 390
-workable | 94 employers | 5352
-workday | 42 employers | 224
-university | FAST-NUCES | new links 1 | relevant 1
-university | LUMS | new links 0 | relevant 0
+recruitee | 32 employers | 815
+smartrecruiters | 38 employers | 7224
+successfactors | 21 employers | 25071
+taleo | 6 employers | 739
+teamtailor | 19 employers | 393
+workable | 94 employers | 5392
+workday | 42 employers | 310
+university | FAST-NUCES | new links 0 | relevant 0
+university | LUMS | new links 1 | relevant 0
 university | NUST | new links 0 | relevant 0
 university | COMSATS University | new links 0 | relevant 0
 university | IBA Karachi | new links 0 | relevant 0
 university | Information Technology University | new links 0 | relevant 0
 university | University of Central Punjab | new links 0 | relevant 0
 university | University of Management and Technology | careers page not found (also tried the home page)
-university | University of the Punjab | new links 1 | relevant 0
+university | University of the Punjab | new links 0 | relevant 0
 university | Lahore School of Economics | careers page not found (also tried the home page)
 university | Forman Christian College | new links 0 | relevant 0
 university | Beaconhouse National University | new links 0 | relevant 0
@@ -835,8 +847,8 @@ university | Air University | FAILED: HTTP Error 403:
 university | Bahria University | new links 0 | relevant 0
 university | Quaid-i-Azam University | new links 0 | relevant 0
 university | PIEAS | new links 0 | relevant 0
-university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 42885 milliseconds. See
-university | UET Lahore | new links 0 | relevant 0
+university | GIKI | FAILED: Failed to perform, curl: (28) Connection timed out after 42484 milliseconds. See
+university | UET Lahore | careers page not found (also tried the home page)
 university | University of Wollongong in Dubai | new links 0 | relevant 0
 university | Middlesex University Dubai | new links 0 | relevant 0
 university | Heriot-Watt University Dubai | new links 0 | relevant 0
@@ -847,24 +859,24 @@ university | American University of Sharjah | new links 0 | relevant 0
 university | Prince Sultan University | new links 0 | relevant 0
 university | Alfaisal University | new links 0 | relevant 0
 university | Effat University | new links 0 | relevant 0
-university | Qatar University | FAILED: Failed to perform, curl: (56) Connection closed abruptly. See https://curl.se/li
+university | Qatar University | new links 0 | relevant 0
 university | University of Doha for Science and Technology | new links 0 | relevant 0
-locations | missing 8 | looked up 8 | found 2
-checks | descriptions opened 90 | {"nationals only": 1, "dropped earlier": 6, "visa ruled out": 1, "visa unclear (no mention)": 76, "visa unclear (ad unreadable)": 5}
---- search runner 8/10 (17.1 min)
+locations | missing 9 | looked up 9 | found 2
+checks | descriptions opened 90 | {"dropped earlier": 6, "visa unclear (no mention)": 74, "visa ruled out": 1, "visa unclear (ad unreadable)": 1}
+--- search runner 8/10 (12.2 min)
 indeed | Islamabad | pricing analyst | 0
-indeed | United Arab Emirates | business intelligence | 42
-indeed | United Arab Emirates | pricing analyst | 2
-indeed | Saudi Arabia | revenue operations | 15
+indeed | United Arab Emirates | business intelligence | 40
+indeed | United Arab Emirates | pricing analyst | 3
+indeed | Saudi Arabia | revenue operations | 16
 indeed | Qatar | data scientist | 1
 indeed | Bahrain | data analyst | 0
 indeed | Bahrain | AI product | 0
-indeed | Oman | strategy | 2
+indeed | Oman | strategy | 0
 indeed | Kuwait | business intelligence | 0
-indeed | Kuwait | pricing analyst | 1
-indeed | Egypt | revenue operations | 19
+indeed | Kuwait | pricing analyst | 0
+indeed | Egypt | revenue operations | 16
 indeed | Turkey | revenue operations visa sponsorship | 0
-indeed | Malaysia | AI product | 67
+indeed | Malaysia | AI product | 56
 indeed | Japan | data analyst visa sponsorship | 0
 indeed | UK | business intelligence visa sponsorship | 80
 indeed | Ireland | revenue operations visa sponsorship | 1
@@ -873,51 +885,51 @@ indeed | Poland | data analyst visa sponsorship | 0
 indeed | Hungary | business intelligence visa sponsorship | 0
 indeed | Czech Republic | revenue operations visa sponsorship | 0
 indeed | Portugal | data analyst relocation | 0
-indeed | Australia | data analyst visa sponsorship | 4
+indeed | Australia | data analyst visa sponsorship | 3
 indeed | New Zealand | business intelligence visa sponsorship | 0
-linkedin | Lahore, Pakistan | lecturer | 3
-linkedin | Lahore, Pakistan | corporate planning | 32
-linkedin | Karachi, Pakistan | business intelligence | 13
-linkedin | Karachi, Pakistan | business analyst | 42
-linkedin | Karachi, Pakistan | pricing analyst | 14
-linkedin | Islamabad, Pakistan | strategy and planning | 27
+linkedin | Lahore, Pakistan | lecturer | 4
+linkedin | Lahore, Pakistan | corporate planning | 20
+linkedin | Karachi, Pakistan | business intelligence | 10
+linkedin | Karachi, Pakistan | business analyst | 0
+linkedin | Karachi, Pakistan | pricing analyst | 0
+linkedin | Islamabad, Pakistan | strategy and planning | 28
 linkedin | Islamabad, Pakistan | BI developer | 7
-linkedin | Islamabad, Pakistan | operations analyst | 17
-linkedin | Dubai, United Arab Emirates | analytics manager | 10
-linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 25
-linkedin | United Arab Emirates | lecturer | 100
+linkedin | Islamabad, Pakistan | operations analyst | 19
+linkedin | Dubai, United Arab Emirates | analytics manager | 70
+linkedin | Abu Dhabi, United Arab Emirates | assistant professor | 29
+linkedin | United Arab Emirates | lecturer | 20
 linkedin | Riyadh, Saudi Arabia | data scientist | 13
-linkedin | Jeddah, Saudi Arabia | strategy and planning | 60
-linkedin | Saudi Arabia | AI product | 33
-linkedin | Qatar | sales operations | 36
-linkedin | Bahrain | revenue operations | 15
-linkedin | Oman | business intelligence | 4
-linkedin | Kuwait | data analyst | 10
-linkedin | Kuwait | power bi | 50
-linkedin | Jordan | analytics manager | 6
+linkedin | Jeddah, Saudi Arabia | strategy and planning | 52
+linkedin | Saudi Arabia | AI product | 29
+linkedin | Qatar | sales operations | 10
+linkedin | Bahrain | revenue operations | 10
+linkedin | Oman | business intelligence | 0
+linkedin | Kuwait | data analyst | 5
+linkedin | Kuwait | power bi | 41
+linkedin | Jordan | analytics manager | 5
 linkedin | Egypt | assistant professor | 12
-linkedin | Kuala Lumpur, Malaysia | business intelligence | 30
-linkedin | Singapore | data scientist | 50
-linkedin | London, England, United Kingdom | revenue operations visa sponsorship | 50
-linkedin | Ireland | business intelligence visa sponsorship | 50
-linkedin | Germany | strategy visa sponsorship | 50
-linkedin | Poland | revenue operations visa sponsorship | 48
-linkedin | Prague, Czechia | business intelligence visa sponsorship | 30
-linkedin | Lisbon, Portugal | strategy visa sponsorship | 14
-linkedin | Australia | revenue operations visa sponsorship | 50
-indeed | Pakistan | machine learning | 7
-indeed | Pakistan | salesforce | 11
-indeed | Lahore | data analyst | 4
-indeed | Lahore | strategy | 58
-indeed | Lahore | operations analyst | 4
-indeed | Karachi | data analytics | 9
-indeed | Karachi | revenue operations | 12
+linkedin | Kuala Lumpur, Malaysia | business intelligence | 10
+linkedin | Singapore | data scientist | 0
+linkedin | London, England, United Kingdom | revenue operations visa sponsorship | 0
+linkedin | Ireland | business intelligence visa sponsorship | 0
+linkedin | Germany | strategy visa sponsorship | 40
+linkedin | Poland | revenue operations visa sponsorship | 0
+linkedin | Prague, Czechia | business intelligence visa sponsorship | 27
+linkedin | Lisbon, Portugal | strategy visa sponsorship | 10
+linkedin | Australia | revenue operations visa sponsorship | 0
+indeed | Pakistan | machine learning | 6
+indeed | Pakistan | salesforce | 10
+indeed | Lahore | data analyst | 3
+indeed | Lahore | strategy | 56
+indeed | Lahore | operations analyst | 3
+indeed | Karachi | data analytics | 7
+indeed | Karachi | revenue operations | 10
 indeed | Karachi | assistant professor | 0
 indeed | Islamabad | product analyst | 3
 discovered employers | added | 6795
 workday | Adobe | FAILED: 429 Client Error: Too Many Requests for url: https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/exte
 workday | allegion | FAILED: 429 Client Error: Too Many Requests for url: https://allegion.wd5.myworkdayjobs.com/wday/cxs/allegio
-workday | bb | FAILED: 429 Client Error: Too Many Requests for url: https://bb.wd3.myworkdayjobs.com/wday/cxs/bb/QNX/jobs
+workday | aptos | FAILED: 429 Client Error: Too Many Requests for url: https://aptos.wd108.myworkdayjobs.com/wday/cxs/aptos/Ap
 workday | bpinternational | FAILED: 429 Client Error: Too Many Requests for url: https://bpinternational.wd3.myworkdayjobs.com/wday/cxs/
 workday | ceh | FAILED: 429 Client Error: Too Many Requests for url: https://ceh.wd3.myworkdayjobs.com/wday/cxs/ceh/CEH_Care
 workday | cir | FAILED: 429 Client Error: Too Many Requests for url: https://cir.wd108.myworkdayjobs.com/wday/cxs/cir/CIR_Ex
@@ -947,39 +959,39 @@ workday | toryburch | FAILED: 429 Client Error: Too Many Requests for url: https
 workday | ultra | FAILED: 429 Client Error: Too Many Requests for url: https://ultra.wd3.myworkdayjobs.com/wday/cxs/ultra/um-c
 workday | vrtx | FAILED: 429 Client Error: Too Many Requests for url: https://vrtx.wd501.myworkdayjobs.com/wday/cxs/vrtx/vert
 workday | wmeimg | FAILED: 429 Client Error: Too Many Requests for url: https://wmeimg.wd1.myworkdayjobs.com/wday/cxs/wmeimg/WM
-ashby | 121 employers | 3610
-bamboohr | 7 employers | 139
-breezy | 3 employers | 12
-greenhouse | 145 employers | 11569
-icims | 16 employers | 1309
+ashby | 121 employers | 3596
+bamboohr | 7 employers | 141
+breezy | 3 employers | 11
+greenhouse | 145 employers | 11562
+icims | 16 employers | 1307
 lever | 7 employers | 174
-oracle | 40 employers | 12410
-personio | 87 employers | 1047
+oracle | 40 employers | 12386
+personio | 87 employers | 1041
 pinpoint | 5 employers | 375
-recruitee | 32 employers | 1790
-smartrecruiters | 38 employers | 9005
-successfactors | 21 employers | 4691
-taleo | 6 employers | 494
-teamtailor | 19 employers | 440
-workable | 94 employers | 9323
-workday | 42 employers | 98
-workable search | 459 searches | 3272
+recruitee | 32 employers | 1788
+smartrecruiters | 38 employers | 8993
+successfactors | 21 employers | 4674
+taleo | 6 employers | 349
+teamtailor | 19 employers | 439
+workable | 94 employers | 9308
+workday | 42 employers | 109
+workable search | 459 searches | 3274
 locations | missing 8 | looked up 8 | found 3
-checks | descriptions opened 90 | {"dropped earlier": 14, "visa unclear (no mention)": 71, "visa unclear (ad unreadable)": 16}
---- search runner 9/10 (15.1 min)
+checks | descriptions opened 90 | {"dropped earlier": 13, "visa unclear (no mention)": 64}
+--- search runner 9/10 (11.4 min)
 indeed | Islamabad | growth | 53
-indeed | United Arab Emirates | power bi | 23
-indeed | United Arab Emirates | lecturer | 3
+indeed | United Arab Emirates | power bi | 25
+indeed | United Arab Emirates | lecturer | 4
 indeed | Saudi Arabia | sales operations | 19
 indeed | Qatar | analytics manager | 4
 indeed | Bahrain | business analyst | 0
 indeed | Bahrain | AI specialist | 0
-indeed | Oman | business planning | 3
+indeed | Oman | business planning | 5
 indeed | Kuwait | power bi | 0
 indeed | Kuwait | lecturer | 0
-indeed | Egypt | sales operations | 21
+indeed | Egypt | sales operations | 19
 indeed | Turkey | strategy visa sponsorship | 0
-indeed | Malaysia | pricing analyst | 2
+indeed | Malaysia | pricing analyst | 1
 indeed | Japan | business analyst visa sponsorship | 0
 indeed | UK | data scientist visa sponsorship | 0
 indeed | Ireland | strategy visa sponsorship | 3
@@ -990,43 +1002,43 @@ indeed | Czech Republic | strategy visa sponsorship | 0
 indeed | Portugal | AI product visa sponsorship | 0
 indeed | Australia | business analyst visa sponsorship | 5
 indeed | New Zealand | data scientist visa sponsorship | 0
-linkedin | Lahore, Pakistan | assistant professor | 1
-linkedin | Lahore, Pakistan | salesforce | 0
-linkedin | Karachi, Pakistan | revenue operations | 12
-linkedin | Karachi, Pakistan | data analytics | 34
-linkedin | Karachi, Pakistan | growth analyst | 23
-linkedin | Islamabad, Pakistan | data scientist | 8
+linkedin | Lahore, Pakistan | assistant professor | 3
+linkedin | Lahore, Pakistan | salesforce | 33
+linkedin | Karachi, Pakistan | revenue operations | 10
+linkedin | Karachi, Pakistan | data analytics | 0
+linkedin | Karachi, Pakistan | growth analyst | 0
+linkedin | Islamabad, Pakistan | data scientist | 0
 linkedin | Islamabad, Pakistan | strategy manager | 15
 linkedin | Dubai, United Arab Emirates | data analyst | 100
-linkedin | Dubai, United Arab Emirates | power bi | 90
-linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 44
-linkedin | United Arab Emirates | assistant professor | 47
+linkedin | Dubai, United Arab Emirates | power bi | 80
+linkedin | Abu Dhabi, United Arab Emirates | analytics manager | 0
+linkedin | United Arab Emirates | assistant professor | 49
 linkedin | Riyadh, Saudi Arabia | lecturer | 8
-linkedin | Jeddah, Saudi Arabia | data scientist | 9
-linkedin | Saudi Arabia | strategy and planning | 100
-linkedin | Qatar | AI product | 14
-linkedin | Bahrain | sales operations | 20
-linkedin | Oman | revenue operations | 5
-linkedin | Kuwait | business intelligence | 7
-linkedin | Jordan | data analyst | 23
-linkedin | Jordan | power bi | 0
+linkedin | Jeddah, Saudi Arabia | data scientist | 8
+linkedin | Saudi Arabia | strategy and planning | 20
+linkedin | Qatar | AI product | 0
+linkedin | Bahrain | sales operations | 10
+linkedin | Oman | revenue operations | 0
+linkedin | Kuwait | business intelligence | 0
+linkedin | Jordan | data analyst | 18
+linkedin | Jordan | power bi | 50
 linkedin | Egypt | analytics manager | 0
-linkedin | Kuala Lumpur, Malaysia | revenue operations | 50
+linkedin | Kuala Lumpur, Malaysia | revenue operations | 0
 linkedin | Tokyo, Japan | data analyst visa sponsorship | 50
-linkedin | London, England, United Kingdom | AI product manager visa sponsorship | 50
-linkedin | Ireland | data scientist visa sponsorship | 36
-linkedin | Netherlands | data analyst visa sponsorship | 30
-linkedin | Poland | AI product manager visa sponsorship | 40
-linkedin | Prague, Czechia | data scientist visa sponsorship | 22
-linkedin | Canada | data analyst visa sponsorship | 50
-linkedin | Australia | AI product manager visa sponsorship | 43
-indeed | Pakistan | analytics manager | 29
+linkedin | London, England, United Kingdom | AI product manager visa sponsorship | 20
+linkedin | Ireland | data scientist visa sponsorship | 0
+linkedin | Netherlands | data analyst visa sponsorship | 50
+linkedin | Poland | AI product manager visa sponsorship | 34
+linkedin | Prague, Czechia | data scientist visa sponsorship | 18
+linkedin | Canada | data analyst visa sponsorship | 10
+linkedin | Australia | AI product manager visa sponsorship | 0
+indeed | Pakistan | analytics manager | 28
 indeed | Pakistan | CRM | 100
-indeed | Lahore | business analyst | 5
-indeed | Lahore | business planning | 25
-indeed | Lahore | AI | 45
+indeed | Lahore | business analyst | 3
+indeed | Lahore | business planning | 21
+indeed | Lahore | AI | 42
 indeed | Karachi | data scientist | 1
-indeed | Karachi | sales operations | 25
+indeed | Karachi | sales operations | 24
 indeed | Karachi | trainer | 2
 indeed | Islamabad | MIS | 0
 discovered employers | added | 6795
@@ -1044,13 +1056,17 @@ workday | demegroup | FAILED: 429 Client Error: Too Many Requests for url: https
 workday | eosgroup | FAILED: 429 Client Error: Too Many Requests for url: https://eosgroup.wd3.myworkdayjobs.com/wday/cxs/eosgrou
 workday | euroapi | FAILED: 429 Client Error: Too Many Requests for url: https://euroapi.wd502.myworkdayjobs.com/wday/cxs/euroap
 workday | ffive | FAILED: 429 Client Error: Too Many Requests for url: https://ffive.wd5.myworkdayjobs.com/wday/cxs/ffive/f5jo
+workday | fnbcorp | FAILED: 429 Client Error: Too Many Requests for url: https://fnbcorp.wd501.myworkdayjobs.com/wday/cxs/fnbcor
 workday | gehc | FAILED: 429 Client Error: Too Many Requests for url: https://gehc.wd5.myworkdayjobs.com/wday/cxs/gehc/gehc_e
 workday | heidelberg | FAILED: 429 Client Error: Too Many Requests for url: https://heidelberg.wd502.myworkdayjobs.com/wday/cxs/hei
+workday | honesthealth | FAILED: 429 Client Error: Too Many Requests for url: https://honesthealth.wd503.myworkdayjobs.com/wday/cxs/h
 workday | independencepetgroup | FAILED: 429 Client Error: Too Many Requests for url: https://independencepetgroup.wd12.myworkdayjobs.com/wda
 workday | kiongroup | FAILED: 429 Client Error: Too Many Requests for url: https://kiongroup.wd3.myworkdayjobs.com/wday/cxs/kiongr
 workday | livenation | FAILED: 429 Client Error: Too Many Requests for url: https://livenation.wd503.myworkdayjobs.com/wday/cxs/liv
 workday | medable | FAILED: 429 Client Error: Too Many Requests for url: https://medable.wd503.myworkdayjobs.com/wday/cxs/medabl
 workday | mhctn | FAILED: 429 Client Error: Too Many Requests for url: https://mhctn.wd12.myworkdayjobs.com/wday/cxs/mhctn/mhc
+workday | mvh | FAILED: 429 Client Error: Too Many Requests for url: https://mvh.wd115.myworkdayjobs.com/wday/cxs/mvh/bfcare
+workday | nextracker | FAILED: 429 Client Error: Too Many Requests for url: https://nextracker.wd5.myworkdayjobs.com/wday/cxs/nextr
 workday | nttlimited | FAILED: 429 Client Error: Too Many Requests for url: https://nttlimited.wd3.myworkdayjobs.com/wday/cxs/nttli
 workday | orthoclinical | FAILED: 429 Client Error: Too Many Requests for url: https://orthoclinical.wd1.myworkdayjobs.com/wday/cxs/or
 workday | pbjcal | FAILED: 429 Client Error: Too Many Requests for url: https://pbjcal.wd503.myworkdayjobs.com/wday/cxs/pbjcal/
@@ -1059,92 +1075,91 @@ workday | rakuten | FAILED: 429 Client Error: Too Many Requests for url: https:/
 workday | solenis | FAILED: 429 Client Error: Too Many Requests for url: https://solenis.wd1.myworkdayjobs.com/wday/cxs/solenis/
 workday | storaenso | FAILED: 429 Client Error: Too Many Requests for url: https://storaenso.wd502.myworkdayjobs.com/wday/cxs/stor
 workday | syneoshealth | FAILED: 429 Client Error: Too Many Requests for url: https://syneoshealth.wd12.myworkdayjobs.com/wday/cxs/sy
-workday | teladoc | FAILED: 429 Client Error: Too Many Requests for url: https://teladoc.wd503.myworkdayjobs.com/wday/cxs/telado
 workday | trekbikes | FAILED: 429 Client Error: Too Many Requests for url: https://trekbikes.wd1.myworkdayjobs.com/wday/cxs/trekbi
 workday | uniphore | FAILED: 429 Client Error: Too Many Requests for url: https://uniphore.wd503.myworkdayjobs.com/wday/cxs/uniph
 workday | vumc | FAILED: 429 Client Error: Too Many Requests for url: https://vumc.wd1.myworkdayjobs.com/wday/cxs/vumc/vumcca
 workday | xboxgaming | FAILED: 429 Client Error: Too Many Requests for url: https://xboxgaming.wd1.myworkdayjobs.com/wday/cxs/xboxg
-ashby | 121 employers | 3275
+ashby | 121 employers | 3280
 bamboohr | 7 employers | 75
 breezy | 3 employers | 11
-greenhouse | 145 employers | 8448
-icims | 15 employers | 1618
+greenhouse | 145 employers | 8446
+icims | 15 employers | 1617
 lever | 8 employers | 211
-oracle | 40 employers | 13405
-personio | 87 employers | 1052
+oracle | 40 employers | 13404
+personio | 87 employers | 1050
 pinpoint | 5 employers | 196
-recruitee | 31 employers | 798
-smartrecruiters | 39 employers | 9464
-successfactors | 21 employers | 8117
-taleo | 6 employers | 612
-teamtailor | 19 employers | 326
-workable | 94 employers | 4229
-workday | 42 employers | 361
+recruitee | 31 employers | 811
+smartrecruiters | 39 employers | 9436
+successfactors | 21 employers | 8091
+taleo | 6 employers | 400
+teamtailor | 19 employers | 325
+workable | 94 employers | 4225
+workday | 42 employers | 330
 locations | missing 10 | looked up 10 | found 3
-checks | descriptions opened 90 | {"dropped earlier": 50, "visa unclear (no mention)": 52, "visa ruled out": 5}
---- search runner 10/10 (16.6 min)
+checks | descriptions opened 77 | {"dropped earlier": 53, "visa unclear (no mention)": 39}
+--- search runner 10/10 (12.0 min)
 indeed | Islamabad | operations analyst | 1
 indeed | United Arab Emirates | data scientist | 8
 indeed | Saudi Arabia | data analyst | 7
-indeed | Saudi Arabia | AI product | 17
-indeed | Qatar | strategy | 30
+indeed | Saudi Arabia | AI product | 16
+indeed | Qatar | strategy | 25
 indeed | Bahrain | business intelligence | 1
 indeed | Bahrain | pricing analyst | 0
 indeed | Oman | revenue operations | 0
 indeed | Kuwait | data scientist | 1
-indeed | Egypt | data analyst | 22
-indeed | Egypt | AI product | 18
+indeed | Egypt | data analyst | 21
+indeed | Egypt | AI product | 15
 indeed | Turkey | data analyst relocation | 0
-indeed | Singapore | data analyst | 39
+indeed | Singapore | data analyst | 41
 indeed | Japan | business intelligence visa sponsorship | 0
-indeed | UK | revenue operations visa sponsorship | 14
+indeed | UK | revenue operations visa sponsorship | 12
 indeed | Ireland | data analyst relocation | 1
-indeed | Netherlands | data analyst visa sponsorship | 1
+indeed | Netherlands | data analyst visa sponsorship | 0
 indeed | Poland | business intelligence visa sponsorship | 0
 indeed | Hungary | revenue operations visa sponsorship | 0
 indeed | Czech Republic | data analyst relocation | 0
 indeed | Canada | data analyst visa sponsorship | 0
-indeed | Australia | business intelligence visa sponsorship | 5
-indeed | New Zealand | revenue operations visa sponsorship | 1
-linkedin | Lahore, Pakistan | analytics manager | 8
-linkedin | Lahore, Pakistan | AI specialist | 16
-linkedin | Karachi, Pakistan | sales operations | 44
-linkedin | Karachi, Pakistan | product analyst | 13
-linkedin | Karachi, Pakistan | MIS | 10
-linkedin | Islamabad, Pakistan | lecturer | 2
-linkedin | Islamabad, Pakistan | corporate planning | 16
-linkedin | Dubai, United Arab Emirates | business intelligence | 60
-linkedin | Abu Dhabi, United Arab Emirates | data analyst | 100
-linkedin | Abu Dhabi, United Arab Emirates | power bi | 100
-linkedin | United Arab Emirates | analytics manager | 100
+indeed | Australia | business intelligence visa sponsorship | 4
+indeed | New Zealand | revenue operations visa sponsorship | 0
+linkedin | Lahore, Pakistan | analytics manager | 9
+linkedin | Lahore, Pakistan | AI specialist | 10
+linkedin | Karachi, Pakistan | sales operations | 0
+linkedin | Karachi, Pakistan | product analyst | 9
+linkedin | Karachi, Pakistan | MIS | 20
+linkedin | Islamabad, Pakistan | lecturer | 4
+linkedin | Islamabad, Pakistan | corporate planning | 15
+linkedin | Dubai, United Arab Emirates | business intelligence | 40
+linkedin | Abu Dhabi, United Arab Emirates | data analyst | 50
+linkedin | Abu Dhabi, United Arab Emirates | power bi | 0
+linkedin | United Arab Emirates | analytics manager | 10
 linkedin | Riyadh, Saudi Arabia | assistant professor | 4
 linkedin | Jeddah, Saudi Arabia | lecturer | 2
-linkedin | Saudi Arabia | data scientist | 45
+linkedin | Saudi Arabia | data scientist | 43
 linkedin | Qatar | strategy and planning | 50
-linkedin | Bahrain | AI product | 0
-linkedin | Oman | sales operations | 14
-linkedin | Kuwait | revenue operations | 6
-linkedin | Jordan | business intelligence | 12
+linkedin | Bahrain | AI product | 1
+linkedin | Oman | sales operations | 13
+linkedin | Kuwait | revenue operations | 2
+linkedin | Jordan | business intelligence | 10
 linkedin | Egypt | data analyst | 100
-linkedin | Egypt | power bi | 90
-linkedin | Kuala Lumpur, Malaysia | AI product | 50
-linkedin | Tokyo, Japan | business intelligence visa sponsorship | 50
-linkedin | London, England, United Kingdom | strategy visa sponsorship | 50
-linkedin | Ireland | revenue operations visa sponsorship | 37
-linkedin | Netherlands | business intelligence visa sponsorship | 40
-linkedin | Poland | strategy visa sponsorship | 50
-linkedin | Prague, Czechia | revenue operations visa sponsorship | 11
+linkedin | Egypt | power bi | 10
+linkedin | Kuala Lumpur, Malaysia | AI product | 10
+linkedin | Tokyo, Japan | business intelligence visa sponsorship | 30
+linkedin | London, England, United Kingdom | strategy visa sponsorship | 20
+linkedin | Ireland | revenue operations visa sponsorship | 0
+linkedin | Netherlands | business intelligence visa sponsorship | 20
+linkedin | Poland | strategy visa sponsorship | 0
+linkedin | Prague, Czechia | revenue operations visa sponsorship | 10
 linkedin | Canada | business intelligence visa sponsorship | 50
-linkedin | Australia | strategy visa sponsorship | 50
-indeed | Pakistan | product analyst | 8
-indeed | Pakistan | pricing analyst | 1
-indeed | Lahore | business intelligence | 7
-indeed | Lahore | strategy and operations | 15
-indeed | Lahore | AI product | 20
+linkedin | Australia | strategy visa sponsorship | 0
+indeed | Pakistan | product analyst | 6
+indeed | Pakistan | pricing analyst | 0
+indeed | Lahore | business intelligence | 5
+indeed | Lahore | strategy and operations | 16
+indeed | Lahore | AI product | 17
 indeed | Karachi | machine learning | 0
 indeed | Karachi | salesforce | 1
 indeed | Islamabad | data analyst | 5
-indeed | Islamabad | strategy | 31
+indeed | Islamabad | strategy | 25
 discovered employers | added | 6795
 workday | altusgroup | FAILED: 429 Client Error: Too Many Requests for url: https://altusgroup.wd3.myworkdayjobs.com/wday/cxs/altus
 workday | atriumhospitality | FAILED: 429 Client Error: Too Many Requests for url: https://atriumhospitality.wd5.myworkdayjobs.com/wday/cx
@@ -1162,7 +1177,7 @@ workday | ing | FAILED: 429 Client Error: Too Many Requests for url: https://ing
 workday | ivyrehab | FAILED: 429 Client Error: Too Many Requests for url: https://ivyrehab.wd5.myworkdayjobs.com/wday/cxs/ivyreha
 workday | kith | FAILED: 429 Client Error: Too Many Requests for url: https://kith.wd1.myworkdayjobs.com/wday/cxs/kith/Kith_E
 workday | lplfinancial | FAILED: 429 Client Error: Too Many Requests for url: https://lplfinancial.wd1.myworkdayjobs.com/wday/cxs/lpl
-workday | minnstate | FAILED: 429 Client Error: Too Many Requests for url: https://minnstate.wd115.myworkdayjobs.com/wday/cxs/minn
+workday | mvh | FAILED: 429 Client Error: Too Many Requests for url: https://mvh.wd115.myworkdayjobs.com/wday/cxs/mvh/VeNCar
 workday | norconsult | FAILED: 429 Client Error: Too Many Requests for url: https://norconsult.wd3.myworkdayjobs.com/wday/cxs/norco
 workday | nwis | FAILED: 429 Client Error: Too Many Requests for url: https://nwis.wd12.myworkdayjobs.com/wday/cxs/nwis/NW/jo
 workday | osu | FAILED: 429 Client Error: Too Many Requests for url: https://osu.wd1.myworkdayjobs.com/wday/cxs/osu/osucaree
@@ -1170,38 +1185,37 @@ workday | ptc | FAILED: 429 Client Error: Too Many Requests for url: https://ptc
 workday | ramsayhealthcare | FAILED: 429 Client Error: Too Many Requests for url: https://ramsayhealthcare.wd3.myworkdayjobs.com/wday/cxs
 workday | sharecare | FAILED: 429 Client Error: Too Many Requests for url: https://sharecare.wd1.myworkdayjobs.com/wday/cxs/sharec
 workday | solera | FAILED: 429 Client Error: Too Many Requests for url: https://solera.wd5.myworkdayjobs.com/wday/cxs/solera/Gl
-workday | stord | FAILED: 429 Client Error: Too Many Requests for url: https://stord.wd503.myworkdayjobs.com/wday/cxs/stord/St
 workday | tempus | FAILED: 429 Client Error: Too Many Requests for url: https://tempus.wd5.myworkdayjobs.com/wday/cxs/tempus/Am
 workday | trumpf | FAILED: 429 Client Error: Too Many Requests for url: https://trumpf.wd3.myworkdayjobs.com/wday/cxs/trumpf/TR
 workday | unum | FAILED: 429 Client Error: Too Many Requests for url: https://unum.wd1.myworkdayjobs.com/wday/cxs/unum/Extern
 workday | xboxgaming | FAILED: 429 Client Error: Too Many Requests for url: https://xboxgaming.wd1.myworkdayjobs.com/wday/cxs/xboxg
-ashby | 121 employers | 2677
+ashby | 121 employers | 2674
 bamboohr | 7 employers | 67
 breezy | 3 employers | 29
 greenhouse | 145 employers | 11793
-icims | 15 employers | 1236
-lever | 8 employers | 150
-oracle | 40 employers | 11823
+icims | 15 employers | 1237
+lever | 8 employers | 149
+oracle | 40 employers | 11808
 personio | 87 employers | 830
 pinpoint | 5 employers | 129
-recruitee | 31 employers | 527
-smartrecruiters | 39 employers | 6570
-successfactors | 21 employers | 4902
-taleo | 5 employers | 231
-teamtailor | 20 employers | 354
-workable | 94 employers | 7179
-workday | 42 employers | 450
+recruitee | 31 employers | 518
+smartrecruiters | 39 employers | 6563
+successfactors | 21 employers | 4893
+taleo | 5 employers | 244
+teamtailor | 20 employers | 355
+workable | 94 employers | 7180
+workday | 42 employers | 431
 locations | missing 8 | looked up 8 | found 6
-checks | descriptions opened 90 | {"dropped earlier": 6, "visa unclear (no mention)": 65}
+checks | descriptions opened 76 | {"dropped earlier": 5, "visa unclear (no mention)": 48}
 --- sites runner 1/4 (2.5 min)
-company sites | {"read": 109, "unchanged": 611, "failed": 30, "jobs": 13}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 1}
---- sites runner 2/4 (1.0 min)
-company sites | {"read": 52, "unchanged": 693, "failed": 5, "jobs": 14}
-checks | descriptions opened 0 | {"nationals only": 1, "visa unclear (no mention)": 1}
---- sites runner 3/4 (2.6 min)
-company sites | {"read": 47, "unchanged": 695, "failed": 8, "jobs": 18}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 1}
---- sites runner 4/4 (1.2 min)
-company sites | {"read": 62, "unchanged": 682, "failed": 6, "jobs": 27}
-checks | descriptions opened 0 | {"visa unclear (no mention)": 1}
+company sites | {"read": 63, "unchanged": 681, "failed": 6, "jobs": 8}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 3}
+--- sites runner 2/4 (2.4 min)
+company sites | {"read": 96, "unchanged": 626, "failed": 28, "jobs": 10}
+checks | descriptions opened 0 | {"visa unclear (no mention)": 2}
+--- sites runner 3/4 (1.7 min)
+company sites | {"read": 114, "unchanged": 602, "failed": 34, "jobs": 20}
+checks | descriptions opened 0 | {}
+--- sites runner 4/4 (2.6 min)
+company sites | {"read": 69, "unchanged": 675, "failed": 6, "jobs": 10}
+checks | descriptions opened 0 | {}
